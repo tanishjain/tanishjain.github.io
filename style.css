@@ -95,7 +95,7 @@ html {
 }
   
 body {
-	background: "bg.png" repeat;
+	background: url("bg.png") repeat;
 	margin: 0;
 }
 
