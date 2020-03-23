@@ -14,7 +14,7 @@
 	clear: both;
 }
 .purple {
-	color: #837c9a;
+	color: #ffffff;
 }
 
 .block {
@@ -150,7 +150,7 @@ ul {
 	}
 	li:before {
 		content: "• ";
-		color: #837c9a;
+		color: #4b4545;
 		font-size: 20px;
 		padding-right: 8px;
 	}
@@ -163,12 +163,12 @@ ul {
 }
 	#header {
 		height: 130px;
-		border-bottom: 1px solid #403F44;
+		border-bottom: 1px solid #151025;
 	}
 		.header_logotype_container {
 			width: 260px;
 			height: 130px;
-			border-right: 1px solid #403F44;
+			border-right: 1px solid #151025;
 			float: left;
 		}
 		.header_menu_container {
@@ -258,7 +258,7 @@ ul {
 		border-left: none;
 	}
 		.header_menu a:hover {
-			color: #837c9a;
+			color: #151025;
 		}
 		
 /* LEFT NAV */
@@ -364,7 +364,7 @@ ul {
 	.social_icons a {
 		font-size: 35px;
 		text-decoration: none;
-		color: #000507;
+		color: #151025;
 		padding: 0;
 		padding: 0 5px;
 	}
