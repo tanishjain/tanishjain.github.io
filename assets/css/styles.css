@@ -30,7 +30,7 @@ a {
 }
 
 a:hover {
-  text-decoration: none;
+  text-decoration: bold;
   color: #5f6b77;
   color: rgb(133, 23, 41);
 }
