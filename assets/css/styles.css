@@ -92,7 +92,7 @@ a.btn-cta-secondary:hover, .btn-cta-secondary:hover {
 }
 
 .badge-theme {
-  background: #3AAA64;
+  background: #A31F34;/* #3AAA64;*/
   font-size: 12px;
   color: #fff;
   -webkit-border-radius: 2px;
@@ -265,7 +265,7 @@ a.dotted-link:hover {
 }
 
 .latest .has-ribbon .text {
-  background: #3AAA64;
+  background: #A31F34; /*#3AAA64;*/
   color: #fff;
 }
 
