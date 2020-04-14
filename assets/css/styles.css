@@ -261,7 +261,7 @@ a.dotted-link:hover {
 
 .latest .has-ribbon {
   position: relative;
-  display: inline-block;
+  display: inline-block;f
 }
 
 .latest .has-ribbon .text {
@@ -445,7 +445,7 @@ a.dotted-link:hover {
 
 .skills .skillset .level-bar-inner {
   height: 15px;
-  background: #66cb8c;
+  background: rgb(133, 23, 41);
 }
 
 .skills .svg-inline--fa {
