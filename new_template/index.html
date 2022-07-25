@@ -2,6 +2,16 @@
 <html class="no-js ss-preload" lang="en">
 <head>
 
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YE61GD4C0S"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-YE61GD4C0S');
+    </script>
+
     <!--- basic page needs
     ================================================== -->
     <meta charset="utf-8">
@@ -66,6 +76,7 @@
                         <li><a href="index.html" class="home-link">Tanish Jain</a></li>
                         <li class="current"><a href="#intro" class="smoothscroll">Intro</a></li>
                         <li><a href="#about" class="smoothscroll">About</a></li>
+                        <li><a href="#publications" class="smoothscroll">Publications</a></li>
                         <li><a href="#works" class="smoothscroll">Projects</a></li>
                         <li><a href="#contact" class="smoothscroll">Say Hello</a></li>
                     </ul>
@@ -155,17 +166,21 @@
                                 <div class="timeline__header">
                                     <h4 class="timeline__title">Stanford University</h3>
                                     <h5 class="timeline__meta">MS Computer Science</h5>
-                                    <p class="timeline__timeframe">September 2020 - Present</p>
+                                    <p class="timeline__timeframe">September 2020 - June 2022</p>
                                 </div>
                                 <div class="timeline__desc">
                                     <p><b>Specialization: </b>Artificial Intelligence<br>
-                                        <br>
+<!--                                         <br>
                                         <b>Coursework </b><br>
                                         CS 329T: Trustworthy Machine Learning<br>
                                         CS 230: Deep Learning<br>
+                                        CS 224: Graph Machine Learning <br>
+                                        CS 329P: Practical Machine Learning <br>
+                                        CS 236G: Generative Adversarial Networks (GANs) -->
                                         <br>
                                         <b>Teaching </b><br>
-                                        CS 103: LabVIEW Programming <br>
+                                        CS 103: Mathematical Foundations of Computing <br>
+                                        CS 107: Computer Organization & Systems <br>
                                         BIOE 301P: Research Data and Computation <br>
                                         STS 1: The Public Life of Science and Technology <br>
                                 </div>
@@ -209,10 +224,10 @@
                                 <div class="timeline__header">
                                     <h4 class="timeline__title">Research Assistant</h3> <br>
 
-                                    <h5 class="timeline__meta">Gurtner Lab / Stanford Medicine</h5>
+                                    <h5 class="timeline__meta">Gurtner Lab <br> <i> Stanford Medicine </i></h5>
                                     <p class="timeline__timeframe">June 2021 - Present</p>
 
-                                    <h5 class="timeline__meta">Changing Cities Research Lab / Department of Sociology @ Stanford</h5>
+                                    <h5 class="timeline__meta">Changing Cities Research Lab <br> <i>  Department of Sociology @ Stanford </i></h5>
                                     <p class="timeline__timeframe">March 2021 - Present</p>
 
                                     <h5 class="timeline__meta">Stanford Vision and Learning Lab</h5>
@@ -266,6 +281,40 @@
             </section> <!-- end s-about -->
 
 
+            <!-- ### publications
+            ================================================== -->
+            <section id="publications" class="s-about target-section">
+
+
+                <div class="row about-info wide" data-animate-block>
+
+                    <div class="column lg-2 md-12 about-info__pic-block">
+                        <img src="images/about-photo.jpg" 
+                             srcset="images/about-photo.jpg 1x, images/about-photo@2x.jpg 2x" alt="" class="about-info__pic" data-animate-el>
+                    </div>
+
+                    <div class="column lg-10 md-12">
+                        <div class="about-info__text" >
+
+                            <h2 class="text-pretitle with-line" data-animate-el>
+                                Publications
+                            </h2>
+                            <p class="attention-getter" data-animate-el>
+                                <ul>
+                                    <li> Online Link Prediction with Graph Neural Networks. (<a href=https://medium.com/stanford-cs224w/online-link-prediction-with-graph-neural-networks-46c1054f2aa4>Blog</a>)
+                                    <li> iGibson 2.0: Object-Centric Simulation for Robot Learning of Everyday Household Tasks. CoRL 2021. (<a href=https://openreview.net/forum?id=2uGN5jNJROR>Paper</a>)
+                                    <li> Creating a Competitive Environment for Defense Aerospace in a Protectionist Multipolar World. USAIRE. (<a href= https://usairestudentawards.org/index.php/2019/12/01/usaire-student-awards-2019/>Essay</a>) (<a href=https://commons.erau.edu/beyond/vol4/iss1/1/>Paper</a>)
+                                </ul>
+                            </p>
+                            <!-- <a href="#0" class="btn btn--medium u-fullwidth" data-animate-el>Download CV</a> -->
+
+                        </div>
+                    </div>
+                </div> <!-- about-info -->
+
+            </section> <!-- end publications -->
+
+
             <!-- ### works
             ================================================== -->
             <section id="works" class="s-works target-section">
@@ -293,6 +342,48 @@
                                     
                                     <div class="folio-list__item-text">
                                         <div class="folio-list__item-cat">
+                                            Graph Machine Learning
+                                        </div>
+                                        <div class="folio-list__item-title">
+                                            Online Link Prediction with Graph Neural Networks.
+                                        </div>
+                                    </div>
+                                </a>
+                                <a class="folio-list__proj-link" href="#" title="project link">
+                                    <svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M8.14645 3.14645C8.34171 2.95118 8.65829 2.95118 8.85355 3.14645L12.8536 7.14645C13.0488 7.34171 13.0488 7.65829 12.8536 7.85355L8.85355 11.8536C8.65829 12.0488 8.34171 12.0488 8.14645 11.8536C7.95118 11.6583 7.95118 11.3417 8.14645 11.1464L11.2929 8H2.5C2.22386 8 2 7.77614 2 7.5C2 7.22386 2.22386 7 2.5 7H11.2929L8.14645 3.85355C7.95118 3.65829 7.95118 3.34171 8.14645 3.14645Z" fill="currentColor" fill-rule="evenodd" clip-rule="evenodd"></path></svg>
+                                </a>
+                            </li> <!--end folio-list__item -->
+
+                            <li class="folio-list__item column" data-animate-el>
+                                <a class="folio-list__item-link" href="#modal-02">
+                                    <div class="folio-list__item-pic">
+                                        <img src="images/portfolio/skincancer.jpg" 
+                                             srcset="images/portfolio/skincancer.jpg 1x, images/portfolio/skincancer@2x.jpg 2x" alt="">
+                                    </div>
+                                    
+                                    <div class="folio-list__item-text">
+                                        <div class="folio-list__item-cat">
+                                            Computer Vision
+                                        </div>
+                                        <div class="folio-list__item-title">
+                                            Classification of cellular states for high-speed image-based microfluidic cell sorting.
+                                        </div>
+                                    </div>
+                                </a>
+                                <a class="folio-list__proj-link" href="#" title="project link">
+                                    <svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M8.14645 3.14645C8.34171 2.95118 8.65829 2.95118 8.85355 3.14645L12.8536 7.14645C13.0488 7.34171 13.0488 7.65829 12.8536 7.85355L8.85355 11.8536C8.65829 12.0488 8.34171 12.0488 8.14645 11.8536C7.95118 11.6583 7.95118 11.3417 8.14645 11.1464L11.2929 8H2.5C2.22386 8 2 7.77614 2 7.5C2 7.22386 2.22386 7 2.5 7H11.2929L8.14645 3.85355C7.95118 3.65829 7.95118 3.34171 8.14645 3.14645Z" fill="currentColor" fill-rule="evenodd" clip-rule="evenodd"></path></svg>
+                                </a>
+                            </li> <!--end folio-list__item -->
+
+                            <li class="folio-list__item column" data-animate-el>
+                                <a class="folio-list__item-link" href="#modal-03">
+                                    <div class="folio-list__item-pic">
+                                        <img src="images/portfolio/flight.jpg"
+                                             srcset="images/portfolio/flight.jpg 1x, images/portfolio/flight@2x.jpg 2x"  alt="">
+                                    </div>
+                                    
+                                    <div class="folio-list__item-text">
+                                        <div class="folio-list__item-cat">
                                             Deep Learning
                                         </div>
                                         <div class="folio-list__item-title">
@@ -306,7 +397,7 @@
                             </li> <!--end folio-list__item -->
 
                             <li class="folio-list__item column" data-animate-el>
-                                <a class="folio-list__item-link" href="#modal-02">
+                                <a class="folio-list__item-link" href="#modal-04">
                                     <div class="folio-list__item-pic">
                                         <img src="images/portfolio/skincancer.jpg" 
                                              srcset="images/portfolio/skincancer.jpg 1x, images/portfolio/skincancer@2x.jpg 2x" alt="">
@@ -327,7 +418,7 @@
                             </li> <!--end folio-list__item -->
 
                             <li class="folio-list__item column" data-animate-el>
-                                <a class="folio-list__item-link" href="#modal-03">
+                                <a class="folio-list__item-link" href="#modal-05">
                                     <div class="folio-list__item-pic">
                                         <img src="images/portfolio/mapping.jpg" 
                                              srcset="images/portfolio/mapping.jpg 1x, images/portfolio/mapping@2x.jpg 2x" alt="">
@@ -348,7 +439,7 @@
                             </li> <!--end folio-list__item -->
 
                             <li class="folio-list__item column" data-animate-el>
-                                <a class="folio-list__item-link" href="#modal-04">
+                                <a class="folio-list__item-link" href="#modal-06">
                                     <div class="folio-list__item-pic">
                                         <img src="images/portfolio/insole.png"
                                              srcset="images/portfolio/insole.png 1x, images/portfolio/insole@2x.png 2x" alt="">
@@ -369,7 +460,7 @@
                             </li> <!--end folio-list__item -->
 
                             <li class="folio-list__item column" data-animate-el>
-                                <a class="folio-list__item-link" href="#modal-05">
+                                <a class="folio-list__item-link" href="#modal-07">
                                     <div class="folio-list__item-pic">
                                         <img src="images/portfolio/car.jpg" 
                                              srcset="images/portfolio/car.jpg 1x, images/portfolio/car@2x.jpg 2x" alt="">
@@ -390,10 +481,10 @@
                             </li> <!--end folio-list__item -->
 
                             <li class="folio-list__item column" data-animate-el>
-                                <a class="folio-list__item-link" href="#modal-06">
+                                <a class="folio-list__item-link" href="#modal-08">
                                     <div class="folio-list__item-pic">
-                                        <img src="images/portfolio/micromouse.jpg" 
-                                             srcset="images/portfolio/micromouse.jpg 1x, images/portfolio/micromouse@2x.jpg 2x" alt="">
+                                        <img src="images/portfolio/micromouse.png" 
+                                             srcset="images/portfolio/micromouse.png 1x, images/portfolio/micromouse@2x.png 2x" alt="">
                                     </div>
                                     
                                     <div class="folio-list__item-text">
@@ -422,8 +513,43 @@
                             <img src="images/portfolio/gallery/g-flight.jpg" alt="">
                 
                             <div class="modal-popup__desc">
+                                <h5>Online Link Prediction with Graph Neural Networks</h5>
+                                <p>We explore the inductive power of GNNs on online link prediction by using the ogb-ddi (drug-drug interaction) dataset. Specifically, we demonstrate GraphSAGE’s ability to predict new links (drug interactions) as new nodes (drugs) are sequentially added to an initial subset of the graph.</p>
+                                <ul class="modal-popup__cat">
+                                    <li>Graph Machine Learning</li>
+                                </ul>
+                            </div>
+                
+                            <a href="https://medium.com/stanford-cs224w/online-link-prediction-with-graph-neural-networks-46c1054f2aa4" class="modal-popup__details">Read Blog</a>
+                        </div>
+                    </div> <!-- end modal -->
+
+                    <div id="modal-02" hidden>
+                        <div class="modal-popup">
+                            <img src="images/portfolio/gallery/g-skincancer.jpg" alt="">
+                
+                            <div class="modal-popup__desc">
+                                <h5>Classification of cellular states for high-speed image-based microfluidic cell sorting</h5>
+                                <p>In this project, we establish the feasibility of deep learning on ICS cellular imaging by training cell type classifiers on a dataset of ∼ 2 million images from published and unpublished ICS experiments.</p>
+                                <ul class="modal-popup__cat">
+                                    <li>Computer Vision</li>
+                                </ul>
+                            </div>
+                
+                            <a href="http://cs231n.stanford.edu/reports/2022/pdfs/158.pdf" class="modal-popup__details">Read Report</a>
+                        </div>
+                    </div> <!-- end modal -->
+
+                    <div id="modal-01" hidden>
+                        <div class="modal-popup">
+                            <img src="images/portfolio/gallery/g-flight.jpg" alt="">
+                
+                            <div class="modal-popup__desc">
                                 <h5>AI for Predicting Unstabilized Approaches in Aircraft</h5>
-                                <p>Odio soluta enim quos sit asperiores rerum rerum repudiandae cum. Vel voluptatem alias qui assumenda iure et expedita voluptatem. Ratione officiis quae.</p>
+                                <p>Unstabilized approaches are a major hazard for general aviation aircraft. We develop a Machine Learning-based predictive warning system, which 
+                                can be used to create objective ‘call-outs’ to aid decision
+                                making, which has been emphasized in research by Flight Safety Foundation
+                                (2017) and International Air Transportation Association (2016)</p>
                                 <ul class="modal-popup__cat">
                                     <li>Deep Learning</li>
                                 </ul>
@@ -439,7 +565,9 @@
                 
                             <div class="modal-popup__desc">
                                 <h5>Evaluating Machine Learning-based Skin Cancer Diagnosis</h5>
-                                <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+                                <p>As Machine Learning-based tools begin to be used more widely and make skin cancer diagnosis more accessible, it is imperative to ensure that
+                                they do so reliably. I evaluate the reliability of two Deep Learning
+                                models for skin cancer detection by recreating and modifying these models and analyzing their explainability and fairness.</p>
                                 <ul class="modal-popup__cat">
                                     <li>Trustworthy Machine Learning</li>
                                 </ul>
@@ -455,7 +583,7 @@
                 
                             <div class="modal-popup__desc">
                                 <h5>Machine Learning-based Mapping of Neolithic Water Management Features</h5>
-                                <p>Exercitationem reprehenderit quod explicabo consequatur aliquid ut magni ut. Deleniti quo corrupti illum velit eveniet ratione necessitatibus ipsam mollitia.</p>
+                                <p>We use deep neural networks, in particular Fully Convolutional Neural Networks (FCNNs), in conjunction with high-resolution, multi-temporal PlanetScope (PS) imagery to detect spectral signals of water that track a seasonal pattern in the Deccan region (the South Indian Neolithic–Iron Age transition). </p>
                                 <ul class="modal-popup__cat">
                                     <li>Computer Vision</li>
                                 </ul>
@@ -471,7 +599,9 @@
                 
                             <div class="modal-popup__desc">
                                 <h5>Gait-Correcting Insole for People with Parkinson's Disease</h5>
-                                <p>Dolores velit qui quos nobis. Aliquam delectus voluptas quos possimus non voluptatem voluptas voluptas. Est doloribus eligendi porro doloribus voluptatum.</p>
+                                <p>We developed a Machine Learning-powered shoe insole for people with Parkinson's Disease. The insole analyzes gait patterns
+                                and provides haptic feedback to cue users to move their feet towards more stable positions. The project was initiated as part of the <a href="https://ece.ucsd.edu/design-competition">Design Competition</a> organized
+                            by the ECE Department at UC San Diego.</p>
                                 <ul class="modal-popup__cat">
                                     <li>Machine Learning</li>
                                 </ul>
@@ -488,7 +618,8 @@
                 
                             <div class="modal-popup__desc">
                                 <h5>Autonomous Line-Following Vehicle</h5>
-                                <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+                                <p>We built an autonomous, line-following vehicle as part of the UC San Diego IEEE Annual Project. 
+                                We received the first place Grand PrIEEE Annual Robotics Competition, with the fastest such vehicle. </p>
                                 <ul class="modal-popup__cat">
                                     <li>Intelligent Systems</li>
                                 </ul>
@@ -500,11 +631,11 @@
 
                     <div id="modal-06" hidden>
                         <div class="modal-popup">
-                            <img src="images/portfolio/gallery/g-micromouse.jpg" alt="">
+                            <img src="images/portfolio/gallery/g-micromouse.png" alt="">
                 
                             <div class="modal-popup__desc">
                                 <h5>Maze-Solving Robot</h5>
-                                <p>Quisquam vel libero consequuntur autem voluptas. Qui aut vero. Omnis fugit mollitia cupiditate voluptas. Aenean sollicitudin, lorem quis bibendum auctor.</p>
+                                <p>We built a maze-solving robotic mouse, based on the <a href="https://en.wikipedia.org/wiki/Micromouse">micromouse</a>. This was built as part of UC San Diego IEEE's Annual Micromouse Project.</p>
                                 <ul class="modal-popup__cat">
                                     <li>Intelligent Systems</li>
                                 </ul>
