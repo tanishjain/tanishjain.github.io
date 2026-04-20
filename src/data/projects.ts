@@ -12,7 +12,7 @@ export const projects: Project[] = [
     title: 'The Moving Goalpost Tracker',
     year: '2026',
     description:
-      'A pipeline that compares ClinicalTrials.gov registered endpoints to published paper outcomes using embedding similarity and an LLM judge, flagging cases where trial endpoints silently changed between registration and publication. Targeting Phase III oncology trials. Paper in progress.',
+      'A pipeline that compares ClinicalTrials.gov registered endpoints to published paper outcomes using embedding similarity and an LLM judge, flagging trials where the reported primary endpoint differs from the pre-registered one. Targeting Phase III oncology trials. Paper in progress.',
     tags: ['Clinical Trials', 'LLM-as-judge', 'NLP'],
     links: [{ label: 'Repo (private, opens on publication)', href: 'https://github.com/tanishjain/moving-goalpost' }],
     featured: true,
@@ -21,7 +21,7 @@ export const projects: Project[] = [
     title: 'iGibson 2.0: Object-centric simulation for robot learning',
     year: '2021',
     description:
-      'Open-source simulation environment for embodied AI research. Adds object states, logic functions for task specification, and a VR interface for human demonstrations.',
+      'Open-source simulation environment for embodied AI research. Features object states, logic functions for task specification, and a VR interface for human demonstrations.',
     tags: ['Robotics', 'Simulation'],
     links: [
       { label: 'Paper', href: 'https://openreview.net/forum?id=2uGN5jNJROR' },
@@ -51,7 +51,7 @@ export const projects: Project[] = [
     title: 'Unstable-approach detection in aircraft',
     year: '2022',
     description:
-      'Deep-learning model that classifies in-flight approach trajectories in real time on flight-recorder telemetry to trigger go-around warnings.',
+      'Deep-learning model that classifies in-flight approach trajectories in real time from flight-recorder telemetry. Triggers go-around warnings before landing, where the margin for correction is smallest.',
     tags: ['Aviation', 'Time series'],
     links: [{ label: 'Paper', href: 'https://arc.aiaa.org/doi/10.2514/1.I011086' }],
     featured: true,
