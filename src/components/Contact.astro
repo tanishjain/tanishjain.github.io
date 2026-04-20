@@ -1,0 +1,42 @@
+---
+import { site } from '../data/site';
+---
+
+<section id="contact" class="contact">
+  <div class="container">
+    <p class="section-label">Contact</p>
+    <h2 class="contact-title">Get in touch.</h2>
+    <p class="contact-body">
+      I'm open to conversations about AI/ML engineering roles, retrieval and
+      evaluation work, and applied ML research. The fastest way to reach me is email.
+    </p>
+
+    <div class="contact-ctas">
+      <a class="btn btn-primary" href={`mailto:${site.email}`}>{site.email}</a>
+      <a class="btn" href={site.linkedin} rel="noopener noreferrer">LinkedIn</a>
+      <a class="btn" href={site.github} rel="noopener noreferrer">GitHub</a>
+      <a class="btn" href={site.scholar} rel="noopener noreferrer">Google Scholar</a>
+    </div>
+  </div>
+</section>
+
+<style>
+  .contact {
+    padding-bottom: var(--sp-12);
+  }
+
+  .contact-title {
+    margin-bottom: var(--sp-4);
+  }
+
+  .contact-body {
+    max-width: 34rem;
+    margin-bottom: var(--sp-6);
+  }
+
+  .contact-ctas {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--sp-3);
+  }
+</style>

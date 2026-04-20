@@ -1,0 +1,243 @@
+---
+import { projects } from '../data/projects';
+
+const featured = projects.filter((p) => p.featured);
+const extras = projects.filter((p) => !p.featured);
+---
+
+<section id="projects" class="projects">
+  <div class="container">
+    <p class="section-label">Selected work</p>
+    <h2 class="section-title">Projects & publications.</h2>
+    <p class="section-lede">
+      A mix of current research, published papers, and a patent. Grouped together because
+      several are both.
+    </p>
+
+    <ol class="project-list">
+      {
+        featured.map((p) => (
+          <li class="project reveal">
+            <div class="project-head">
+              <h3 class="project-title">{p.title}</h3>
+              <span class="project-year">{p.year}</span>
+            </div>
+            <p class="project-desc">{p.description}</p>
+            {p.tags.length > 0 && (
+              <ul class="tags">
+                {p.tags.map((t) => (
+                  <li class="tag">{t}</li>
+                ))}
+              </ul>
+            )}
+            {p.links.length > 0 && (
+              <ul class="project-links">
+                {p.links.map((l) => (
+                  <li>
+                    <a href={l.href} rel="noopener noreferrer">
+                      {l.label}
+                      <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                        <path d="M7 17L17 7"></path>
+                        <path d="M7 7h10v10"></path>
+                      </svg>
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            )}
+          </li>
+        ))
+      }
+    </ol>
+
+    {extras.length > 0 && (
+      <details class="more">
+        <summary>
+          <span>Earlier work</span>
+          <svg class="more-chevron" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <polyline points="6 9 12 15 18 9"></polyline>
+          </svg>
+        </summary>
+        <ol class="project-list project-list--compact">
+          {extras.map((p) => (
+            <li class="project project--compact">
+              <div class="project-head">
+                <h3 class="project-title">{p.title}</h3>
+                <span class="project-year">{p.year}</span>
+              </div>
+              <p class="project-desc">{p.description}</p>
+              {p.tags.length > 0 && (
+                <ul class="tags">
+                  {p.tags.map((t) => (
+                    <li class="tag">{t}</li>
+                  ))}
+                </ul>
+              )}
+            </li>
+          ))}
+        </ol>
+      </details>
+    )}
+  </div>
+</section>
+
+<style>
+  .section-title {
+    margin-bottom: var(--sp-3);
+  }
+
+  .section-lede {
+    max-width: 36rem;
+    margin-bottom: var(--sp-8);
+  }
+
+  .project-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: var(--sp-7);
+  }
+
+  .project {
+    padding: var(--sp-5) 0;
+    border-top: 1px solid var(--border);
+  }
+
+  .project:first-child {
+    padding-top: var(--sp-2);
+  }
+
+  .project-head {
+    display: flex;
+    flex-direction: column;
+    gap: var(--sp-1);
+    margin-bottom: var(--sp-3);
+  }
+
+  @media (min-width: 640px) {
+    .project-head {
+      flex-direction: row;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: var(--sp-5);
+    }
+  }
+
+  .project-title {
+    font-size: var(--fs-lg);
+    margin: 0;
+    color: var(--fg);
+  }
+
+  .project-year {
+    font-family: var(--font-mono);
+    font-size: var(--fs-xs);
+    color: var(--fg-subtle);
+    white-space: nowrap;
+    letter-spacing: 0.04em;
+  }
+
+  .project-desc {
+    margin-bottom: var(--sp-4);
+  }
+
+  .tags {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 var(--sp-4);
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--sp-2);
+  }
+
+  .tag {
+    padding: 0.15rem 0.55rem;
+    font-family: var(--font-mono);
+    font-size: var(--fs-xs);
+    color: var(--accent);
+    background: var(--accent-soft);
+    border-radius: 999px;
+    line-height: 1.6;
+    letter-spacing: 0.02em;
+    margin: 0;
+  }
+
+  .project-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--sp-4);
+  }
+
+  .project-links a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    font-size: var(--fs-sm);
+    font-weight: 500;
+  }
+
+  .project-links a svg {
+    opacity: 0.7;
+    transition: transform 0.15s ease;
+  }
+
+  .project-links a:hover svg {
+    transform: translate(1px, -1px);
+    opacity: 1;
+  }
+
+  /* Collapsible "more" block */
+  .more {
+    margin-top: var(--sp-8);
+    border-top: 1px solid var(--border);
+    padding-top: var(--sp-5);
+  }
+
+  .more summary {
+    cursor: pointer;
+    list-style: none;
+    display: inline-flex;
+    align-items: center;
+    gap: var(--sp-2);
+    font-family: var(--font-mono);
+    font-size: var(--fs-xs);
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--fg-subtle);
+    padding: var(--sp-2) 0;
+  }
+
+  .more summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .more summary:hover {
+    color: var(--fg);
+  }
+
+  .more[open] summary .more-chevron {
+    transform: rotate(180deg);
+  }
+
+  .more-chevron {
+    transition: transform 0.2s ease;
+  }
+
+  .project-list--compact {
+    margin-top: var(--sp-5);
+    gap: var(--sp-4);
+  }
+
+  .project--compact {
+    padding: var(--sp-4) 0;
+  }
+
+  .project--compact .project-title {
+    font-size: var(--fs-md);
+  }
+</style>
