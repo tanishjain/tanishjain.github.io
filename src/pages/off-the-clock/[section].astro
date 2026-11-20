@@ -1,0 +1,16 @@
+---
+import OffClockPage from '../../components/OffClockPage.astro';
+import { offClockSections } from '../../data/off-the-clock';
+
+export function getStaticPaths() {
+  return offClockSections.flatMap(({ slug, title, description, note }) =>
+    note ? [{ params: { section: slug }, props: { title, description, note } }] : [],
+  );
+}
+
+const { title, description, note } = Astro.props;
+---
+
+<OffClockPage heading={title} description={description} noIndex>
+  <p class="bio">{note}</p>
+</OffClockPage>

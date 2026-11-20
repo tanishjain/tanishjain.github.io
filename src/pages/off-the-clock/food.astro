@@ -1,0 +1,100 @@
+---
+import OffClockPage from '../../components/OffClockPage.astro';
+import { site } from '../../data/site';
+---
+
+<OffClockPage heading="Food" description="Tanish Jain's favorite restaurants, go-to orders, and notes from a vegetarian kitchen.">
+  <section class="food-section" aria-labelledby="restaurants-heading">
+    <h2 id="restaurants-heading">Places I go back to</h2>
+
+    <section class="entries" aria-labelledby="bahrain-heading">
+      <h3 id="bahrain-heading">Bahrain</h3>
+      <ul class="work">
+        <li>
+          <a href="https://www.talabat.com/bahrain/restaurant/727896/vrindavan-restaurant-manama-center?aid=1021">Vrindavan</a>
+          <span class="venue">Manama</span>
+          <p>This was my family's weekend spot when we lived in Bahrain. We almost always got the same thing: tandoori rotis, mushroom masala, dal tadka, and methi malai. The rotis were perfect every time, and back then the whole order came to about five dinars. We tried the chaat and pav bhaji on other visits, but this was the order we kept coming back to.</p>
+        </li>
+      </ul>
+    </section>
+
+    <section class="entries" aria-labelledby="san-diego-heading">
+      <h3 id="san-diego-heading">San Diego</h3>
+      <ul class="work">
+        <li>
+          <a href="https://vallartaexpress.com/our-menu/">Vallarta Express</a>
+          <p>This was my late-night burrito spot at UC San Diego. I still make a point of going when I'm back in town. My order is the veggie burrito, enchilada style. The last part matters.</p>
+        </li>
+        <li>
+          <a href="https://myplumeria.com/">Plumeria Vegetarian</a>
+          <p>A close friend introduced me to this vegetarian Thai spot in my last year in San Diego. I wish I'd known about it sooner. I'd go back for the noodles with mock duck.</p>
+        </li>
+      </ul>
+    </section>
+
+    <section class="entries" aria-labelledby="bay-area-heading">
+      <h3 id="bay-area-heading">Bay Area</h3>
+      <ul class="work">
+        <li>
+          <a href="https://www.hunanhouseca.com/">Hunan House</a>
+          <span class="venue">Sunnyvale</span>
+          <p>A friend put me onto Hunan House back when it was still quiet. These days there's often a wait, and I'd still go for the vegetable dry pot. It's properly spicy, packed with vegetables, and hearty enough to be the whole meal.</p>
+        </li>
+      </ul>
+    </section>
+  </section>
+
+  <section class="food-section kitchen" aria-labelledby="kitchen-heading">
+    <h2 id="kitchen-heading">From my kitchen</h2>
+    <div class="bio">
+      <p>I got more into cooking in 2020, when I started grad school at Stanford and had a little kitchen of my own. At first I mostly made the Indian food I already knew. Then I started making things like chole kulche and biryani, and playing around with different kinds of chaat.</p>
+      <p>I grew up in the Arabian Gulf and lived in Dubai, Bahrain, Muscat, and Doha. There was plenty of Levantine food around, and I grew up eating a lot of it. I missed it when I moved to the US, so I started trying to make some of it at home. My mom is a big reason I like doing this. She can pick up a dish she's never cooked before and get the hang of it almost immediately.</p>
+      <p>Everything I cook is vegetarian. I like having a few friends over because I get to make more than one thing and hear what they'd actually eat again. They're willing guinea pigs.</p>
+    </div>
+
+    <h3>A few things I've been making</h3>
+    <dl class="recipe-notes">
+      <div>
+        <dt>Mapo tofu</dt>
+        <dd>I usually reach for Lao Gan Ma, but a friend put me onto Lee Kum Kee's Chiu Chow chili oil. The extra heat is especially good here.</dd>
+      </div>
+      <div>
+        <dt>Vegetable dry pot</dt>
+        <dd>I started with my usual order at Hunan House. The mala sauce I brought back from China gives it some extra tingle. I always want more lotus root.</dd>
+      </div>
+      <div>
+        <dt>Wontons in chili oil</dt>
+        <dd>I fill mine with mushrooms, carrots, cabbage, and tofu. The chili oil broth is the part I keep tinkering with.</dd>
+      </div>
+      <div>
+        <dt>Ramen</dt>
+        <dd>If you like a creamier miso broth, try a little tahini. Peanut butter is another one I've been playing with.</dd>
+      </div>
+      <div>
+        <dt>Tteokbokki</dt>
+        <dd>I like my rice cakes spicy and savory, so I go heavier on the garlic and chili and lighter on the sweetness.</dd>
+      </div>
+      <div>
+        <dt>Vegetarian bulgogi</dt>
+        <dd>I use tofu and mushrooms in a soy, garlic, and sesame marinade. Try it in lettuce wraps.</dd>
+      </div>
+      <div>
+        <dt>Sundubu jjigae</dt>
+        <dd>I keep the fermented flavor mild in my version. I portion the soft tofu gently so it holds together in the bowl.</dd>
+      </div>
+      <div>
+        <dt>Black sesame tangyuan</dt>
+        <dd>I filled the rice flour balls with black sesame and served them in a sweet syrup.</dd>
+      </div>
+      <div>
+        <dt>Black sesame panna cotta</dt>
+        <dd>I topped it with a layer of matcha cream. I'd keep that pairing.</dd>
+      </div>
+    </dl>
+
+    <footer class="kitchen-footer">
+      <p>Want the full recipe? <a href={`mailto:${site.email}?subject=Recipe%20request`}>Hit me up.</a> Chai is optional. If you make the dish, I want to know what you changed.</p>
+      <p>More once I remember to write down what I put in the pot.</p>
+    </footer>
+  </section>
+</OffClockPage>

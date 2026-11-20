@@ -217,3 +217,87 @@ h2 {
     margin-inline-start: 0;
   }
 }
+
+.home-footer {
+  margin-top: 1.7rem;
+  font: 500 0.9375rem/1.5 var(--sans);
+}
+
+.personal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-bottom: 2.1rem;
+}
+
+.personal-header nav {
+  margin-bottom: 1.2rem;
+  font: 500 0.9375rem/1.5 var(--sans);
+}
+
+.personal-sections > li {
+  border-top: 1px solid var(--border);
+  padding-block: 0.9rem;
+}
+
+.personal-sections > li + li {
+  margin-top: 0;
+}
+
+.food-section h2 {
+  margin-bottom: 0.8rem;
+  font-size: 1.5rem;
+}
+
+.food-section h3 {
+  margin: 0;
+  font-size: 1.125rem;
+  font-weight: 650;
+}
+
+.food-section .work li + li {
+  margin-top: 1.3rem;
+}
+
+.kitchen {
+  border-top: 1px solid var(--border);
+  margin-top: 1.8rem;
+  padding-top: 1.6rem;
+}
+
+.kitchen h3 {
+  margin-top: 1.8rem;
+  margin-bottom: 0.55rem;
+}
+
+.recipe-notes {
+  margin: 0;
+}
+
+.recipe-notes div {
+  padding-block: 0.8rem;
+  border-top: 1px solid var(--border);
+}
+
+.recipe-notes dt {
+  font-weight: 550;
+}
+
+.recipe-notes dd {
+  margin: 0;
+  color: var(--fg-muted);
+  font-size: 1rem;
+}
+
+.kitchen-footer {
+  margin-top: 0.55rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border);
+}
+
+.kitchen-footer p + p {
+  margin-top: 0.75rem;
+  color: var(--fg-muted);
+  font-style: italic;
+}
