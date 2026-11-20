@@ -1,12 +1,15 @@
 export const site = {
   name: 'Tanish Jain',
-  title: 'Tanish Jain — AI/ML Engineer',
-  tagline: 'Senior AI/ML Engineer working on production RAG and retrieval.',
+  title: 'Tanish Jain | AI/ML Engineer',
   description:
-    'Senior AI/ML engineer at Wiley, working on retrieval, evaluation, and applied ML for scholarly content. Based in the Bay Area.',
+    'Tanish Jain is a Principal AI/ML Engineer at Wiley and a Stanford and UC San Diego alum. Selected research, writing, and profiles.',
   email: 'tanishj@stanford.edu',
-  github: 'https://github.com/tanishjain',
-  linkedin: 'https://www.linkedin.com/in/tanish-jain',
-  scholar: 'https://scholar.google.com/citations?user=dz0p-88AAAAJ&hl=en',
-  siteUrl: 'https://tanishjain.github.io',
+  jobTitle: 'Principal AI/ML Engineer',
+  siteUrl: 'https://tanishjain.github.io/',
+  profiles: [
+    { label: 'Google Scholar', href: 'https://scholar.google.com/citations?user=dz0p-88AAAAJ&hl=en' },
+    { label: 'LinkedIn', href: 'https://www.linkedin.com/in/tanish-jain' },
+    { label: 'Medium', href: 'https://medium.com/@tanishjain' },
+    { label: 'GitHub', href: 'https://github.com/tanishjain' },
+  ],
 };

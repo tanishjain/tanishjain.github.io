@@ -1,16 +1,86 @@
 ---
 import Base from '../layouts/Base.astro';
-import Hero from '../components/Hero.astro';
-import About from '../components/About.astro';
-import Experience from '../components/Experience.astro';
-import Projects from '../components/Projects.astro';
-import Contact from '../components/Contact.astro';
+import ThemeToggle from '../components/ThemeToggle.astro';
+import { site } from '../data/site';
 ---
 
 <Base>
-  <Hero />
-  <About />
-  <Experience />
-  <Projects />
-  <Contact />
+  <header id="top" class="intro">
+    <div class="intro-heading">
+      <div>
+        <p class="greeting">Hi, I'm</p>
+        <h1>{site.name}</h1>
+      </div>
+      <ThemeToggle />
+    </div>
+    <div id="about" class="bio">
+      <p id="experience">
+        I'm a {site.jobTitle} at Wiley, where I build tools that help researchers find and
+        make sense of scientific literature. My favorite part is figuring out whether a
+        change actually made the tool more useful.
+      </p>
+      <p>
+        Before Wiley, I studied computer science at Stanford and electrical engineering
+        at UC San Diego.
+      </p>
+    </div>
+
+    <nav id="contact" aria-label="Profiles and contact">
+      <ul class="profiles">
+        {site.profiles.map(({ label, href }) => <li><a href={href}>{label}</a></li>)}
+        <li><a href={`mailto:${site.email}`}>Email</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="projects" class="entries" aria-labelledby="research-heading">
+    <h2 id="research-heading">Selected research</h2>
+    <ul class="work">
+      <li>
+        <a href="https://www.nature.com/articles/s41587-022-01528-3">Wireless smart bandage</a>
+        <span class="venue">Nature Biotechnology, 2023</span>
+        <p>
+          I worked on models that track wound healing from sensor data.
+          <a href="https://cheme.stanford.edu/wireless-smart-bandage-provides-new-insights-healing-chronic-wounds">Stanford coverage</a>
+        </p>
+      </li>
+      <li>
+        <a href="https://proceedings.mlr.press/v164/li22b.html">iGibson 2.0</a>
+        <span class="venue">CoRL 2021</span>
+        <p>
+          I helped build a simulator for robots to learn household tasks.
+          <a href="https://svl.stanford.edu/igibson/">Stanford project page</a>
+        </p>
+      </li>
+      <li>
+        <a href="https://doi.org/10.2514/1.I011132">Predicting unstable aircraft approaches</a>
+        <span class="venue">JAIS, 2022</span>
+        <p>We used flight data to identify unstable approaches in general aviation.</p>
+      </li>
+    </ul>
+  </section>
+
+  <section id="writing" class="entries" aria-labelledby="writing-heading">
+    <h2 id="writing-heading">Writing</h2>
+    <ul class="work">
+      <li>
+        <a href="https://medium.com/stanford-cs224w/online-link-prediction-with-graph-neural-networks-46c1054f2aa4">Online link prediction with graph neural networks</a>
+        <p>A walkthrough I wrote for Stanford CS224W.</p>
+      </li>
+    </ul>
+  </section>
+
+  <section id="elsewhere" class="entries" aria-labelledby="elsewhere-heading">
+    <h2 id="elsewhere-heading">Elsewhere</h2>
+    <ul class="work notes">
+      <li>
+        <a href="https://jacobsschool.ucsd.edu/news/release/2979">USAIRE Student Awards</a>
+        <span class="note">Second prize with Shlok Misra, 2019</span>
+      </li>
+      <li>
+        <a href="https://www.ece.ucsd.edu/awards/student/2020-ece-awards">UC San Diego ECE Student Service Award</a>
+        <span class="note">2020</span>
+      </li>
+    </ul>
+  </section>
 </Base>
