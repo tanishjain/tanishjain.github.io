@@ -185,7 +185,23 @@ export const placesVisited: Place[] = [
       },
     ],
   },
-  { name: 'Malaysia', years: [2019] },
+  {
+    name: 'Malaysia',
+    years: [2019],
+    notes: [
+      {
+        slug: 'getting-to-our-room-in-langkawi',
+        title: 'Getting to our room in Langkawi',
+        year: 2019,
+        paragraphs: [
+          "On a family trip to Langkawi, we stayed at a resort with little chalets on stilts in the rainforest. One evening, just after sunset, we took a golf cart back from the restaurant. My parents' chalet was the first stop.",
+          "My mom had just started up the stairs when she yelped. A big monitor lizard was standing there. The two chalets next to hers had been dark a second earlier. Both sets of lights came on.",
+          "My brother and I walked a little farther in to our chalet. I shone my flashlight at the door and spotted a big gecko right next to it. My brother hadn't seen it, so I asked him to open the door. I was inside the second he did.",
+          "Going in and out of our room felt like a little adventure of its own. We never quite knew what would be waiting outside.",
+        ],
+      },
+    ],
+  },
   { name: 'Mexico', years: [2025] },
   { name: 'Monaco', years: [2014] },
   { name: 'Netherlands', years: [2014] },
