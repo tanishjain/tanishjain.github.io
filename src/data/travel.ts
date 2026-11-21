@@ -25,7 +25,23 @@ export const placesLived: Place[] = [
 export const placesVisited: Place[] = [
   { name: 'Austria', years: [2014] },
   { name: 'Belgium', years: [2014] },
-  { name: 'Canada', years: [2017, 2022, 2025] },
+  {
+    name: 'Canada',
+    years: [2017, 2022, 2025],
+    notes: [
+      {
+        slug: 'a-walk-outside-the-cn-tower',
+        title: 'A walk outside the CN Tower',
+        year: 2025,
+        paragraphs: [
+          "A friend was headed to Toronto for a conference and had a nice hotel room already taken care of, so I tagged along. We had a couple of things planned and figured out the rest as we went. One day we looked up the CN Tower's EdgeWalk. The next day we booked it and went.",
+          "The guides were great. They got us into our harnesses and took us out onto the ledge that goes around the outside of the tower. Once you're out there, you can see Toronto in every direction. It's probably the best view of the city I've had, and I'd recommend it in a heartbeat.",
+          "I've since mapped out other tower walks around the world. I want to see how many I can get to.",
+        ],
+        links: [{ label: 'EdgeWalk at the CN Tower', href: 'https://www.cntower.ca/brave-the-edgewalk' }],
+      },
+    ],
+  },
   {
     name: 'China',
     years: [2025],
