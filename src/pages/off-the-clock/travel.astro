@@ -29,14 +29,11 @@ const sections = [
                     <span class="place-name">{name}</span>
                     {context && <span class="place-context">{context}</span>}
                   </summary>
-                  <div class="travel-notes">
-                    {notes.map(({ title, paragraphs }) => (
-                      <article class="bio">
-                        <h3>{title}</h3>
-                        {paragraphs.map((paragraph) => <p>{paragraph}</p>)}
-                      </article>
+                  <ul class="travel-notes">
+                    {notes.map(({ slug, title }) => (
+                      <li><a href={`/off-the-clock/travel/${slug}/`}>{title}</a></li>
                     ))}
-                  </div>
+                  </ul>
                 </details>
               ) : (
                 <p>
@@ -85,17 +82,10 @@ const sections = [
   }
 
   .travel-notes {
-    margin: 0.6rem 0 1rem;
+    margin: 0.35rem 0 0.65rem;
     border-inline-start: 1px solid var(--border);
     padding-inline-start: 1rem;
-  }
-
-  .travel-notes article + article {
-    margin-top: 1rem;
-  }
-
-  .travel-notes h3 {
-    margin: 0 0 0.35rem;
-    font-size: 1.125rem;
+    list-style: none;
+    font-size: 1rem;
   }
 </style>

@@ -1,0 +1,34 @@
+---
+import type { InferGetStaticPropsType } from 'astro';
+import OffClockPage from '../../../components/OffClockPage.astro';
+import { placesLived, placesVisited } from '../../../data/travel';
+
+export function getStaticPaths() {
+  return [...placesVisited, ...placesLived].flatMap(({ name, notes }) =>
+    (notes ?? []).map((note) => ({ params: { story: note.slug }, props: { name, note } })),
+  );
+}
+
+type Props = InferGetStaticPropsType<typeof getStaticPaths>;
+const { name, note } = Astro.props;
+const place = note.year ? `${name} · ${note.year}` : name;
+---
+
+<OffClockPage
+  heading={note.title}
+  description={note.paragraphs[0]}
+  noIndex
+  backLink={{ href: '/off-the-clock/travel/', label: 'Travel stories' }}
+>
+  <article class="bio">
+    <p class="story-place">{place}</p>
+    {note.paragraphs.map((paragraph) => <p>{paragraph}</p>)}
+  </article>
+</OffClockPage>
+
+<style>
+  .story-place {
+    color: var(--fg-muted);
+    font: 0.875rem/1.5 var(--sans);
+  }
+</style>

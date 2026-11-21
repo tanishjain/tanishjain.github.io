@@ -1,5 +1,7 @@
 interface TravelNote {
+  slug: string;
   title: string;
+  year?: number;
   paragraphs: string[];
 }
 
@@ -28,7 +30,9 @@ export const placesVisited: Place[] = [
     years: [2025],
     notes: [
       {
+        slug: 'come-into-the-kitchen',
         title: 'Come into the kitchen',
+        year: 2025,
         paragraphs: [
           "I went into a tiny restaurant with a note in Mandarin. It explained that I was vegetarian and covered things like fish sauce and oyster sauce. The woman running the place looked it over. She didn't have anything for me on the menu, so she waved me into the kitchen.",
           "She started making a stir-fry, holding up each ingredient and bottle of sauce for me to check. I'd look at the label, pull out my translation app if I needed it, and give her a nod. It turned out to be one of the best stir-fries I've had.",
@@ -60,7 +64,9 @@ export const placesVisited: Place[] = [
     years: [2014],
     notes: [
       {
+        slug: 'cordoba-grocery-run',
         title: 'A grocery run in Córdoba',
+        year: 2014,
         paragraphs: [
           "My mom and I went out in Córdoba to get a few things for a late lunch. We were cooking a lot on that family trip, and I think we were going to make khichdi. That's how we found out about siesta. The restaurants were shut, and so was the big supermarket.",
           "We eventually found a tiny grocery shop run by one man. We only needed rice, bread, and some produce. The labels were all in Spanish, and we spoke none. Some things came in paper bags, so we couldn't even tell what was inside.",

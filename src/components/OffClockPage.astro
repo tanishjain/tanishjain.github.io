@@ -8,16 +8,18 @@ interface Props {
   description: string;
   landing?: boolean;
   noIndex?: boolean;
+  backLink?: { href: string; label: string };
 }
 
-const { heading, description, landing = false, noIndex = false } = Astro.props;
+const { heading, description, landing = false, noIndex = false, backLink } = Astro.props;
+const back = backLink ?? (landing ? { href: '/', label: 'Home' } : { href: '/off-the-clock/', label: 'Off the clock' });
 ---
 
 <Base title={`${heading} | ${site.name}`} description={description} noIndex={noIndex}>
   <header class="personal-header">
     <div>
       <nav aria-label="Back">
-        {landing ? <a href="/">Home</a> : <a href="/off-the-clock/">Off the clock</a>}
+        <a href={back.href}>{back.label}</a>
       </nav>
       <h1>{heading}</h1>
     </div>
