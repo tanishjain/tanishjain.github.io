@@ -37,7 +37,7 @@ export const placesVisited: Place[] = [
         paragraphs: [
           "I went into a tiny restaurant with a note in Mandarin. It explained that I was vegetarian and covered things like fish sauce and oyster sauce. The woman running the place looked it over. She didn't have anything for me on the menu, so she waved me into the kitchen.",
           "She started making a stir-fry, holding up each ingredient and bottle of sauce for me to check. I'd look at the label, pull out my translation app if I needed it, and give her a nod. It turned out to be one of the best stir-fries I've had.",
-          "When I sat down to eat, the guy at the next table seemed to ask if he could get one too. She pointed at me, then motioned for him to come into the kitchen.",
+          "When I sat down to eat, the guy at the next table seemed to ask if he could get one too. She pointed at me and motioned for me to come back into the kitchen, as if she'd need my help making the next one.",
         ],
       },
       {
@@ -85,7 +85,7 @@ export const placesVisited: Place[] = [
         year: 2024,
         paragraphs: [
           "We had one full day in Quito on our way to the Galápagos. We'd flown in the night before and were leaving early the next morning. Ecuador was under a state of emergency, and Quito was so quiet that I was a little on edge. I mostly kept my phone in my pocket and went by what we saw as we walked.",
-          "On the walk from the Basílica del Voto Nacional toward Plaza Grande, we came across a tiny shop with a woman selling empanadas. I asked for a cheese one. It was bigger than my palm, cost 50 cents, and is still the best empanada I've had.",
+          "On the walk from the Basílica del Voto Nacional toward Plaza Grande, we came across a tiny shop with a woman selling empanadas. I asked for two, one with vegetables and one with cheese. They were bigger than my palm and cost 50 cents each. They're still the best empanadas I've had.",
           "I don't remember a name for the shop. I think it was on the right as we walked toward the plaza. If I ever go back to Quito, I'm taking that walk again.",
         ],
       },
@@ -236,7 +236,7 @@ export const placesVisited: Place[] = [
         paragraphs: [
           "We were partway through a family trip across Europe when we went up Mount Titlis. The air was crisp, and by then we were craving Indian food. When we came back down and saw a stall selling vada pav, it felt like perfect timing.",
           "There was a long line, and I remember the price being steep for a vada pav. We got one anyway. The filling tasted like a potato patty. It was one of the worst vada pavs I've had. I'd skip that stall if I went back.",
-          "My mom and I came up with a business plan on the spot. We'd open our own stall, put a proper vada in the pav, and charge a vada pav price.",
+          "My mom and I came up with a business plan on the spot. We'd open our own stall, put a proper vada in the pav, and charge a vada pav price. We're still in the planning phase.",
         ],
       },
       {
@@ -246,7 +246,7 @@ export const placesVisited: Place[] = [
         paragraphs: [
           "We were at the station in Bern, planning to head toward Jungfrau. The weather looked bad, so we switched plans and decided to go toward the Matterhorn instead. Then that train was delayed. At first it was ten or fifteen minutes. Eventually it was over an hour. After everything we'd heard about Swiss trains, that was a surprise.",
           "A friend had posted photos of Rhine Falls on Facebook about a month earlier. I remembered them while we were standing there, so we took a train toward Zurich and went to see the falls. We also took a boat ride on Lake Zurich, which our Eurail passes covered on that trip.",
-          "We'd put the whole day together at the train station. It turned out to be one of my favorite days in Switzerland.",
+          "It took bad summer weather and a Swiss train running more than an hour late to give us one of my favorite days in Switzerland.",
         ],
         links: [
           { label: 'Visiting Rhine Falls', href: 'https://rheinfall.ch/en/' },
