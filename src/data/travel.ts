@@ -209,7 +209,23 @@ export const placesVisited: Place[] = [
     ],
   },
   { name: 'Italy', years: [2014] },
-  { name: 'Jordan', years: [2024] },
+  {
+    name: 'Jordan',
+    years: [2024],
+    notes: [
+      {
+        slug: 'a-mud-bath-at-the-dead-sea',
+        title: 'A mud bath at the Dead Sea',
+        year: 2024,
+        paragraphs: [
+          "Our hotel in Jordan had a little beach right on the Dead Sea. We went in to see what it felt like to float there, then asked one of the staff where to find the mud we'd heard about. He started digging right there on the beach. A little way under the sand, he hit mud and told me to sit down.",
+          "He rubbed the mud all over me and sent me back into the water. When I came out, he hosed me down, broke up some of the salt crystals from the water's edge and gave me a scrub. Then he hosed me off again and sent me back to my room for a shower.",
+          "A few hours later, the rough patches I'd had from eczema looked a lot better. I have no idea what made the difference. We tipped him and asked if he'd fill a few bottles with mud for us to take home.",
+          "The bottles made it as far as the first security check at the airport, before we'd even checked in. They counted the mud as a liquid and took all of it. I was surprisingly sad to leave a few bottles of mud behind.",
+        ],
+      },
+    ],
+  },
   {
     name: 'Kenya',
     years: [2026],
