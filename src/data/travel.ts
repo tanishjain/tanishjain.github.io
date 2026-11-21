@@ -285,7 +285,27 @@ export const placesVisited: Place[] = [
   },
   { name: 'Monaco', years: [2014] },
   { name: 'Netherlands', years: [2014] },
-  { name: 'Peru', years: [2024] },
+  {
+    name: 'Peru',
+    years: [2024],
+    notes: [
+      {
+        slug: 'two-nights-in-aguas-calientes',
+        title: 'Two nights in Aguas Calientes',
+        year: 2024,
+        paragraphs: [
+          "We flew from Lima to Cusco, dropped our luggage at the hotel we'd be coming back to, and took the train to Aguas Calientes, also called Machu Picchu Pueblo. We stayed two nights, with our visit to Machu Picchu in between.",
+          "The main street is busy with people heading up to the ruins. Walk a little farther and take the time to chat with people who live there. The town sits in a beautiful valley right below the site. On our first night, my friends and I stayed up late at a restaurant over local food and drinks.",
+          "Aguas Calientes sits much lower than Cusco, so it was a gentler place to spend our first nights after flying in from Lima. Coca tea is easy to find, and I liked it as a little pick-me-up while we were out exploring.",
+          "I'd stay both nights again. We had time to settle in before going up and an evening to relax afterward. The whole visit felt less rushed.",
+        ],
+        links: [
+          { label: 'Machu Picchu Pueblo from Perú Travel', href: 'https://www.peru.travel/es/inspirate/descubre-las-maravillas-que-alberga-machupicchu-pueblo' },
+          { label: 'CDC guidance for high-altitude travel', href: 'https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/high-altitude-travel-and-altitude-illness.html' },
+        ],
+      },
+    ],
+  },
   { name: 'Serbia', years: [2023] },
   {
     name: 'Singapore',
