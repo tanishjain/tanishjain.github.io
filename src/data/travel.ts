@@ -123,7 +123,7 @@ export const placesVisited: Place[] = [
         year: 2019,
         paragraphs: [
           "My teammate and I were in Paris to pick up second prize at the USAIRE Student Awards. The awards were part of USAIRE's Thanksgiving dinner, held under the patronage of Florence Parly, France's armed forces minister at the time. It was a proper sit-down dinner with a room full of aerospace and defense executives. It felt like a pretty big deal.",
-          "We're both vegetarian. Our main course was basically gravy and vegetables, and I remember the dessert being excellent. By the time we got back to the hotel, we were still jet-lagged and starving.",
+          "The dessert was excellent. My teammate and I are both vegetarian, and our main was the same plate everyone else got with the meat taken off. That left us with gravy and vegetables. By the time we got back to the hotel, we were jet-lagged and still starving.",
           "It was late and hardly anything was open on Uber Eats. We found a bakery that had caprese sandwiches and ordered one each. Maybe it was the hunger. At the time it felt like the best caprese sandwich I'd ever had.",
           "We were still hungry, so we placed the exact same order again. A little later, we did it a third time. Same bakery, same two sandwiches, three separate deliveries in one night.",
         ],
@@ -145,6 +145,20 @@ export const placesVisited: Place[] = [
           "If you're vegetarian, I'd call ahead and ask for a vegetarian tasting menu. This is where I'd go for a dinner worth splurging on.",
         ],
         links: [{ label: 'Sublime menu and reservations', href: 'https://www.relaischateaux.com/us/restaurant/sublime-restaurant/' }],
+      },
+      {
+        slug: 'fuego-above-the-clouds',
+        title: 'Fuego above the clouds',
+        year: 2026,
+        paragraphs: [
+          "We could already see Fuego erupting from base camp on Acatenango. Our group kept going toward Fuego, and it felt like every two steps up the loose volcanic sand sent me sliding one step back. At that elevation, I felt every step. As we got closer, I could feel the ground rumble when Fuego erupted.",
+          "By the time we reached our viewpoint, it was nearly dusk. Fuego was erupting right in front of us, the sky had turned orange, and the clouds were below us. Acatenango rose behind us, and off to one side, Agua was peeking through the clouds. I took photos and still wish they could convey what it felt like to stand there. It's one of the most mesmerizing things I've ever seen.",
+          "I'd make the trip to Acatenango just to watch Fuego. Check local access rules and the latest volcanic activity before you go. Climbing Fuego is restricted.",
+        ],
+        links: [
+          { label: 'Fuego access restrictions', href: 'https://agn.gt/ascenso-al-volcan-de-fuego-permanece-restringido' },
+          { label: 'Latest volcanic activity from INSIVUMEH', href: 'https://insivumeh.gob.gt/vulca-boletin-diario/' },
+        ],
       },
     ],
   },
