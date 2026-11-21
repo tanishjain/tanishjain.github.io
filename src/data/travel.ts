@@ -313,6 +313,25 @@ export const placesVisited: Place[] = [
       },
     ],
   },
-  { name: 'United Kingdom', years: [2017, 2023, 2025] },
+  {
+    name: 'United Kingdom',
+    years: [2017, 2023, 2025],
+    notes: [
+      {
+        slug: 'momos-in-oxford',
+        title: 'Momos in Oxford',
+        year: 2025,
+        paragraphs: [
+          "I loved Oxford on my first visit. The old buildings, cobblestone streets and little shops give the city so much character. I was less prepared for the food prices, which felt a lot like London's.",
+          "Some of the best food I had in Oxford was at Gloucester Green Market. If you go, get the momos from Momo King.",
+          "Taste Tibet in East Oxford is another spot for momos. If you get a chance to talk to Yeshi and Julie, ask them how they met and started the restaurant. It's a lovely story.",
+        ],
+        links: [
+          { label: 'Momo King at Gloucester Green Market', href: 'https://oxfordoutdoormarket.co.uk/meet-the-traders' },
+          { label: 'Taste Tibet', href: 'https://tastetibet.com/' },
+        ],
+      },
+    ],
+  },
   { name: 'Vatican City', years: [2014] },
 ];
