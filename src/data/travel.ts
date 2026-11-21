@@ -43,7 +43,22 @@ export const placesVisited: Place[] = [
   },
   { name: 'Costa Rica', years: [2026] },
   { name: 'Czechia', years: [2014] },
-  { name: 'Ecuador', years: [2024] },
+  {
+    name: 'Ecuador',
+    years: [2024],
+    notes: [
+      {
+        slug: 'quito-empanada',
+        title: 'A 50-cent empanada in Quito',
+        year: 2024,
+        paragraphs: [
+          "We had one full day in Quito on our way to the Galápagos. We'd flown in the night before and were leaving early the next morning. Ecuador was under a state of emergency, and Quito was so quiet that I was a little on edge. I mostly kept my phone in my pocket and went by what we saw as we walked.",
+          "On the walk from the Basílica del Voto Nacional toward Plaza Grande, we came across a tiny shop with a woman selling empanadas. I asked for a cheese one. It was bigger than my palm, cost 50 cents, and is still the best empanada I've had.",
+          "I don't remember a name for the shop. I think it was on the right as we walked toward the plaza. If I ever go back to Quito, I'm taking that walk again.",
+        ],
+      },
+    ],
+  },
   { name: 'France', years: [2014, 2019] },
   { name: 'Germany', years: [2014] },
   { name: 'Guatemala', years: [2026] },
