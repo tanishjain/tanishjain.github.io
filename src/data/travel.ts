@@ -168,7 +168,23 @@ export const placesVisited: Place[] = [
   { name: 'Italy', years: [2014] },
   { name: 'Jordan', years: [2024] },
   { name: 'Kenya', years: [2026] },
-  { name: 'Macau', years: [2025] },
+  {
+    name: 'Macau',
+    years: [2025],
+    notes: [
+      {
+        slug: 'vegetarian-lunch-at-pou-tai',
+        title: 'A late lunch at Pou Tai Sin Un',
+        year: 2025,
+        paragraphs: [
+          "A friend and I were looking for a late lunch in Macau. We're both vegetarian, and most of the places we'd looked up had already closed for the afternoon. A search sent us to Pou Tai Sin Un, a Buddhist monastery in Taipa. The street was so quiet that when we walked in, I wondered if we'd got the wrong idea entirely.",
+          "Then we spotted a sign for food and followed it to a dining room. They were about to close and still let us in. It turned out to be an all-you-can-eat vegetarian buffet, and we made the most of it. We had noodles, sautéed vegetables, salad, and pretty much everything else we could fit on our plates.",
+          "It was one of the cheapest meals I've had on a trip, and we left very full. I'd go back for another lunch at the monastery. I'd just aim to get there a bit earlier.",
+        ],
+        links: [{ label: 'Pou Tai Sin Un visitor information', href: 'https://www.macaotourism.gov.mo/en/sightseeing/temples/pou-tai-sin-un' }],
+      },
+    ],
+  },
   { name: 'Malaysia', years: [2019] },
   { name: 'Mexico', years: [2025] },
   { name: 'Monaco', years: [2014] },
