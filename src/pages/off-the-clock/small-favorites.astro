@@ -5,8 +5,8 @@ import { site } from '../../data/site';
 ---
 
 <OffClockPage heading={smallFavoritesSection.title} description={smallFavoritesSection.description} noIndex>
-  <section class="entries" aria-labelledby="ganeshas-heading">
-    <h2 id="ganeshas-heading">Ganeshas of Mumbai</h2>
+  <details class="favorite" name="small-favorites">
+    <summary>Ganeshas of Mumbai</summary>
     <div class="bio">
       <p>
         My cousin in Mumbai got me curious about the history behind the city's Ganesh idols.
@@ -25,20 +25,20 @@ import { site } from '../../data/site';
         <a href={`mailto:${site.email}`}>Drop me a line</a> if you'd like to come by, hear more, or chip in.
       </p>
     </div>
-  </section>
+  </details>
 
-  <section class="entries" aria-labelledby="dosa-khakhra-heading">
-    <h2 id="dosa-khakhra-heading">Dosa khakhra</h2>
+  <details class="favorite" name="small-favorites">
+    <summary>Dosa khakhra</summary>
     <p class="bio">
       One thing I always bring back from Mumbai is dosa khakhra from
       <a href="https://neelamfoodlandmumbai.com/collections/dosa-khakhra">Neelam Foodland</a>,
       a farsan shop in Khar full of snacks and sweets. I get a funny look when I say 'dosa khakhra' to someone
       who's never heard of it. A bite usually clears things up.
     </p>
-  </section>
+  </details>
 
-  <section class="entries" aria-labelledby="ratlam-heading">
-    <h2 id="ratlam-heading">What I bring back from Ratlam</h2>
+  <details class="favorite" name="small-favorites">
+    <summary>Ratlami snacks</summary>
     <div class="bio">
       <p>
         My mom's family is from Ratlam, and I always bring back a packet of Ratlami sev when I visit.
@@ -50,5 +50,38 @@ import { site } from '../../data/site';
         Sanwariya Namkeen for the hing chips when I want that strong hit of asafoetida.
       </p>
     </div>
-  </section>
+  </details>
+
+  <details class="favorite" name="small-favorites">
+    <summary>Permanente Creek Trail</summary>
+    <p class="bio">
+      Every now and then I take the Permanente Creek Trail in Mountain View. I pick it up in town,
+      where it's a paved path, and follow it out to Shoreline, where I can keep walking along the Bay Trail.
+      It's flat and relaxing, and on a nice day it's one of my favorite ways to get outside.
+      I've talked my roommate into coming along a few times, too.
+    </p>
+  </details>
 </OffClockPage>
+
+<style>
+  .favorite {
+    border-block-start: 1px solid var(--border);
+  }
+
+  .favorite:last-child {
+    border-block-end: 1px solid var(--border);
+  }
+
+  summary {
+    padding: 0.875rem 0.25rem;
+    color: var(--accent);
+    cursor: pointer;
+    font-size: 1.125rem;
+    font-weight: 600;
+  }
+
+  .favorite .bio {
+    margin-block: 0;
+    padding: 0 0.25rem 1.125rem 1.375rem;
+  }
+</style>
