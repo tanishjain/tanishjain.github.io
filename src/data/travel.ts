@@ -153,7 +153,7 @@ export const placesVisited: Place[] = [
         paragraphs: [
           "We could already see Fuego erupting from base camp on Acatenango. Our group kept going toward Fuego, and it felt like every two steps up the loose volcanic sand sent me sliding one step back. At that elevation, I felt every step. As we got closer, I could feel the ground rumble when Fuego erupted.",
           "By the time we reached our viewpoint, it was nearly dusk. Fuego was erupting right in front of us, the sky had turned orange, and the clouds were below us. Acatenango rose behind us, and off to one side, Agua was peeking through the clouds. I took photos and still wish they could convey what it felt like to stand there. It's one of the most mesmerizing things I've ever seen.",
-          "I'd make the trip to Acatenango just to watch Fuego. Check local access rules and the latest volcanic activity before you go. Climbing Fuego is restricted.",
+          "I'd make the trip to Acatenango just to watch Fuego. We did the extra hike when we went. Turns out Guatemala's disaster agency has restricted the climb up Fuego, so check the latest access rules and volcanic activity before you go.",
         ],
         links: [
           { label: 'Fuego access restrictions', href: 'https://agn.gt/ascenso-al-volcan-de-fuego-permanece-restringido' },
