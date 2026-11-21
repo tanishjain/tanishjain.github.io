@@ -191,6 +191,16 @@ export const placesVisited: Place[] = [
         ],
         links: [{ label: 'The Cliff at Lake Nakuru', href: 'https://www.wilder-group.com/the-cliff' }],
       },
+      {
+        slug: 'rooting-for-the-wildebeest',
+        title: 'Rooting for the wildebeest',
+        year: 2026,
+        paragraphs: [
+          "We were hoping to see a hunt in the Maasai Mara. Early on our second morning, we saw a huge herd of wildebeest on the move. It was migration season, so there were plenty of them around. Then the herd started to break up, and we spotted two hyenas.",
+          "One of the hyenas started circling. Through our binoculars, we watched them single out a young wildebeest and take off after it. I'd been so excited to see a hunt, and now I was rooting for the wildebeest. They ran so far that we lost sight of them.",
+          "When we saw them again, they were much closer. The young wildebeest tore past our vehicle, making a racket, with the hyena well behind. The wildebeest had got away. That was pretty much my ideal outcome. The hyena, I imagine, would have preferred breakfast.",
+        ],
+      },
     ],
   },
   {
