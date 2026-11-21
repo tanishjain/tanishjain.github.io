@@ -204,6 +204,7 @@ export const placesVisited: Place[] = [
         paragraphs: [
           "We were partway through a family trip across Europe when we went up Mount Titlis. The air was crisp, and by then we were craving Indian food. When we came back down and saw a stall selling vada pav, it felt like perfect timing.",
           "There was a long line, and I remember the price being steep for a vada pav. We got one anyway. The filling tasted like a potato patty. It was one of the worst vada pavs I've had. I'd skip that stall if I went back.",
+          "My mom and I came up with a business plan on the spot. We'd open our own stall, put a proper vada in the pav, and charge a vada pav price.",
         ],
       },
       {
