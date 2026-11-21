@@ -82,7 +82,24 @@ export const placesVisited: Place[] = [
       },
     ],
   },
-  { name: 'France', years: [2014, 2019] },
+  {
+    name: 'France',
+    years: [2014, 2019],
+    notes: [
+      {
+        slug: 'three-rounds-of-caprese',
+        title: 'Three rounds of caprese in Paris',
+        year: 2019,
+        paragraphs: [
+          "My teammate and I were in Paris to pick up second prize at the USAIRE Student Awards. The awards were part of USAIRE's Thanksgiving dinner, held under the patronage of Florence Parly, France's armed forces minister at the time. It was a proper sit-down dinner with a room full of aerospace and defense executives. It felt like a pretty big deal.",
+          "We're both vegetarian. Our main course was basically gravy and vegetables, and I remember the dessert being excellent. By the time we got back to the hotel, we were still jet-lagged and starving.",
+          "It was late and hardly anything was open on Uber Eats. We found a bakery that had caprese sandwiches and ordered one each. Maybe it was the hunger. At the time it felt like the best caprese sandwich I'd ever had.",
+          "We were still hungry, so we placed the exact same order again. A little later, we did it a third time. Same bakery, same two sandwiches, three separate deliveries in one night.",
+        ],
+        link: { label: '2019 USAIRE Student Awards results', href: 'https://usairestudentawards.org/usaire-student-awards-2019/' },
+      },
+    ],
+  },
   { name: 'Germany', years: [2014] },
   { name: 'Guatemala', years: [2026] },
   { name: 'Hong Kong', years: [2006, 2016, 2019, 2025, 2026] },
