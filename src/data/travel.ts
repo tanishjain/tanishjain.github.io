@@ -209,6 +209,16 @@ export const placesVisited: Place[] = [
           { label: 'Latest volcanic activity from INSIVUMEH', href: 'https://insivumeh.gob.gt/vulca-boletin-diario/' },
         ],
       },
+      {
+        slug: 'oyster-mushroom-pepian-in-antigua',
+        title: 'Oyster mushroom pepián in Antigua',
+        year: 2026,
+        paragraphs: [
+          "We spent our first day in Antigua Guatemala wandering the cobblestone streets. I loved the old colonial buildings, the little shops and the volcanoes beyond the rooftops. Some streets had so little traffic they felt like they were just for people on foot. It was a lovely place to take our time.",
+          "We went to 27 Adentro specifically for pepián, one of Guatemala's classic stews. They do a vegan version with roasted oyster mushrooms, served in a little clay pot with this rich, reddish-orange sauce. The mushrooms worked beautifully in it. If you're in Antigua and want to try pepián as a vegetarian, this is where I'd go.",
+        ],
+        links: [{ label: '27 Adentro menu', href: 'https://www.27adentro.com/en/menu?location=Antigua+Guatemala&menu=27-adentro' }],
+      },
     ],
   },
   {
