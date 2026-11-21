@@ -78,6 +78,7 @@ export const placesVisited: Place[] = [
           "On our first day, Ale asked if we wanted a rundown of what to do in town. She got out a sheet of paper, drew us a map, and talked us through her recommendations as she went. It was one of the best introductions I've had to a new place.",
           "If I go back to Puerto Ayora, I'd stay with Ale again.",
         ],
+        link: { label: "Ale's Airbnb & Design listing", href: 'https://www.airbnb.com/rooms/1017409916808506956' },
       },
     ],
   },
@@ -95,7 +96,23 @@ export const placesVisited: Place[] = [
   { name: 'Netherlands', years: [2014] },
   { name: 'Peru', years: [2024] },
   { name: 'Serbia', years: [2023] },
-  { name: 'Singapore', years: [2015, 2019] },
+  {
+    name: 'Singapore',
+    years: [2015, 2019],
+    notes: [
+      {
+        slug: 'singapore-late-night-print-run',
+        title: 'A late-night print run',
+        year: 2015,
+        paragraphs: [
+          "My team had qualified in the UAE for the F1 in Schools World Finals in Singapore. We'd printed our booth posters in Dubai on the day we flew out. That night on Sentosa, jet-lagged and getting ready for the next morning, we finally unrolled them. The colors had come out so pale they barely looked like our team colors.",
+          "It was around 11 p.m. Most print shops were closed, and the few places we could find that were still open could only do A4. We needed full-size posters. We finally found a listing for someone who could print them. It had no reviews. We headed to the mainland anyway.",
+          "The address turned out to be a restaurant. We asked the owner about poster printing, and he told us we were in the right place. We gave him the file. I wondered if we were getting scammed. At that point we'd run out of options, so we paid him anyway.",
+          "He came through. We had our posters in time for the booth. So if you ever need something printed late at night in Singapore and the address leads you to a restaurant, maybe you're in the right place.",
+        ],
+      },
+    ],
+  },
   {
     name: 'Spain',
     years: [2014],
