@@ -148,7 +148,23 @@ export const placesVisited: Place[] = [
       },
     ],
   },
-  { name: 'Hong Kong', years: [2006, 2016, 2019, 2025, 2026] },
+  {
+    name: 'Hong Kong',
+    years: [2006, 2016, 2019, 2025, 2026],
+    notes: [
+      {
+        slug: 'hong-kong-without-a-plan',
+        title: 'Hong Kong without a plan',
+        year: 2025,
+        paragraphs: [
+          "I landed in Hong Kong early one morning in late November and had a flight out that night. My friend who lives there wasn't around, so I had the day to myself. The one thing I wanted to do was catch the sunrise from the Peak.",
+          "I took the train into town and a cab the rest of the way. I'd been to the Peak before. This was the first time I'd been up there so early, watching the city go from dark to light. It was so quiet I felt like I had the view to myself. That put me in a good mood for the rest of the day.",
+          "I took the tram down and wandered through Admiralty and Central, stopping whenever something looked good. At some point I crossed over to Tsim Sha Tsui and did the same thing in Kowloon. It was just me, whatever street I ended up on, and whatever I felt like eating.",
+          "By evening it was time to head back to the airport. I can't remember the names of the places I ate that day. It might be the best day of eating I've ever had in Hong Kong.",
+        ],
+      },
+    ],
+  },
   { name: 'Italy', years: [2014] },
   { name: 'Jordan', years: [2024] },
   { name: 'Kenya', years: [2026] },
