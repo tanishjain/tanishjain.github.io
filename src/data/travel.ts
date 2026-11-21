@@ -294,8 +294,8 @@ export const placesVisited: Place[] = [
         title: 'Two nights in Aguas Calientes',
         year: 2024,
         paragraphs: [
-          "We flew from Lima to Cusco, dropped our luggage at the hotel we'd be coming back to, and took the train to Aguas Calientes, also called Machu Picchu Pueblo. We stayed two nights, with our visit to Machu Picchu in between.",
-          "The main street is busy with people heading up to the ruins. Walk a little farther and take the time to chat with people who live there. The town sits in a beautiful valley right below the site. On our first night, my friends and I stayed up late at a restaurant over local food and drinks.",
+          "We flew from Lima to Cusco, dropped our luggage at the hotel we'd be coming back to, and took the train through the Sacred Valley to Aguas Calientes, also called Machu Picchu Pueblo. We stayed two nights, with our visit to Machu Picchu in between.",
+          "The main street is busy with people heading up to the ruins, and it can feel pretty touristy. Give yourself time to wander a little farther, chat with people who live there, and take in the setting. You're in a beautiful stretch of the Urubamba Valley right below Machu Picchu. On our first night, my friends and I stayed up late at a restaurant over local food and drinks.",
           "Aguas Calientes sits much lower than Cusco, so it was a gentler place to spend our first nights after flying in from Lima. Coca tea is easy to find, and I liked it as a little pick-me-up while we were out exploring.",
           "I'd stay both nights again. We had time to settle in before going up and an evening to relax afterward. The whole visit felt less rushed.",
         ],
