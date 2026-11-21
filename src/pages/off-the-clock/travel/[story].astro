@@ -23,6 +23,7 @@ const place = note.year ? `${name} · ${note.year}` : name;
   <article class="bio">
     <p class="story-place">{place}</p>
     {note.paragraphs.map((paragraph) => <p>{paragraph}</p>)}
+    {note.link && <p><a href={note.link.href}>{note.link.label}</a></p>}
   </article>
 </OffClockPage>
 

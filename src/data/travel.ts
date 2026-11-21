@@ -3,6 +3,7 @@ interface TravelNote {
   title: string;
   year?: number;
   paragraphs: string[];
+  link?: { label: string; href: string };
 }
 
 interface Place {
@@ -56,6 +57,17 @@ export const placesVisited: Place[] = [
           "On the walk from the Basílica del Voto Nacional toward Plaza Grande, we came across a tiny shop with a woman selling empanadas. I asked for a cheese one. It was bigger than my palm, cost 50 cents, and is still the best empanada I've had.",
           "I don't remember a name for the shop. I think it was on the right as we walked toward the plaza. If I ever go back to Quito, I'm taking that walk again.",
         ],
+      },
+      {
+        slug: 'dinner-at-ayora',
+        title: 'Dinner at Ayora',
+        year: 2024,
+        paragraphs: [
+          "A few friends and I were walking through Puerto Ayora when we stopped outside Ayora Resto Wine, a new tapas spot on Santa Cruz. We were trying to look up reviews when the chef came out to say hello. He told us they were still waiting for the restaurant to show up on Google Maps.",
+          "The chef was Andrés Arrata, who won the third season of MasterChef Ecuador. We got talking about India. He'd spent part of the pandemic in Haridwar, and my friends and I are from India, so we had plenty to talk about before we sat down.",
+          "It turned out to be one of the best meals of the trip. The mushroom dish was my favorite. I wish I'd written down what it was called. If you're on Santa Cruz, I'd go.",
+        ],
+        link: { label: 'Ayora Resto Wine menu and location', href: 'https://linktr.ee/ayora.restowine' },
       },
     ],
   },
