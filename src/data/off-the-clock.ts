@@ -1,15 +1,16 @@
+export const travelSection = {
+  slug: 'travel',
+  title: 'Travel stories',
+  description: "Places I've been and a few stories I keep meaning to write down.",
+};
+
 export const offClockSections = [
   {
     slug: 'food',
     title: 'Food',
     description: 'Places I go back to and things I make at home.',
   },
-  {
-    slug: 'travel',
-    title: 'Travel stories',
-    description: "Places I've been and a few stories I keep meaning to write down.",
-    note: "I've got the list of places. I'm still working on the stories.",
-  },
+  travelSection,
   {
     slug: 'books',
     title: 'Books',

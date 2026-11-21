@@ -1,0 +1,101 @@
+---
+import OffClockPage from '../../components/OffClockPage.astro';
+import { travelSection } from '../../data/off-the-clock';
+import { placesLived, placesVisited } from '../../data/travel';
+
+const sections = [
+  { id: 'places-lived', heading: "Places I've lived", places: placesLived },
+  { id: 'places-visited', heading: "Places I've visited", places: placesVisited },
+];
+---
+
+<OffClockPage heading={travelSection.title} description={travelSection.description} noIndex>
+  <p class="travel-intro bio">
+    I'll add the meals I still think about, the tips I'd pass on, and the stories I keep meaning to write down.
+  </p>
+
+  {sections.map(({ id, heading, places }) => (
+    <section class="entries" aria-labelledby={id}>
+      <h2 id={id}>{heading}</h2>
+      <ul class="places">
+        {places.map(({ name, cities, years, notes }) => {
+          const context = years?.join(', ') ?? cities;
+
+          return (
+            <li>
+              {notes?.length ? (
+                <details>
+                  <summary>
+                    <span class="place-name">{name}</span>
+                    {context && <span class="place-context">{context}</span>}
+                  </summary>
+                  <div class="travel-notes">
+                    {notes.map(({ title, paragraphs }) => (
+                      <article class="bio">
+                        <h3>{title}</h3>
+                        {paragraphs.map((paragraph) => <p>{paragraph}</p>)}
+                      </article>
+                    ))}
+                  </div>
+                </details>
+              ) : (
+                <p>
+                  <span class="place-name">{name}</span>
+                  {context && <span class="place-context">{context}</span>}
+                </p>
+              )}
+            </li>
+          );
+        })}
+      </ul>
+    </section>
+  ))}
+</OffClockPage>
+
+<style>
+  .travel-intro {
+    margin-bottom: 1.4rem;
+    color: var(--fg-muted);
+  }
+
+  .places {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .places li + li {
+    margin-top: 0.4rem;
+  }
+
+  .place-name {
+    font-weight: 550;
+  }
+
+  .place-context {
+    display: inline-block;
+    margin-inline-start: 0.5rem;
+    color: var(--fg-muted);
+    font: 0.875rem/1.5 var(--sans);
+  }
+
+  summary {
+    cursor: pointer;
+    color: var(--accent);
+  }
+
+  .travel-notes {
+    margin: 0.6rem 0 1rem;
+    border-inline-start: 1px solid var(--border);
+    padding-inline-start: 1rem;
+  }
+
+  .travel-notes article + article {
+    margin-top: 1rem;
+  }
+
+  .travel-notes h3 {
+    margin: 0 0 0.35rem;
+    font-size: 1.125rem;
+  }
+</style>
