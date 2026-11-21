@@ -4,6 +4,12 @@ export const travelSection = {
   description: "Places I've been and a few stories I keep meaning to write down.",
 };
 
+export const smallFavoritesSection = {
+  slug: 'small-favorites',
+  title: 'Small favorites',
+  description: 'Other things I keep coming back to.',
+};
+
 export const offClockSections = [
   {
     slug: 'food',
@@ -17,10 +23,5 @@ export const offClockSections = [
     description: 'A few books that stuck with me.',
     note: 'I read faster than I write about what I read.',
   },
-  {
-    slug: 'small-favorites',
-    title: 'Small favorites',
-    description: 'Other things I keep coming back to.',
-    note: "I've started the list. I keep getting distracted by more small favorites.",
-  },
+  smallFavoritesSection,
 ];

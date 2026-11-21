@@ -1,0 +1,39 @@
+---
+import OffClockPage from '../../components/OffClockPage.astro';
+import { smallFavoritesSection } from '../../data/off-the-clock';
+import { site } from '../../data/site';
+---
+
+<OffClockPage heading={smallFavoritesSection.title} description={smallFavoritesSection.description} noIndex>
+  <section class="entries" aria-labelledby="ganeshas-heading">
+    <h2 id="ganeshas-heading">Ganeshas of Mumbai</h2>
+    <div class="bio">
+      <p>
+        My cousin in Mumbai got me curious about the history behind the city's Ganesh idols.
+        He'd already found out quite a bit about some of them, and I wanted to see what else I could find.
+        That's how Ganeshas of Mumbai started. I'm bringing together old photographs and documents to trace
+        the histories of festival idols and temple shrines across the city. I'm still digging, and I'll share
+        the archive here when it's ready.
+      </p>
+      <p>
+        Every Ganesh Chaturthi, my cousin brings home a Ganesh idol. He uses the occasion to raise money,
+        usually for an education project. That might mean a lab or toilets for a rural school, or help with school fees and supplies.
+        We usually chip in a little.
+      </p>
+      <p>
+        If you're in Mumbai during Ganeshotsav, you're welcome to join us at home and see how we celebrate.
+        <a href={`mailto:${site.email}`}>Drop me a line</a> if you'd like to come by, hear more, or chip in.
+      </p>
+    </div>
+  </section>
+
+  <section class="entries" aria-labelledby="dosa-khakhra-heading">
+    <h2 id="dosa-khakhra-heading">Dosa khakhra</h2>
+    <p class="bio">
+      One thing I always bring back from Mumbai is dosa khakhra from
+      <a href="https://neelamfoodlandmumbai.com/collections/dosa-khakhra">Neelam Foodland</a>,
+      a farsan shop in Khar full of snacks and sweets. I get a funny look when I say 'dosa khakhra' to someone
+      who's never heard of it. A bite usually clears things up.
+    </p>
+  </section>
+</OffClockPage>
