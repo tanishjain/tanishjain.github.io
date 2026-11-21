@@ -173,13 +173,13 @@ export const placesVisited: Place[] = [
     years: [2025],
     notes: [
       {
-        slug: 'vegetarian-lunch-at-pou-tai',
-        title: 'A late lunch at Pou Tai Sin Un',
+        slug: 'a-late-lunch-in-macau',
+        title: 'A late lunch in Macau',
         year: 2025,
         paragraphs: [
-          "A friend and I were looking for a late lunch in Macau. We're both vegetarian, and most of the places we'd looked up had already closed for the afternoon. A search sent us to Pou Tai Sin Un, a Buddhist monastery in Taipa. The street was so quiet that when we walked in, I wondered if we'd got the wrong idea entirely.",
+          "A friend and I were looking for a late lunch in Macau. We're both vegetarian, and most of the places we'd looked up had already closed for the afternoon. We found a place called Sum Yuen on Google Maps. The pin brought us to Pou Tai Sin Un, a Buddhist monastery in Taipa. The street was so quiet that when we walked in, I wondered if we'd got the wrong idea entirely.",
           "Then we spotted a sign for food and followed it to a dining room. They were about to close and still let us in. It turned out to be an all-you-can-eat vegetarian buffet, and we made the most of it. We had noodles, sautéed vegetables, salad, and pretty much everything else we could fit on our plates.",
-          "It was one of the cheapest meals I've had on a trip, and we left very full. I'd go back for another lunch at the monastery. I'd just aim to get there a bit earlier.",
+          "It was one of the cheapest meals I've had on a trip, and we left very full. I'd go back for another lunch at the temple. I'd just aim to get there a bit earlier.",
         ],
         links: [{ label: 'Pou Tai Sin Un visitor information', href: 'https://www.macaotourism.gov.mo/en/sightseeing/temples/pou-tai-sin-un' }],
       },
