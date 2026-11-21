@@ -167,7 +167,31 @@ export const placesVisited: Place[] = [
   },
   { name: 'Italy', years: [2014] },
   { name: 'Jordan', years: [2024] },
-  { name: 'Kenya', years: [2026] },
+  {
+    name: 'Kenya',
+    years: [2026],
+    notes: [
+      {
+        slug: 'indian-food-at-shayona',
+        title: 'Indian food at Shayona in Nairobi',
+        year: 2026,
+        paragraphs: [
+          "If you're in Nairobi and craving Indian food, I'd go to Shayona in Parklands. It's a vegetarian restaurant with a big menu, and everything we tried was excellent.",
+        ],
+        links: [{ label: 'Shayona Vegetarian Restaurant', href: 'https://www.facebook.com/people/Baps-Shayona-Restaurant-Nairobi/100076665077216/' }],
+      },
+      {
+        slug: 'the-cliff-at-lake-nakuru',
+        title: 'The Cliff at Lake Nakuru',
+        year: 2026,
+        paragraphs: [
+          "It was a long, dusty drive from the Maasai Mara to Lake Nakuru, and we were exhausted when we arrived at The Cliff. The staff made us feel at home right away. The rooms face the lake, and watching the sunrise from there was lovely.",
+          "We felt like staying in, so we asked if we could roast some corn on the cob over the bonfire. The staff did it for us, with lemon and Indian masalas. If you're visiting Lake Nakuru, I'd stay at The Cliff. I'd happily spend another evening by that fire.",
+        ],
+        links: [{ label: 'The Cliff at Lake Nakuru', href: 'https://www.wilder-group.com/the-cliff' }],
+      },
+    ],
+  },
   {
     name: 'Macau',
     years: [2025],
