@@ -73,7 +73,27 @@ export const placesVisited: Place[] = [
       },
     ],
   },
-  { name: 'Costa Rica', years: [2026] },
+  {
+    name: 'Costa Rica',
+    years: [2026],
+    notes: [
+      {
+        slug: 'a-casado-and-a-glass-of-chan',
+        title: 'A casado and a glass of chan',
+        year: 2026,
+        paragraphs: [
+          "If you're in La Fortuna, get the vegetarian casado at Soda Víquez. A soda is a little local restaurant, and a casado is a bit of everything on one plate, usually rice, beans, salad and sides like plantains. The one at Víquez was simple, hearty and excellent. I also remember a big glass of what I think was tamarind juice.",
+          "At Soda El Turnito, across from Hotel Villas Vilma, I tried a fresco de chan. The whole glass was speckled with tiny seeds that looked like chia. Chan seeds get a little jelly-like coating when they soak in water, which is half the fun of drinking it.",
+          "My stomach had felt a little off during the trip, so the local habit of having chan when your stomach feels unsettled stuck with me. Next time I'm in Costa Rica, I'll know what to ask for.",
+        ],
+        links: [
+          { label: 'Soda Víquez', href: 'https://www.google.com/maps?cid=3138995368705210725' },
+          { label: 'Soda El Turnito', href: 'https://www.google.com/maps?cid=3813372025158908018' },
+          { label: 'Fresco de chan from the University of Costa Rica', href: 'https://alimentacionycultura.ucr.ac.cr/index.php/2023/10/08/refrescante-chan/' },
+        ],
+      },
+    ],
+  },
   {
     name: 'Czechia',
     years: [2014],
