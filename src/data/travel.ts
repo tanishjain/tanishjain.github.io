@@ -69,6 +69,16 @@ export const placesVisited: Place[] = [
         ],
         link: { label: 'Ayora Resto Wine menu and location', href: 'https://linktr.ee/ayora.restowine' },
       },
+      {
+        slug: 'ales-place-puerto-ayora',
+        title: "Ale's place in Puerto Ayora",
+        year: 2024,
+        paragraphs: [
+          "We stayed at Ale's place on Santa Cruz, a quiet little apartment in Puerto Ayora. I remember the dusty streets and being greeted by her two dogs, Muney and Hope.",
+          "On our first day, Ale asked if we wanted a rundown of what to do in town. She got out a sheet of paper, drew us a map, and talked us through her recommendations as she went. It was one of the best introductions I've had to a new place.",
+          "If I go back to Puerto Ayora, I'd stay with Ale again.",
+        ],
+      },
     ],
   },
   { name: 'France', years: [2014, 2019] },
