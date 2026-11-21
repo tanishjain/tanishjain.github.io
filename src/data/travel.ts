@@ -195,7 +195,22 @@ export const placesVisited: Place[] = [
   },
   { name: 'Switzerland', years: [2014] },
   { name: 'Taiwan', years: [2025] },
-  { name: 'Thailand', years: [2023] },
+  {
+    name: 'Thailand',
+    years: [2006, 2023],
+    notes: [
+      {
+        slug: 'bangkok-tuk-tuk',
+        title: 'A tuk-tuk out of the market',
+        year: 2023,
+        paragraphs: [
+          "I was in Bangkok with a few friends to teach a two-week AI program at a school. We'd go out and explore after teaching. One evening we were at a busy market trying to get back to the hotel. Nobody was accepting our ride on the apps, so we went looking for a tuk-tuk.",
+          "The first driver quoted us a fare my friends were ready to pay. I thought it was way too high. I'd done enough bargaining in India and on other trips to give it a try, so I offered less than half. He said no, and I moved on. My friends looked at me like I'd just turned down the last ride out of the market. Given the traffic and how few tuk-tuks we'd seen, they had a point.",
+          "At the next tuk-tuk, I started even lower. We went back and forth and landed at about the same price I'd offered the first driver. This time the driver said yes. We tipped him a little extra for taking the whole group and finally got out of the market.",
+        ],
+      },
+    ],
+  },
   { name: 'United Kingdom', years: [2017, 2023, 2025] },
   { name: 'Vatican City', years: [2014] },
 ];
