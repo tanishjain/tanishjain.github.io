@@ -186,6 +186,7 @@ export const placesVisited: Place[] = [
         year: 2026,
         paragraphs: [
           "It was a long, dusty drive from the Maasai Mara to Lake Nakuru, and we were exhausted when we arrived at The Cliff. The staff made us feel at home right away. The rooms face the lake, and watching the sunrise from there was lovely.",
+          "The chef was happy to cook whatever we were in the mood for. They even surprised us with dishes they'd made based on what they thought we'd like.",
           "We felt like staying in, so we asked if we could roast some corn on the cob over the bonfire. The staff did it for us, with lemon and Indian masalas. If you're visiting Lake Nakuru, I'd stay at The Cliff. I'd happily spend another evening by that fire.",
         ],
         links: [{ label: 'The Cliff at Lake Nakuru', href: 'https://www.wilder-group.com/the-cliff' }],
