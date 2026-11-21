@@ -43,7 +43,23 @@ export const placesVisited: Place[] = [
     ],
   },
   { name: 'Costa Rica', years: [2026] },
-  { name: 'Czechia', years: [2014] },
+  {
+    name: 'Czechia',
+    years: [2014],
+    notes: [
+      {
+        slug: 'prague-at-segway-speed',
+        title: 'Prague at Segway speed',
+        year: 2014,
+        paragraphs: [
+          "We had a short stay in Prague and wanted to see as much as we could. A guy in one of the squares offered us a Segway tour. We hadn't really ridden Segways before, and he made it sound like exactly what we needed. Before long, we'd followed him into his shop.",
+          "The tour was quick, all right. We'd pull up somewhere, get a sentence or two, and be rolling toward the next stop before anyone could ask a question. We covered a fair bit of Prague. I couldn't tell you much about it.",
+          "Back at the shop, we found out the guide was dating the guy who'd sold us the tour. We tried to tell him it had felt rushed. He took it personally, things got heated, and we figured we'd seen enough.",
+          "These days, I check the reviews before I say yes to the pitch.",
+        ],
+      },
+    ],
+  },
   {
     name: 'Ecuador',
     years: [2024],
@@ -101,7 +117,22 @@ export const placesVisited: Place[] = [
     ],
   },
   { name: 'Germany', years: [2014] },
-  { name: 'Guatemala', years: [2026] },
+  {
+    name: 'Guatemala',
+    years: [2026],
+    notes: [
+      {
+        slug: 'dinner-at-sublime',
+        title: 'Dinner at Sublime in Guatemala City',
+        year: 2026,
+        paragraphs: [
+          "A friend I was traveling with found Sublime in Guatemala City. He's serious about food, and I'm glad I went with his pick. The 12-course tasting menu draws on different parts of Guatemala. Each dish comes with a bit of history about the place that inspired it.",
+          "If you're vegetarian, I'd call ahead and ask for a vegetarian tasting menu. This is where I'd go for a dinner worth splurging on.",
+        ],
+        link: { label: 'Sublime menu and reservations', href: 'https://www.relaischateaux.com/us/restaurant/sublime-restaurant/' },
+      },
+    ],
+  },
   { name: 'Hong Kong', years: [2006, 2016, 2019, 2025, 2026] },
   { name: 'Italy', years: [2014] },
   { name: 'Jordan', years: [2024] },
