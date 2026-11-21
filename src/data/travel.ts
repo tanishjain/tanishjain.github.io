@@ -3,7 +3,7 @@ interface TravelNote {
   title: string;
   year?: number;
   paragraphs: string[];
-  link?: { label: string; href: string };
+  links?: { label: string; href: string }[];
 }
 
 interface Place {
@@ -38,6 +38,21 @@ export const placesVisited: Place[] = [
           "I went into a tiny restaurant with a note in Mandarin. It explained that I was vegetarian and covered things like fish sauce and oyster sauce. The woman running the place looked it over. She didn't have anything for me on the menu, so she waved me into the kitchen.",
           "She started making a stir-fry, holding up each ingredient and bottle of sauce for me to check. I'd look at the label, pull out my translation app if I needed it, and give her a nod. It turned out to be one of the best stir-fries I've had.",
           "When I sat down to eat, the guy at the next table seemed to ask if he could get one too. She pointed at me, then motioned for him to come into the kitchen.",
+        ],
+      },
+      {
+        slug: 'until-sunrise-in-shanghai',
+        title: 'Until sunrise in Shanghai',
+        year: 2025,
+        paragraphs: [
+          "A friend and I started the evening at Fu He Hui, a Buddhist-inspired vegetarian restaurant with two Michelin stars when we went. I loved how much they got out of such simple ingredients. The flavors were subtle, and there was a lot going on in each dish. My friend eats meat and loved it too. We had the whole tasting menu and left comfortably full, still up for a night out.",
+          "We met a friend who lives in Shanghai for drinks at FLAIR, the rooftop bar at the Ritz-Carlton in Pudong. I'd go back for the drinks and the view of the Bund. Afterward we crossed the river, picked up some local drinks and snacks, and stayed out talking until the sun came up over the Shanghai skyline.",
+          "Our friend had been debating whether to fly to Taiwan for a wedding. By morning the flight prices had dropped, and we were just tipsy enough to be very sure she should go. We asked what she was going to wear. She'd had a dress in her purse the whole time.",
+          "She went straight to the airport. My friend and I went back to the hotel to get some sleep. I still don't know how she kept going.",
+        ],
+        links: [
+          { label: 'Fu He Hui', href: 'https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/fu-he-hui' },
+          { label: 'FLAIR Rooftop Restaurant & Bar', href: 'https://www.flairrooftopbarshanghai.com/' },
         ],
       },
     ],
@@ -83,7 +98,7 @@ export const placesVisited: Place[] = [
           "The chef was Andrés Arrata, who won the third season of MasterChef Ecuador. We got talking about India. He'd spent part of the pandemic in Haridwar, and my friends and I are from India, so we had plenty to talk about before we sat down.",
           "It turned out to be one of the best meals of the trip. The mushroom dish was my favorite. I wish I'd written down what it was called. If you're on Santa Cruz, I'd go.",
         ],
-        link: { label: 'Ayora Resto Wine menu and location', href: 'https://linktr.ee/ayora.restowine' },
+        links: [{ label: 'Ayora Resto Wine menu and location', href: 'https://linktr.ee/ayora.restowine' }],
       },
       {
         slug: 'ales-place-puerto-ayora',
@@ -94,7 +109,7 @@ export const placesVisited: Place[] = [
           "On our first day, Ale asked if we wanted a rundown of what to do in town. She got out a sheet of paper, drew us a map, and talked us through her recommendations as she went. It was one of the best introductions I've had to a new place.",
           "If I go back to Puerto Ayora, I'd stay with Ale again.",
         ],
-        link: { label: "Ale's Airbnb & Design listing", href: 'https://www.airbnb.com/rooms/1017409916808506956' },
+        links: [{ label: "Ale's Airbnb & Design listing", href: 'https://www.airbnb.com/rooms/1017409916808506956' }],
       },
     ],
   },
@@ -112,7 +127,7 @@ export const placesVisited: Place[] = [
           "It was late and hardly anything was open on Uber Eats. We found a bakery that had caprese sandwiches and ordered one each. Maybe it was the hunger. At the time it felt like the best caprese sandwich I'd ever had.",
           "We were still hungry, so we placed the exact same order again. A little later, we did it a third time. Same bakery, same two sandwiches, three separate deliveries in one night.",
         ],
-        link: { label: '2019 USAIRE Student Awards results', href: 'https://usairestudentawards.org/usaire-student-awards-2019/' },
+        links: [{ label: '2019 USAIRE Student Awards results', href: 'https://usairestudentawards.org/usaire-student-awards-2019/' }],
       },
     ],
   },
@@ -129,7 +144,7 @@ export const placesVisited: Place[] = [
           "A friend I was traveling with found Sublime in Guatemala City. He's serious about food, and I'm glad I went with his pick. The 12-course tasting menu draws on different parts of Guatemala. Each dish comes with a bit of history about the place that inspired it.",
           "If you're vegetarian, I'd call ahead and ask for a vegetarian tasting menu. This is where I'd go for a dinner worth splurging on.",
         ],
-        link: { label: 'Sublime menu and reservations', href: 'https://www.relaischateaux.com/us/restaurant/sublime-restaurant/' },
+        links: [{ label: 'Sublime menu and reservations', href: 'https://www.relaischateaux.com/us/restaurant/sublime-restaurant/' }],
       },
     ],
   },
