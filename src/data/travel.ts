@@ -237,7 +237,22 @@ export const placesVisited: Place[] = [
       },
     ],
   },
-  { name: 'Mexico', years: [2025] },
+  {
+    name: 'Mexico',
+    years: [2025],
+    notes: [
+      {
+        slug: 'tostielotes-in-guadalajara',
+        title: 'Tostielotes in Guadalajara',
+        year: 2025,
+        paragraphs: [
+          "There was live music in Guadalajara's main square and a bunch of food stalls. One of them had Tostielotes, a snack a friend had told me to look for. They start with a bag of Tostitos and add corn, sour cream and spices. As soon as I saw it, I knew we had to get one.",
+          "I caught the price in Spanish and repeated it to my friend. He converted it to dollars and paid. We'd already walked away when he said, 'Wait, isn't that a lot?' I think it came to five or six dollars for a little bag. We'd just arrived in Mexico, and I was pretty sure we'd paid the tourist price.",
+          "It was delicious. I'd watched how they put it together, and I've been making it at home ever since. I think I got my money's worth.",
+        ],
+      },
+    ],
+  },
   { name: 'Monaco', years: [2014] },
   { name: 'Netherlands', years: [2014] },
   { name: 'Peru', years: [2024] },
