@@ -48,6 +48,7 @@ const profileSchema = {
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
+    {profile && <meta name="google-site-verification" content="ZT81z2xNNEOmrq0CPI059DCRN8bj-I45wlG-prQF0_E" />}
     {noIndex && <meta name="robots" content="noindex" />}
 
     <meta name="theme-color" content="#faf4e9" media="(prefers-color-scheme: light)" />
