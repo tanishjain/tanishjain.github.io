@@ -145,6 +145,19 @@ export const placesVisited: Place[] = [
         ],
         links: [{ label: '2019 USAIRE Student Awards results', href: 'https://usairestudentawards.org/usaire-student-awards-2019/' }],
       },
+      {
+        slug: 'across-the-lake-to-yvoire',
+        title: 'Across the lake to Yvoire',
+        paragraphs: [
+          "If you're in Geneva or Lausanne, I'd make a day trip to Yvoire. It's a little medieval village on the French side of Lake Geneva, with old stone buildings, narrow lanes and a castle right by the water. It still felt like a bit of a find when I went.",
+          "I especially liked the Jardin des Cinq Sens, a beautiful little maze of gardens built around the five senses. I'd leave time for the garden and a slow walk through the village.",
+          "Take the boat if you can. Service from Geneva and Lausanne is seasonal, so check the timetable for your dates.",
+        ],
+        links: [
+          { label: 'CGN boats to Yvoire', href: 'https://www.cgn.ch/fr/destination-yvoire.html' },
+          { label: 'Jardin des Cinq Sens', href: 'https://jardin5sens.net/' },
+        ],
+      },
     ],
   },
   { name: 'Germany', years: [2014] },
