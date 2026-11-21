@@ -24,7 +24,7 @@ export const placesLived: Place[] = [
         paragraphs: [
           "I was in high school in Dubai, but I spent my summers in Mumbai. One summer I volunteered to teach English to primary school kids, and I took the city bus there and back. It was my first time taking the bus on my own every day.",
           "Early on, I was standing in line when a bus slowed down in front of us. The older woman in a sari behind me told me to get on. I wasn't quite ready for that, so I let her go ahead. She hopped straight up to the second or third step while the bus was still moving. I got on when it stopped.",
-          "The same route took us past a temple on our left. Just about everyone would turn toward it, put their palms together, and bow their heads. It happened every time we passed. That's one of the things I still picture when I think about that summer.",
+          "The same route took us past Siddhivinayak Temple on our left. Just about everyone would turn toward it, put their palms together, and bow their heads. It happened every time we passed. That's one of the things I still picture when I think about that summer.",
         ],
       },
     ],
