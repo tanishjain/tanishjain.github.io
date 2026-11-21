@@ -92,6 +92,17 @@ export const placesVisited: Place[] = [
           { label: 'Fresco de chan from the University of Costa Rica', href: 'https://alimentacionycultura.ucr.ac.cr/index.php/2023/10/08/refrescante-chan/' },
         ],
       },
+      {
+        slug: 'superman-over-the-cloud-forest',
+        title: 'Superman over the cloud forest',
+        year: 2026,
+        paragraphs: [
+          "If you're in Monteverde, I'd do the canopy tour at Selvatura Adventure Park. Some of the ziplines take you through the cloud forest and others send you right over the treetops. The views were fantastic.",
+          "I'd pay extra for the Superman option on the last cable. You're harnessed in horizontally, with the treetops underneath you. That last line is a full kilometer, which is a long time to feel like you're flying. It was my favorite part.",
+          "I'd skip the sloth exhibit. It felt like a tiny, pricey zoo to me, and we saw a few sloths doing about as much as you'd expect sloths to do. I'd spend that time out in the forest and keep an eye on the trees.",
+        ],
+        links: [{ label: 'Selvatura canopy tour and Superman add-on', href: 'https://www.selvatura.com/tours/canopy-tour/' }],
+      },
     ],
   },
   {
