@@ -259,6 +259,13 @@ h2 {
   font-size: 1.5rem;
 }
 
+.restaurant-intro {
+  max-width: 60ch;
+  margin-bottom: 1rem;
+  color: var(--fg-muted);
+  font-size: 1rem;
+}
+
 .food-section h3 {
   margin: 0;
   font-size: 1.125rem;
