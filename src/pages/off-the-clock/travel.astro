@@ -1,6 +1,7 @@
 ---
 import OffClockPage from '../../components/OffClockPage.astro';
 import { travelSection } from '../../data/off-the-clock';
+import { site } from '../../data/site';
 import { placesLived, placesVisited } from '../../data/travel';
 
 const sections = [
@@ -47,6 +48,14 @@ const sections = [
       </ul>
     </section>
   ))}
+
+  <footer class="travel-footer bio">
+    <p>
+      Want tips for a trip or the longer version of a story?
+      <a href={`mailto:${site.email}?subject=Travel%20tips`}>Drop me a line</a>.
+      I'd love your recommendations, too. My list of places to go was never going to get shorter anyway.
+    </p>
+  </footer>
 </OffClockPage>
 
 <style>
@@ -63,6 +72,10 @@ const sections = [
 
   .places li + li {
     margin-top: 0.4rem;
+  }
+
+  .travel-footer {
+    margin-top: 2rem;
   }
 
   .place-name {
