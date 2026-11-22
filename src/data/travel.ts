@@ -20,10 +20,10 @@ export const placesLived: Place[] = [
     notes: [
       {
         slug: 'a-summer-on-the-mumbai-bus',
-        title: 'A summer on the Mumbai bus',
+        title: "The bus hadn't stopped yet",
         paragraphs: [
-          "I was in high school in Dubai, but I spent my summers in Mumbai. One summer I volunteered to teach English to primary school kids, and I took the city bus there and back. It was my first time taking the bus on my own every day.",
-          "Early on, I was standing in line when a bus slowed down in front of us. The older woman in a sari behind me told me to get on. I wasn't quite ready for that, so I let her go ahead. She hopped straight up to the second or third step while the bus was still moving. I got on when it stopped.",
+          "I spent a summer in Mumbai while I was in high school, volunteering to teach English to primary school kids. I took the city bus there and back. It was my first time riding it on my own every day.",
+          "Early on, I was standing in line when a bus slowed down in front of us. The older woman in a sari behind me told me to get on. I stepped aside to let her go ahead. She cleared the bottom step and landed on the second or third in one hop, while the bus was still rolling. I just stood there for a second, trying to work out what I'd seen. Then the bus stopped, and I got on.",
           "The same route took us past Siddhivinayak Temple on our left. Just about everyone would turn toward it, put their palms together, and bow their heads. It happened every time we passed. That's one of the things I still picture when I think about that summer.",
         ],
       },
@@ -132,7 +132,7 @@ export const placesVisited: Place[] = [
           "I'd pay extra for the Superman option on the last cable. You're harnessed in horizontally, with the treetops underneath you. That last line is a full kilometer, which is a long time to feel like you're flying. It was my favorite part.",
           "I'd skip the sloth exhibit. It felt like a tiny, pricey zoo to me, and we saw a few sloths doing about as much as you'd expect sloths to do. I'd spend that time out in the forest and keep an eye on the trees.",
         ],
-        links: [{ label: 'Selvatura canopy tour and Superman add-on', href: 'https://www.selvatura.com/tours/canopy-tour/' }],
+        links: [{ label: 'Selvatura Canopy Tour', href: 'https://www.selvatura.com/tours/canopy-tour/' }],
       },
     ],
   },
