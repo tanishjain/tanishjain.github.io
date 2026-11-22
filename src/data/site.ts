@@ -1,6 +1,6 @@
 export const site = {
   name: 'Tanish Jain',
-  title: 'Tanish Jain | AI/ML Engineer',
+  title: 'Tanish Jain | Principal AI/ML Engineer at Wiley',
   description:
     'Tanish Jain is a Principal AI/ML Engineer at Wiley and a Stanford and UC San Diego alum. Selected research, writing, and profiles.',
   email: 'tanishj@stanford.edu',
