@@ -224,7 +224,7 @@
           "caption": "Udyan Ganesh sanctum: draped central image and attendant figures, photographer date 7 June 2021.",
           "credit": "Sumeet Rege",
           "dateEvidence": "Commons own-work description gives 7 June 2021; upload date is the same day, but no independently authenticated capture record was inspected.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "UG05"
           ],
@@ -234,7 +234,8 @@
             "observedForm": "Draped central silver Ganesh in a physical sanctum, sunburst golden halo, two larger attendants with flywhisks, two smaller side figures, carved pillars, flowers and offering vessels; watermark gypsy_bhatkya.",
             "alignsWithSource": true,
             "note": "Native downloaded image visually inspected. Subject agrees with the source location; year comes from the cited photographer metadata and is not inferred from appearance."
-          }
+          },
+          "contextualPhoto": true
         },
         {
           "id": "udyan-2021-exterior-study-circle",

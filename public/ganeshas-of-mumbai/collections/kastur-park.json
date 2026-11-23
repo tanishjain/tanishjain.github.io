@@ -240,13 +240,13 @@
       "media": [
         {
           "id": "kastur-2016-thakur",
-          "originalUrl": "https://www.hindustantimes.com/mumbai-news/10-ganpatis-we-recommend-you-must-visit-in-mumbai/story-lKodeoFTcqNmNihWho9V1N.html",
+          "originalUrl": "https://images.hindustantimes.com/rf/image_size_640x362/HT/p2/2016/09/05/Pictures/september-hindustan-borivali-sarvajanik-ganeshotsav-ganpati-mandal_1656c1d2-7344-11e6-9bc1-888b3aba2d1d.JPG",
           "kind": "photograph",
           "label": "2016 Ganesh",
           "caption": "A cross-legged Ganesh within dark carved pillars and arches, surrounded by standing and hanging brass lamps.",
           "credit": "Pramod Thakur / HT.",
           "dateEvidence": "2016 festival report.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "kas-ht-photo",
             "kas-toi2016"
@@ -257,7 +257,8 @@
             "observedForm": "Crowned four-armed Ganesh seated cross-legged in bright yellow-green trousers, raised blessing hand and two upper implements; carved stone-like pillars, arch, brass standing lamps and hanging lamps in a dark physical mandap.",
             "alignsWithSource": true,
             "note": "Photo opened and inspected. The setting aligns with the contemporaneously reported Kedarnath-inspired pandal. Exact capture day is not supplied by the accessible photo caption."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -321,14 +322,14 @@
       "media": [
         {
           "id": "kastur-2025-vrittamanas",
-          "originalUrl": "https://8da476a5-1c7a-4a72-8fb1-f347a2dd8ae2.filesusr.com/ugd/683256_7143b95025f142b19cdbda9ed9e0176d.pdf",
+          "originalUrl": "https://8da476a5-1c7a-4a72-8fb1-f347a2dd8ae2.filesusr.com/ugd/683256_7143b95025f142b19cdbda9ed9e0176d.pdf#page=8",
           "sourceAssetType": "photograph embedded in newspaper PDF; no separate HTTP image asset located",
           "kind": "photograph",
           "label": "Ganesh in Vrittamanas - published 2025",
           "caption": "Cross-legged Ganesh in yellow-green and purple, against waterfall scenery; extracted from the newspaper's specifically captioned photograph.",
           "credit": "Vrittamanas,5 September 2025,p 8; individual photographer not credited.",
           "dateEvidence": "Dated newspaper issue and adjacent caption identify Kastur Park's 47 th festival. Capture day unknown; newspaper-publication-year evidence.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "kas-vrittamanas"
           ],
@@ -338,7 +339,8 @@
             "observedForm": "Tight photograph of crowned four-armed Ganesh seated cross-legged in yellow-green garments with purple stole, garlands and jewellery; raised blessing hand, two upper gold implements; painted waterfalls and foliage behind.",
             "alignsWithSource": true,
             "note": "Full newspaper page and separately extracted photograph inspected. Adjacent caption explicitly names Kastur Park and the 47 th festival. Poppler RGB extraction preserves the embedded photo at 381 x 359; no reconstruction, enlargement or scenery invention."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     }
@@ -346,13 +348,13 @@
   "undatedMedia": [
     {
       "id": "kastur-flickr-undated-procession",
-      "originalUrl": "https://www.flickr.com/photos/10742434@N02/5014800532/",
+      "originalUrl": "https://live.staticflickr.com/4126/5014800532_0761c255d0.jpg",
       "kind": "photograph",
       "label": "Procession - capture year unverified",
       "caption": "Garlanded Ganesh under a flower-covered parasol, surrounded by people. The uploader identifies Kastur Park; the image has a visible blurred vignette.",
       "credit": "janoella / Flickr.",
       "dateEvidence": "Flickr says Taken 7 October 2008 and Uploaded 22 September 2010. Later upload is not itself a contradiction, but the capture date and festival year have not been independently verified.",
-      "rights": "Image referenced; reproduction under review.",
+      "rights": "Reproduced to discuss the photo's date and source.",
       "sourceIds": [
         "kas-flickr"
       ],
@@ -362,7 +364,8 @@
         "observedForm": "Crowned orange-pink Ganesh with flower garlands and raised hands beneath a circular floral parasol; greenery and people around a procession platform; strongly blurred vignette at edges.",
         "alignsWithSource": true,
         "note": "Published image opened and inspected. It supports the uploader's procession description but contains no legible year or mandal banner to independently establish the exact event."
-      }
+      },
+      "contextualPhoto": true
     }
   ],
   "sources": [

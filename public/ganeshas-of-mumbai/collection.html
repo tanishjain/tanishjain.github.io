@@ -193,6 +193,7 @@
 </footer>
 
 <script src="collection-utils.js"></script>
+<script src="image-evidence.js"></script>
 <script>
 (function () {
   'use strict';
@@ -399,21 +400,17 @@
         contactYears.forEach(function (y) {
           if (!y) return;
           var disputed = isDisputed(y.media);
-          var m = y.media && y.media.length ? y.media[0] : null;
+          var m = (y.media || []).find(function (item) { return item.src; }) || ArchiveEvidence.representative(y.media);
           var src = m ? (m.src || '') : '';
           var kLabel = m ? kindLabel(m.kind) : '';
           var dateLbl = m ? U.mediaDateLabel(m) : '';
           var recHref = U.recordHref(slug, y.year);
 
           ghtml += '<div>';
-          ghtml += '<a href="' + U.esc(recHref) + '" class="contact-sheet__item" aria-label="' + U.esc(String(y.year)) + (y.title ? ': ' + y.title : '') + '">';
-          ghtml += '<div class="contact-sheet__item-inner">';
+          ghtml += '<a href="' + U.esc(recHref) + '" class="contact-sheet__item' + (src ? '' : ' contact-sheet__item--reference') + '" aria-label="' + U.esc(String(y.year)) + (y.title ? ': ' + y.title : '') + '">';
           if (src) {
-            ghtml += '<img src="' + U.esc(src) + '" alt="' + U.esc(String(y.year) + (y.title ? ' — ' + y.title : '')) + '" loading="lazy">';
-          } else {
-            ghtml += '<div style="aspect-ratio:3/4; background:var(--rule); display:flex; align-items:center; justify-content:center;"><span style="font-family:var(--font-serif); font-size:1.5rem; font-weight:300; color:var(--ink-muted);">' + U.esc(String(y.year)) + '</span></div>';
+            ghtml += '<div class="contact-sheet__item-inner"><img src="' + U.esc(src) + '" alt="' + U.esc(String(y.year) + (y.title ? ' — ' + y.title : '')) + '" loading="lazy"></div>';
           }
-          ghtml += '</div>';
           ghtml += '<div class="contact-sheet__caption-block">';
           ghtml += '<p class="contact-sheet__caption-year">' + U.esc(String(y.year));
           if (disputed) ghtml += ' <span class="badge--disputed">Year disputed</span>';
@@ -422,7 +419,7 @@
           if (kLabel) ghtml += '<p class="contact-sheet__caption-kind">' + U.esc(kLabel) + '</p>';
           if (dateLbl) ghtml += '<p class="contact-sheet__caption-date-label">' + U.esc(dateLbl) + '</p>';
           ghtml += '</div>';
-          ghtml += '</a>';
+          ghtml += '</a>' + ArchiveEvidence.link(m, String(y.year));
           ghtml += '</div>';
         });
         gridEl.innerHTML = ghtml || '<p class="t-caption text-faint">No records located yet.</p>';
@@ -444,15 +441,16 @@
             var imgStyle = m.maxWidth ? 'max-width:' + m.maxWidth + 'px; width:100%; display:block;' : '';
             uhtml += '<img src="' + U.esc(src) + '" alt="' + U.esc(m.caption || 'Undated photograph') + '" loading="lazy"' + (imgStyle ? ' style="' + imgStyle + '"' : '') + '>';
           } else {
-            uhtml += '<div style="aspect-ratio:3/4; background:var(--rule); display:flex; align-items:center; justify-content:center;"><span class="t-caption text-faint" style="text-align:center; padding:var(--space-m);">Image referenced</span></div>';
+            uhtml += ArchiveEvidence.figure(m, slug);
           }
           uhtml += '<div class="undated-media-item__body">';
           var undatedDateLbl = U.mediaDateLabel(m, true);
+          uhtml += ArchiveEvidence.link(m);
           uhtml += '<span class="undated-label">' + U.esc(undatedDateLbl) + '</span>';
           if (m.label) uhtml += '<p class="t-label" style="margin-top:0.3em;">' + U.esc(m.label) + '</p>';
-          if (m.caption) uhtml += '<p class="t-caption mt-s">' + U.esc(m.caption) + '</p>';
+          if (m.caption && !m.contextualPhoto) uhtml += '<p class="t-caption mt-s">' + U.esc(m.caption) + '</p>';
           if (m.credit) uhtml += '<p class="t-caption" style="margin-top:0.2em; color:var(--ink-faint);">' + U.esc(m.credit) + '</p>';
-          if (m.dateEvidence) uhtml += '<p class="t-caption mt-s"><strong style="color:var(--ink-faint);">Date evidence:</strong> ' + U.esc(m.dateEvidence) + '</p>';
+          if (m.dateEvidence && !m.contextualPhoto) uhtml += '<p class="t-caption mt-s"><strong style="color:var(--ink-faint);">Date evidence:</strong> ' + U.esc(m.dateEvidence) + '</p>';
           if (m.rights) uhtml += '<p class="t-caption" style="color:var(--ink-faint);">Rights: ' + U.esc(m.rights) + '</p>';
           if (m.sourceIds && m.sourceIds.length) {
             uhtml += '<p class="t-caption mt-s">Sources: ' + U.citationLinks(m.sourceIds, sources, slug) + '</p>';

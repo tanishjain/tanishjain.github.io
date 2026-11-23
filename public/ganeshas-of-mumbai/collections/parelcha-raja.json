@@ -184,7 +184,7 @@
       "media": [
         {
           "id": "1971-official-krishna-leela",
-          "originalUrl": "https://parelcharaja.in/gallery/junya-smruti.php",
+          "originalUrl": "https://parelcharaja.in/uploads/2016/06/old-memories.jpg",
           "kind": "photograph",
           "label": "Historical stage photograph with printed year",
           "caption": "Standing/dancing Ganesh in a Krishna-themed tableau, print-labelled Nare Park, 1971.",
@@ -192,7 +192,7 @@
           "dateEvidence": "Printed institutional header names परळ विभाग सार्वजनिक गणेशोत्सव मंडळ (नरेपार्क), with centre year १९७१ and Krishna Leela caption. Source attribution, not negative/capture authentication.",
           "dateStatus": "source-attributed",
           "yearConfidence": "visible_printed_institution_and_year",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "PR07"
           ],
@@ -201,7 +201,8 @@
             "observedForm": "Standing/dancing four-armed Ganesh with long garlands, a raised foot and dark scalloped halo, flanked by human/divine figures, trees and a small architecture prop; physical floor and printed institutional/year header visible.",
             "alignsWithSource": true,
             "note": "Original 640 x 480 reproduction individually viewed. It is a photograph of a physical tableau; ageing, colour cast and later reproduction process remain unverified."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -225,7 +226,7 @@
       "media": [
         {
           "id": "2014-official-aagman-phase2",
-          "originalUrl": "https://parelcharaja.in/gallery/aagman-2014.php",
+          "originalUrl": "https://parelcharaja.in/uploads/2016/06/IMG_3325-768x1024.jpg",
           "kind": "photograph",
           "label": "Institutional arrival photograph",
           "caption": "Nare Park's Parelcha Raja arrival form, archive-attributed 2014.",
@@ -233,7 +234,7 @@
           "dateEvidence": "The exact Nare Park institutional page explicitly labels the album 2014. No upload-folder or filename arithmetic is used.",
           "dateStatus": "source-attributed",
           "yearConfidence": "official_year_labelled_album",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "PR08"
           ],
@@ -242,7 +243,8 @@
             "observedForm": "Four-armed blue-grey Ganesh in yellow garments above a rearing white horse, with physical crowd, scaffolding and a blue-covered workshop roof.",
             "alignsWithSource": true,
             "note": "Actually viewed in the album contact sheet; 2016/2017/2019 selected originals viewed individually. The institution/year attribution is preserved with its retrospective limit."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -266,7 +268,7 @@
       "media": [
         {
           "id": "2015-official-aagman-phase2",
-          "originalUrl": "https://parelcharaja.in/gallery/aagman-2015.php",
+          "originalUrl": "https://parelcharaja.in/uploads/2016/06/12000915_900726866629966_7439837893211433815_o-208x300.jpg",
           "kind": "photograph",
           "label": "Institutional arrival photograph",
           "caption": "Nare Park's Parelcha Raja arrival form, archive-attributed 2015.",
@@ -274,7 +276,7 @@
           "dateEvidence": "The exact Nare Park institutional page explicitly labels the album 2015. No upload-folder or filename arithmetic is used.",
           "dateStatus": "source-attributed",
           "yearConfidence": "official_year_labelled_album",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "PR09"
           ],
@@ -283,7 +285,8 @@
             "observedForm": "Tall standing multi-armed Ganesh, high crown, yellow-green garments, multiple held implements and a bird/animal support, amid an actual street crowd at sunset.",
             "alignsWithSource": true,
             "note": "Actually viewed in the album contact sheet; 2016/2017/2019 selected originals viewed individually. The institution/year attribution is preserved with its retrospective limit."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -307,7 +310,7 @@
       "media": [
         {
           "id": "2016-official-aagman-phase2",
-          "originalUrl": "https://parelcharaja.in/gallery/aagman-2016.php",
+          "originalUrl": "https://parelcharaja.in/uploads/2016/08/FB_IMG_14725427878622.jpg",
           "kind": "photograph",
           "label": "Institutional arrival photograph",
           "caption": "Nare Park's Parelcha Raja arrival form, archive-attributed 2016.",
@@ -315,7 +318,7 @@
           "dateEvidence": "The exact Nare Park institutional page explicitly labels the album 2016. The photograph itself also overlays the institution name and year in Marathi. No upload-folder or filename arithmetic is used.",
           "dateStatus": "source-attributed",
           "yearConfidence": "official_annual_album_and_visible_year_overlay",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "PR10"
           ],
@@ -324,7 +327,8 @@
             "observedForm": "Four-armed Ganesh with crown and trident, pink drapery and one knee raised against a many-hooded snake support; blue-shirted volunteers, flyover spectators and tree visible.",
             "alignsWithSource": true,
             "note": "Actually viewed in the album contact sheet; 2016/2017/2019 selected originals viewed individually. The institution/year attribution is preserved with its retrospective limit."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -348,7 +352,7 @@
       "media": [
         {
           "id": "2017-official-aagman-phase2",
-          "originalUrl": "https://parelcharaja.in/gallery/aagman-2017.php",
+          "originalUrl": "https://parelcharaja.in/uploads/2017/08/FB_IMG_1503229486809.jpg",
           "kind": "photograph",
           "label": "Institutional arrival photograph",
           "caption": "Nare Park's Parelcha Raja arrival form, archive-attributed 2017.",
@@ -356,7 +360,7 @@
           "dateEvidence": "The exact Nare Park institutional page explicitly labels the album 2017. The photograph itself also overlays the institution name and year in Marathi. No upload-folder or filename arithmetic is used.",
           "dateStatus": "source-attributed",
           "yearConfidence": "official_annual_album_and_visible_year_overlay",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "PR11"
           ],
@@ -365,7 +369,8 @@
             "observedForm": "Standing four-armed Ganesh in yellow garments and red stole, a lotus held at right, tall gold frame and a green many-armed figure above; dense crowd, tree, dark sky and shops.",
             "alignsWithSource": true,
             "note": "Actually viewed in the album contact sheet; 2016/2017/2019 selected originals viewed individually. The institution/year attribution is preserved with its retrospective limit."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -389,7 +394,7 @@
       "media": [
         {
           "id": "2018-official-padyapujan-phase2",
-          "originalUrl": "https://parelcharaja.in/gallery/padyapujan-2018.php",
+          "originalUrl": "https://parelcharaja.in/uploads/2019/07/IMG20180812123051-min.jpg",
           "kind": "photograph",
           "label": "Institutional ritual photograph",
           "caption": "Nare Park's Parelcha Raja padyapujan ritual, archive-attributed 2018.",
@@ -397,7 +402,7 @@
           "dateEvidence": "The exact Nare Park institutional page explicitly labels the album 2018. No upload-folder or filename arithmetic is used.",
           "dateStatus": "source-attributed",
           "yearConfidence": "official_year_labelled_album",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "PR12"
           ],
@@ -406,7 +411,8 @@
             "observedForm": "A large golden foot/paduka-shaped sacred object being washed or anointed, with flowers, water vessels and gathered participants in a covered workshop; finished Ganesh body not visible.",
             "alignsWithSource": true,
             "note": "Actually viewed in the album contact sheet; 2016/2017/2019 selected originals viewed individually. The institution/year attribution is preserved with its retrospective limit."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -430,7 +436,7 @@
       "media": [
         {
           "id": "2019-official-aagman-phase2",
-          "originalUrl": "https://parelcharaja.in/gallery/aagman-2019.php",
+          "originalUrl": "https://parelcharaja.in/uploads/2019/08/IMG-20190825-WA0221-200x300.jpg",
           "kind": "photograph",
           "label": "Institutional arrival photograph",
           "caption": "Nare Park's Parelcha Raja arrival form, archive-attributed 2019.",
@@ -438,7 +444,7 @@
           "dateEvidence": "The exact Nare Park institutional page explicitly labels the album 2019. No upload-folder or filename arithmetic is used.",
           "dateStatus": "source-attributed",
           "yearConfidence": "official_year_labelled_album",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "PR13"
           ],
@@ -447,7 +453,8 @@
             "observedForm": "Standing multi-armed Ganesh in yellow dhoti, green sash and red stole, with trident and other implements, a circular sun-like backing; flyover, apartments, trees and actual procession crowd.",
             "alignsWithSource": true,
             "note": "Actually viewed in the album contact sheet; 2016/2017/2019 selected originals viewed individually. The institution/year attribution is preserved with its retrospective limit."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -474,13 +481,13 @@
       "media": [
         {
           "id": "2022-express-pandal",
-          "originalUrl": "https://indianexpress.com/article/cities/mumbai/traditions-on-creating-idols-to-their-send-off-three-theme-based-ganpati-mandals-in-mumbai-8121311/",
+          "originalUrl": "https://images.indianexpress.com/2022/08/Untitled-design-3-12.jpg?resize=600%2C334",
           "kind": "photograph",
           "label": "Contemporary press photograph",
           "caption": "Standing Parelcha Raja in the 2022 physical pandal.",
           "credit": "Amit Chakravarty / The Indian Express",
           "dateEvidence": "Article first published 30 August 2022, updated 9 September; caption identifies Parel Cha Raja and accompanying text gives the 2022 form.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "PR03"
           ],
@@ -491,7 +498,8 @@
             "alignsWithSource": true,
             "note": "Direct image visually inspected in Chrome. It matches the named Parel caption and standing Gajalaxmi reporting; attributes alone are not used to infer the year."
           },
-          "dateStatus": "contemporary"
+          "dateStatus": "contemporary",
+          "contextualPhoto": true
         }
       ]
     },
@@ -508,13 +516,13 @@
       "media": [
         {
           "id": "2025-loksatta-arrival",
-          "originalUrl": "https://www.loksatta.com/photos/ganeshutsav/5331272/ganeshotsav-2025-see-photos-of-lalbaug-parel-ganpati-bappa-decoration-theme-festival-sdn-96/lite/",
+          "originalUrl": "https://images.loksattaimg.com/2025/08/Lalbaug-Parel-Ganpati-2025-8.jpg",
           "kind": "photograph",
           "label": "Contemporary regional press photograph",
           "caption": "Parelcha Raja of Parel Vibhag Sarvajanik Ganeshotsav Mandal, Nare Park.",
           "credit": "Mandal / Instagram via Loksatta; photographer not individually credited",
           "dateEvidence": "2025 gallery published 26 August; specific caption names Nare Park. Capture day unestablished.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "PR04"
           ],
@@ -525,7 +533,8 @@
             "alignsWithSource": true,
             "note": "Direct image visually inspected. Caption explicitly names Nare Park; visible Rama-like attributes are described, without assigning an unsourced official theme title."
           },
-          "dateStatus": "contemporary"
+          "dateStatus": "contemporary",
+          "contextualPhoto": true
         }
       ]
     },
@@ -550,7 +559,7 @@
       "media": [
         {
           "id": "2026-official-aagman-phase2",
-          "originalUrl": "https://parelcharaja.in/gallery/aagman-sohala-2026.php",
+          "originalUrl": "https://parelcharaja.in/uploads/2026/09/pcr-aagman-sohala-2026-03.jpg",
           "kind": "photograph",
           "label": "Institutional arrival photograph",
           "caption": "Nare Park's Parelcha Raja arrival form, archive-attributed 2026.",
@@ -558,7 +567,7 @@
           "dateEvidence": "The exact Nare Park institutional page explicitly labels the album 2026. No upload-folder or filename arithmetic is used.",
           "dateStatus": "source-attributed",
           "yearConfidence": "official_year_labelled_album",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "PR14"
           ],
@@ -567,7 +576,8 @@
             "observedForm": "Four-armed standing Ganesh in a white turban, purple kurta and yellow trousers, holding/playing a large barrel drum with another vessel-like musical attribute; workshop roof and procession crowd visible.",
             "alignsWithSource": true,
             "note": "Actually viewed in the album contact sheet; 2016/2017/2019 selected originals viewed individually. The institution/year attribution is preserved with its retrospective limit."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     }

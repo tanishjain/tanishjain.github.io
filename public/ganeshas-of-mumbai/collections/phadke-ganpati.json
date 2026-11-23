@@ -157,7 +157,7 @@
       "media": [
         {
           "id": "phadke-2019-ritual-scene",
-          "originalUrl": "https://phadkeshreeganpati.org/gallery/",
+          "originalUrl": "https://phadkeshreeganpati.org/wp-content/uploads/2024/09/DSC0095.jpg",
           "kind": "photograph",
           "label": "Ritual sequence - camera-attributed 2019",
           "caption": "Two participants in bright pink ceremonial cloth perform a ritual with a coconut and metal vessels; attendees and a hand drummer sit behind them inside the temple hall.",
@@ -165,7 +165,7 @@
           "dateStatus": "source-attributed",
           "dateEvidence": "Native NikonD 90 DateTimeOriginal=2019:05:04 04:03:53; DateTime processing record is 28 January 2020. Neither processing date nor 2024 upload directory is used as capture year.",
           "yearConfidence": "native_camera_date_only; event_identity_and_clock_unverified",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "PG05",
             "PG07"
@@ -175,11 +175,12 @@
             "observedForm": "Two participants in bright pink ceremonial cloth perform a ritual with a coconut and metal vessels; attendees and a hand drummer sit behind them inside the temple hall.",
             "alignsWithSource": true,
             "note": "Downloaded native file opened and inspected on 16 November 2026; documentary ritual context, not the main permanent-icon portrait."
-          }
+          },
+          "contextualPhoto": true
         },
         {
           "id": "phadke-2019-small-metal-ganesh",
-          "originalUrl": "https://phadkeshreeganpati.org/gallery/",
+          "originalUrl": "https://phadkeshreeganpati.org/wp-content/uploads/2024/09/DSC0162.jpg",
           "kind": "photograph",
           "label": "Ritual sequence - camera-attributed 2019",
           "caption": "Close view of a small gold-coloured seated Ganesh held against pink cloth, with green grass, flowers, rice and a participant's hands.",
@@ -187,7 +188,7 @@
           "dateStatus": "source-attributed",
           "dateEvidence": "Native NikonD 90 DateTimeOriginal=2019:05:04 04:42:32; DateTime processing record is 28 January 2020. Neither processing date nor 2024 upload directory is used as capture year.",
           "yearConfidence": "native_camera_date_only; event_identity_and_clock_unverified",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "PG05",
             "PG07"
@@ -197,7 +198,8 @@
             "observedForm": "Close view of a small gold-coloured seated Ganesh held against pink cloth, with green grass, flowers, rice and a participant's hands.",
             "alignsWithSource": true,
             "note": "Downloaded native file opened and inspected on 16 November 2026; documentary ritual context, not the main permanent-icon portrait."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -221,13 +223,13 @@
       "media": [
         {
           "id": "phadke-food-2023-1",
-          "originalUrl": "https://phadkeshreeganpati.org/news/food-donation-20-oct-2023/",
+          "originalUrl": "https://phadkeshreeganpati.org/wp-content/uploads/2024/09/%E0%A4%85%E0%A4%A8%E0%A5%8D%E0%A4%A8%E0%A4%A6%E0%A4%BE%E0%A4%A8-%E0%A5%A8%E0%A5%A6%E0%A5%A7%E0%A5%A6%E0%A5%A8%E0%A5%A9.jpg",
           "kind": "photograph",
           "label": "Dated institutional event photograph",
           "caption": "Food assistance distribution at the Phadke trust’s Yashomangal hall, event dated 20 October 2023.",
           "credit": "Phadke Shree Ganpati website; photographer not named",
           "dateEvidence": "Institutional article title and body explicitly give 20 October 2023 and display this photograph; capture date is tied to that documented event, not the later upload folder.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "PG04"
           ],
@@ -237,17 +239,18 @@
             "observedForm": "A student and adult hold a bag on a hall stage; a trustee-name board and Marathi Phadke charitable-trust banner identify the institutional setting. No Ganesh image in this frame.",
             "alignsWithSource": true,
             "note": "Native file downloaded and inspected; accurately labelled community service rather than deity photograph."
-          }
+          },
+          "contextualPhoto": true
         },
         {
           "id": "phadke-food-2023-2",
-          "originalUrl": "https://phadkeshreeganpati.org/news/food-donation-20-oct-2023/",
+          "originalUrl": "https://phadkeshreeganpati.org/wp-content/uploads/2024/09/%E0%A4%85%E0%A4%A8%E0%A5%8D%E0%A4%A8%E0%A4%A6%E0%A4%BE%E0%A4%A8-%E0%A5%A8%E0%A5%A6%E0%A5%A7%E0%A5%A6%E0%A5%A8%E0%A5%A9_%E0%A5%A8.jpg",
           "kind": "photograph",
           "label": "Dated institutional event photograph",
           "caption": "A second view of the food distribution at Yashomangal, event dated 20 October 2023.",
           "credit": "Phadke Shree Ganpati website; photographer not named",
           "dateEvidence": "Published with the same explicitly dated institutional event report. Upload year is not treated as capture year.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "PG04"
           ],
@@ -257,7 +260,8 @@
             "observedForm": "A school student receives a bag from an adult on the same hall stage, with the Marathi Phadke charitable-trust banner and trustee board visible; no Ganesh icon in this frame.",
             "alignsWithSource": true,
             "note": "Native file downloaded and inspected; caption retains event context without identifying unnamed people."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     }
@@ -265,13 +269,13 @@
   "undatedMedia": [
     {
       "id": "phadke-undated-icon",
-      "originalUrl": "https://phadkeshreeganpati.org/gallery/",
+      "originalUrl": "https://phadkeshreeganpati.org/wp-content/uploads/2024/08/phadke-shree-ganpati-1.jpg",
       "kind": "photograph",
       "label": "Permanent Ganesh, full gallery photograph - undated",
       "caption": "Garlanded permanent Ganesh on a silver lion-sided throne, with standing Riddhi-Siddhi figures, flower arrangements and banana leaves in the physical shrine.",
       "credit": "Phadke Shree Ganpati website; photographer not named",
       "dateEvidence": "Observed original-resolution lightbox target behind the formerly used 150 px thumbnail. Neither the gallery caption nor the native file supplies a capture date; 2024/08 is only an upload directory.",
-      "rights": "Image referenced; reproduction under review.",
+      "rights": "Reproduced to discuss the photo's date and source.",
       "sourceIds": [
         "PG05"
       ],
@@ -283,18 +287,19 @@
       },
       "previousThumbnailUrl": "https://phadkeshreeganpati.org/wp-content/uploads/2024/08/phadke-shree-ganpati-1-150x150.jpg",
       "dateStatus": "undated",
-      "yearConfidence": "capture_date_unknown"
+      "yearConfidence": "capture_date_unknown",
+      "contextualPhoto": true
     },
     {
       "id": "phadke-undated-building",
-      "originalUrl": "https://phadkeshreeganpati.org/gallery/",
+      "originalUrl": "https://phadkeshreeganpati.org/wp-content/uploads/2024/09/DSC0016.jpg",
       "kind": "photograph",
       "label": "Temple frontage - undated",
       "caption": "Pink two-level temple frontage in a narrow urban setting, Marathi Phadke Shri Ganpati Mandir and trust signage, covered balcony, lamps/garlands at the entrance, corrugated shop roofs and neighbouring buildings.",
       "credit": "Phadke Shree Ganpati official gallery; photographer unspecified.",
       "dateStatus": "undated",
       "dateEvidence": "No capture date in the native file or gallery caption. Dates found in other neighbouring DSC files are not transferred to this image.",
-      "rights": "Image referenced; reproduction under review.",
+      "rights": "Reproduced to discuss the photo's date and source.",
       "sourceIds": [
         "PG05"
       ],
@@ -304,7 +309,8 @@
         "observedForm": "Pink two-level temple frontage in a narrow urban setting, Marathi Phadke Shri Ganpati Mandir and trust signage, covered balcony, lamps/garlands at the entrance, corrugated shop roofs and neighbouring buildings.",
         "alignsWithSource": true,
         "note": "Native image opened and inspected; visible temple/trust signage supports institution identity, not a capture year."
-      }
+      },
+      "contextualPhoto": true
     }
   ],
   "sources": [

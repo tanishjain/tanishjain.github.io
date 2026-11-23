@@ -1126,7 +1126,7 @@
           "caption": "A lotus-seated Ganesh above a dense beach crowd. The post attributes the immersion scene to Ganesh Galli in 1977; the historical photographer is not identified.",
           "credit": "Historical photographer unidentified. Posted by @mumbai.ganpati / Yogesh Chendwankar; the account attribution is not a photographer credit for 1977.",
           "dateEvidence": "The post caption explicitly assigns the scene to the 1977 Ganesh Galli immersion at Girgaon Beach. The post was published 2 September 2026; this is not the capture date.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "H33"
           ],
@@ -1136,11 +1136,12 @@
             "observedForm": "Black-and-white scene: crowned, garlanded Ganesh seated above clearly visible lotus petals, with a dense crowd and beach-city setting. Not the flute-playing standing figure or the toe-on-lamp design.",
             "alignsWithSource": true,
             "note": "The form agrees with the documented 1977 lotus repertoire. Visual agreement does not authenticate the capture year or original print. Original public-post media downloaded unchanged at 1440 x 1440."
-          }
+          },
+          "contextualPhoto": true
         },
         {
           "id": "official-1977",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja1977.jpg",
           "kind": "treated",
           "label": "Digitally treated image",
           "caption": "Image filed under 1977 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
@@ -1155,7 +1156,7 @@
         },
         {
           "id": "mlg-1977-1",
-          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaugs-ganesh-galli-ganpati-1977/",
+          "originalUrl": "https://mylordganesha.wordpress.com/wp-content/uploads/2010/09/1977.jpg",
           "kind": "treated",
           "label": "Digitally treated image",
           "caption": "Lalbaug’s Ganesh Galli Ganpati – 1977",
@@ -1194,7 +1195,7 @@
       "media": [
         {
           "id": "official-1978",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja1978.jpg",
           "kind": "treated",
           "label": "Digitally treated image",
           "caption": "Image filed under 1978 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
@@ -1209,7 +1210,7 @@
         },
         {
           "id": "mlg-1978-1",
-          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1978/",
+          "originalUrl": "https://mylordganesha.wordpress.com/wp-content/uploads/2010/09/19781.jpg",
           "kind": "unassessed",
           "label": "Photo-derived devotional print / original unverified",
           "caption": "Lalbaug, Ganesh Galli Ganpati – 1978. A photo-derived devotional print; original capture, print history and background treatment remain unverified.",
@@ -1224,7 +1225,7 @@
         },
         {
           "id": "rediff-circa1978",
-          "originalUrl": "https://www.rediff.com/getahead/report/ganeshotsav-is-no-longer-the-same/20260916.htm",
+          "originalUrl": "https://im.rediff.com/getahead/2026/sep/15-ganesha-14.jpg?h=1000&w=830",
           "kind": "treated",
           "label": "Digitally treated image",
           "caption": "Mumbaicha Raja, circa1978",
@@ -1253,7 +1254,7 @@
       "media": [
         {
           "id": "official-1979",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja1979.jpg",
           "kind": "treated",
           "label": "Digitally treated image",
           "caption": "Image filed under 1979 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
@@ -1268,7 +1269,7 @@
         },
         {
           "id": "mlg-1979-1",
-          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1979/",
+          "originalUrl": "https://mylordganesha.wordpress.com/wp-content/uploads/2010/09/1979.jpg",
           "kind": "unassessed",
           "label": "Photo-derived devotional print / original unverified",
           "caption": "Lalbaug, Ganesh Galli Ganpati – 1979. A photo-derived devotional print; original capture, print history and background treatment remain unverified.",
@@ -1297,7 +1298,7 @@
       "media": [
         {
           "id": "official-1980",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja1980.jpg",
           "kind": "treated",
           "label": "Digitally treated image",
           "caption": "Image filed under 1980 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
@@ -1312,7 +1313,7 @@
         },
         {
           "id": "mlg-1980-1",
-          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1980/",
+          "originalUrl": "https://mylordganesha.wordpress.com/wp-content/uploads/2010/09/1980.jpg",
           "kind": "unassessed",
           "label": "Photo-derived devotional print / original unverified",
           "caption": "Lalbaug, Ganesh Galli Ganpati – 1980. A photo-derived devotional print; original capture, print history and background treatment remain unverified.",
@@ -1341,7 +1342,7 @@
       "media": [
         {
           "id": "official-1981",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja1981.jpg",
           "kind": "treated",
           "label": "Digitally treated image",
           "caption": "Image filed under 1981 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
@@ -1356,7 +1357,7 @@
         },
         {
           "id": "mlg-1981-1",
-          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1981/",
+          "originalUrl": "https://mylordganesha.wordpress.com/wp-content/uploads/2010/09/1981.jpg",
           "kind": "unassessed",
           "label": "Photo-derived devotional print / original unverified",
           "caption": "Lalbaug, Ganesh Galli Ganpati – 1981. A photo-derived devotional print; original capture, print history and background treatment remain unverified.",
@@ -1400,13 +1401,13 @@
       "media": [
         {
           "id": "user-pinterest-1982",
-          "originalUrl": "https://kr.pinterest.com/pin/mumbai-cha-raja-1982--978125612842206440/",
+          "originalUrl": "https://i.pinimg.com/736x/b8/ca/9b/b8ca9b23cc52bfeba62bee08a3d0f740.jpg",
           "kind": "photograph",
           "label": "Historical scene photograph / source-attributed year",
           "caption": "Standing, flute-playing Ganesh in a crowded beach immersion scene. The pin labels it Ganesh Galli 1982, matching the form filed as 1982 in the mandal's gallery. The older My Lord Ganesha archive gives the flute form a different year.",
           "credit": "Historical photographer and original publication unidentified. Pinterest is the located repost, not an established image creator.",
           "dateEvidence": "Both pin title and description explicitly label the immersion 1982. No original dated print, capture metadata or original publication has been located. A matching form alone cannot establish a year, since designs can recur.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "H34"
           ],
@@ -1416,11 +1417,12 @@
             "observedForm": "Tinted photographic scan: standing multi-armed Ganesh with a tall peacock-feather-like head ornament and hands posed with a flute near the face; people sit and stand around the base amid a crowded beachfront. No lotus seat or tall oil-lamp support is visible.",
             "alignsWithSource": true,
             "note": "Downloaded the observed 480 x 638 image and inspected it directly. Its form matches the mandal's 1982 flute image, not the official 1983 lamp artwork. This supports a working attribution, not independent authentication of the pin's year."
-          }
+          },
+          "contextualPhoto": true
         },
         {
           "id": "official-1982",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja1982.jpg",
           "kind": "treated",
           "label": "Digitally treated image / year disputed",
           "caption": "Image filed under 1982 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph. The official gallery and My Lord Ganesha exchange the lamp and flute forms between 1982 and 1983; neither label is adopted as final.",
@@ -1435,7 +1437,7 @@
         },
         {
           "id": "mlg-1982-1",
-          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1982/",
+          "originalUrl": "https://mylordganesha.wordpress.com/wp-content/uploads/2010/09/1982.jpg",
           "kind": "unassessed",
           "label": "Photo-derived devotional print / original unverified / year disputed",
           "caption": "Lalbaug, Ganesh Galli Ganpati – 1982. A photo-derived devotional print; original capture, print history and background treatment remain unverified. The official gallery and My Lord Ganesha exchange the lamp and flute forms between 1982 and 1983; neither label is adopted as final.",
@@ -1478,7 +1480,7 @@
       "media": [
         {
           "id": "official-1983",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja1983.jpg",
           "kind": "treated",
           "label": "Digitally treated image / year disputed",
           "caption": "Image filed under 1983 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph. The official gallery and My Lord Ganesha exchange the lamp and flute forms between 1982 and 1983; neither label is adopted as final.",
@@ -1493,7 +1495,7 @@
         },
         {
           "id": "mlg-1983-1",
-          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1983/",
+          "originalUrl": "https://mylordganesha.wordpress.com/wp-content/uploads/2010/09/1983.jpg",
           "kind": "unassessed",
           "label": "Photo-derived devotional print / original unverified / year disputed",
           "caption": "Lalbaug, Ganesh Galli Ganpati – 1983. A photo-derived devotional print; original capture, print history and background treatment remain unverified. The official gallery and My Lord Ganesha exchange the lamp and flute forms between 1982 and 1983; neither label is adopted as final.",
@@ -1522,7 +1524,7 @@
       "media": [
         {
           "id": "official-1984",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja1984.jpg",
           "kind": "treated",
           "label": "Digitally treated image",
           "caption": "Image filed under 1984 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
@@ -1537,7 +1539,7 @@
         },
         {
           "id": "mlg-1984-1",
-          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1984/",
+          "originalUrl": "https://mylordganesha.wordpress.com/wp-content/uploads/2010/09/1984.jpg",
           "kind": "unassessed",
           "label": "Photo-derived devotional print / original unverified",
           "caption": "Lalbaug, Ganesh Galli Ganpati – 1984. A photo-derived devotional print; original capture, print history and background treatment remain unverified.",
@@ -1566,7 +1568,7 @@
       "media": [
         {
           "id": "official-1985",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja1985.jpg",
           "kind": "treated",
           "label": "Digitally treated image",
           "caption": "Image filed under 1985 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
@@ -1581,7 +1583,7 @@
         },
         {
           "id": "mlg-1985-1",
-          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1985/",
+          "originalUrl": "https://mylordganesha.wordpress.com/wp-content/uploads/2010/09/1985.jpg",
           "kind": "unassessed",
           "label": "Photo-derived devotional print / original unverified",
           "caption": "Lalbaug, Ganesh Galli Ganpati – 1985. A photo-derived devotional print; original capture, print history and background treatment remain unverified.",
@@ -1610,7 +1612,7 @@
       "media": [
         {
           "id": "official-1986",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja1986.jpg",
           "kind": "treated",
           "label": "Digitally treated image",
           "caption": "Image filed under 1986 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
@@ -1625,7 +1627,7 @@
         },
         {
           "id": "mlg-1986-1",
-          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1986/",
+          "originalUrl": "https://mylordganesha.wordpress.com/wp-content/uploads/2010/09/1986.jpg",
           "kind": "unassessed",
           "label": "Photo-derived devotional print / original unverified",
           "caption": "Lalbaug, Ganesh Galli Ganpati – 1986. A photo-derived devotional print; original capture, print history and background treatment remain unverified.",
@@ -1654,7 +1656,7 @@
       "media": [
         {
           "id": "official-1987",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja1987.jpg",
           "kind": "treated",
           "label": "Digitally treated image",
           "caption": "Image filed under 1987 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
@@ -1669,7 +1671,7 @@
         },
         {
           "id": "mlg-1987-1",
-          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1987/",
+          "originalUrl": "https://mylordganesha.wordpress.com/wp-content/uploads/2010/09/1987.jpg",
           "kind": "unassessed",
           "label": "Photo-derived devotional print / original unverified",
           "caption": "Lalbaug, Ganesh Galli Ganpati – 1987. A photo-derived devotional print; original capture, print history and background treatment remain unverified.",
@@ -1698,7 +1700,7 @@
       "media": [
         {
           "id": "official-1988",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja1988.jpg",
           "kind": "treated",
           "label": "Digitally treated image",
           "caption": "Image filed under 1988 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
@@ -1713,7 +1715,7 @@
         },
         {
           "id": "mlg-1988-1",
-          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1988/",
+          "originalUrl": "https://mylordganesha.wordpress.com/wp-content/uploads/2010/09/1988.jpg",
           "kind": "unassessed",
           "label": "Photo-derived devotional print / original unverified",
           "caption": "Lalbaug, Ganesh Galli Ganpati – 1988. A photo-derived devotional print; original capture, print history and background treatment remain unverified.",
@@ -1742,7 +1744,7 @@
       "media": [
         {
           "id": "official-1989",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja1989.jpg",
           "kind": "treated",
           "label": "Digitally treated image",
           "caption": "Image filed under 1989 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
@@ -1757,7 +1759,7 @@
         },
         {
           "id": "mlg-1989-1",
-          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1989/",
+          "originalUrl": "https://mylordganesha.wordpress.com/wp-content/uploads/2010/09/1989.jpg",
           "kind": "unassessed",
           "label": "Photo-derived devotional print / original unverified",
           "caption": "Lalbaug, Ganesh Galli Ganpati – 1989. A photo-derived devotional print; original capture, print history and background treatment remain unverified.",
@@ -1786,7 +1788,7 @@
       "media": [
         {
           "id": "official-1990",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja1990.jpg",
           "kind": "treated",
           "label": "Digitally treated image",
           "caption": "Image filed under 1990 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
@@ -1801,7 +1803,7 @@
         },
         {
           "id": "mlg-1990-1",
-          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1990/",
+          "originalUrl": "https://mylordganesha.wordpress.com/wp-content/uploads/2010/09/1990.jpg",
           "kind": "unassessed",
           "label": "Photo-derived devotional print / original unverified",
           "caption": "Lalbaug, Ganesh Galli Ganpati – 1990. A photo-derived devotional print; original capture, print history and background treatment remain unverified.",
@@ -1830,7 +1832,7 @@
       "media": [
         {
           "id": "official-1991",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja1991.jpg",
           "kind": "treated",
           "label": "Digitally treated image",
           "caption": "Image filed under 1991 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
@@ -1845,7 +1847,7 @@
         },
         {
           "id": "mlg-1991-1",
-          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1991/",
+          "originalUrl": "https://mylordganesha.wordpress.com/wp-content/uploads/2010/09/1991.jpg",
           "kind": "unassessed",
           "label": "Photo-derived devotional print / original unverified",
           "caption": "Lalbaug, Ganesh Galli Ganpati – 1991. A photo-derived devotional print; original capture, print history and background treatment remain unverified.",
@@ -1874,7 +1876,7 @@
       "media": [
         {
           "id": "official-1992",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja1992.jpg",
           "kind": "treated",
           "label": "Digitally treated image",
           "caption": "Image filed under 1992 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
@@ -1889,7 +1891,7 @@
         },
         {
           "id": "mlg-1992-1",
-          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1992/",
+          "originalUrl": "https://mylordganesha.wordpress.com/wp-content/uploads/2010/09/1992.jpg",
           "kind": "unassessed",
           "label": "Photo-derived devotional print / original unverified",
           "caption": "Lalbaug, Ganesh Galli Ganpati – 1992. A photo-derived devotional print; original capture, print history and background treatment remain unverified.",
@@ -1918,7 +1920,7 @@
       "media": [
         {
           "id": "official-1993",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja1993.jpg",
           "kind": "treated",
           "label": "Digitally treated image",
           "caption": "Image filed under 1993 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
@@ -1933,7 +1935,7 @@
         },
         {
           "id": "mlg-1993-1",
-          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1993/",
+          "originalUrl": "https://mylordganesha.wordpress.com/wp-content/uploads/2010/09/1993.jpg",
           "kind": "unassessed",
           "label": "Photo-derived devotional print / original unverified",
           "caption": "Lalbaug, Ganesh Galli Ganpati – 1993. A photo-derived devotional print; original capture, print history and background treatment remain unverified.",
@@ -1962,7 +1964,7 @@
       "media": [
         {
           "id": "official-1994",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja1994.jpg",
           "kind": "treated",
           "label": "Digitally treated image",
           "caption": "Image filed under 1994 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
@@ -1977,7 +1979,7 @@
         },
         {
           "id": "mlg-1994-1",
-          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-%e2%80%93-1994/",
+          "originalUrl": "https://mylordganesha.wordpress.com/wp-content/uploads/2010/09/1994.jpg",
           "kind": "unassessed",
           "label": "Photo-derived devotional print / original unverified",
           "caption": "Lalbaug, Ganesh Galli Ganpati – 1994. A photo-derived devotional print; original capture, print history and background treatment remain unverified.",
@@ -2006,7 +2008,7 @@
       "media": [
         {
           "id": "official-1995",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja1995.jpg",
           "kind": "treated",
           "label": "Digitally treated image",
           "caption": "Image filed under 1995 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
@@ -2021,7 +2023,7 @@
         },
         {
           "id": "mlg-1995-1",
-          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-%e2%80%93-1995/",
+          "originalUrl": "https://mylordganesha.wordpress.com/wp-content/uploads/2010/09/1995.jpg",
           "kind": "unassessed",
           "label": "Photo-derived devotional print / original unverified",
           "caption": "Lalbaug, Ganesh Galli Ganpati – 1995. A photo-derived devotional print; original capture, print history and background treatment remain unverified.",
@@ -2050,7 +2052,7 @@
       "media": [
         {
           "id": "official-1996",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja1996.jpg",
           "kind": "treated",
           "label": "Digitally treated image",
           "caption": "Image filed under 1996 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
@@ -2065,7 +2067,7 @@
         },
         {
           "id": "mlg-1996-1",
-          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/1124/",
+          "originalUrl": "https://mylordganesha.wordpress.com/wp-content/uploads/2010/09/1996.jpg",
           "kind": "unassessed",
           "label": "Photo-derived devotional print / original unverified",
           "caption": "Lalbaug, Ganesh Galli Ganpati – 1996. A photo-derived devotional print; original capture, print history and background treatment remain unverified.",
@@ -2094,7 +2096,7 @@
       "media": [
         {
           "id": "official-1997",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja1997.jpg",
           "kind": "treated",
           "label": "Digitally treated image",
           "caption": "Image filed under 1997 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
@@ -2109,7 +2111,7 @@
         },
         {
           "id": "mlg-1997-1",
-          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-%e2%80%93-1997/",
+          "originalUrl": "https://mylordganesha.wordpress.com/wp-content/uploads/2010/09/1997.jpg",
           "kind": "unassessed",
           "label": "Photo-derived devotional print / original unverified",
           "caption": "Lalbaug, Ganesh Galli Ganpati – 1997. A photo-derived devotional print; original capture, print history and background treatment remain unverified.",
@@ -2144,7 +2146,7 @@
       "media": [
         {
           "id": "official-1998",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja1998.jpg",
           "kind": "treated",
           "label": "Digitally treated image",
           "caption": "Image filed under 1998 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
@@ -2179,7 +2181,7 @@
       "media": [
         {
           "id": "official-1999",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja1999.jpg",
           "kind": "treated",
           "label": "Digitally treated image",
           "caption": "Image filed under 1999 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
@@ -2214,7 +2216,7 @@
       "media": [
         {
           "id": "official-2000",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja2000.jpg",
           "kind": "treated",
           "label": "Digitally treated image",
           "caption": "Image filed under 2000 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
@@ -2249,7 +2251,7 @@
       "media": [
         {
           "id": "official-2001",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja2001.jpg",
           "kind": "treated",
           "label": "Digitally treated image",
           "caption": "Image filed under 2001 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
@@ -2297,7 +2299,7 @@
       "media": [
         {
           "id": "official-2002",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja2002.jpg",
           "kind": "treated",
           "label": "Digitally treated image",
           "caption": "Image filed under 2002 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
@@ -2332,7 +2334,7 @@
       "media": [
         {
           "id": "official-2003",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja2003.jpg",
           "kind": "treated",
           "label": "Digitally treated image",
           "caption": "Image filed under 2003 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
@@ -2376,7 +2378,7 @@
       "media": [
         {
           "id": "official-2004",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja2004.jpg",
           "kind": "treated",
           "label": "Digitally treated image",
           "caption": "Image filed under 2004 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
@@ -2411,7 +2413,7 @@
       "media": [
         {
           "id": "official-2005",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja2005.jpg",
           "kind": "treated",
           "label": "Digitally treated image",
           "caption": "Image filed under 2005 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
@@ -2446,7 +2448,7 @@
       "media": [
         {
           "id": "official-2006",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja2006.jpg",
           "kind": "treated",
           "label": "Digitally treated image",
           "caption": "Image filed under 2006 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
@@ -2476,37 +2478,39 @@
       "media": [
         {
           "id": "flickr-2007",
-          "originalUrl": "https://www.flickr.com/photos/20701652@N07/2015642898",
+          "originalUrl": "https://live.staticflickr.com/2043/2015642898_1f20e1e74e.jpg",
           "kind": "photograph",
           "label": "Photograph",
           "caption": "Ganesh galli Decoration copy",
           "credit": "amitmasavkar",
           "dateEvidence": "Flickr title identifies Ganesh Galli; taken 2007-09-25, uploaded 2007-11-14.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "P21"
           ],
           "yearConfidence": "source_dated",
-          "assessment": "Inspected actual scene photograph: idol procession, idol installed indoors, or pandal exterior as described by subject field."
+          "assessment": "Inspected actual scene photograph: idol procession, idol installed indoors, or pandal exterior as described by subject field.",
+          "contextualPhoto": true
         },
         {
           "id": "flickr-2007-idol",
-          "originalUrl": "https://www.flickr.com/photos/14577288@N03/1505209246/in/album-72157602296603832",
+          "originalUrl": "https://live.staticflickr.com/2167/1505209246_b795b99234.jpg",
           "kind": "photograph",
           "label": "Photograph",
           "caption": "Grand Entry...Ganesh Galli",
           "credit": "Rupali (rups_vg)",
           "dateEvidence": "Individual page identifies Ganesh Galli, Lalbagh, Mumbai; taken/uploaded 2007-10-07. Album Ganpati 2007 describes the 25 September 2007 visarjan. Capture day differs between page and album, but both support 2007.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "P22"
           ],
           "yearConfidence": "source_dated",
-          "assessment": "Actual street procession with Ganesha as Shiva and a vehicle/figure below; crowd and urban buildings visible."
+          "assessment": "Actual street procession with Ganesha as Shiva and a vehicle/figure below; crowd and urban buildings visible.",
+          "contextualPhoto": true
         },
         {
           "id": "official-2007",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja2007.jpg",
           "kind": "treated",
           "label": "Digitally treated image",
           "caption": "Image filed under 2007 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
@@ -2541,7 +2545,7 @@
       "media": [
         {
           "id": "official-2008",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja2008.jpg",
           "kind": "treated",
           "label": "Digitally treated image",
           "caption": "Image filed under 2008 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
@@ -2570,22 +2574,23 @@
       "media": [
         {
           "id": "flickr-2009",
-          "originalUrl": "https://www.flickr.com/photos/ashugalande/3936079421",
+          "originalUrl": "https://live.staticflickr.com/3531/3936079421_6268bfea3b.jpg",
           "kind": "photograph",
           "label": "Photograph",
           "caption": "Ganesh Galli Ganpati2009",
           "credit": "Ashish Galande",
           "dateEvidence": "Individual title identifies year 2009; taken/uploaded 2009-09-20.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "P23"
           ],
           "yearConfidence": "source_dated",
-          "assessment": "Inspected actual scene photograph: idol procession, idol installed indoors, or pandal exterior as described by subject field."
+          "assessment": "Inspected actual scene photograph: idol procession, idol installed indoors, or pandal exterior as described by subject field.",
+          "contextualPhoto": true
         },
         {
           "id": "official-2009",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja2009.jpg",
           "kind": "treated",
           "label": "Digitally treated image",
           "caption": "Image filed under 2009 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
@@ -2622,22 +2627,23 @@
       "media": [
         {
           "id": "flickr-2010",
-          "originalUrl": "https://www.flickr.com/photos/ashugalande/5019953782/",
+          "originalUrl": "https://live.staticflickr.com/4132/5019953782_3da0a6777c.jpg",
           "kind": "photograph",
           "label": "Photograph",
           "caption": "Ganesh Galli, lalbaugh, Mumbai2010",
           "credit": "Ashish Galande",
           "dateEvidence": "Individual title identifies year 2010; taken/uploaded 2010-09-24.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "P24"
           ],
           "yearConfidence": "source_dated",
-          "assessment": "Inspected actual scene photograph: idol procession, idol installed indoors, or pandal exterior as described by subject field."
+          "assessment": "Inspected actual scene photograph: idol procession, idol installed indoors, or pandal exterior as described by subject field.",
+          "contextualPhoto": true
         },
         {
           "id": "official-2010",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja2010.jpg",
           "kind": "treated",
           "label": "Digitally treated image",
           "caption": "Image filed under 2010 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
@@ -2685,7 +2691,7 @@
       "media": [
         {
           "id": "official-2011",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja2011.jpg",
           "kind": "treated",
           "label": "Digitally treated image",
           "caption": "Image filed under 2011 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
@@ -2722,52 +2728,55 @@
       "media": [
         {
           "id": "mlg-2012-1",
-          "originalUrl": "https://mylordganesha.wordpress.com/2012/09/22/ganesh-galli-2012-pashupatinath-temple/",
+          "originalUrl": "https://mylordganesha.wordpress.com/wp-content/uploads/2012/09/ganesh-galli.jpg",
           "kind": "photograph",
           "label": "Photograph",
           "caption": "Ganesh Galli 2012 – Pashupatinath Temple",
           "credit": "Photographer unidentified. Posted by Vikram Kharvi; not assumed to be the photographer.",
           "dateEvidence": "Ganesh Galli 2012 – Pashupatinath Temple",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "P25"
           ],
           "yearConfidence": "source_label_only",
-          "assessment": "Visually inspected individually or as labelled contact sheet. Historic files are scanned photographic-looking devotional cards/prints with red borders and staged backdrops; original negative, print history and possible retouching are not verified. Recent files show in-situ idol/detail or pandal views."
+          "assessment": "Visually inspected individually or as labelled contact sheet. Historic files are scanned photographic-looking devotional cards/prints with red borders and staged backdrops; original negative, print history and possible retouching are not verified. Recent files show in-situ idol/detail or pandal views.",
+          "contextualPhoto": true
         },
         {
           "id": "mlg-2012-2",
-          "originalUrl": "https://mylordganesha.wordpress.com/2012/09/22/ganesh-galli-2012-pashupatinath-temple/",
+          "originalUrl": "https://mylordganesha.wordpress.com/wp-content/uploads/2012/09/ganesh-galli_2.jpg",
           "kind": "photograph",
           "label": "Photograph",
           "caption": "Ganesh Galli 2012 – Pashupatinath Temple",
           "credit": "Photographer unidentified. Posted by Vikram Kharvi; not assumed to be the photographer.",
           "dateEvidence": "Ganesh Galli 2012 – Pashupatinath Temple",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "P25"
           ],
           "yearConfidence": "source_label_only",
-          "assessment": "Visually inspected individually or as labelled contact sheet. Historic files are scanned photographic-looking devotional cards/prints with red borders and staged backdrops; original negative, print history and possible retouching are not verified. Recent files show in-situ idol/detail or pandal views."
+          "assessment": "Visually inspected individually or as labelled contact sheet. Historic files are scanned photographic-looking devotional cards/prints with red borders and staged backdrops; original negative, print history and possible retouching are not verified. Recent files show in-situ idol/detail or pandal views.",
+          "contextualPhoto": true
         },
         {
           "id": "mlg-2012-3",
-          "originalUrl": "https://mylordganesha.wordpress.com/2012/09/22/ganesh-galli-2012-pashupatinath-temple/",
+          "originalUrl": "https://mylordganesha.wordpress.com/wp-content/uploads/2012/09/ganpati-ganesh-galli-18-sep-12-3.jpg",
           "kind": "photograph",
           "label": "Photograph",
           "caption": "Ganesh Galli 2012 – Pashupatinath Temple",
           "credit": "Photographer unidentified. Posted by Vikram Kharvi; not assumed to be the photographer.",
           "dateEvidence": "Ganesh Galli 2012 – Pashupatinath Temple",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "P25"
           ],
           "yearConfidence": "source_label_only",
-          "assessment": "Visually inspected individually or as labelled contact sheet. Historic files are scanned photographic-looking devotional cards/prints with red borders and staged backdrops; original negative, print history and possible retouching are not verified. Recent files show in-situ idol/detail or pandal views."
+          "assessment": "Visually inspected individually or as labelled contact sheet. Historic files are scanned photographic-looking devotional cards/prints with red borders and staged backdrops; original negative, print history and possible retouching are not verified. Recent files show in-situ idol/detail or pandal views.",
+          "contextualPhoto": true
         },
         {
           "id": "official-2012",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja2012.jpg",
           "kind": "treated",
           "label": "Digitally treated image",
           "caption": "Image filed under 2012 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
@@ -2806,63 +2815,67 @@
       "media": [
         {
           "id": "official-2013",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja2013.jpg",
           "kind": "photograph",
           "label": "Photograph",
           "caption": "Image filed under 2013 in the mandal's retrospective gallery.",
           "credit": "Photographer unidentified",
           "dateEvidence": "Filed under 2013 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "H02"
           ],
           "yearConfidence": "source_label_only",
-          "assessment": "Visually inspected: photographic view of idol in its stage/pandal setting. Normal color processing, cropping or watermarking may exist; original capture file and independent date authentication are unavailable."
+          "assessment": "Visually inspected: photographic view of idol in its stage/pandal setting. Normal color processing, cropping or watermarking may exist; original capture file and independent date authentication are unavailable.",
+          "contextualPhoto": true
         },
         {
           "id": "mlg-2013-1",
-          "originalUrl": "https://mylordganesha.wordpress.com/2013/09/12/mumbaicha-raja-ganesh-galli-2013/",
+          "originalUrl": "https://mylordganesha.wordpress.com/wp-content/uploads/2013/09/ganesh-galli1.jpg",
           "kind": "photograph",
           "label": "Photograph",
           "caption": "Mumbaicha Raja – Ganesh Galli 2013",
           "credit": "Photographer unidentified. Posted by Vikram Kharvi; not assumed to be the photographer.",
           "dateEvidence": "Mumbaicha Raja – Ganesh Galli 2013",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "P26"
           ],
           "yearConfidence": "source_label_only",
-          "assessment": "Visually inspected individually or as labelled contact sheet. Historic files are scanned photographic-looking devotional cards/prints with red borders and staged backdrops; original negative, print history and possible retouching are not verified. Recent files show in-situ idol/detail or pandal views."
+          "assessment": "Visually inspected individually or as labelled contact sheet. Historic files are scanned photographic-looking devotional cards/prints with red borders and staged backdrops; original negative, print history and possible retouching are not verified. Recent files show in-situ idol/detail or pandal views.",
+          "contextualPhoto": true
         },
         {
           "id": "mlg-2013-2",
-          "originalUrl": "https://mylordganesha.wordpress.com/2013/09/12/mumbaicha-raja-ganesh-galli-2013/",
+          "originalUrl": "https://mylordganesha.wordpress.com/wp-content/uploads/2013/09/ganesh-galli2.jpg",
           "kind": "photograph",
           "label": "Photograph",
           "caption": "Mumbaicha Raja – Ganesh Galli 2013",
           "credit": "Photographer unidentified. Posted by Vikram Kharvi; not assumed to be the photographer.",
           "dateEvidence": "Mumbaicha Raja – Ganesh Galli 2013",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "P26"
           ],
           "yearConfidence": "source_label_only",
-          "assessment": "Visually inspected individually or as labelled contact sheet. Historic files are scanned photographic-looking devotional cards/prints with red borders and staged backdrops; original negative, print history and possible retouching are not verified. Recent files show in-situ idol/detail or pandal views."
+          "assessment": "Visually inspected individually or as labelled contact sheet. Historic files are scanned photographic-looking devotional cards/prints with red borders and staged backdrops; original negative, print history and possible retouching are not verified. Recent files show in-situ idol/detail or pandal views.",
+          "contextualPhoto": true
         },
         {
           "id": "mlg-2013-3",
-          "originalUrl": "https://mylordganesha.wordpress.com/2013/09/12/mumbaicha-raja-ganesh-galli-2013/",
+          "originalUrl": "https://mylordganesha.wordpress.com/wp-content/uploads/2013/09/ganesh-galli3.jpg",
           "kind": "photograph",
           "label": "Photograph",
           "caption": "Mumbaicha Raja – Ganesh Galli 2013",
           "credit": "Photographer unidentified. Posted by Vikram Kharvi; not assumed to be the photographer.",
           "dateEvidence": "Mumbaicha Raja – Ganesh Galli 2013",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "P26"
           ],
           "yearConfidence": "source_label_only",
-          "assessment": "Visually inspected individually or as labelled contact sheet. Historic files are scanned photographic-looking devotional cards/prints with red borders and staged backdrops; original negative, print history and possible retouching are not verified. Recent files show in-situ idol/detail or pandal views."
+          "assessment": "Visually inspected individually or as labelled contact sheet. Historic files are scanned photographic-looking devotional cards/prints with red borders and staged backdrops; original negative, print history and possible retouching are not verified. Recent files show in-situ idol/detail or pandal views.",
+          "contextualPhoto": true
         }
       ]
     },
@@ -2887,32 +2900,34 @@
       "media": [
         {
           "id": "press-2014",
-          "originalUrl": "https://www.rediff.com/news/special/mumbaicha-raja-and-a-sea-of-devotees/20140830.htm",
+          "originalUrl": "https://im.rediff.com/news/2014/aug/30pix-mumbaicha-raja1.jpg",
           "kind": "photograph",
           "label": "Contemporary press photograph",
           "caption": "The 2014 installation in a contemporaneously published photoessay.",
           "credit": "Hitesh Harisinghani / Rediff.com",
           "dateEvidence": "Published 2014-08-30 in a report identifying the current festival year.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "H11"
           ],
-          "yearConfidence": "contemporary_publication"
+          "yearConfidence": "contemporary_publication",
+          "contextualPhoto": true
         },
         {
           "id": "official-2014",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja2014.jpg",
           "kind": "photograph",
           "label": "Photograph",
           "caption": "Image filed under 2014 in the mandal's retrospective gallery.",
           "credit": "Photographer unidentified",
           "dateEvidence": "Filed under 2014 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "H02"
           ],
           "yearConfidence": "source_label_only",
-          "assessment": "Visually inspected: photographic view of idol in its stage/pandal setting. Normal color processing, cropping or watermarking may exist; original capture file and independent date authentication are unavailable."
+          "assessment": "Visually inspected: photographic view of idol in its stage/pandal setting. Normal color processing, cropping or watermarking may exist; original capture file and independent date authentication are unavailable.",
+          "contextualPhoto": true
         }
       ]
     },
@@ -2938,63 +2953,67 @@
       "media": [
         {
           "id": "official-2015",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja2015.jpg",
           "kind": "photograph",
           "label": "Photograph",
           "caption": "Image filed under 2015 in the mandal's retrospective gallery.",
           "credit": "Photographer unidentified",
           "dateEvidence": "Filed under 2015 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "H02"
           ],
           "yearConfidence": "source_label_only",
-          "assessment": "Visually inspected: photographic view of idol in its stage/pandal setting. Normal color processing, cropping or watermarking may exist; original capture file and independent date authentication are unavailable."
+          "assessment": "Visually inspected: photographic view of idol in its stage/pandal setting. Normal color processing, cropping or watermarking may exist; original capture file and independent date authentication are unavailable.",
+          "contextualPhoto": true
         },
         {
           "id": "mlg-2015-1",
-          "originalUrl": "https://mylordganesha.wordpress.com/2015/09/18/mumbaicha-raja-ganesh-galli-2015/",
+          "originalUrl": "https://mylordganesha.wordpress.com/wp-content/uploads/2015/09/ganesh-galli1.jpg",
           "kind": "photograph",
           "label": "Photograph",
           "caption": "Mumbaicha Raja – Ganesh Galli 2015",
           "credit": "Photographer unidentified; visible credit: Small photography watermark visible; name not confidently transcribed.. Posted by Vikram Kharvi; not assumed to be the photographer.",
           "dateEvidence": "Mumbaicha Raja – Ganesh Galli 2015",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "P27"
           ],
           "yearConfidence": "source_label_only",
-          "assessment": "Visually inspected individually or as labelled contact sheet. Historic files are scanned photographic-looking devotional cards/prints with red borders and staged backdrops; original negative, print history and possible retouching are not verified. Recent files show in-situ idol/detail or pandal views."
+          "assessment": "Visually inspected individually or as labelled contact sheet. Historic files are scanned photographic-looking devotional cards/prints with red borders and staged backdrops; original negative, print history and possible retouching are not verified. Recent files show in-situ idol/detail or pandal views.",
+          "contextualPhoto": true
         },
         {
           "id": "mlg-2015-2",
-          "originalUrl": "https://mylordganesha.wordpress.com/2015/09/18/mumbaicha-raja-ganesh-galli-2015/",
+          "originalUrl": "https://mylordganesha.wordpress.com/wp-content/uploads/2015/09/ganesh-galli2.jpg",
           "kind": "photograph",
           "label": "Photograph",
           "caption": "Mumbaicha Raja – Ganesh Galli 2015",
           "credit": "Photographer unidentified. Posted by Vikram Kharvi; not assumed to be the photographer.",
           "dateEvidence": "Mumbaicha Raja – Ganesh Galli 2015",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "P27"
           ],
           "yearConfidence": "source_label_only",
-          "assessment": "Visually inspected individually or as labelled contact sheet. Historic files are scanned photographic-looking devotional cards/prints with red borders and staged backdrops; original negative, print history and possible retouching are not verified. Recent files show in-situ idol/detail or pandal views."
+          "assessment": "Visually inspected individually or as labelled contact sheet. Historic files are scanned photographic-looking devotional cards/prints with red borders and staged backdrops; original negative, print history and possible retouching are not verified. Recent files show in-situ idol/detail or pandal views.",
+          "contextualPhoto": true
         },
         {
           "id": "mlg-2015-3",
-          "originalUrl": "https://mylordganesha.wordpress.com/2015/09/18/mumbaicha-raja-ganesh-galli-2015/",
+          "originalUrl": "https://mylordganesha.wordpress.com/wp-content/uploads/2015/09/ganesh-galli3.jpg",
           "kind": "photograph",
           "label": "Photograph",
           "caption": "Mumbaicha Raja – Ganesh Galli 2015",
           "credit": "Photographer unidentified. Posted by Vikram Kharvi; not assumed to be the photographer.",
           "dateEvidence": "Mumbaicha Raja – Ganesh Galli 2015",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "P27"
           ],
           "yearConfidence": "source_label_only",
-          "assessment": "Visually inspected individually or as labelled contact sheet. Historic files are scanned photographic-looking devotional cards/prints with red borders and staged backdrops; original negative, print history and possible retouching are not verified. Recent files show in-situ idol/detail or pandal views."
+          "assessment": "Visually inspected individually or as labelled contact sheet. Historic files are scanned photographic-looking devotional cards/prints with red borders and staged backdrops; original negative, print history and possible retouching are not verified. Recent files show in-situ idol/detail or pandal views.",
+          "contextualPhoto": true
         }
       ]
     },
@@ -3019,18 +3038,19 @@
       "media": [
         {
           "id": "official-2016",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja2016.jpg",
           "kind": "photograph",
           "label": "Photograph",
           "caption": "Image filed under 2016 in the mandal's retrospective gallery.",
           "credit": "Photographer unidentified",
           "dateEvidence": "Filed under 2016 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "H02"
           ],
           "yearConfidence": "source_label_only",
-          "assessment": "Visually inspected: photographic view of idol in its stage/pandal setting. Normal color processing, cropping or watermarking may exist; original capture file and independent date authentication are unavailable."
+          "assessment": "Visually inspected: photographic view of idol in its stage/pandal setting. Normal color processing, cropping or watermarking may exist; original capture file and independent date authentication are unavailable.",
+          "contextualPhoto": true
         }
       ]
     },
@@ -3057,18 +3077,19 @@
       "media": [
         {
           "id": "official-2017",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja2017.jpg",
           "kind": "photograph",
           "label": "Photograph",
           "caption": "Image filed under 2017 in the mandal's retrospective gallery.",
           "credit": "Photographer unidentified",
           "dateEvidence": "Filed under 2017 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "H02"
           ],
           "yearConfidence": "source_label_only",
-          "assessment": "Visually inspected: photographic view of idol in its stage/pandal setting. Normal color processing, cropping or watermarking may exist; original capture file and independent date authentication are unavailable."
+          "assessment": "Visually inspected: photographic view of idol in its stage/pandal setting. Normal color processing, cropping or watermarking may exist; original capture file and independent date authentication are unavailable.",
+          "contextualPhoto": true
         }
       ]
     },
@@ -3093,48 +3114,51 @@
       "media": [
         {
           "id": "official-2018",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja2018.jpg",
           "kind": "photograph",
           "label": "Photograph",
           "caption": "Image filed under 2018 in the mandal's retrospective gallery.",
           "credit": "Photographer unidentified",
           "dateEvidence": "Filed under 2018 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "H02"
           ],
           "yearConfidence": "source_label_only",
-          "assessment": "Visually inspected: photographic view of idol in its stage/pandal setting. Normal color processing, cropping or watermarking may exist; original capture file and independent date authentication are unavailable."
+          "assessment": "Visually inspected: photographic view of idol in its stage/pandal setting. Normal color processing, cropping or watermarking may exist; original capture file and independent date authentication are unavailable.",
+          "contextualPhoto": true
         },
         {
           "id": "rediff-2018-pandal",
-          "originalUrl": "https://www.rediff.com/getahead/report/photos-what-to-expect-at-mumbai-oldest-ganesh-pandals/20180912.htm",
+          "originalUrl": "https://im.rediff.com/getahead/2018/sep/11pandal3.jpg?h=1000&w=830",
           "kind": "photograph",
           "label": "Photograph",
           "caption": "Ganesh Galli Sun Temple pandal2018",
           "credit": "Satish Bodas / Rediff.com",
           "dateEvidence": "2018-09-13 article caption identifies this year's Ganesh Galli pandal; accompanying quotation describes Sun Temple replica.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "H13"
           ],
           "yearConfidence": "source_dated",
-          "assessment": "Inspected in-situ photograph, matching the captioned Ganesh Galli subject."
+          "assessment": "Inspected in-situ photograph, matching the captioned Ganesh Galli subject.",
+          "contextualPhoto": true
         },
         {
           "id": "rediff-2018-idol",
-          "originalUrl": "https://www.rediff.com/getahead/report/photos-what-to-expect-at-mumbai-oldest-ganesh-pandals/20180912.htm",
+          "originalUrl": "https://im.rediff.com/getahead/2018/sep/12ganesh3.jpg?h=1000&w=830",
           "kind": "photograph",
           "label": "Photograph",
           "caption": "Ganesh Galli idol preparations2018",
           "credit": "Sahil Salvi",
           "dateEvidence": "2018-09-13 article identifies this year's Ganesh Galli idol pictured above as seated on a horse.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "H13"
           ],
           "yearConfidence": "source_dated",
-          "assessment": "Inspected in-situ photograph, matching the captioned Ganesh Galli subject."
+          "assessment": "Inspected in-situ photograph, matching the captioned Ganesh Galli subject.",
+          "contextualPhoto": true
         }
       ]
     },
@@ -3159,18 +3183,19 @@
       "media": [
         {
           "id": "official-2019",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja2019.jpg",
           "kind": "photograph",
           "label": "Photograph",
           "caption": "Image filed under 2019 in the mandal's retrospective gallery.",
           "credit": "Photographer unidentified",
           "dateEvidence": "Filed under 2019 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "H02"
           ],
           "yearConfidence": "source_label_only",
-          "assessment": "Visually inspected: photographic view of idol in its stage/pandal setting. Normal color processing, cropping or watermarking may exist; original capture file and independent date authentication are unavailable."
+          "assessment": "Visually inspected: photographic view of idol in its stage/pandal setting. Normal color processing, cropping or watermarking may exist; original capture file and independent date authentication are unavailable.",
+          "contextualPhoto": true
         }
       ]
     },
@@ -3205,18 +3230,19 @@
       "media": [
         {
           "id": "official-2020",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja2020.jpg",
           "kind": "photograph",
           "label": "Photograph",
           "caption": "Image filed under 2020 in the mandal's retrospective gallery.",
           "credit": "Photographer unidentified",
           "dateEvidence": "Filed under 2020 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "H02"
           ],
           "yearConfidence": "source_label_only",
-          "assessment": "Visually inspected: photographic view of idol in its stage/pandal setting. Normal color processing, cropping or watermarking may exist; original capture file and independent date authentication are unavailable."
+          "assessment": "Visually inspected: photographic view of idol in its stage/pandal setting. Normal color processing, cropping or watermarking may exist; original capture file and independent date authentication are unavailable.",
+          "contextualPhoto": true
         }
       ]
     },
@@ -3241,18 +3267,19 @@
       "media": [
         {
           "id": "official-2021",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja2021.jpg",
           "kind": "photograph",
           "label": "Photograph",
           "caption": "Image filed under 2021 in the mandal's retrospective gallery.",
           "credit": "Photographer unidentified",
           "dateEvidence": "Filed under 2021 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "H02"
           ],
           "yearConfidence": "source_label_only",
-          "assessment": "Visually inspected: photographic view of idol in its stage/pandal setting. Normal color processing, cropping or watermarking may exist; original capture file and independent date authentication are unavailable."
+          "assessment": "Visually inspected: photographic view of idol in its stage/pandal setting. Normal color processing, cropping or watermarking may exist; original capture file and independent date authentication are unavailable.",
+          "contextualPhoto": true
         }
       ]
     },
@@ -3278,32 +3305,34 @@
       "media": [
         {
           "id": "press-2022",
-          "originalUrl": "https://www.mid-day.com/mumbai/mumbai-news/photo/in-photos-first-look-of-mumbaicha-raja-unveiled-ahead-of-ganesh-chaturthi-93947",
+          "originalUrl": "https://images.mid-day.com/images/images/2022/aug/MumbaiCha-Raja-4_d.jpg",
           "kind": "photograph",
           "label": "Contemporary press photograph",
           "caption": "A photograph from the 2022 unveiling; the set evoked Kashi Vishwanath.",
           "credit": "Pradeep Dhivar / Mid-day",
           "dateEvidence": "Published 2022-08-30 in a report identifying the current festival year.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "P28"
           ],
-          "yearConfidence": "contemporary_publication"
+          "yearConfidence": "contemporary_publication",
+          "contextualPhoto": true
         },
         {
           "id": "official-2022",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja2022.jpg",
           "kind": "photograph",
           "label": "Photograph",
           "caption": "Image filed under 2022 in the mandal's retrospective gallery.",
           "credit": "Photographer unidentified",
           "dateEvidence": "Filed under 2022 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "H02"
           ],
           "yearConfidence": "source_label_only",
-          "assessment": "Visually inspected: photographic view of idol in its stage/pandal setting. Normal color processing, cropping or watermarking may exist; original capture file and independent date authentication are unavailable."
+          "assessment": "Visually inspected: photographic view of idol in its stage/pandal setting. Normal color processing, cropping or watermarking may exist; original capture file and independent date authentication are unavailable.",
+          "contextualPhoto": true
         }
       ]
     },
@@ -3328,18 +3357,19 @@
       "media": [
         {
           "id": "official-2023",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja2023.jpg",
           "kind": "photograph",
           "label": "Photograph",
           "caption": "Image filed under 2023 in the mandal's retrospective gallery.",
           "credit": "Photographer unidentified",
           "dateEvidence": "Filed under 2023 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "H02"
           ],
           "yearConfidence": "source_label_only",
-          "assessment": "Visually inspected: photographic view of idol in its stage/pandal setting. Normal color processing, cropping or watermarking may exist; original capture file and independent date authentication are unavailable."
+          "assessment": "Visually inspected: photographic view of idol in its stage/pandal setting. Normal color processing, cropping or watermarking may exist; original capture file and independent date authentication are unavailable.",
+          "contextualPhoto": true
         }
       ]
     },
@@ -3371,21 +3401,22 @@
       "media": [
         {
           "id": "press-2024",
-          "originalUrl": "https://www.mid-day.com/mumbai/mumbai-news/photo/in-photos-first-look-of-mumbaicha-raja-idol-unveiled-for-ganeshotsav-2024-102071/1",
+          "originalUrl": "https://images.mid-day.com/images/images/2024/sep/MR-1-ready.jpg",
           "kind": "photograph",
           "label": "Contemporary press photograph",
           "caption": "The 2024 idol, photographed inside its pandal. The setting evoked Ujjain Mahakal.",
           "credit": "Atul Kamble / Mid-day",
           "dateEvidence": "Published 2024-09-06 in a report identifying the current festival year.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "P29"
           ],
-          "yearConfidence": "contemporary_publication"
+          "yearConfidence": "contemporary_publication",
+          "contextualPhoto": true
         },
         {
           "id": "official-2024",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja2024.jpg",
           "kind": "treated",
           "label": "Digitally treated image",
           "caption": "Image filed under 2024 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
@@ -3432,21 +3463,22 @@
       "media": [
         {
           "id": "press-2025",
-          "originalUrl": "https://www.mid-day.com/mumbai/mumbai-news/photo/in-photos-first-look-of-mumbaicha-raja-107074/1",
+          "originalUrl": "https://images.mid-day.com/images/images/2025/aug/1mch_d.jpg",
           "kind": "photograph",
           "label": "Contemporary press photograph",
           "caption": "The 2025 unveiling. The gallery credits two photographers without assigning individual frames.",
           "credit": "Manjeet Thakur and Raj Patil / Mid-day (joint gallery credit)",
           "dateEvidence": "Published 2025-08-25 in a report identifying the current festival year.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "P30"
           ],
-          "yearConfidence": "contemporary_publication"
+          "yearConfidence": "contemporary_publication",
+          "contextualPhoto": true
         },
         {
           "id": "official-2025",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja2025.jpg",
           "kind": "treated",
           "label": "Digitally treated image",
           "caption": "Image filed under 2025 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
@@ -3492,32 +3524,34 @@
       "media": [
         {
           "id": "press-2026",
-          "originalUrl": "https://www.freepressjournal.in/amp/lifestyle/mumbaicha-raja-2026-first-look-grand-balancing-ganpati-idol-unveiled-in-ganesh-galli-see-inside-visuals",
+          "originalUrl": "https://media.assettype.com/freepressjournal/2026-09-13/gy8xvbyh/Mumbaicha-Raja-2026?width=1200",
           "kind": "photograph",
           "label": "Contemporary press photograph",
           "caption": "The 2026 installation, with the balancing figure above a lotus supported by a blue hand.",
           "credit": "Salman Ansari / Free Press Journal",
           "dateEvidence": "Published 2026-09-13 in a report identifying the current festival year.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "P31"
           ],
-          "yearConfidence": "contemporary_publication"
+          "yearConfidence": "contemporary_publication",
+          "contextualPhoto": true
         },
         {
           "id": "official-2026",
-          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "originalUrl": "https://www.mumbaicharaja.co/gallery-image/Mumbai%20Cha%20Raja/MumbaichaRaja2026.jpg",
           "kind": "photograph",
           "label": "Photograph",
           "caption": "Image filed under 2026 in the mandal's retrospective gallery.",
           "credit": "Photographer unidentified",
           "dateEvidence": "Filed under 2026 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "H02"
           ],
           "yearConfidence": "source_label_only",
-          "assessment": "Visually inspected: photographic view of idol in its stage/pandal setting. Normal color processing, cropping or watermarking may exist; original capture file and independent date authentication are unavailable."
+          "assessment": "Visually inspected: photographic view of idol in its stage/pandal setting. Normal color processing, cropping or watermarking may exist; original capture file and independent date authentication are unavailable.",
+          "contextualPhoto": true
         }
       ]
     }

@@ -153,14 +153,14 @@
       "media": [
         {
           "id": "1976-phase2-idol",
-          "originalUrl": "https://fortchaicchapurtiganesh.com/memories/",
+          "originalUrl": "https://fortchaicchapurtiganesh.com/wp-content/gallery/oldmemories/fortchaicchapurtiganesholdphotos11.jpeg",
           "kind": "photograph",
           "label": "Year-labelled historical photographic reproduction",
           "caption": "Fortcha Icchapurti Ganesh in the source-labelled 1976 record.",
           "credit": "Fort Vibhag mandal archive; individual photographer uncredited.",
           "dateEvidence": "The reproduced object explicitly prints Fort Vibhag Sarvajanik Ganeshotsav Mandal and 1976 in its lower border. This is an institutional retrospective year label; original capture and print dates are not authenticated.",
           "dateStatus": "source-attributed",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "FI08"
           ],
@@ -170,7 +170,8 @@
             "observedForm": "A monochrome halftone stage image shows Ganesh above a large animal-shaped sculptural support, with attendants and tall physical columns; the reproduced border prints the institution and 1976.",
             "alignsWithSource": true,
             "note": "Physical sculptural scene inspected; original camera file, print processing and photographic ownership remain unverified."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -187,14 +188,14 @@
       "media": [
         {
           "id": "2015-phase2-idol",
-          "originalUrl": "https://www.myyatradiary.com/2015/09/mumbai-ganpati-pandal-sarvajanik.html",
+          "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAF_Pmv0FCUAX9G45LnnaQhuIH8j3JrAi94uvli_LfVJxORX4e67uIHOD2h6zAfnW2oNqooxSMYPkjmhyfxNMp3x1muzMM0jMYJwC-IOfYBkSaS9R6vAvni5aHP5ORtnCjvt9NT63_pAA/s1600/Grand+idol+of+Fortcha+Icchapurti+Ganesha%252C+Ganesh+Pandal+Hopping%252C+Mumbai.jpg",
           "kind": "photograph",
           "label": "Contemporary visitor photograph",
           "caption": "Fortcha Icchapurti Ganesh in the source-labelled 2015 record.",
           "credit": "Arti / My Yatra Diary (visible watermark retained).",
           "dateEvidence": "First-person photo essay dated 27 September 2015 describes that year's visit and the displayed idol. No independent camera timestamp is supplied.",
           "dateStatus": "contemporary",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "FI13"
           ],
@@ -204,7 +205,8 @@
             "observedForm": "Four-armed seated Ganesh with gold crown and pale metallic lower drapery on a dark sculpted throne; blue-backed aureole, detailed painted ceiling, patterned wall panels and lamps visible.",
             "alignsWithSource": true,
             "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -221,14 +223,14 @@
       "media": [
         {
           "id": "2016-phase2-idol",
-          "originalUrl": "https://localpress.co.in/mumbai/pictures-15-mumbais-iconic-ganesh-idols-2016/",
+          "originalUrl": "https://localpress.co.in/wp-content/uploads/2016/09/in-pictures-15-of-mumbais-most-iconic-ganesh-idols-of-2016-13-optimized.jpg",
           "kind": "photograph",
           "label": "Contemporary institution-supplied photograph",
           "caption": "Fortcha Icchapurti Ganesh in the source-labelled 2016 record.",
           "credit": "Fortcha Icchapurti Official, via Local Press Co.",
           "dateEvidence": "The 5 September 2016 gallery specifically captions this frame Fortcha Icchapurti and credits the official institution; the article presents the current festival's idols.",
           "dateStatus": "contemporary",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "FI14"
           ],
@@ -238,7 +240,8 @@
             "observedForm": "Four-armed seated Ganesh in yellow dhoti and red-gold shoulder cloth on an ornate dark lion-sided throne; blue-backed crest, garlands, painted ceiling and physical stage offerings visible.",
             "alignsWithSource": true,
             "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -255,13 +258,13 @@
       "media": [
         {
           "id": "2017-official-scene",
-          "originalUrl": "https://fortchaicchapurtiganesh.com/gallery-2017/",
+          "originalUrl": "https://fortchaicchapurtiganesh.com/wp-content/gallery/2017gallery/DSC_0031.JPG",
           "kind": "photograph",
           "label": "Institutional gallery photograph",
           "caption": "Seated yellow-dhoti Ganesh and visitors inside the decorated 2017 pandal.",
           "credit": "Fort Vibhag mandal gallery; individual photographer uncredited.",
           "dateEvidence": "Explicit Gallery 2017 heading assigns this image to 2017; upload timestamp is not used as capture date.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "FI04"
           ],
@@ -271,7 +274,8 @@
             "observedForm": "Four-armed seated idol on ornate peacock/lion throne, yellow dhoti; visitors, railings, floor, lamps and illuminated architectural set visible.",
             "alignsWithSource": true,
             "note": "Image visually inspected; source attribution retained without independent provenance authentication."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -288,13 +292,13 @@
       "media": [
         {
           "id": "2018-official-scene",
-          "originalUrl": "https://fortchaicchapurtiganesh.com/gallery-2018/",
+          "originalUrl": "https://fortchaicchapurtiganesh.com/wp-content/gallery/2018gallery/fortchaicchapurti-2018-1.jpeg",
           "kind": "photograph",
           "label": "Institutional gallery photograph",
           "caption": "Seated Ganesh, throne details and painted ceiling in 2018.",
           "credit": "Fort Vibhag mandal gallery; individual photographer uncredited.",
           "dateEvidence": "Gallery 2018 heading plus visible camera stamp 2018.09.13 10: 39; camera time is source metadata, not independently authenticated.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "FI05"
           ],
@@ -304,7 +308,8 @@
             "observedForm": "Seated four-armed idol with yellow dhoti and red-gold drape, peacock throne and physical painted ceiling; floor offerings visible.",
             "alignsWithSource": true,
             "note": "Image visually inspected; source attribution retained without independent provenance authentication."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -321,14 +326,14 @@
       "media": [
         {
           "id": "2019-phase2-idol",
-          "originalUrl": "https://fortchaicchapurtiganesh.com/gallery-2019/",
+          "originalUrl": "https://fortchaicchapurtiganesh.com/wp-content/gallery/2019gallery/IMG-20190906-WA0095.jpg",
           "kind": "photograph",
           "label": "Institutional annual-gallery photograph",
           "caption": "Fortcha Icchapurti Ganesh in the source-labelled 2019 record.",
           "credit": "Fort Vibhag mandal archive; individual photographer uncredited.",
           "dateEvidence": "The official page is explicitly headed 2019 or Gallery 2019; the chosen physical scene appears inside that album. No exact capture day is established by its upload/file name.",
           "dateStatus": "source-attributed",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "FI09"
           ],
@@ -338,7 +343,8 @@
             "observedForm": "Four-armed seated Ganesh in pink dhoti, gold crown and ornaments, with a radiating orange-gold aureole and lion-sided throne; decorated ceiling, stage floor and offerings visible.",
             "alignsWithSource": true,
             "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -355,14 +361,14 @@
       "media": [
         {
           "id": "2022-phase2-idol",
-          "originalUrl": "https://fortchaicchapurtiganesh.com/2022-2/",
+          "originalUrl": "https://fortchaicchapurtiganesh.com/wp-content/gallery/2022-2/fortchaicchapurtiganeshmumbai1.JPG",
           "kind": "photograph",
           "label": "Institutional annual-gallery photograph",
           "caption": "Fortcha Icchapurti Ganesh in the source-labelled 2022 record.",
           "credit": "Fort Vibhag mandal archive; individual photographer uncredited.",
           "dateEvidence": "The official page is explicitly headed 2022 or Gallery 2022; the chosen physical scene appears inside that album. No exact capture day is established by its upload/file name.",
           "dateStatus": "source-attributed",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "FI10"
           ],
@@ -372,7 +378,8 @@
             "observedForm": "Four-armed seated Ganesh in silver drapery on a lion-sided throne with large peacock ornaments; purple-lit ceiling, red stage floor, fruit and offerings visible.",
             "alignsWithSource": true,
             "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -389,14 +396,14 @@
       "media": [
         {
           "id": "2023-phase2-idol",
-          "originalUrl": "https://fortchaicchapurtiganesh.com/2023-2/",
+          "originalUrl": "https://fortchaicchapurtiganesh.com/wp-content/gallery/2023/DSC_3655.JPG",
           "kind": "photograph",
           "label": "Institutional annual-gallery photograph",
           "caption": "Fortcha Icchapurti Ganesh in the source-labelled 2023 record.",
           "credit": "Fort Vibhag mandal archive; individual photographer uncredited.",
           "dateEvidence": "The official page is explicitly headed 2023 or Gallery 2023; the chosen physical scene appears inside that album. No exact capture day is established by its upload/file name.",
           "dateStatus": "source-attributed",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "FI11"
           ],
@@ -406,7 +413,8 @@
             "observedForm": "Four-armed seated Ganesh in red dhoti with gold crown, yellow garlands, sunburst aureole and blue throne back; painted ceiling, wall panels and stage offerings visible.",
             "alignsWithSource": true,
             "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -423,14 +431,14 @@
       "media": [
         {
           "id": "2024-phase2-idol",
-          "originalUrl": "https://fortchaicchapurtiganesh.com/2024-2/",
+          "originalUrl": "https://fortchaicchapurtiganesh.com/wp-content/gallery/2024/2024.JPG",
           "kind": "photograph",
           "label": "Institutional annual-gallery photograph",
           "caption": "Fortcha Icchapurti Ganesh in the source-labelled 2024 record.",
           "credit": "Fort Vibhag mandal archive; individual photographer uncredited.",
           "dateEvidence": "The official page is explicitly headed 2024 or Gallery 2024; the chosen physical scene appears inside that album. No exact capture day is established by its upload/file name.",
           "dateStatus": "source-attributed",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "FI12"
           ],
@@ -440,7 +448,8 @@
             "observedForm": "Four-armed seated Ganesh in bright lime-green dhoti and gold drape, beneath an elaborate feather-like aureole; blue patterned ceiling and physical stage panels, fruit and offerings visible.",
             "alignsWithSource": true,
             "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     }
@@ -448,14 +457,14 @@
   "undatedMedia": [
     {
       "id": "undated-official-standing-procession",
-      "originalUrl": "https://fortchaicchapurtiganesh.com/memories/",
+      "originalUrl": "https://fortchaicchapurtiganesh.com/wp-content/gallery/oldmemories/fortchaicchapurtiganesholdphotos6.jpeg",
       "kind": "photograph",
       "label": "Undated historical street photograph",
       "caption": "An older standing procession form retained in the official Memories album; year unknown.",
       "credit": "Fort Vibhag mandal archive; original photographer uncredited.",
       "dateEvidence": "The Memories page supplies no individual year. Monochrome appearance, upload date and gallery order do not establish a capture year.",
       "dateStatus": "undated",
-      "rights": "Image referenced; reproduction under review.",
+      "rights": "Reproduced to discuss the photo's date and source.",
       "sourceIds": [
         "FI08"
       ],
@@ -465,7 +474,8 @@
         "observedForm": "A standing four-armed Ganesh on a raised procession platform in a physical street, with people, signage and building facades; monochrome print rephotographed in the archive.",
         "alignsWithSource": true,
         "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
-      }
+      },
+      "contextualPhoto": true
     }
   ],
   "sources": [

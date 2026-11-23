@@ -217,7 +217,7 @@
       "media": [
         {
           "id": "1937-official-treated-print",
-          "originalUrl": "https://lalbaugcharaja.com/en/photo-gallery/1934-2019/",
+          "originalUrl": "https://lalbaugcharaja.com/wp-content/uploads/2023/10/4.jpg",
           "kind": "unassessed",
           "label": "Photographic-looking devotional print, process unverified",
           "caption": "Official archive object carrying the year 1937; isolated devotional portrait.",
@@ -258,7 +258,7 @@
       "media": [
         {
           "id": "1940-official-treated-print",
-          "originalUrl": "https://lalbaugcharaja.com/en/photo-gallery/1934-2019/",
+          "originalUrl": "https://lalbaugcharaja.com/wp-content/uploads/2023/10/7.jpg",
           "kind": "unassessed",
           "label": "Photographic-looking devotional print, process unverified",
           "caption": "Official archive object carrying the year 1940; isolated devotional portrait.",
@@ -299,7 +299,7 @@
       "media": [
         {
           "id": "1954-official-printed-year-phase2",
-          "originalUrl": "https://lalbaugcharaja.com/en/photo-gallery/1934-2019/",
+          "originalUrl": "https://lalbaugcharaja.com/wp-content/uploads/2023/10/21.jpg",
           "kind": "photograph",
           "label": "Archival stage photograph with printed year",
           "caption": "Lalbaugcha Raja, source-labelled 1954; a reproduced physical festival setting.",
@@ -307,7 +307,7 @@
           "dateEvidence": "The reproduced print explicitly labels the festival year 1954 in Marathi numerals. This authenticates the archive attribution, not the negative or scan date.",
           "dateStatus": "source-attributed",
           "yearConfidence": "printed_year_on_reproduced_object",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "LR10"
           ],
@@ -316,7 +316,8 @@
             "observedForm": "Ganesh amid a physical stage tableau with an elephant, standing and kneeling figures, a large tree and architectural props.",
             "alignsWithSource": true,
             "note": "Viewed as an individual original and/or in the labelled contact sheet. Physical sculpture, stage depth and props are visible. The print may have conventional retouching; no original negative was inspected."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -340,7 +341,7 @@
       "media": [
         {
           "id": "1955-official-treated-print",
-          "originalUrl": "https://lalbaugcharaja.com/en/photo-gallery/1934-2019/",
+          "originalUrl": "https://lalbaugcharaja.com/wp-content/uploads/2023/10/22.jpg",
           "kind": "treated",
           "label": "Colour-treated archival tableau print",
           "caption": "Official archive object carrying the year 1955; strong colour treatment is visible.",
@@ -381,7 +382,7 @@
       "media": [
         {
           "id": "1956-official-treated-print",
-          "originalUrl": "https://lalbaugcharaja.com/en/photo-gallery/1934-2019/",
+          "originalUrl": "https://lalbaugcharaja.com/wp-content/uploads/2023/10/23.jpg",
           "kind": "treated",
           "label": "Colour-treated archival tableau print",
           "caption": "Official archive object carrying the year 1956; strong colour treatment is visible.",
@@ -422,7 +423,7 @@
       "media": [
         {
           "id": "1957-official-treated-print",
-          "originalUrl": "https://lalbaugcharaja.com/en/photo-gallery/1934-2019/",
+          "originalUrl": "https://lalbaugcharaja.com/wp-content/uploads/2023/10/24.jpg",
           "kind": "treated",
           "label": "Colour-treated archival tableau print",
           "caption": "Official archive object carrying the year 1957; strong colour treatment is visible.",
@@ -463,7 +464,7 @@
       "media": [
         {
           "id": "1959-official-treated-print",
-          "originalUrl": "https://lalbaugcharaja.com/en/photo-gallery/1934-2019/",
+          "originalUrl": "https://lalbaugcharaja.com/wp-content/uploads/2023/10/26.jpg",
           "kind": "treated",
           "label": "Colour-treated archival tableau print",
           "caption": "Official archive object carrying the year 1959; strong colour treatment is visible.",
@@ -504,7 +505,7 @@
       "media": [
         {
           "id": "1962-official-treated-print",
-          "originalUrl": "https://lalbaugcharaja.com/en/photo-gallery/1934-2019/",
+          "originalUrl": "https://lalbaugcharaja.com/wp-content/uploads/2023/10/29.jpg",
           "kind": "treated",
           "label": "Colour-treated archival tableau print",
           "caption": "Official archive object carrying the year 1962; strong colour treatment is visible.",
@@ -545,13 +546,13 @@
       "media": [
         {
           "id": "1967-official-printed-year",
-          "originalUrl": "https://lalbaugcharaja.com/en/photo-gallery/1934-2019/",
+          "originalUrl": "https://lalbaugcharaja.com/wp-content/uploads/2023/10/34.jpg",
           "kind": "photograph",
           "label": "Scanned historical stage photograph",
           "caption": "Lalbaugcha Raja tableau labelled 1967 on the reproduced print.",
           "credit": "Official mandal archive; original photographer unconfirmed. Visible studio/production marks require further transcription.",
           "dateEvidence": "The lower printed margin explicitly labels the idol with Marathi year numerals १९६७. This is the source's festival-year attribution; it does not establish when the surviving print was made or scanned.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "LR10"
           ],
@@ -562,7 +563,8 @@
             "alignsWithSource": true,
             "note": "A monochrome reproduction with a physical stage and perspective. Studio/print marks remain in the scan; original print process and any retouching are not authenticated. The printed year was read directly during inspection."
           },
-          "dateStatus": "source-attributed"
+          "dateStatus": "source-attributed",
+          "contextualPhoto": true
         }
       ]
     },
@@ -586,13 +588,13 @@
       "media": [
         {
           "id": "1968-official-printed-year",
-          "originalUrl": "https://lalbaugcharaja.com/en/photo-gallery/1934-2019/",
+          "originalUrl": "https://lalbaugcharaja.com/wp-content/uploads/2023/10/35.jpg",
           "kind": "photograph",
           "label": "Scanned historical stage photograph",
           "caption": "Lalbaugcha Raja tableau labelled 1968 on the reproduced print.",
           "credit": "Official mandal archive; original photographer unconfirmed. Visible studio/production marks require further transcription.",
           "dateEvidence": "The top heading explicitly prints सन १९६८. This is the source's festival-year attribution; it does not establish when the surviving print was made or scanned.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "LR10"
           ],
@@ -603,7 +605,8 @@
             "alignsWithSource": true,
             "note": "Monochrome scan of a framed stage photograph. The surrounding printed heading is retained; original negative and print provenance are unavailable. The printed year was read directly during inspection."
           },
-          "dateStatus": "source-attributed"
+          "dateStatus": "source-attributed",
+          "contextualPhoto": true
         }
       ]
     },
@@ -627,7 +630,7 @@
       "media": [
         {
           "id": "1969-official-printed-year-phase2",
-          "originalUrl": "https://lalbaugcharaja.com/en/photo-gallery/1934-2019/",
+          "originalUrl": "https://lalbaugcharaja.com/wp-content/uploads/2023/10/37.jpg",
           "kind": "photograph",
           "label": "Archival stage photograph with printed year",
           "caption": "Lalbaugcha Raja, source-labelled 1969; a reproduced physical festival setting.",
@@ -635,7 +638,7 @@
           "dateEvidence": "The reproduced print explicitly labels the festival year 1969 in Marathi numerals. This authenticates the archive attribution, not the negative or scan date.",
           "dateStatus": "source-attributed",
           "yearConfidence": "printed_year_on_reproduced_object",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "LR10"
           ],
@@ -644,7 +647,8 @@
             "observedForm": "Four-armed Ganesh sits with one knee lifted amid human figures, a crowd mural, rocket-shaped props and an Indian flag; offerings and stage floor remain visible.",
             "alignsWithSource": true,
             "note": "Viewed as an individual original and/or in the labelled contact sheet. Physical sculpture, stage depth and props are visible. The print may have conventional retouching; no original negative was inspected."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -668,7 +672,7 @@
       "media": [
         {
           "id": "1971-official-printed-year-phase2",
-          "originalUrl": "https://lalbaugcharaja.com/en/photo-gallery/1934-2019/",
+          "originalUrl": "https://lalbaugcharaja.com/wp-content/uploads/2023/10/39.jpg",
           "kind": "photograph",
           "label": "Archival stage photograph with printed year",
           "caption": "Lalbaugcha Raja, source-labelled 1971; a reproduced physical festival setting.",
@@ -676,7 +680,7 @@
           "dateEvidence": "The reproduced print explicitly labels the festival year 1971 in Marathi numerals. This authenticates the archive attribution, not the negative or scan date.",
           "dateStatus": "source-attributed",
           "yearConfidence": "printed_year_on_reproduced_object",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "LR10"
           ],
@@ -685,7 +689,8 @@
             "observedForm": "Reclining four-armed Ganesh on a carved couch, a crowned standing figure, a small attendant and a seated female musician with a long string instrument within an arched palace stage.",
             "alignsWithSource": true,
             "note": "Viewed as an individual original and/or in the labelled contact sheet. Physical sculpture, stage depth and props are visible. The print may have conventional retouching; no original negative was inspected."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -709,13 +714,13 @@
       "media": [
         {
           "id": "1972-official-printed-year",
-          "originalUrl": "https://lalbaugcharaja.com/en/photo-gallery/1934-2019/",
+          "originalUrl": "https://lalbaugcharaja.com/wp-content/uploads/2023/10/40.jpg",
           "kind": "photograph",
           "label": "Scanned historical stage photograph",
           "caption": "Lalbaugcha Raja tableau labelled 1972 on the reproduced print.",
           "credit": "Official mandal archive; original photographer unconfirmed. Visible studio/production marks require further transcription.",
           "dateEvidence": "The upper banner explicitly prints सन १९७२. This is the source's festival-year attribution; it does not establish when the surviving print was made or scanned.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "LR10"
           ],
@@ -726,7 +731,8 @@
             "alignsWithSource": true,
             "note": "Monochrome photographic reproduction of a physical tableau with a painted scenic background. Printed scenic credit is not being reassigned as a photographer credit. The printed year was read directly during inspection."
           },
-          "dateStatus": "source-attributed"
+          "dateStatus": "source-attributed",
+          "contextualPhoto": true
         }
       ]
     },
@@ -750,13 +756,13 @@
       "media": [
         {
           "id": "1974-official-printed-year",
-          "originalUrl": "https://lalbaugcharaja.com/en/photo-gallery/1934-2019/",
+          "originalUrl": "https://lalbaugcharaja.com/wp-content/uploads/2023/10/41.jpg",
           "kind": "photograph",
           "label": "Scanned historical stage photograph",
           "caption": "Lalbaugcha Raja tableau labelled 1974 on the reproduced print.",
           "credit": "Official mandal archive; original photographer unconfirmed. Visible studio/production marks require further transcription.",
           "dateEvidence": "The upper banner explicitly prints the year numerals १९७४. This is the source's festival-year attribution; it does not establish when the surviving print was made or scanned.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "LR10"
           ],
@@ -767,7 +773,8 @@
             "alignsWithSource": true,
             "note": "Physical sculptural/tableau setting is visible. The printed Marathi caption identifies a coronation scene; specific sculptor and photographic authorship are not authenticated here. The printed year was read directly during inspection."
           },
-          "dateStatus": "source-attributed"
+          "dateStatus": "source-attributed",
+          "contextualPhoto": true
         }
       ]
     },
@@ -791,7 +798,7 @@
       "media": [
         {
           "id": "1975-official-printed-year-phase2",
-          "originalUrl": "https://lalbaugcharaja.com/en/photo-gallery/1934-2019/",
+          "originalUrl": "https://lalbaugcharaja.com/wp-content/uploads/2023/10/42.jpg",
           "kind": "photograph",
           "label": "Archival stage photograph with printed year",
           "caption": "Lalbaugcha Raja, source-labelled 1975; a reproduced physical festival setting.",
@@ -799,7 +806,7 @@
           "dateEvidence": "The reproduced print explicitly labels the festival year 1975 in Marathi numerals. This authenticates the archive attribution, not the negative or scan date.",
           "dateStatus": "source-attributed",
           "yearConfidence": "printed_year_on_reproduced_object",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "LR10"
           ],
@@ -808,7 +815,8 @@
             "observedForm": "Four-armed Ganesh stands beneath a large tree amid contrasting clothed human figures, hut scenery and a physical ground-level stage.",
             "alignsWithSource": true,
             "note": "Viewed as an individual original and/or in the labelled contact sheet. Physical sculpture, stage depth and props are visible. The print may have conventional retouching; no original negative was inspected."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -838,7 +846,7 @@
       "media": [
         {
           "id": "1976-official-printed-year-phase2",
-          "originalUrl": "https://lalbaugcharaja.com/en/photo-gallery/1934-2019/",
+          "originalUrl": "https://lalbaugcharaja.com/wp-content/uploads/2023/10/43.jpg",
           "kind": "photograph",
           "label": "Archival stage photograph with printed year",
           "caption": "Lalbaugcha Raja, source-labelled 1976; a reproduced physical festival setting.",
@@ -846,7 +854,7 @@
           "dateEvidence": "The reproduced print explicitly labels the festival year 1976 in Marathi numerals. This authenticates the archive attribution, not the negative or scan date.",
           "dateStatus": "source-attributed",
           "yearConfidence": "printed_year_on_reproduced_object",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "LR10"
           ],
@@ -855,7 +863,8 @@
             "observedForm": "Standing four-armed Ganesh beneath a rectangular temple frame; a large mace, armed figures, bowed bodies and a physical stage edge are visible.",
             "alignsWithSource": true,
             "note": "Viewed as an individual original and/or in the labelled contact sheet. Physical sculpture, stage depth and props are visible. The print may have conventional retouching; no original negative was inspected."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -879,13 +888,13 @@
       "media": [
         {
           "id": "1977-official-printed-year",
-          "originalUrl": "https://lalbaugcharaja.com/en/photo-gallery/1934-2019/",
+          "originalUrl": "https://lalbaugcharaja.com/wp-content/uploads/2023/10/44.jpg",
           "kind": "photograph",
           "label": "Scanned historical stage photograph",
           "caption": "Lalbaugcha Raja tableau labelled 1977 on the reproduced print.",
           "credit": "Official mandal archive; original photographer unconfirmed. Visible studio/production marks require further transcription.",
           "dateEvidence": "The top printed heading explicitly gives सन १९७७. This is the source's festival-year attribution; it does not establish when the surviving print was made or scanned.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "LR10"
           ],
@@ -896,7 +905,8 @@
             "alignsWithSource": true,
             "note": "Monochrome reproduction of a physical tableau. The printed border and caption are retained; the image-making and print history are unverified. The printed year was read directly during inspection."
           },
-          "dateStatus": "source-attributed"
+          "dateStatus": "source-attributed",
+          "contextualPhoto": true
         }
       ]
     },
@@ -920,13 +930,13 @@
       "media": [
         {
           "id": "1978-official-printed-year",
-          "originalUrl": "https://lalbaugcharaja.com/en/photo-gallery/1934-2019/",
+          "originalUrl": "https://lalbaugcharaja.com/wp-content/uploads/2023/10/45.jpg",
           "kind": "photograph",
           "label": "Scanned historical stage photograph",
           "caption": "Lalbaugcha Raja tableau labelled 1978 on the reproduced print.",
           "credit": "Official mandal archive; original photographer unconfirmed. Visible studio/production marks require further transcription.",
           "dateEvidence": "The upper heading explicitly gives सन १९७८. This is the source's festival-year attribution; it does not establish when the surviving print was made or scanned.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "LR10"
           ],
@@ -937,7 +947,8 @@
             "alignsWithSource": true,
             "note": "Monochrome scanned photographic print of a physical stage. Several printed production credits remain visible but are not transcribed or assigned to roles without further verification. The printed year was read directly during inspection."
           },
-          "dateStatus": "source-attributed"
+          "dateStatus": "source-attributed",
+          "contextualPhoto": true
         }
       ]
     },
@@ -961,7 +972,7 @@
       "media": [
         {
           "id": "1979-official-printed-year-phase2",
-          "originalUrl": "https://lalbaugcharaja.com/en/photo-gallery/1934-2019/",
+          "originalUrl": "https://lalbaugcharaja.com/wp-content/uploads/2023/10/46.jpg",
           "kind": "photograph",
           "label": "Archival stage photograph with printed year",
           "caption": "Lalbaugcha Raja, source-labelled 1979; a reproduced physical festival setting.",
@@ -969,7 +980,7 @@
           "dateEvidence": "The reproduced print explicitly labels the festival year 1979 in Marathi numerals. This authenticates the archive attribution, not the negative or scan date.",
           "dateStatus": "source-attributed",
           "yearConfidence": "printed_year_on_reproduced_object",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "LR10"
           ],
@@ -978,7 +989,8 @@
             "observedForm": "Four-armed Ganesh seated with a knee raised on an ornate support, with a horned figure kneeling, bow-bearing figures, a weapon-bearing figure and receding arches behind.",
             "alignsWithSource": true,
             "note": "Viewed as an individual original and/or in the labelled contact sheet. Physical sculpture, stage depth and props are visible. The print may have conventional retouching; no original negative was inspected."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -1002,7 +1014,7 @@
       "media": [
         {
           "id": "1982-official-printed-year-phase2",
-          "originalUrl": "https://lalbaugcharaja.com/en/photo-gallery/1934-2019/",
+          "originalUrl": "https://lalbaugcharaja.com/wp-content/uploads/2023/10/49.jpg",
           "kind": "photograph",
           "label": "Archival stage photograph with printed year",
           "caption": "Lalbaugcha Raja, source-labelled 1982; a reproduced physical festival setting.",
@@ -1010,7 +1022,7 @@
           "dateEvidence": "The reproduced print explicitly labels the festival year 1982 in Marathi numerals. This authenticates the archive attribution, not the negative or scan date.",
           "dateStatus": "source-attributed",
           "yearConfidence": "printed_year_on_reproduced_object",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "LR10"
           ],
@@ -1019,7 +1031,8 @@
             "observedForm": "Seated four-armed Ganesh on a stepped throne between columns, with a small kneeling figure and four surrounding standing figures; a mace rests beside the throne.",
             "alignsWithSource": true,
             "note": "Viewed as an individual original and/or in the labelled contact sheet. Physical sculpture, stage depth and props are visible. The print may have conventional retouching; no original negative was inspected."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -1043,7 +1056,7 @@
       "media": [
         {
           "id": "1985-official-printed-year-phase2",
-          "originalUrl": "https://lalbaugcharaja.com/en/photo-gallery/1934-2019/",
+          "originalUrl": "https://lalbaugcharaja.com/wp-content/uploads/2023/10/51.jpg",
           "kind": "photograph",
           "label": "Archival stage photograph with printed year",
           "caption": "Lalbaugcha Raja, source-labelled 1985; a reproduced physical festival setting.",
@@ -1051,7 +1064,7 @@
           "dateEvidence": "The reproduced print explicitly labels the festival year 1985 in Marathi numerals. This authenticates the archive attribution, not the negative or scan date.",
           "dateStatus": "source-attributed",
           "yearConfidence": "printed_year_on_reproduced_object",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "LR10"
           ],
@@ -1060,7 +1073,8 @@
             "observedForm": "Crowned four-armed Ganesh in orange garments and dark patterned shawl, one knee lifted, on a blue-scaled throne with a large mace; physical pillars, unfinished floor and offerings visible.",
             "alignsWithSource": true,
             "note": "Viewed as an individual original and/or in the labelled contact sheet. Physical sculpture, stage depth and props are visible. The print may have conventional retouching; no original negative was inspected."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -1084,7 +1098,7 @@
       "media": [
         {
           "id": "2008-official-printed-year-phase2",
-          "originalUrl": "https://lalbaugcharaja.com/en/photo-gallery/1934-2019/",
+          "originalUrl": "https://lalbaugcharaja.com/wp-content/uploads/2023/10/75.jpg",
           "kind": "photograph",
           "label": "Archival stage photograph with printed year",
           "caption": "Lalbaugcha Raja, source-labelled 2008; a reproduced physical festival setting.",
@@ -1092,7 +1106,7 @@
           "dateEvidence": "The reproduced print explicitly labels the festival year 2008 in Marathi numerals. This authenticates the archive attribution, not the negative or scan date.",
           "dateStatus": "source-attributed",
           "yearConfidence": "printed_year_on_reproduced_object",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "LR10"
           ],
@@ -1101,7 +1115,8 @@
             "observedForm": "Four-armed Ganesh seated on a gold throne in orange trousers, layered flower garlands, conch, disc-like attribute and large mace; curtains, silver mouse, lamps and offerings in a physical pandal.",
             "alignsWithSource": true,
             "note": "Viewed as an individual original and/or in the labelled contact sheet. Physical sculpture, stage depth and props are visible. The print may have conventional retouching; no original negative was inspected."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -1176,13 +1191,13 @@
       "media": [
         {
           "id": "2023-midday-procession",
-          "originalUrl": "https://www.mid-day.com/mumbai/mumbai-news/photo/in-photos-devotees-bid-adieu-to-lord-ganesha-in-mumbai-97522/7",
+          "originalUrl": "https://images.mid-day.com/images/images/2023/sep/sep28-ganpati8_d.jpg",
           "kind": "photograph",
           "label": "Contemporary press photograph",
           "caption": "Devotees gather in Lalbaug to bid farewell to Lalbaugcha Raja.",
           "credit": "Shadab Khan / Mid-day",
           "dateEvidence": "Gallery published 28 September 2023; specific caption identifies the idol and farewell procession.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "LR08"
           ],
@@ -1193,7 +1208,8 @@
             "alignsWithSource": true,
             "note": "Direct image visually inspected in Chrome. Specific contemporary caption identifies Lalbaugcha Raja; the overhead view partially obscures the idol’s limbs, so no detailed iconographic title is inferred."
           },
-          "dateStatus": "contemporary"
+          "dateStatus": "contemporary",
+          "contextualPhoto": true
         }
       ]
     },
@@ -1210,13 +1226,13 @@
       "media": [
         {
           "id": "2025-loksatta-pandal",
-          "originalUrl": "https://www.loksatta.com/photos/ganeshutsav/5331272/ganeshotsav-2025-see-photos-of-lalbaug-parel-ganpati-bappa-decoration-theme-festival-sdn-96/lite/",
+          "originalUrl": "https://images.loksattaimg.com/2025/08/Lalbaug-Parel-Ganpati-2025-2.jpg",
           "kind": "photograph",
           "label": "Contemporary regional press photograph",
           "caption": "Lalbaugcha Raja in the 2025 physical pandal.",
           "credit": "Mandal / Instagram via Loksatta; photographer not individually named",
           "dateEvidence": "Published in the 26 August 2025 gallery with specific institution caption; exact capture day not recovered.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "LR07"
           ],
@@ -1227,7 +1243,8 @@
             "alignsWithSource": true,
             "note": "Direct image visually inspected. Named Marathi caption anchors institution/year; visual similarity alone is not treated as proof of a date or sculptor."
           },
-          "dateStatus": "contemporary"
+          "dateStatus": "contemporary",
+          "contextualPhoto": true
         }
       ]
     }

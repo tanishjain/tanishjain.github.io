@@ -160,14 +160,14 @@
       "media": [
         {
           "id": "siddhi-1991-cctv",
-          "originalUrl": "https://www.indiatoday.in/magazine/living/story/19911130-gods-are-now-being-served-up-on-cctv-at-bombay-shree-siddhivinayak-temple-815149-1991-11-29",
+          "originalUrl": "https://akm-img-a-in.tosshub.com/sites/media2/indiatoday/images/stories/1991November/karaoke-2_011413031944.jpg",
           "kind": "photograph",
           "label": "Teledarshan, 1991 issue",
           "caption": "Small, dark colour press photograph of worshippers standing together with hands joined, facing equipment at left; the Ganesh icon is not distinctly visible.",
           "credit": "Photographer uncredited.",
           "dateStatus": "contemporary",
           "dateEvidence": "Issue dated 30 November 1991; 2013 is the web update.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "SV09"
           ],
@@ -177,7 +177,8 @@
             "observedForm": "Small, dark colour press photograph of worshippers standing together with hands joined, facing equipment at left; the Ganesh icon is not distinctly visible.",
             "alignsWithSource": true,
             "note": "Downloaded native source opened and inspected on 16 November 2026; architectural or worship context, not an annual replacement-idol portrait."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },

@@ -1134,3 +1134,46 @@ dialog.lightbox::backdrop {
   .ledger-row { grid-template-columns: 3.5rem minmax(0, 1fr) minmax(0, 5.5rem); }
   .ledger-row__status { white-space: normal; }
 }
+.image-source-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 32px;
+  font: 600 .8125rem var(--font-sans);
+  color: var(--vermilion);
+  text-decoration: underline;
+  text-underline-offset: .2em;
+}
+.image-source-link:focus-visible { outline: 2px solid var(--vermilion); outline-offset: 3px; }
+.record-media-item > .image-source-link { margin-bottom: var(--space-s); }
+
+.archive-evidence {
+  margin: 0 0 var(--space-m);
+  padding: var(--space-m);
+  background: var(--paper);
+  border: 1px solid var(--rule);
+}
+.archive-evidence img { display: block; max-width: 100%; max-height: 400px; height: auto; object-fit: contain; }
+.archive-evidence figcaption { margin-top: var(--space-m); color: var(--ink); font-size: .9375rem; line-height: 1.6; }
+.archive-evidence figcaption p + p { margin-top: var(--space-s); }
+.archive-evidence figcaption strong { display: block; }
+
+.year-reference-row { grid-template-columns: minmax(0, 1fr) auto; align-items: center; }
+.year-reference-row:hover { background: transparent; }
+.year-reference-heading {
+  display: grid;
+  grid-template-columns: 4.5rem minmax(0, 1fr);
+  align-items: baseline;
+  gap: var(--space-s);
+  text-decoration: none;
+}
+.year-reference-heading:hover > span:nth-child(2) { text-decoration: underline; }
+.contact-sheet__item--reference { display: block; border-top: 1px solid var(--rule); }
+.contact-sheet__item--reference .contact-sheet__caption-block { border-top: 0; }
+.contact-sheet .image-source-link, .year-grid .image-source-link { padding-inline: var(--space-s); }
+.undated-media-item__body > .image-source-link { margin-bottom: var(--space-s); }
+
+@media (max-width: 600px) {
+  .ledger-row.year-reference-row { grid-template-columns: minmax(0, 1fr); gap: .125rem; }
+  .year-reference-heading { grid-template-columns: 3.5rem minmax(0, 1fr); }
+  .year-reference-row > .image-source-link { margin-inline-start: calc(3.5rem + var(--space-s)); }
+}

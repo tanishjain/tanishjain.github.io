@@ -298,7 +298,7 @@
       "media": [
         {
           "id": "1983-legacy-treated-card",
-          "originalUrl": "https://www.khetwadichaganraj.com/photo-gallery.htm",
+          "originalUrl": "https://www.khetwadichaganraj.com/images/1983-big.jpg",
           "kind": "treated",
           "label": "Treated historical devotional card",
           "caption": "Kurma avatar (कूर्म अवतार), attributed to 1983 by the legacy institutional gallery.",
@@ -341,7 +341,7 @@
       "media": [
         {
           "id": "1984-legacy-treated-card",
-          "originalUrl": "https://www.khetwadichaganraj.com/photo-gallery.htm",
+          "originalUrl": "https://www.khetwadichaganraj.com/images/1984-big.jpg",
           "kind": "treated",
           "label": "Treated historical devotional card",
           "caption": "Matsya avatar (मत्स्य अवतार), attributed to 1984 by the legacy institutional gallery.",
@@ -384,7 +384,7 @@
       "media": [
         {
           "id": "2000-legacy-treated-card",
-          "originalUrl": "https://www.khetwadichaganraj.com/photo-gallery.htm",
+          "originalUrl": "https://www.khetwadichaganraj.com/images/2000-big.jpg",
           "kind": "treated",
           "label": "Treated historical devotional card",
           "caption": "Parashuram avatar (परशुराम अवतार), attributed to 2000 by the legacy institutional gallery.",
@@ -418,7 +418,7 @@
       "media": [
         {
           "id": "2009-legacy-scene",
-          "originalUrl": "https://www.khetwadichaganraj.com/photo-gallery.htm",
+          "originalUrl": "https://www.khetwadichaganraj.com/images/2009-big.jpg",
           "kind": "photograph",
           "label": "Institution-published display photograph",
           "caption": "Khetwadi 12th Lane Ganraj, labelled 2009 in the legacy gallery.",
@@ -426,7 +426,7 @@
           "dateStatus": "source-attributed",
           "yearConfidence": "institutional_gallery_explicit_year",
           "dateEvidence": "The HTML table associates this exact image with the explicit cell Year -2009. No separate capture metadata or contemporary publication date is supplied. The attribution does not depend on numeric filenames or sequence.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "KG09"
           ],
@@ -435,7 +435,8 @@
             "observedForm": "Seated four-armed Ganesh in bright red trousers and orange stole on a blue-backed, bronze-coloured throne with lion supports; physical carved pandal panels, floor and offering objects remain visible.",
             "alignsWithSource": true,
             "note": "Original individually viewed after the full 26-image contact-sheet review. Unlike earlier cutout cards, physical throne/platform/pandal details remain in the photographic scene; year remains retrospective institutional attribution."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -452,7 +453,7 @@
       "media": [
         {
           "id": "2010-legacy-scene",
-          "originalUrl": "https://www.khetwadichaganraj.com/photo-gallery.htm",
+          "originalUrl": "https://www.khetwadichaganraj.com/images/2010-big.jpg",
           "kind": "photograph",
           "label": "Institution-published display photograph",
           "caption": "Khetwadi 12th Lane Ganraj, labelled 2010 in the legacy gallery.",
@@ -460,7 +461,7 @@
           "dateStatus": "source-attributed",
           "yearConfidence": "institutional_gallery_explicit_year",
           "dateEvidence": "The HTML table associates this exact image with the explicit cell Year -2010. No separate capture metadata or contemporary publication date is supplied. The attribution does not depend on numeric filenames or sequence.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "KG09"
           ],
@@ -469,7 +470,8 @@
             "observedForm": "Seated four-armed Ganesh in red trousers and turquoise stole, with a pink sun-backed throne, large bird-shaped side supports, arched star-patterned physical scenery and a small framed portrait at the platform edge.",
             "alignsWithSource": true,
             "note": "Original individually viewed after the full 26-image contact-sheet review. Unlike earlier cutout cards, physical throne/platform/pandal details remain in the photographic scene; year remains retrospective institutional attribution."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -486,7 +488,7 @@
       "media": [
         {
           "id": "2011-legacy-scene",
-          "originalUrl": "https://www.khetwadichaganraj.com/photo-gallery.htm",
+          "originalUrl": "https://www.khetwadichaganraj.com/images/2011-big.jpg",
           "kind": "photograph",
           "label": "Institution-published display photograph",
           "caption": "Khetwadi 12th Lane Ganraj, labelled 2011 in the legacy gallery.",
@@ -494,7 +496,7 @@
           "dateStatus": "source-attributed",
           "yearConfidence": "institutional_gallery_explicit_year",
           "dateEvidence": "The HTML table associates this exact image with the explicit cell Year -2011. No separate capture metadata or contemporary publication date is supplied. The attribution does not depend on numeric filenames or sequence.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "KG09"
           ],
@@ -503,7 +505,8 @@
             "observedForm": "Seated four-armed Ganesh in blue velvet-like trousers on an ornate golden throne, flanked by two tall brass lamps; patterned physical columns, ceiling and platform details are visible.",
             "alignsWithSource": true,
             "note": "Original individually viewed after the full 26-image contact-sheet review. Unlike earlier cutout cards, physical throne/platform/pandal details remain in the photographic scene; year remains retrospective institutional attribution."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -528,7 +531,7 @@
       "media": [
         {
           "id": "2012-kashmira-throne",
-          "originalUrl": "https://rohinigupta.wordpress.com/2012/09/29/day-11-ganesh-2012/",
+          "originalUrl": "https://rohinigupta.wordpress.com/wp-content/uploads/2012/09/khetwadi-ganesh-kash.jpg",
           "kind": "photograph",
           "label": "Contemporary credited scene photograph",
           "caption": "Ganesh of Khetwadi 12th Lane, photographed by Kashmira Shaw.",
@@ -536,7 +539,7 @@
           "dateStatus": "contemporary",
           "yearConfidence": "contemporary_explicit_caption",
           "dateEvidence": "Photo essay dated 29 September 2012 discusses that festival and explicitly captions the individual image as 12th Lane. Exact exposure day is not established from the publication date.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "KG13"
           ],
@@ -545,7 +548,8 @@
             "observedForm": "Angled view of seated four-armed Ganesh in gold drapery on a large circular-backed throne, with ornate physical columns and chandelier; men near the feet and offerings establish scale and setting.",
             "alignsWithSource": true,
             "note": "Caption-linked original individually viewed. It shows the usual seated Ganraj form, unlike the same blog's separately posted 21-headed martial figure; that disputed frame is excluded."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -562,7 +566,7 @@
       "media": [
         {
           "id": "2014-flickr-18115583092",
-          "originalUrl": "https://www.flickr.com/photos/112730943@N04/18115583092/",
+          "originalUrl": "https://live.staticflickr.com/8847/18115583092_6d54217ccb_b.jpg",
           "kind": "photograph",
           "label": "Photographic face detail",
           "caption": "Khetwadi 12th Lane Ganraj, attributed to 2014 byYash Patel.",
@@ -570,7 +574,7 @@
           "dateStatus": "source-attributed",
           "yearConfidence": "uploader_annual_caption_and_taken_metadata",
           "dateEvidence": "Explicit 2014 annual title/caption and exact 12th Lane identity. Taken on September 3, 2014 Yash Patel By: Yash Patel Khetwadi 12th Lane,2014 K Uploaded on May 26, 2015 Taken on September 3, 2014 Yash Patel By: Yash Patel Khe Uploader metadata is not independent exposure authentication.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "KG10"
           ],
@@ -579,7 +583,8 @@
             "observedForm": "Close view of Ganesh's eye, cheek, trunk, tusk and jeweled crown against the dark physical setting; this crop does not show the entire pose or support.",
             "alignsWithSource": true,
             "note": "Original individually viewed. Caption provides the lane/year; this close view is not used to infer unseen pose, support or architecture. The 2015 decorative frame is retained as published."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -603,7 +608,7 @@
       "media": [
         {
           "id": "2015-flickr-22040157366",
-          "originalUrl": "https://www.flickr.com/photos/25959415@N06/22040157366/",
+          "originalUrl": "https://live.staticflickr.com/5824/22040157366_9d2d0e3cd9_b.jpg",
           "kind": "photograph",
           "label": "Framed photographic detail",
           "caption": "Khetwadi 12th Lane Ganraj, attributed to 2015 byPrathamesh Kini.",
@@ -611,7 +616,7 @@
           "dateStatus": "source-attributed",
           "yearConfidence": "uploader_annual_caption",
           "dateEvidence": "Explicit 2015 annual title/caption and exact 12th Lane identity. No separate capture date recovered. Uploaded on October 10, 2015 Prathamography by Prathamesh Kini By: Prathamography Uploader metadata is not independent exposure authentication.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "KG11"
           ],
@@ -620,7 +625,8 @@
             "observedForm": "A photographic close view of Ganesh's pink face and trunk, blessing hand, jeweled peacock-feather crown, garlands and part of an ornate throne; a decorative digital frame surrounds the photo.",
             "alignsWithSource": true,
             "note": "Original individually viewed. Caption provides the lane/year; this close view is not used to infer unseen pose, support or architecture. The 2015 decorative frame is retained as published."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -637,13 +643,13 @@
       "media": [
         {
           "id": "2016-brijesh-portrait",
-          "originalUrl": "https://rohinigupta.wordpress.com/2016/09/17/the-biggest-and-the-best/",
+          "originalUrl": "https://rohinigupta.wordpress.com/wp-content/uploads/2016/09/3-khetwadi-12th-lane.jpg",
           "kind": "photograph",
           "label": "Contemporary credited photograph",
           "caption": "Khetwadi 12th-lane Ganesh, as identified in the 2016 post.",
           "credit": "Brijesh Raj, published by Rohini Gupta / Wanderings",
           "dateEvidence": "Post dated 17 September 2016, explicitly discussing that festival year. Exact capture day not given; not inferred solely from the upload folder.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "KG07"
           ],
@@ -654,7 +660,8 @@
             "alignsWithSource": true,
             "note": "Direct image visually inspected in Chrome’s WordPress image viewer. The contemporary post explicitly names Khetwadi 12th road and photographer Brijesh Raj; exact capture day is not established."
           },
-          "dateStatus": "contemporary"
+          "dateStatus": "contemporary",
+          "contextualPhoto": true
         }
       ]
     },
@@ -671,7 +678,7 @@
       "media": [
         {
           "id": "2017-paresh-full-display",
-          "originalUrl": "https://mumbaichaganpati.blogspot.com/2017/08/khetwadi-cha-ganraj.html",
+          "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtD5LQjo7x6LssZD5GVwNjpPl4KDpq5JveXe6kikE_8m58K6rC3RUDFVkweF-_Bey4HLTtAmCvNW97fqr732UEpuRUXQTOJDE69FmP_40OSnuNtcWEcAc9TI0D-9pM3Q9IodfAEhl5VUo/s1600/Khetwadi+Cha+Ganraj+Khetwadi+12th+Lane1pppppp.JPG",
           "kind": "photograph",
           "label": "Contemporary watermarked scene photograph",
           "caption": "Khetwadi 12th Lane Ganraj in the 2017 photo essay.",
@@ -679,7 +686,7 @@
           "dateStatus": "contemporary",
           "yearConfidence": "contemporary_explicit_caption_and_watermark",
           "dateEvidence": "The 31 August 2017 post explicitly names Ganraj 2017 and 12th Lane; this exact original carries a 2017 andsite watermark. Publication and watermark are source assertions; exact exposure day remains unknown.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "KG14"
           ],
@@ -688,7 +695,8 @@
             "observedForm": "Seated four-armed Ganesh in white trousers and drapery, disc and axe above, on a dark lion-supported throne; two standing warrior statues flank it and a man passes the red-carpeted platform.",
             "alignsWithSource": true,
             "note": "All three post images individually viewed; selected the full physical display rather than the tighter face/feet crops. Year and lane are explicit in the contemporary source."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -705,7 +713,7 @@
       "media": [
         {
           "id": "2018-flickr-43915465005",
-          "originalUrl": "https://www.flickr.com/photos/116736796@N06/43915465005/",
+          "originalUrl": "https://live.staticflickr.com/1912/43915465005_a9ab809176_b.jpg",
           "kind": "photograph",
           "label": "Photographer-published display photograph",
           "caption": "Khetwadi 12th Lane Ganraj, attributed to 2018 byPrathamesh Yeram.",
@@ -713,7 +721,7 @@
           "dateStatus": "source-attributed",
           "yearConfidence": "uploader_annual_caption_and_taken_metadata",
           "dateEvidence": "Explicit 2018 annual title/caption and exact 12th Lane identity. Taken on September 13, 2018 Prathamesh Yeram By: Prathamesh Yeram Khetwadi Cha Uploaded on September 21, 2018 Taken on September 13, 2018 Prathamesh Yeram By: P Uploader metadata is not independent exposure authentication.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "KG12"
           ],
@@ -722,7 +730,8 @@
             "observedForm": "Seated four-armed Ganesh in salmon trousers and pale turquoise stole on a blue and gold throne, holding a disc and axe; two seated female figures flank the idol and human figures occupy niches in the physical backdrop.",
             "alignsWithSource": true,
             "note": "Original individually viewed. Caption provides the lane/year; this close view is not used to infer unseen pose, support or architecture. The 2015 decorative frame is retained as published."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -778,13 +787,13 @@
       "media": [
         {
           "id": "2022-express-palace",
-          "originalUrl": "https://indianexpress.com/article/cities/mumbai/every-khetwadi-gully-has-ganesh-mandal-bappas-vinayaki-avatar-hit-among-devotees-8125931/",
+          "originalUrl": "https://images.indianexpress.com/2022/09/idol-1.jpeg",
           "kind": "photograph",
           "label": "Contemporary press photograph",
           "caption": "Khetwadi 12th-lane Ganraj in the fictional palace setting.",
           "credit": "The Indian Express; individual photographer not identified in inspected caption",
           "dateEvidence": "Report first published 2 September 2022, explicitly captioning the 12th-lane set. Not the separate Vinayaki image from the same article.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "KG03"
           ],
@@ -795,7 +804,8 @@
             "alignsWithSource": true,
             "note": "Direct press image visually inspected. This matches the article’s explicit 12th-lane palace caption, unlike that article’s separate 8th-lane Vinayaki photograph."
           },
-          "dateStatus": "contemporary"
+          "dateStatus": "contemporary",
+          "contextualPhoto": true
         }
       ]
     },
@@ -822,7 +832,7 @@
       "media": [
         {
           "id": "2025-rediff-satish-bodas",
-          "originalUrl": "https://m.rediff.com/getahead/report/magnificent-ganpati-pandals-of-khetwadi/20250903.htm",
+          "originalUrl": "https://im.rediff.com/getahead/2025/aug/30ganpati-chirabazari-girgaon-khetwadi3.jpg?h=900&w=670",
           "kind": "photograph",
           "label": "Contemporary credited press scene photograph",
           "caption": "Khetwadicha Ganraj of 12th Gully, first image in Satish Bodas's 2025 Khetwadi photo report.",
@@ -830,7 +840,7 @@
           "dateStatus": "contemporary",
           "yearConfidence": "contemporary_exact_lane_caption",
           "dateEvidence": "Report dated 3 September 2025 explicitly captions this individual photograph as Ganraj of 12th Gully and discusses this year's display. Exact capture day not independently given; filename 30 August is not used to assert it.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "KG15"
           ],
@@ -839,7 +849,8 @@
             "observedForm": "Seated four-armed Ganesh in vivid blue trousers and purple stole on a dark ornate throne; two armored human statues, carved stone-like palace columns, round wall mirrors and many actual visitors surround the platform.",
             "alignsWithSource": true,
             "note": "Exact first caption-linked original individually viewed. The physical palace setting and Ganraj form agree with source and exact-lane identification; the source's anniversary count is preserved as disputed."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     }

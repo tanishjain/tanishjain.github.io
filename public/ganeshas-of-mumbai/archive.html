@@ -69,7 +69,7 @@
           <button class="filter-btn" data-filter="treated" aria-pressed="false">Artwork &amp; treated</button>
           <button class="filter-btn" data-filter="document" aria-pressed="false">Documents</button>
           <button class="filter-btn" data-filter="unassessed" aria-pressed="false">Prints / unverified</button>
-          <button class="filter-btn" data-filter="missing" aria-pressed="false">Without a displayed image</button>
+          <button class="filter-btn" data-filter="missing" aria-pressed="false">Sources and text only</button>
         </div>
         <p class="archive-status" id="archive-status" aria-live="polite" aria-atomic="true"></p>
       </div>
@@ -103,6 +103,7 @@
 </footer>
 
 <script src="collection-utils.js"></script>
+<script src="image-evidence.js"></script>
 <script>
 (function () {
   'use strict';
@@ -133,7 +134,7 @@
 
   function getMediaKinds(year) {
     if (!year.media || year.media.length === 0) return [];
-    return year.media.filter(function (m) { return m.src; }).map(function (m) { return m.kind || 'unassessed'; });
+    return year.media.filter(function (m) { return m.src || m.contextualPhoto; }).map(function (m) { return m.kind || 'unassessed'; });
   }
 
   function hasKind(year, kind) {
@@ -188,7 +189,7 @@
 
   function renderCounts(allYears, kind) {
     var total = allYears.length;
-    var withMedia = allYears.filter(function (y) { return getMediaKinds(y).length > 0; }).length;
+    var withMedia = allYears.filter(function (y) { return y.media && y.media.length > 0; }).length;
     var photos = allYears.filter(function (y) { return hasKind(y, 'photograph'); }).length;
     var missing = allYears.filter(function (y) { return hasKind(y, 'missing'); }).length;
     var el = document.getElementById('archive-counts');
@@ -250,8 +251,8 @@
     var html = '';
     decadeOrder.forEach(function (decade) {
       var group = decades[decade].slice().sort(function (a, b) { return b.year - a.year; });
-      var withImgs = group.filter(function (y) { return getMediaKinds(y).length > 0; });
-      var noImgs = group.filter(function (y) { return !getMediaKinds(y).length; });
+      var withImgs = group.filter(function (y) { return (y.media || []).some(function (m) { return m.src; }); });
+      var noImgs = group.filter(function (y) { return withImgs.indexOf(y) < 0; });
 
       html += '<div class="decade-group" data-decade="' + decade + '">';
       html += '<h2 class="decade-heading">' + decade + 's</h2>';
@@ -261,7 +262,7 @@
         withImgs.forEach(function (y) {
           var m = y.media.find(function (item) {
             return item.src && (filter === 'all' || item.kind === filter || (filter === 'treated' && item.kind === 'illustration'));
-          }) || y.media[0];
+          }) || y.media.find(function (item) { return item.src; });
           var src = m.src || '';
           var kindLbl = m.label || primaryKindLabel(y);
           var disputed = y.media.some(function (item) { return item.yearConfidence === 'conflicted'; });
@@ -281,23 +282,20 @@
           if (y.title) html += '<p class="year-card__title">' + esc(y.title) + '</p>';
           html += '<p class="year-card__kind">' + esc(kindLbl) + '</p>';
           html += '<p class="year-card__date-label">' + esc(dateLbl) + '</p>';
-          html += '</div></a></div>';
+          html += '</div></a>' + ArchiveEvidence.link(m, String(y.year)) + '</div>';
         });
         html += '</div>';
       }
 
       if (noImgs.length > 0) {
-        if (filter === 'all' || filter === 'missing') {
-          html += '<ul class="ledger" aria-label="Years without a displayed image">';
-          noImgs.forEach(function (y) {
-            html += '<li><a href="' + esc(recordHref(y.year)) + '" class="ledger-row">';
-            html += '<span class="ledger-row__year">' + esc(String(y.year)) + '</span>';
-            html += '<span>' + esc(y.title || '—') + '</span>';
-            html += '<span class="ledger-row__status">' + (y.media && y.media.length ? 'Image referenced' : 'Text record') + '</span>';
-            html += '</a></li>';
-          });
-          html += '</ul>';
-        }
+        html += '<ul class="ledger" aria-label="Dated records and image references">';
+        noImgs.forEach(function (y) {
+          html += '<li class="ledger-row year-reference-row"><a href="' + esc(recordHref(y.year)) + '" class="year-reference-heading">';
+          html += '<span class="ledger-row__year">' + esc(String(y.year)) + '</span>';
+          html += '<span>' + esc(y.title || 'Year record') + '</span></a>';
+          html += ArchiveEvidence.link(ArchiveEvidence.representative(y.media), String(y.year)) + '</li>';
+        });
+        html += '</ul>';
       }
 
       html += '</div>';

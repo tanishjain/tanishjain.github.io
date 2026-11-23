@@ -205,7 +205,7 @@
       "media": [
         {
           "id": "2013-photoganpati-display",
-          "originalUrl": "https://photoganpati.blogspot.com/2013/10/kalachowkicha-mahaganpati-2013.html",
+          "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh96d9jm_v58MbxW3Mm_9Lo9pGCRd6MC5e-I8sTMDfMw364eCulyKpeLhTy0mxylpXDXBepZiBqLIcqhL-HbkBLFnu6mKVr5Au3L8_KljnPmdXt_LrUjDrtlC4Z9c_e7s9-k45zl7GWVQk/s1600/Kalachowkicha%2BMahaganpati%2B2013.jpg",
           "kind": "photograph",
           "label": "Collector-published physical display photograph",
           "caption": "Seated Mahaganpati display attributed to 2013 by Photo Ganpati.",
@@ -213,7 +213,7 @@
           "dateStatus": "source-attributed",
           "yearConfidence": "contemporary_collector_annual_caption",
           "dateEvidence": "Post is dated 30 October 2013 and explicitly titled Kalachowkicha Mahaganpati 2013. No original capture metadata or institutional annual record inspected.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "KM11"
           ],
@@ -222,7 +222,8 @@
             "observedForm": "Seated four-armed Ganesh in purple trousers with axe, blessing hand and two hands near the knees; ornate carved physical columns, brass standing lamps, red carpeted steps and a foreground mouse are visible. Small plaque names sculptor Vijay Khatu.",
             "alignsWithSource": true,
             "note": "Original photograph individually viewed. The stage and plaque are physical scene details; the annual date remains the collector's attribution."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -239,7 +240,7 @@
       "media": [
         {
           "id": "2014-flickr-19570471636",
-          "originalUrl": "https://www.flickr.com/photos/25959415@N06/19570471636/",
+          "originalUrl": "https://live.staticflickr.com/403/19570471636_e055999720_b.jpg",
           "kind": "photograph",
           "label": "Photographer-published scene photograph",
           "caption": "Kalachowkicha Mahaganpati, attributed to 2014 by Prathamesh Kini.",
@@ -247,7 +248,7 @@
           "dateStatus": "source-attributed",
           "dateEvidence": "Uploader title explicitly identifies 2014; uploaded 11 July 2015. No capture date recovered, and the later upload is kept separate from the depicted-year attribution.",
           "yearConfidence": "uploader_caption",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "KM06"
           ],
@@ -256,7 +257,8 @@
             "observedForm": "Seated four-armed pink Ganesh in blue drapery on an ornate throne beneath the arched physical pandal ceiling; smaller flanking figures and offerings remain visible.",
             "alignsWithSource": true,
             "note": "Original image viewed in the six-image contact sheet; the physical setting and Ganesh form agree with the caption. The year comes from the source, not form recognition."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -273,7 +275,7 @@
       "media": [
         {
           "id": "2017-flickr-36174109963",
-          "originalUrl": "https://www.flickr.com/photos/116736796@N06/36174109963/",
+          "originalUrl": "https://live.staticflickr.com/4341/36174109963_2dc918e725_b.jpg",
           "kind": "photograph",
           "label": "Photographer-published scene photograph",
           "caption": "Kalachowkicha Mahaganpati, attributed to 2017 by Prathamesh Yeram.",
@@ -281,7 +283,7 @@
           "dateStatus": "source-attributed",
           "dateEvidence": "Uploader's caption/title explicitly identifies 2017; Taken on August 25, 2017 Prathamesh Yeram By: Prathamesh Yeram Kalachowkicha M Uploaded on September 2, 2017 Taken on August 25, 2017 Prathamesh Yeram By: Prath Taken metadata and upload dates are source assertions, not independent capture authentication.",
           "yearConfidence": "uploader_caption_and_taken_metadata",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "KM07"
           ],
@@ -290,7 +292,8 @@
             "observedForm": "Standing multi-armed Ganesh with both upper hands raised, yellow and red drapery, blue stole and a dark bird at the feet; an ornate green arch and blue-lit physical ceiling frame the scene.",
             "alignsWithSource": true,
             "note": "Original image viewed in the six-image contact sheet; the physical setting and Ganesh form agree with the caption. The year comes from the source, not form recognition."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -307,7 +310,7 @@
       "media": [
         {
           "id": "2018-flickr-30265971718",
-          "originalUrl": "https://www.flickr.com/photos/116736796@N06/30265971718/",
+          "originalUrl": "https://live.staticflickr.com/1882/30265971718_87b65cab2f_b.jpg",
           "kind": "photograph",
           "label": "Photographer-published scene photograph",
           "caption": "Kalachowkicha Mahaganpati, attributed to 2018 by Prathamesh Yeram.",
@@ -315,7 +318,7 @@
           "dateStatus": "source-attributed",
           "dateEvidence": "Uploader's caption/title explicitly identifies 2018; Taken on August 19, 2018 Prathamesh Yeram By: Prathamesh Yeram Kalachowki Cha  Uploaded on August 19, 2018 Taken on August 19, 2018 Prathamesh Yeram By: Pratham Taken metadata and upload dates are source assertions, not independent capture authentication.",
           "yearConfidence": "uploader_caption_and_taken_metadata",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "KM08"
           ],
@@ -324,7 +327,8 @@
             "observedForm": "Standing multi-armed Ganesh in pink trousers and a green sash, holding a long gold implement; the crown, street buildings, trees, megaphones and people are visible.",
             "alignsWithSource": true,
             "note": "Original image viewed in the six-image contact sheet; the physical setting and Ganesh form agree with the caption. The year comes from the source, not form recognition."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -341,7 +345,7 @@
       "media": [
         {
           "id": "2019-flickr-48763533602",
-          "originalUrl": "https://www.flickr.com/photos/157301541@N04/48763533602/",
+          "originalUrl": "https://live.staticflickr.com/65535/48763533602_b3620391f2_b.jpg",
           "kind": "photograph",
           "label": "Photographer-published scene photograph",
           "caption": "Kalachowkicha Mahaganpati, attributed to 2019 by Sameer Mohite.",
@@ -349,7 +353,7 @@
           "dateStatus": "source-attributed",
           "dateEvidence": "Uploader's caption/title explicitly identifies 2019; Taken on September 12, 2019 Sameer Mohite 588 By: Sameer Mohite 588 •|| महागणप Uploaded on September 20, 2019 Taken on September 12, 2019 Sameer Mohite 588 By:  Taken metadata and upload dates are source assertions, not independent capture authentication.",
           "yearConfidence": "uploader_caption_and_taken_metadata",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "KM09"
           ],
@@ -358,7 +362,8 @@
             "observedForm": "Standing four-armed Ganesh in yellow drapery, two hands at the waist, conch and blessing hand above, beneath a multi-hooded serpent crown; people, loudspeakers, overhead wires and street buildings surround the cart.",
             "alignsWithSource": true,
             "note": "Original image viewed in the six-image contact sheet; the physical setting and Ganesh form agree with the caption. The year comes from the source, not form recognition."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -375,7 +380,7 @@
       "media": [
         {
           "id": "2022-flickr-52326208637",
-          "originalUrl": "https://www.flickr.com/photos/157301541@N04/52326208637/",
+          "originalUrl": "https://live.staticflickr.com/65535/52326208637_61175fbb33_b.jpg",
           "kind": "photograph",
           "label": "Photographer-published scene photograph",
           "caption": "Kalachowkicha Mahaganpati, attributed to 2022 by Sameer Mohite.",
@@ -383,7 +388,7 @@
           "dateStatus": "source-attributed",
           "dateEvidence": "Uploader's caption/title explicitly identifies 2022; Taken on August 14, 2022 Sameer Mohite 588 By: Sameer Mohite 588 || महागणपती | Uploaded on September 1, 2022 Taken on August 14, 2022 Sameer Mohite 588 By: Same Taken metadata and upload dates are source assertions, not independent capture authentication.",
           "yearConfidence": "uploader_caption_and_taken_metadata",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "KM10"
           ],
@@ -392,7 +397,8 @@
             "observedForm": "Standing multi-armed Ganesh in blue trousers and an orange waist cloth, carrying a trident and axe, crowned above a street procession with people, flags and tall buildings.",
             "alignsWithSource": true,
             "note": "Original image viewed in the six-image contact sheet; the physical setting and Ganesh form agree with the caption. The year comes from the source, not form recognition."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -409,13 +415,13 @@
       "media": [
         {
           "id": "2023-midday-procession",
-          "originalUrl": "https://www.mid-day.com/mumbai/mumbai-news/photo/in-photos-devotees-bid-adieu-to-lord-ganesha-in-mumbai-97522/7",
+          "originalUrl": "https://images.mid-day.com/images/images/2023/sep/sep28-ganpati1.jpg",
           "kind": "photograph",
           "label": "Contemporary press scene photograph",
           "caption": "Members of Kalachowki Vibhag Sarvajanik Utsav Mandal at the Mahaganpati immersion procession on Dattaram Lad Marg.",
           "credit": "Satej Shinde / Mid-day",
           "dateEvidence": "Gallery published 28 September 2023 and caption explicitly identifies this procession. Capture date inferred from contemporary event coverage, not from filename alone.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "KM01"
           ],
@@ -426,7 +432,8 @@
             "alignsWithSource": true,
             "note": "Direct image visually inspected. Wide scene supports the processional caption; exact attributes are small and not independently used to identify the year."
           },
-          "dateStatus": "contemporary"
+          "dateStatus": "contemporary",
+          "contextualPhoto": true
         }
       ]
     },
@@ -443,7 +450,7 @@
       "media": [
         {
           "id": "2024-loksatta-arrival",
-          "originalUrl": "https://www.loksatta.com/photos/trending-gallery/4540158/ganeshotsav-2024-ganpati-bappa-aagman-sohala-grand-celebration-huge-crowd-photos-sdn-96/lite/",
+          "originalUrl": "https://images.loksattaimg.com/2024/08/Ganpati-Bappa-Aagman-Sohala-2024-2.jpg?w=442",
           "kind": "photograph",
           "label": "Contemporary Marathi press scene photograph",
           "caption": "Kalachowkicha Mahaganpati arrival, identified in slide 2 of Loksatta's 2024 gallery.",
@@ -451,7 +458,7 @@
           "dateStatus": "contemporary",
           "yearConfidence": "contemporary_caption",
           "dateEvidence": "The gallery is dated 30 August 2024, explicitly concerns 2024 arrivals, and the individual slide names the exact institution. This supports the festival year, not a separately recorded exposure date.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "KM12"
           ],
@@ -460,7 +467,8 @@
             "observedForm": "Standing multi-armed Ganesh with a peacock-feather crown, pink trousers and blue waist cloth, holding a flute across the chest, lotus stems and conch; palm trees, street crowd and men on the cart show a physical arrival scene.",
             "alignsWithSource": true,
             "note": "Exact caption-linked image individually viewed. No creator attribution or exposure metadata is inferred from the generic filename."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     },
@@ -477,13 +485,13 @@
       "media": [
         {
           "id": "2025-abp-arrival",
-          "originalUrl": "https://marathi.abplive.com/photo-gallery/news/mumbai-kalachowkicha-mahaganpati-agaman-sohla-2025-mazgaon-tadwadi-thar-mumbai-ganeshotsav-2025-photo-1374660",
+          "originalUrl": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/08/04/44383ba51357f3add8836029d0821f3387881.jpg?impolicy=abp_cdn&imwidth=720",
           "kind": "photograph",
           "label": "Contemporary regional press photograph",
           "caption": "Kalachowkicha Mahaganpati arrival, identified in the first gallery caption.",
           "credit": "ABP Majha; individual photographer uncredited in inspected caption",
           "dateEvidence": "Published 4 August 2025; text identifies the arrival as the previous day. Date rests on the article, not an upload timestamp.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "KM02"
           ],
@@ -494,7 +502,8 @@
             "alignsWithSource": true,
             "note": "Direct image visually inspected in Chrome. Physical arrival setting matches the regional report; the year comes from its contemporary caption, not visual recognition alone."
           },
-          "dateStatus": "contemporary"
+          "dateStatus": "contemporary",
+          "contextualPhoto": true
         }
       ]
     },
@@ -519,7 +528,7 @@
       "media": [
         {
           "id": "2026-loksatta-arrival",
-          "originalUrl": "https://www.freepressjournal.in/amp/mumbai/best-tribute-mumbais-morya-dhol-tasha-pathak-wins-hearts-with-unique-homage-to-citys-road-transport-lifeline-during-ganpati-aagman-videos",
+          "originalUrl": "https://images.loksattaimg.com/2026/08/Mumbai-Ganpati-Maha-Aagman-Sohala-August-2026-2.jpg",
           "kind": "photograph",
           "label": "Contemporary Marathi press arrival photograph",
           "caption": "Kalachowkicha Mahaganpati arrival in August 2026, named in the individual slide.",
@@ -527,7 +536,7 @@
           "dateStatus": "contemporary",
           "yearConfidence": "contemporary_caption",
           "dateEvidence": "Gallery introduction dates the pictured arrivals to 15-16 August 2026; slide 2 identifies the exact mandal. FPJ separately dates this mandal's arrival to 16 August. The 9 September gallery update is not treated as capture day.",
-          "rights": "Image referenced; reproduction under review.",
+          "rights": "Reproduced to discuss the photo's date and source.",
           "sourceIds": [
             "KM03",
             "KM13"
@@ -537,7 +546,8 @@
             "observedForm": "Standing multi-armed Ganesh in red and gold drapery over a lion, holding a lotus with sun-like disc, conch and a small pot; flyover pillars, trees, ambulances and dense spectators establish the physical street setting.",
             "alignsWithSource": true,
             "note": "Exact caption-linked original individually viewed. Visible lion, red drapery and attributes agree with the reported Mahalakshmi conception; no unverified sculptor assignment is added."
-          }
+          },
+          "contextualPhoto": true
         }
       ]
     }

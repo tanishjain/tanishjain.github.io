@@ -388,6 +388,7 @@
 </footer>
 
 <script src="collection-utils.js"></script>
+<script src="image-evidence.js"></script>
 <script>
 (function () {
   'use strict';
@@ -413,7 +414,7 @@
       html += '<p class="year-result-card__note">Text and source record</p>';
     }
     html += '</a>';
-    return html;
+    return '<div>' + html + ArchiveEvidence.link(rec, col.title + ' ' + year) + '</div>';
   }
 
   function getYearMatches(collections, year, kind) {

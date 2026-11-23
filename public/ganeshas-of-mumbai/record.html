@@ -83,6 +83,7 @@
 </footer>
 
 <script src="collection-utils.js"></script>
+<script src="image-evidence.js"></script>
 <script>
 (function () {
   'use strict';
@@ -170,28 +171,26 @@
         var nativeWidth = Number(m.width);
         var nativeStyle = nativeWidth > 0 && nativeWidth < 600 ? 'max-width:' + nativeWidth + 'px;' : '';
         html += '<div class="record-media-item" id="media-' + esc(m.id || String(idx)) + '">';
+        html += ArchiveEvidence.link(m, m.label + ' (' + year.year + ')');
         if (src) {
           html += '<div style="position:relative;' + nativeStyle + '">';
           html += '<img class="record-media-img" src="' + esc(src) + '" alt="' + esc(m.caption || (String(year.year) + ' — ' + (m.label || ''))) + '" loading="lazy" data-media-idx="' + idx + '" tabindex="0" role="button" aria-label="Inspect image: ' + esc(m.caption || '') + '">';
           html += '<button class="media-open-btn" data-media-idx="' + idx + '" aria-label="Open image for inspection">Inspect ↗</button>';
           html += '</div>';
         } else {
-          html += '<div class="record-classification">';
-          html += '<span class="badge badge--missing">Image referenced</span>';
-          html += '</div>';
+          html += ArchiveEvidence.figure(m, slug);
         }
         var dateLabel = U.mediaDateLabel(m);
         html += '<div class="record-media-caption">';
-        html += '<p class="t-caption">' + esc(m.caption || '') + '</p>';
+        if (!m.contextualPhoto) html += '<p class="t-caption">' + esc(m.caption || '') + '</p>';
         if (m.label) html += '<p class="t-label mt-xs">' + esc(m.label) + '</p>';
         html += '<p class="media-date-label mt-xs"><span class="badge badge--date-label">' + esc(dateLabel) + '</span></p>';
         html += '</div>';
         html += '<dl class="record-media-meta">';
         if (m.credit) html += '<div class="record-media-meta__row"><dt class="record-media-meta__key">Credit</dt><dd class="record-media-meta__val">' + esc(m.credit) + '</dd></div>';
-        if (m.dateEvidence) html += '<div class="record-media-meta__row"><dt class="record-media-meta__key">Date evidence</dt><dd class="record-media-meta__val">' + esc(m.dateEvidence) + '</dd></div>';
+        if (m.dateEvidence && !m.contextualPhoto) html += '<div class="record-media-meta__row"><dt class="record-media-meta__key">Date evidence</dt><dd class="record-media-meta__val">' + esc(m.dateEvidence) + '</dd></div>';
         if (m.licenceUrl) html += '<div class="record-media-meta__row"><dt class="record-media-meta__key">Rights</dt><dd class="record-media-meta__val"><a href="' + esc(m.licenceUrl) + '">' + esc(m.licence) + '</a>' + (m.displayNote ? ' · ' + esc(m.displayNote) : '') + '</dd></div>';
         if (m.rights && !m.licenceUrl) html += '<div class="record-media-meta__row"><dt class="record-media-meta__key">Rights</dt><dd class="record-media-meta__val">' + esc(m.rights) + '</dd></div>';
-        if (m.originalUrl) html += '<div class="record-media-meta__row"><dt class="record-media-meta__key">Source URL</dt><dd class="record-media-meta__val"><a href="' + esc(m.originalUrl) + '" target="_blank" rel="noopener noreferrer" style="color:var(--vermilion);font-size:0.75rem;word-break:break-all;">' + esc(m.originalUrl) + '</a></dd></div>';
         if (m.sourceIds && m.sourceIds.length) html += '<div class="record-media-meta__row"><dt class="record-media-meta__key">Sources</dt><dd class="record-media-meta__val">' + citationLinks(m.sourceIds, sources) + '</dd></div>';
         html += '</dl>';
         html += '</div>';
