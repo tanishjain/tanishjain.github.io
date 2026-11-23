@@ -1,0 +1,731 @@
+{
+  "slug": "sahyadri-krida-mandal",
+  "kind": "festival",
+  "researchStage": "expanded",
+  "meta": {
+    "title": "Sahyadri Krida Mandal",
+    "marathi": "सह्याद्री क्रीडा मंडळ - सह्याद्रीचा राजा",
+    "institution": "Sahyadri Krida Mandal (Nyas)",
+    "location": "Tilak Nagar, Chembur",
+    "neighborhood": "Chembur",
+    "founded": null,
+    "foundedNote": "The mandal states 1976 for its organisation; Mid-day (2009) dates the first festival to 1977, while Rediff (2016) says the organisation formed in 1975. These retrospective dates are not silently reconciled. Inaugural minutes or a period souvenir remain needed.",
+    "intro": "Sahyadri Krida Mandal organises a public Ganesh festival at Tilak Nagar in Chembur. Its history joins a neighbourhood sports organisation to elaborate temporary scenery and the work of sculptors and stage designers. The mandal dates its establishment to 1976; an earlier newspaper account places the festival's beginning in 1977. Its online retrospective offers year-labelled photographs, giving this collection a documented starting point for comparing Ganesh forms and physical settings without treating those selected images as a complete annual archive.",
+    "hero": null,
+    "updated": "16 November 2026",
+    "edition": "Research edition - 16 November 2026",
+    "id": "sahyadri-krida-mandal",
+    "kind": "festival",
+    "researchStage": "expanded",
+    "catalogueMode": "located-records",
+    "downloads": {
+      "json": "collections/sahyadri-krida-mandal.json"
+    }
+  },
+  "sections": [
+    {
+      "id": "beginnings",
+      "eyebrow": "Tilak Nagar",
+      "title": "A sports club and a public festival",
+      "paragraphs": [
+        {
+          "text": "The mandal dates its organisation to 1976, while Mid-day's 2009 account puts the first public festival in 1977. Rediff's 2016 retrospective instead says the organisation formed in 1975. The sources do not explain these differences, so the exact founding chronology remains open. The locality and venue history can be documented without inventing a single settled anniversary.",
+          "sourceIds": [
+            "sah-about",
+            "sah-midday",
+            "sah-rediff2016"
+          ]
+        },
+        {
+          "text": "Mid-day reports that the festival moved to a nearby municipal ground in 1980. Its short history names art directors Sudhakar Manjarekar and Roderick D'Souza among those who created decorative sets over the years. This establishes a history of designed festival space, while leaving the precise years and authorship of individual sets open to further documentation.",
+          "sourceIds": [
+            "sah-midday"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "artists",
+      "eyebrow": "Making the form",
+      "title": "Sculpture alongside scenic design",
+      "paragraphs": [
+        {
+          "text": "Ganesh Chitra Mandir's family history associates sculptor Vishnu Bhagwan “Babi” Bandekar with Sahyadri's twelve-foot idol and a 1992 Orient-Samana first prize. This is the workshop's own retrospective account, not an independently located award record. Contemporary reporting by Bella Jaisinghani in 2023 separately names Pratibha Bandekar of Sahyadri Krida Mandal among a younger generation of established sculptors.",
+          "sourceIds": [
+            "sah-bandekar",
+            "sah-toi"
+          ]
+        },
+        {
+          "text": "The official gallery provides Marathi and English year labels. Its 2005 photographs show a cloud-and-star setting, including a smaller foreground Ganesh and a larger Ganesh deeper inside the set. The 2024 selection includes both a seated Ganesh portrait and an exterior dominated by Hanuman imagery. These are distinct photographs of the idol and its surrounding temporary scenery, not evidence that every figure in the set is the festival Ganesh.",
+          "sourceIds": [
+            "sah-gallery"
+          ]
+        },
+        {
+          "text": "The expanded visual sequence shows both continuity and changes in presentation: a glittering cross-legged form within a transparent dome in the 2007-labelled image, a turbaned seated form in 2013 and 2016, horse-and-elephant columns in 2018, and peacock motifs in 2023. These are observations of physical scenes. Their years remain retrospective gallery attributions, not independently verified capture dates. Two catalogue captions are mismatched: the 2010 image labelled Ganesh is an exterior, and the 2025 image labelled a silver Mahadev form is a palace facade.",
+          "sourceIds": [
+            "sah-gallery"
+          ]
+        },
+        {
+          "text": "The 2016 Panda Village has contemporary corroboration beyond the retrospective gallery. The Indian Express reported the film-inspired set during preparation; Rediff subsequently described the operating installation and named Prasoonjit Chanda as its scenic designer. This is a year-specific set-design credit, not an attribution of the Ganesh sculpture or every later commission.",
+          "sourceIds": [
+            "sah-ie2016",
+            "sah-rediff2016"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "community",
+      "eyebrow": "Beyond the set",
+      "title": "Neighbourhood organisation",
+      "paragraphs": [
+        {
+          "text": "The mandal describes medical help, food distribution, educational assistance and environmental work as part of its wider purpose. Its account also emphasises residents, younger volunteers and senior guides. This is a useful institutional statement of community aims; particular projects, dates and outcomes still need separate records before being added as verified milestones.",
+          "sourceIds": [
+            "sah-about"
+          ]
+        }
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "year": 1976,
+      "title": "Organisation established",
+      "text": "Establishment year stated by the mandal.",
+      "sourceIds": [
+        "sah-about"
+      ]
+    },
+    {
+      "year": 1977,
+      "title": "First public festival reported",
+      "text": "Mid-day dates the sports club's first public Ganesh festival to this year.",
+      "sourceIds": [
+        "sah-midday"
+      ]
+    },
+    {
+      "year": 1980,
+      "title": "Move to municipal ground",
+      "text": "The festival reportedly moved to a nearby municipal ground.",
+      "sourceIds": [
+        "sah-midday"
+      ]
+    },
+    {
+      "year": 1992,
+      "title": "Award recalled by workshop",
+      "text": "Bandekar family history records an Orient-Samana first prize for Sahyadri's idol.",
+      "sourceIds": [
+        "sah-bandekar"
+      ]
+    },
+    {
+      "year": 2023,
+      "title": "A sculptor named in contemporary reporting",
+      "text": "The Times of India associates Pratibha Bandekar with the mandal.",
+      "sourceIds": [
+        "sah-toi"
+      ]
+    },
+    {
+      "year": "1975 / 1976 / 1977",
+      "title": "Beginning requires original records",
+      "text": "Published retrospective accounts differ on organisation formation and festival inception.",
+      "sourceIds": [
+        "sah-rediff2016",
+        "sah-about",
+        "sah-midday"
+      ]
+    },
+    {
+      "year": 2016,
+      "title": "Contemporary Panda Village credit",
+      "text": "Contemporary reports corroborate the theme; Rediff names the scenic designer.",
+      "sourceIds": [
+        "sah-rediff2016",
+        "sah-ie2016"
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": 2005,
+      "title": "A celestial setting",
+      "summary": "Year-labelled official photographs record Ganesh figures within a cloud-and-star scenic installation.",
+      "artist": null,
+      "theme": "Celestial clouds and stars (official gallery description)",
+      "notes": [
+        {
+          "text": "No original capture timestamp, photographer or object-level credit is provided by the retrospective gallery.",
+          "sourceIds": [
+            "sah-gallery"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "sah-gallery"
+      ],
+      "media": [
+        {
+          "id": "sahyadri-2005-darshan",
+          "originalUrl": "https://www.sahyadrikridamandal.com/glimpses",
+          "kind": "photograph",
+          "label": "Ganesh darshan - 2005",
+          "caption": "Small crowned, garlanded Ganesh in the foreground; larger seated Ganesh behind cloud scenery and attendants.",
+          "credit": "Sahyadri Krida Mandal; photographer not supplied.",
+          "dateEvidence": "Placed inside data-content-year=\"2005\" and explicitly titled Ganesha Darshan (2005) in the mandal's retrospective gallery.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "sah-gallery"
+          ],
+          "yearConfidence": "institutional retrospective year label",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Two physical Ganesh figures: small pink crowned and garlanded idol on a foreground altar; larger garlanded Ganesh seated on an ornate support behind painted clouds, flanked by standing attendants, columns and brass lamps.",
+            "alignsWithSource": true,
+            "note": "Original published image opened and visually inspected. Year follows the mandal gallery heading and bilingual image title, not appearance alone."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2007,
+      "title": "Transparent dome",
+      "summary": "Glittering cross-legged Ganesh enclosed by transparent curved panels, with gold crown, garlands and blue mouse at lower right.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "Retrospective institutional year label; original capture metadata and individual photographer were not supplied.",
+          "sourceIds": [
+            "sah-gallery"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "sah-gallery"
+      ],
+      "media": [
+        {
+          "id": "sahyadri-2007-phase2-scene",
+          "originalUrl": "https://www.sahyadrikridamandal.com/glimpses",
+          "kind": "photograph",
+          "label": "Dome-enclosed Ganesh - source-labelled 2007",
+          "caption": "Cross-legged glittering Ganesh in a red seat, crown and garlands; raised blessing hand and held attributes, curved transparent enclosure, ornate backing, blue mouse and a dark screenshot strip at the bottom.",
+          "credit": "Sahyadri Krida Mandal; individual photographer not identified.",
+          "dateStatus": "source-attributed",
+          "dateEvidence": "Official gallery explicitly groups this observed image under 2007 with a bilingual year-bearing title. This is a later institutional attribution, not an original camera date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "sah-gallery"
+          ],
+          "yearConfidence": "institutional_retrospective_year; capture_date_unverified",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Cross-legged glittering Ganesh in a red seat, crown and garlands; raised blessing hand and held attributes, curved transparent enclosure, ornate backing, blue mouse and a dark screenshot strip at the bottom.",
+            "alignsWithSource": true,
+            "note": "Native downloaded image opened and inspected on 16 November 2026. Alignment refers to the corrected observed scene and gallery placement; inaccurate idol/theme captions are explicitly rejected where noted."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "title": "Stone-temple facade",
+      "summary": "A daytime physical exterior with relief panels, trees, palms, busts and visitors; the gallery incorrectly captions this particular asset as an idol view.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "Retrospective institutional year label; original capture metadata and individual photographer were not supplied. Caption mismatch recorded; this image is retained only as a physical facade view.",
+          "sourceIds": [
+            "sah-gallery"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "sah-gallery"
+      ],
+      "media": [
+        {
+          "id": "sahyadri-2010-phase2-scene",
+          "originalUrl": "https://www.sahyadrikridamandal.com/glimpses",
+          "kind": "photograph",
+          "label": "Temple-inspired exterior - source-labelled 2010",
+          "caption": "Wide grey stone-like facade with carved relief panels, Marathi Sahyadri sign, palms, three white busts, lighting stands, lawn and visitors at an entrance; Ganesh is not visible.",
+          "credit": "Sahyadri Krida Mandal; individual photographer not identified.",
+          "dateStatus": "source-attributed",
+          "dateEvidence": "Official gallery explicitly groups this observed image under 2010 with a bilingual year-bearing title. This is a later institutional attribution, not an original camera date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "sah-gallery"
+          ],
+          "yearConfidence": "institutional_retrospective_year; capture_date_unverified",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Wide grey stone-like facade with carved relief panels, Marathi Sahyadri sign, palms, three white busts, lighting stands, lawn and visitors at an entrance; Ganesh is not visible.",
+            "alignsWithSource": true,
+            "note": "Native downloaded image opened and inspected on 16 November 2026. Alignment refers to the corrected observed scene and gallery placement; inaccurate idol/theme captions are explicitly rejected where noted."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "title": "Cinema-centenary setting",
+      "summary": "The year-labelled gallery places Ganesh within its Indian-cinema-centenary display.",
+      "artist": null,
+      "theme": "Indian cinema centenary (retrospective gallery attribution)",
+      "notes": [
+        {
+          "text": "Retrospective institutional year label; original capture metadata and individual photographer were not supplied.",
+          "sourceIds": [
+            "sah-gallery"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "sah-gallery"
+      ],
+      "media": [
+        {
+          "id": "sahyadri-2013-phase2-scene",
+          "originalUrl": "https://www.sahyadrikridamandal.com/glimpses",
+          "kind": "photograph",
+          "label": "Ganesh within the cinema setting - source-labelled 2013",
+          "caption": "Large turbaned Ganesh on a lion-sided ornate throne, smaller worship idol and donation boxes in front; lamps, garlands and star-like ceiling lights; a woman-with-microphone figure at stage right.",
+          "credit": "Sahyadri Krida Mandal; individual photographer not identified.",
+          "dateStatus": "source-attributed",
+          "dateEvidence": "Official gallery explicitly groups this observed image under 2013 with a bilingual year-bearing title. This is a later institutional attribution, not an original camera date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "sah-gallery"
+          ],
+          "yearConfidence": "institutional_retrospective_year; capture_date_unverified",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Large turbaned Ganesh on a lion-sided ornate throne, smaller worship idol and donation boxes in front; lamps, garlands and star-like ceiling lights; a woman-with-microphone figure at stage right.",
+            "alignsWithSource": true,
+            "note": "Native downloaded image opened and inspected on 16 November 2026. Alignment refers to the corrected observed scene and gallery placement; inaccurate idol/theme captions are explicitly rejected where noted."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "title": "Panda Village",
+      "summary": "A contemporary film-inspired setting, with Ganesh in a lantern-lit brick-like interior.",
+      "artist": "Scenic art direction: Prasoonjit Chanda (reported by Rediff)",
+      "theme": "Panda Village / Kung Fu Panda",
+      "notes": [
+        {
+          "text": "Retrospective institutional year label; original capture metadata and individual photographer were not supplied.",
+          "sourceIds": [
+            "sah-gallery",
+            "sah-rediff2016",
+            "sah-ie2016"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "sah-gallery",
+        "sah-rediff2016",
+        "sah-ie2016"
+      ],
+      "media": [
+        {
+          "id": "sahyadri-2016-phase2-scene",
+          "originalUrl": "https://www.sahyadrikridamandal.com/glimpses",
+          "kind": "photograph",
+          "label": "Ganesh in the Panda Village setting - source-labelled 2016",
+          "caption": "Four-armed Ganesh in a red turban, turquoise lower garment and red stole on a dark ornate throne; brick-pattern walls, round windows, steps, lanterns and flags in the physical set.",
+          "credit": "Sahyadri Krida Mandal; individual photographer not identified.",
+          "dateStatus": "source-attributed",
+          "dateEvidence": "Official gallery explicitly groups this observed image under 2016 with a bilingual year-bearing title. This is a later institutional attribution, not an original camera date. Contemporary 2016 reporting corroborates the Panda Village theme, but does not authenticate this file's capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "sah-gallery",
+            "sah-rediff2016",
+            "sah-ie2016"
+          ],
+          "yearConfidence": "institutional_retrospective_year; capture_date_unverified",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Four-armed Ganesh in a red turban, turquoise lower garment and red stole on a dark ornate throne; brick-pattern walls, round windows, steps, lanterns and flags in the physical set.",
+            "alignsWithSource": true,
+            "note": "Native downloaded image opened and inspected on 16 November 2026. Alignment refers to the corrected observed scene and gallery placement; inaccurate idol/theme captions are explicitly rejected where noted."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "title": "Horse-column sanctum",
+      "summary": "A seated Ganesh portrait within carved horse-and-elephant columns.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "Retrospective institutional year label; original capture metadata and individual photographer were not supplied.",
+          "sourceIds": [
+            "sah-gallery"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "sah-gallery"
+      ],
+      "media": [
+        {
+          "id": "sahyadri-2018-phase2-scene",
+          "originalUrl": "https://www.sahyadrikridamandal.com/glimpses",
+          "kind": "photograph",
+          "label": "Ganesh and the carved columns - source-labelled 2018",
+          "caption": "Four-armed Ganesh with red turban and dark lower drapery seated on a lion-sided throne; rearing horses and elephants carved into side columns, brass lamps and fruit offerings on the foreground altar.",
+          "credit": "Sahyadri Krida Mandal; individual photographer not identified.",
+          "dateStatus": "source-attributed",
+          "dateEvidence": "Official gallery explicitly groups this observed image under 2018 with a bilingual year-bearing title. This is a later institutional attribution, not an original camera date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "sah-gallery"
+          ],
+          "yearConfidence": "institutional_retrospective_year; capture_date_unverified",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Four-armed Ganesh with red turban and dark lower drapery seated on a lion-sided throne; rearing horses and elephants carved into side columns, brass lamps and fruit offerings on the foreground altar.",
+            "alignsWithSource": true,
+            "note": "Native downloaded image opened and inspected on 16 November 2026. Alignment refers to the corrected observed scene and gallery placement; inaccurate idol/theme captions are explicitly rejected where noted."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "title": "Peacock motifs",
+      "summary": "Ganesh beneath a peacock-feather canopy in the year-labelled official gallery.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "Retrospective institutional year label; original capture metadata and individual photographer were not supplied.",
+          "sourceIds": [
+            "sah-gallery"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "sah-gallery"
+      ],
+      "media": [
+        {
+          "id": "sahyadri-2023-phase2-scene",
+          "originalUrl": "https://www.sahyadrikridamandal.com/glimpses",
+          "kind": "photograph",
+          "label": "Ganesh beneath peacock motifs - source-labelled 2023",
+          "caption": "Four-armed seated Ganesh with floral and peacock-feather headgear, bronze-brown lower garments and green/red stole; large peacock-feather canopy, ornate throne, lamps and patterned walls.",
+          "credit": "Sahyadri Krida Mandal; individual photographer not identified.",
+          "dateStatus": "source-attributed",
+          "dateEvidence": "Official gallery explicitly groups this observed image under 2023 with a bilingual year-bearing title. This is a later institutional attribution, not an original camera date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "sah-gallery"
+          ],
+          "yearConfidence": "institutional_retrospective_year; capture_date_unverified",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Four-armed seated Ganesh with floral and peacock-feather headgear, bronze-brown lower garments and green/red stole; large peacock-feather canopy, ornate throne, lamps and patterned walls.",
+            "alignsWithSource": true,
+            "note": "Native downloaded image opened and inspected on 16 November 2026. Alignment refers to the corrected observed scene and gallery placement; inaccurate idol/theme captions are explicitly rejected where noted."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "title": "Ganesh and the Hanuman exterior",
+      "summary": "The official 2024 gallery distinguishes the seated festival Ganesh from its monumental exterior scenery.",
+      "artist": null,
+      "theme": "Hanuman-themed exterior; Ganesh darshan",
+      "notes": [
+        {
+          "text": "Artist attribution for this individual year has not been established from the gallery.",
+          "sourceIds": [
+            "sah-gallery"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "sah-gallery"
+      ],
+      "media": [
+        {
+          "id": "sahyadri-2024-darshan",
+          "originalUrl": "https://www.sahyadrikridamandal.com/glimpses",
+          "kind": "photograph",
+          "label": "Ganesh darshan - 2024",
+          "caption": "Seated Ganesh in orange garments and red turban, photographed within the decorated mandap.",
+          "credit": "Sahyadri Krida Mandal; photographer not supplied.",
+          "dateEvidence": "Explicit 2024 gallery container and bilingual Ganesha Darshan (2024) title.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "sah-gallery"
+          ],
+          "yearConfidence": "institutional retrospective year label",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Large seated four-armed Ganesh in orange garments and tall red-and-white turban, one hand raised in blessing, on a dark carved throne; geometric reflective wall panels, circular ceiling medallion, lamps and fruit offerings.",
+            "alignsWithSource": true,
+            "note": "Original published image opened and visually inspected. Year follows the mandal gallery heading and bilingual image title, not appearance alone."
+          }
+        },
+        {
+          "id": "sahyadri-2024-pandal",
+          "originalUrl": "https://www.sahyadrikridamandal.com/glimpses",
+          "kind": "photograph",
+          "label": "Hanuman pandal exterior - 2024",
+          "caption": "Night view of the festival's rocky, planted exterior with monumental Hanuman imagery; Ganesh is not visible in this frame.",
+          "credit": "Sahyadri Krida Mandal; photographer not supplied.",
+          "dateEvidence": "Gallery explicitly labels Grand Hanuman Pandal (2024) within its 2024 section.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "sah-gallery"
+          ],
+          "yearConfidence": "institutional retrospective year label",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Illuminated rock-like temple facade with palms and a towering Hanuman holding a mace at left; smaller figurative niches; dark apartment buildings behind. Ganesh icon not visible.",
+            "alignsWithSource": true,
+            "note": "Original published image opened and visually inspected. Year follows the mandal gallery heading and bilingual image title, not appearance alone."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "title": "Palace-facade view",
+      "summary": "An actual nighttime palace-like exterior. The specific gallery caption about a silver Mahadev Ganesh does not describe this asset.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "Retrospective institutional year label; original capture metadata and individual photographer were not supplied. Caption mismatch recorded; this image is retained only as a physical facade view.",
+          "sourceIds": [
+            "sah-gallery"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "sah-gallery"
+      ],
+      "media": [
+        {
+          "id": "sahyadri-2025-phase2-scene",
+          "originalUrl": "https://www.sahyadrikridamandal.com/glimpses",
+          "kind": "photograph",
+          "label": "Festival palace facade - source-labelled 2025",
+          "caption": "Nighttime yellow palace-like facade with ornate arched windows and balconies, large Sahyadri sign, red entrance curtains, palm trees, people at the doorway and lighting fixtures. No detailed Ganesh form is visible.",
+          "credit": "Sahyadri Krida Mandal; individual photographer not identified.",
+          "dateStatus": "source-attributed",
+          "dateEvidence": "Official gallery explicitly groups this observed image under 2025 with a bilingual year-bearing title. This is a later institutional attribution, not an original camera date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "sah-gallery"
+          ],
+          "yearConfidence": "institutional_retrospective_year; capture_date_unverified",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Nighttime yellow palace-like facade with ornate arched windows and balconies, large Sahyadri sign, red entrance curtains, palm trees, people at the doorway and lighting fixtures. No detailed Ganesh form is visible.",
+            "alignsWithSource": true,
+            "note": "Native downloaded image opened and inspected on 16 November 2026. Alignment refers to the corrected observed scene and gallery placement; inaccurate idol/theme captions are explicitly rejected where noted."
+          }
+        }
+      ]
+    }
+  ],
+  "undatedMedia": [],
+  "sources": [
+    {
+      "id": "sah-about",
+      "title": "आमच्याबद्दल / About Us",
+      "publisher": "Sahyadri Krida Mandal",
+      "date": null,
+      "language": "Marathi and English",
+      "type": "primary",
+      "url": "https://www.sahyadrikridamandal.com/about",
+      "note": "Institutional history, establishment year, address and mission; trust number is self-published, not independently checked."
+    },
+    {
+      "id": "sah-midday",
+      "title": "Sahyadri krida mandal, Tilak nagar",
+      "publisher": "Mid-day",
+      "date": "2009-08-22",
+      "language": "English",
+      "type": "reporting",
+      "url": "https://www.mid-day.com/mumbai/mumbai-news/article/Sahyadri-krida-mandal--Tilak-nagar-55279",
+      "note": "Festival inception, move and named scenic artists; historical details are retrospective."
+    },
+    {
+      "id": "sah-gallery",
+      "title": "क्षणचित्रे / Glimpses",
+      "publisher": "Sahyadri Krida Mandal",
+      "date": null,
+      "language": "Marathi and English",
+      "type": "primary",
+      "url": "https://www.sahyadrikridamandal.com/glimpses",
+      "note": "Year-specific gallery containers and bilingual captions checked in public page HTML; not a complete set of annual records."
+    },
+    {
+      "id": "sah-bandekar",
+      "title": "Sculptor Babi Bandekar",
+      "publisher": "Ganesh Chitra Mandir",
+      "date": null,
+      "language": "English",
+      "type": "primary",
+      "url": "https://ganeshchitramandir.com/en/about",
+      "note": "Sculptor family retrospective, including claimed 1992 Sahyadri award; award certificate not inspected."
+    },
+    {
+      "id": "sah-toi",
+      "title": "Next generation of moortikars in 30s takes the stage with Ganpati bappa",
+      "publisher": "The Times of India - Bella Jaisinghani",
+      "date": "2023-09-24",
+      "language": "English",
+      "type": "reporting",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/next-generation-of-moortikars-in-30s-takes-the-stage-with-ganpati-bappa/articleshow/103898292.cms",
+      "note": "Contemporary association between Pratibha Bandekar and the mandal; does not by itself establish every annual commission."
+    },
+    {
+      "id": "sah-rediff2016",
+      "title": "Once upon a Ganpati in Tilak Nagar",
+      "publisher": "Rediff - Anil Singh",
+      "date": "2016-09-12",
+      "language": "English",
+      "type": "reporting",
+      "url": "https://m.rediff.com/amp/news/report/once-upon-a-ganpati-in-tilak-nagar/20160912.htm",
+      "note": "Contemporary Panda Village reporting names scenic designer Prasoonjit Chanda. Its retrospective 1975 formation date differs from the mandal website."
+    },
+    {
+      "id": "sah-ie2016",
+      "title": "Sahyadri Ganpati Mandal to recreate Kung Fu Panda village",
+      "publisher": "The Indian Express - Neha Kulkarni",
+      "date": "2016-09-02",
+      "language": "English",
+      "type": "reporting",
+      "url": "https://indianexpress.com/article/cities/mumbai/mumbais-sahyadri-ganpati-mandal-to-recreate-kung-fu-panda-village-to-draw-tiny-tots/",
+      "note": "Contemporary preparation report corroborates the Panda Village theme; photographer Aman Deshmukh. Designer name is spelled differently from Rediff; no name harmonisation assumed."
+    }
+  ],
+  "openQuestions": [
+    {
+      "title": "Gallery caption and year audit",
+      "text": "Obtain original files and souvenirs to confirm year assignments, identify the 2019 saint scene, and correct swapped captions without using filenames as proof.",
+      "sourceIds": [
+        "sah-gallery"
+      ]
+    },
+    {
+      "title": "First festival documentation",
+      "text": "Seek inaugural minutes, receipts or photographs to confirm organisation and festival milestones.",
+      "sourceIds": [
+        "sah-about",
+        "sah-midday"
+      ]
+    },
+    {
+      "title": "Artist ledger",
+      "text": "Match sculptor and set designer to individual years; obtain the 1992 award record.",
+      "sourceIds": [
+        "sah-bandekar",
+        "sah-midday",
+        "sah-toi"
+      ]
+    },
+    {
+      "title": "Original photographs",
+      "text": "Obtain photographer credits, negatives or original files and reproduction permission.",
+      "sourceIds": [
+        "sah-gallery"
+      ]
+    }
+  ],
+  "visit": {
+    "address": "Tilak Nagar Samaj Mandir Auditorium, opposite Building 22, Lokmanya Tilak Kridangan, Tilak Nagar, Chembur, Mumbai 400089.",
+    "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Sahyadri+Krida+Mandal+Tilak+Nagar+Chembur",
+    "text": "Seasonal public Ganesh festival; confirm the current entrance and visiting arrangements with the mandal.",
+    "sourceIds": [
+      "sah-about"
+    ]
+  },
+  "claims": [
+    {
+      "id": "sah-org",
+      "text": "Organisation establishment is self-dated 1976.",
+      "status": "institutional account",
+      "sourceIds": [
+        "sah-about"
+      ]
+    },
+    {
+      "id": "sah-festival",
+      "text": "A 2009 newspaper dates festival inception to 1977.",
+      "status": "reported retrospective history",
+      "sourceIds": [
+        "sah-midday"
+      ]
+    },
+    {
+      "id": "sah-gallery-dates",
+      "text": "Selected 2005 and 2024 photographs carry explicit official gallery year labels.",
+      "status": "supported; capture timestamps unavailable",
+      "sourceIds": [
+        "sah-gallery"
+      ]
+    },
+    {
+      "id": "sah-phase2-years",
+      "text": "Seven additional physical-scene photographs have explicit retrospective year placements; these are not authenticated capture dates.",
+      "status": "source-attributed visual sequence",
+      "sourceIds": [
+        "sah-gallery"
+      ]
+    },
+    {
+      "id": "sah-caption-errors",
+      "text": "Inspected 2010 and 2025 assets are facades despite idol-specific captions; an inspected 2019 human-saint image is excluded from the Ganesh sequence.",
+      "status": "direct visual assessment; source caption mismatches",
+      "sourceIds": [
+        "sah-gallery"
+      ]
+    },
+    {
+      "id": "sah-start-conflict",
+      "text": "A new 1975 formation account conflicts with the official 1976 organisation date; the earlier 1977 festival account remains separate.",
+      "status": "unresolved retrospective chronology",
+      "sourceIds": [
+        "sah-rediff2016",
+        "sah-about",
+        "sah-midday"
+      ]
+    }
+  ],
+  "researchNotes": {
+    "coverage": "Expanded research, 16 November 2026: seven additional year-labelled physical photographs, visual correction of mismatched captions, contemporary 2016 scenic-design reporting and a newly exposed founding-date disagreement. Nine located years; not a complete annual chronology.",
+    "gaps": [
+      "No 1970s primary records or first-generation photographs.",
+      "No complete annual artist/theme chronology.",
+      "Official images lack named photographers and open licensing.",
+      "Retrospective gallery contains mismatched captions; selected years require original-file corroboration.",
+      "Formation is reported as 1975 and 1976; first-festival account says 1977."
+    ],
+    "nextActions": [
+      "Audit the retrospective year labels against original souvenirs and photographer files.",
+      "Obtain formation records and verify the 2016 designer's preferred name.",
+      "Continue the annual Ganesh sculptor ledger without assigning scenic designers as murtikars."
+    ]
+  }
+}

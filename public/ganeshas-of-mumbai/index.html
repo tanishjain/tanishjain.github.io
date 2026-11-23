@@ -1,0 +1,662 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ganeshas of Mumbai — City Archive</title>
+  <meta name="description" content="An independent archive of Ganesh traditions across Mumbai — festival mandals, living temples, and their photographic histories.">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' fill='%23f5f1e8'/><text x='50%25' y='50%25' dominant-baseline='central' text-anchor='middle' font-family='Georgia,serif' font-size='18' fill='%23a33d2e'>G</text></svg>">
+  <style>
+    .city-hero {
+      padding-block: var(--space-xl);
+      border-bottom: 1px solid var(--rule);
+    }
+    .city-hero__inner {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: var(--space-xl);
+      align-items: start;
+    }
+    @media (max-width: 768px) {
+      .city-hero { padding-block: var(--space-l); }
+      .city-hero__inner { display:flex; flex-direction:column; gap:var(--space-m); }
+      .city-hero__copy { display:contents; }
+      .city-hero__copy > .t-eyebrow { order:0; }
+      #city-heading { order:1; margin-top:0; }
+      #city-intro { order:2; margin-top:0; }
+      .city-hero__evidence { order:4; }
+      .city-routes { order:3; margin-top:0; gap:var(--space-s); }
+    }
+    .city-hero__photograph { margin:0 0 var(--space-l); }
+    .city-hero__photograph img { width:100%; max-height:460px; object-fit:contain; }
+    .city-hero__photograph figcaption { text-align:center; font-size:0.75rem; color:var(--ink-muted); padding-top:var(--space-s); }
+    .city-routes {
+      display: flex;
+      gap: var(--space-m);
+      flex-wrap: wrap;
+      margin-top: var(--space-l);
+    }
+    .city-route {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5em;
+      font-family: var(--font-sans);
+      font-size: 0.8125rem;
+      font-weight: 500;
+      letter-spacing: 0.04em;
+      color: var(--ink);
+      text-decoration: none;
+      border: 1px solid var(--rule-strong);
+      padding: 0.6em 1.1em;
+      transition: border-color var(--transition), background var(--transition), color var(--transition);
+    }
+    .city-route:hover { border-color: var(--ink); }
+    .city-route--primary {
+      background: var(--ink);
+      color: var(--paper);
+      border-color: var(--ink);
+    }
+    .city-route--primary:hover { background: var(--ink-muted); border-color: var(--ink-muted); }
+    .collection-directory {
+      padding-block: var(--space-xl);
+    }
+    .directory-controls {
+      padding-block: var(--space-m);
+      border-bottom: 1px solid var(--rule);
+      position: sticky;
+      top: var(--site-header-height, 80px);
+      background: var(--paper);
+      z-index: 90;
+    }
+    .directory-controls__inner {
+      display: flex;
+      gap: var(--space-m);
+      flex-wrap: wrap;
+      align-items: center;
+    }
+    .directory-search {
+      flex: 1 1 220px;
+      min-width: 0;
+      font-family: var(--font-sans);
+      font-size: 0.875rem;
+      border: 1px solid var(--rule-strong);
+      background: var(--paper);
+      color: var(--ink);
+      padding: 0.4em 0.75em;
+      border-radius: 0;
+      outline: none;
+      transition: border-color var(--transition);
+    }
+    .directory-search:focus { border-color: var(--ink); }
+    .directory-search::placeholder { color: var(--ink-faint); }
+    .collection-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: var(--space-m);
+      margin-top: var(--space-l);
+    }
+    @media (max-width: 480px) {
+      .collection-grid { grid-template-columns: 1fr; }
+    }
+    .collection-card {
+      display: block;
+      text-decoration: none;
+      border: 1px solid var(--rule);
+      transition: border-color var(--transition);
+    }
+    .collection-card:hover { border-color: var(--rule-strong); }
+    .collection-card--spotlight {
+      border-color: var(--rule-strong);
+      grid-column: span 2;
+    }
+    @media (max-width: 680px) {
+      .collection-card--spotlight { grid-column: span 1; }
+    }
+    .collection-card__img-wrap {
+      overflow: hidden;
+      background: var(--rule);
+    }
+    .collection-card__img {
+      width: 100%;
+      aspect-ratio: 16/9;
+      object-fit: contain;
+      display: block;
+      transition: transform 300ms ease;
+    }
+    .collection-card--spotlight .collection-card__img {
+      aspect-ratio: 2/1;
+    }
+    .collection-card:hover .collection-card__img { transform: none; }
+    .collection-card__text-hero {
+      aspect-ratio: 16/9;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      padding: var(--space-m);
+    }
+    .collection-card--spotlight .collection-card__text-hero { aspect-ratio: 2/1; }
+    .collection-card__text-hero-title {
+      font-family: var(--font-serif);
+      font-size: clamp(1.2rem, 3vw, 2rem);
+      font-weight: 300;
+      text-align: center;
+      color: var(--ink-muted);
+    }
+    .collection-card__text-hero-loc {
+      font-family: var(--font-sans);
+      font-size: 0.75rem;
+      color: var(--ink-faint);
+      text-align: center;
+    }
+    .collection-card__body {
+      padding: var(--space-m);
+      border-top: 1px solid var(--rule);
+    }
+    .collection-card__kind-badge {
+      display: inline-flex;
+      align-items: center;
+      font-family: var(--font-sans);
+      font-size: 0.6rem;
+      font-weight: 500;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      padding: 0.25em 0.6em;
+      border: 1px solid;
+      margin-bottom: var(--space-xs);
+    }
+    .collection-card__kind-badge--festival { color: var(--vermilion); border-color: var(--vermilion); }
+    .collection-card__kind-badge--temple { color: #3a6a7a; border-color: #3a6a7a; }
+    .collection-card__title {
+      font-family: var(--font-serif);
+      font-size: 1.15rem;
+      font-weight: 500;
+      line-height: 1.25;
+      margin-top: var(--space-xs);
+    }
+    .collection-card__meta {
+      font-family: var(--font-sans);
+      font-size: 0.75rem;
+      color: var(--ink-faint);
+      margin-top: 0.25em;
+      line-height: 1.4;
+    }
+    .collection-card__intro {
+      font-family: var(--font-sans);
+      font-size: 0.875rem;
+      color: var(--ink-muted);
+      line-height: 1.6;
+      margin-top: var(--space-s);
+      max-height: 4.8em;
+      overflow: hidden;
+    }
+    .collection-card__depth {
+      display: inline-block;
+      margin-top: var(--space-s);
+      font-family: var(--font-sans);
+      font-size: 0.6rem;
+      font-weight: 500;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--ink-faint);
+    }
+    .collection-card__depth--extended { color: var(--vermilion); }
+    .spotlight-note {
+      margin-top: var(--space-s);
+      padding: var(--space-s) var(--space-m);
+      border-left: 2px solid var(--vermilion);
+      font-size: 0.8125rem;
+      color: var(--ink-muted);
+      line-height: 1.55;
+    }
+    .directory-status {
+      font-size: 0.75rem;
+      color: var(--ink-muted);
+      margin-left: auto;
+    }
+    .directory-empty {
+      padding-block: var(--space-xl);
+      text-align: center;
+      color: var(--ink-muted);
+      font-size: 0.9rem;
+      grid-column: 1 / -1;
+    }
+    .year-result-card {
+      display: block;
+      text-decoration: none;
+      border: 1px solid var(--rule);
+      transition: border-color var(--transition);
+      padding: var(--space-m);
+    }
+    .year-result-card:hover { border-color: var(--rule-strong); }
+    .year-result-card__year {
+      font-family: var(--font-serif);
+      font-size: 0.875rem;
+      color: var(--ink-muted);
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      margin-bottom: var(--space-xs);
+    }
+    .year-result-card__collection {
+      font-family: var(--font-sans);
+      font-size: 0.875rem;
+      color: var(--ink-muted);
+      margin-bottom: 0.2em;
+    }
+    .year-result-card__title {
+      font-family: var(--font-serif);
+      font-size: 1.05rem;
+      font-weight: 500;
+      line-height: 1.3;
+    }
+    .year-result-card__note {
+      margin-top: var(--space-s);
+      font-family: var(--font-sans);
+      font-size: 0.875rem;
+      color: var(--ink-muted);
+    }
+    #directory-heading { scroll-margin-top: calc(var(--site-header-height, 5rem) + 1rem); }
+    .city-phase-note {
+      padding-block: var(--space-l);
+      border-top: 1px solid var(--rule);
+      margin-top: var(--space-xl);
+    }
+    .city-phase-note p {
+      font-size: 0.875rem;
+      color: var(--ink-muted);
+      max-width: var(--measure);
+      line-height: 1.65;
+    }
+    .city-phase-note p + p { margin-top: var(--space-s); }
+    @media (max-width: 768px) {
+      .directory-controls { position: static; }
+      .directory-search { font-size:1rem; min-height:44px; }
+    }
+  </style>
+</head>
+<body>
+
+<header class="site-header" role="banner">
+  <div class="wrap">
+    <div class="site-header__inner">
+      <a href="index.html" class="site-header__brand" aria-label="Ganeshas of Mumbai — home" aria-current="page">
+        <span class="t-masthead">Ganeshas of Mumbai</span>
+        <span class="site-header__tagline">An independent archive</span>
+      </a>
+      <nav aria-label="Site navigation">
+        <ul class="site-nav">
+          <li><a href="index.html" aria-current="page">Collections</a></li>
+          <li><a href="research.html">Research</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+</header>
+
+<main id="main">
+
+  <section class="city-hero" aria-labelledby="city-heading">
+    <div class="wrap">
+      <div class="city-hero__inner">
+        <div class="city-hero__copy">
+          <p class="t-eyebrow">City archive</p>
+          <h1 class="t-display mt-s" id="city-heading">A city.<br>Many forms.</h1>
+          <p class="t-body-serif mt-l" id="city-intro" style="max-width: var(--measure);">
+            Discover the idols, shrines, neighborhoods and makers that carry Mumbai's Ganesh traditions across generations. Explore their histories through surviving images, documents and memories.
+          </p>
+          <div class="city-routes mt-l">
+            <a href="#festivals" class="city-route city-route--primary">Festival traditions ↓</a>
+            <a href="#temples" class="city-route">Living temples ↓</a>
+            <a href="#directory-heading" class="city-route">Find a year</a>
+          </div>
+        </div>
+        <div class="city-hero__evidence">
+          <figure class="city-hero__photograph">
+  <a href="record.html?collection=lalbaugcha-raja&amp;year=2010"><img src="assets/editions/lalbaug-2010.jpg" alt="The crowned Ganesh sits on a gold throne in the decorated Lalbaug pandal, with visitors and lamps in view." fetchpriority="high"></a>
+  <figcaption>Lalbaugcha Raja, 2010. <a href="https://commons.wikimedia.org/wiki/File:Lalbaugcha_Raja.jpg">myriad ways</a> · <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a></figcaption>
+</figure>
+          <p class="t-eyebrow" style="margin-bottom:var(--space-m);">Twenty collections</p>
+          <div id="city-counts" style="display:flex; flex-direction:column; gap:var(--space-s);">
+            <p class="t-caption text-faint">Loading…</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="collection-directory" aria-labelledby="directory-heading">
+    <div class="wrap">
+      <p class="t-eyebrow">All collections</p>
+      <h2 class="t-h2 mt-s" id="directory-heading">The archive</h2>
+    </div>
+
+    <div class="directory-controls">
+      <div class="wrap">
+        <div class="directory-controls__inner">
+          <label class="visually-hidden" for="dir-search">Search collections by name, institution, locality, or enter a year (e.g. 1985) to find records</label>
+          <input type="search" id="dir-search" class="directory-search" placeholder="Name, locality, or year (e.g. 1985)…" autocomplete="off" spellcheck="false">
+          <div class="filter-group" role="group" aria-label="Filter by collection type">
+            <button class="filter-btn" data-kind="all" aria-pressed="true">All</button>
+            <button class="filter-btn" data-kind="festival" aria-pressed="false">Festival</button>
+            <button class="filter-btn" data-kind="temple" aria-pressed="false">Temple</button>
+          </div>
+          <p class="directory-status" id="dir-status" aria-live="polite" aria-atomic="true"></p>
+        </div>
+      </div>
+    </div>
+
+    <div class="wrap">
+      <div id="festival-section">
+        <p class="t-eyebrow mt-l" id="festivals" style="scroll-margin-top: 6rem;">Festival traditions</p>
+        <div class="collection-grid" id="festival-grid" aria-label="Festival collection cards">
+          <p class="t-caption text-faint" style="padding:var(--space-m);">Loading…</p>
+        </div>
+      </div>
+
+      <div id="temple-section" style="margin-top: var(--space-xl);">
+        <p class="t-eyebrow mt-l" id="temples" style="scroll-margin-top: 6rem;">Living temples</p>
+        <div class="collection-grid" id="temple-grid" aria-label="Temple collection cards">
+          <p class="t-caption text-faint" style="padding:var(--space-m);">Loading…</p>
+        </div>
+      </div>
+
+      <div class="city-phase-note" id="phase-note" aria-label="Research phase notes">
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer" role="contentinfo">
+  <div class="wrap">
+    <div class="site-footer__inner">
+      <div>
+        <p class="t-masthead">Ganeshas of Mumbai</p>
+        <p class="t-caption mt-s" style="color:var(--ink-muted);">An independent cultural archive. Not affiliated with any mandal or temple trust.</p>
+      </div>
+      <nav aria-label="Footer navigation">
+        <ul class="site-nav" style="justify-content:flex-end;">
+          <li><a href="research.html">Research</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+</footer>
+
+<script src="collection-utils.js"></script>
+<script>
+(function () {
+  'use strict';
+
+  var U = CollectionUtils;
+  var allCollections = [];
+  var currentKind = 'all';
+  var currentSearch = '';
+
+  function esc(s) { return U.esc(s); }
+
+  function isYearQuery(q) {
+    return /^\d{4}$/.test(q.trim());
+  }
+
+  function yearResultCardHtml(col, year, rec) {
+    var href = U.recordHref(col.id, year);
+    var html = '<a href="' + esc(href) + '" class="year-result-card">';
+    html += '<p class="year-result-card__year">' + esc(year) + '</p>';
+    html += '<p class="year-result-card__collection">' + esc(col.title) + '</p>';
+    if (rec.title) html += '<p class="year-result-card__title">' + esc(rec.title) + '</p>';
+    if (!rec.hasMedia) {
+      html += '<p class="year-result-card__note">Text and source record</p>';
+    }
+    html += '</a>';
+    return html;
+  }
+
+  function getYearMatches(collections, year, kind) {
+    var results = [];
+    collections.forEach(function (col) {
+      if (kind !== 'all' && col.kind !== kind) return;
+      var yr = col.yearRecords && col.yearRecords[year];
+      if (yr) results.push({ col: col, rec: yr });
+    });
+    return results;
+  }
+
+  function heroHtml(col) {
+    var hero = col.hero;
+    var isSpotlight = col.id === 'mumbaicha-raja';
+    if (hero && hero.src) {
+      return '<div class="collection-card__img-wrap"><img class="collection-card__img" src="' + esc(hero.src) + '" alt="' + esc(hero.alt || col.title) + '" loading="lazy"></div>';
+    }
+    return '<div class="collection-card__img-wrap"><div class="collection-card__text-hero">' +
+      '<span class="collection-card__text-hero-title">' + esc(col.title) + '</span>' +
+      '<span class="collection-card__text-hero-loc">' + esc(col.neighborhood || col.location || '') + '</span>' +
+      '</div></div>';
+  }
+
+  function cardHtml(col) {
+    var isSpotlight = col.id === 'mumbaicha-raja';
+    var kindCls = col.kind === 'temple' ? 'collection-card__kind-badge--temple' : 'collection-card__kind-badge--festival';
+    var kindText = col.kind === 'temple' ? 'Temple' : 'Festival';
+    var depthCls = col.researchStage === 'extended' ? 'collection-card__depth--extended' : '';
+    var depthText = U.researchDepthLabel(col.researchStage);
+    var href = 'collection.html?collection=' + encodeURIComponent(col.id);
+
+    var html = '<a href="' + esc(href) + '" class="collection-card' + (isSpotlight ? ' collection-card--spotlight' : '') + '" aria-label="' + esc(col.title) + '">';
+    html += heroHtml(col);
+    html += '<div class="collection-card__body">';
+    html += '<span class="collection-card__kind-badge ' + kindCls + '">' + kindText + '</span>';
+    html += '<p class="collection-card__title">' + esc(col.title) + '</p>';
+    var metaParts = [];
+    if (col.institution) metaParts.push(col.institution);
+    if (col.neighborhood) metaParts.push(col.neighborhood);
+    if (metaParts.length) html += '<p class="collection-card__meta">' + esc(metaParts.join(' · ')) + '</p>';
+    if (col.intro) html += '<p class="collection-card__intro">' + esc(col.intro) + '</p>';
+    html += '<span class="collection-card__depth ' + depthCls + '">' + esc(depthText) + '</span>';
+    if (isSpotlight && col.openQuestionsCount > 0) {
+      html += '<div class="spotlight-note">An open photographic investigation: ' + col.openQuestionsCount + ' unresolved question' + (col.openQuestionsCount !== 1 ? 's' : '') + '.</div>';
+    }
+    html += '</div></a>';
+    return html;
+  }
+
+  function matchesSearch(col, q) {
+    if (!q) return true;
+    q = q.toLowerCase();
+    if ((col.title || '').toLowerCase().includes(q)) return true;
+    if ((col.marathi || '').includes(q)) return true;
+    if ((col.institution || '').toLowerCase().includes(q)) return true;
+    if ((col.neighborhood || '').toLowerCase().includes(q)) return true;
+    if ((col.location || '').toLowerCase().includes(q)) return true;
+    return false;
+  }
+
+  function render(collections, kind, search) {
+    var festGrid = document.getElementById('festival-grid');
+    var tempGrid = document.getElementById('temple-grid');
+    var festSect = document.getElementById('festival-section');
+    var tempSect = document.getElementById('temple-section');
+    var statusEl = document.getElementById('dir-status');
+
+    if (search && isYearQuery(search)) {
+      var year = search.trim();
+      var matches = getYearMatches(collections, year, kind);
+      var festMatches = matches.filter(function (m) { return m.col.kind === 'festival'; });
+      var tempMatches = matches.filter(function (m) { return m.col.kind === 'temple'; });
+
+      if (statusEl) statusEl.textContent = matches.length + ' record' + (matches.length !== 1 ? 's' : '') + ' located for ' + year;
+
+      if (festGrid) {
+        if (kind === 'temple') {
+          festGrid.innerHTML = '';
+        } else if (festMatches.length === 0) {
+          festGrid.innerHTML = '<p class="directory-empty">No located records for ' + esc(year) + ' in festival collections.</p>';
+        } else {
+          festGrid.innerHTML = festMatches.map(function (m) { return yearResultCardHtml(m.col, year, m.rec); }).join('');
+        }
+      }
+      if (festSect) festSect.style.display = (kind === 'temple') ? 'none' : '';
+
+      if (tempGrid) {
+        if (kind === 'festival') {
+          tempGrid.innerHTML = '';
+        } else if (tempMatches.length === 0) {
+          tempGrid.innerHTML = '<p class="directory-empty">No located records for ' + esc(year) + ' in temple collections.</p>';
+        } else {
+          tempGrid.innerHTML = tempMatches.map(function (m) { return yearResultCardHtml(m.col, year, m.rec); }).join('');
+        }
+      }
+      if (tempSect) tempSect.style.display = (kind === 'festival') ? 'none' : '';
+      return;
+    }
+
+    var filtered = collections.filter(function (c) {
+      return (kind === 'all' || c.kind === kind) && matchesSearch(c, search);
+    });
+
+    if (statusEl) statusEl.textContent = filtered.length + ' of ' + collections.length + ' collections';
+
+    var festivals = filtered.filter(function (c) { return c.kind === 'festival'; });
+    var temples = filtered.filter(function (c) { return c.kind === 'temple'; });
+
+    if (festGrid) {
+      if (festivals.length === 0) {
+        festGrid.innerHTML = '<p class="directory-empty">No festival collections match.</p>';
+      } else {
+        festGrid.innerHTML = festivals.map(cardHtml).join('');
+      }
+    }
+    if (festSect) festSect.style.display = (kind === 'temple') ? 'none' : '';
+
+    if (tempGrid) {
+      if (temples.length === 0) {
+        tempGrid.innerHTML = '<p class="directory-empty">No temple collections match.</p>';
+      } else {
+        tempGrid.innerHTML = temples.map(cardHtml).join('');
+      }
+    }
+    if (tempSect) tempSect.style.display = (kind === 'festival') ? 'none' : '';
+  }
+
+  function renderCounts(collections) {
+    var el = document.getElementById('city-counts');
+    if (!el) return;
+    var festivals = collections.filter(function (c) { return c.kind === 'festival'; }).length;
+    var temples = collections.filter(function (c) { return c.kind === 'temple'; }).length;
+    var withPhotos = collections.filter(function (c) { return c.mediaCount > 0; }).length;
+    el.innerHTML = [
+      [festivals, 'festival tradition' + (festivals !== 1 ? 's' : '')],
+      [temples, 'living temple' + (temples !== 1 ? 's' : '')],
+      [withPhotos, 'with images on display'],
+    ].map(function (row) {
+      return '<p class="t-body" style="display:flex; gap:0.75em; align-items:baseline;">' +
+        '<span style="font-family:var(--font-serif); font-size:2rem; font-weight:300; line-height:1;">' + row[0] + '</span>' +
+        '<span class="t-caption" style="color:var(--ink-muted);">' + esc(row[1]) + '</span>' +
+        '</p>';
+    }).join('');
+  }
+
+  function renderPhaseNote(data) {
+    var el = document.getElementById('phase-note');
+    if (!el) return;
+    var note = data.phase || '';
+    var loaded = data.loadedCount || 0;
+    var expected = data.expectedCount || 20;
+    var missing = data.missingSlugs || [];
+    var html = '';
+    if (note) {
+      html += '<p>' + esc(note) + '</p>';
+    }
+    if (loaded < expected) {
+      html += '<p>' + loaded + ' of ' + expected + ' collections loaded in this build. ' +
+        (missing.length ? 'Awaiting research for: ' + esc(missing.join(', ')) + '.' : '') + '</p>';
+    }
+    el.innerHTML = html;
+  }
+
+  var siteHeader = document.querySelector('.site-header');
+  if (window.ResizeObserver && siteHeader) {
+    new ResizeObserver(function () {
+      document.documentElement.style.setProperty('--site-header-height', siteHeader.getBoundingClientRect().height + 'px');
+    }).observe(siteHeader);
+  }
+
+  function replaceUrlState(search, kind) {
+    if (!window.history || !window.history.replaceState) return;
+    var params = new URLSearchParams();
+    if (search) params.set('q', search);
+    if (kind && kind !== 'all') params.set('kind', kind);
+    var qs = params.toString();
+    window.history.replaceState(null, '', window.location.pathname + (qs ? '?' + qs : '') + window.location.hash);
+  }
+
+  function restoreUrlState() {
+    var params = new URLSearchParams(window.location.search);
+    var q = (params.get('q') || '').trim();
+    var kind = params.get('kind') || 'all';
+    if (['all', 'festival', 'temple'].indexOf(kind) === -1) kind = 'all';
+    return { q: q, kind: kind };
+  }
+
+  fetch('collections.json', { cache: 'no-cache' })
+    .then(function (r) {
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      return r.json();
+    })
+    .then(function (data) {
+      allCollections = data.collections || [];
+
+      var restored = restoreUrlState();
+      currentSearch = restored.q;
+      currentKind = restored.kind;
+
+      var searchEl = document.getElementById('dir-search');
+      if (searchEl && currentSearch) searchEl.value = currentSearch;
+
+      document.querySelectorAll('[data-kind]').forEach(function (b) {
+        b.setAttribute('aria-pressed', b.dataset.kind === currentKind ? 'true' : 'false');
+      });
+
+      renderCounts(allCollections);
+      renderPhaseNote(data);
+      render(allCollections, currentKind, currentSearch);
+
+      if (searchEl) {
+        var debounce;
+        searchEl.addEventListener('input', function () {
+          clearTimeout(debounce);
+          debounce = setTimeout(function () {
+            currentSearch = searchEl.value.trim();
+            replaceUrlState(currentSearch, currentKind);
+            render(allCollections, currentKind, currentSearch);
+          }, 200);
+        });
+      }
+
+      document.querySelectorAll('[data-kind]').forEach(function (btn) {
+        btn.addEventListener('click', function () {
+          currentKind = btn.dataset.kind;
+          document.querySelectorAll('[data-kind]').forEach(function (b) {
+            b.setAttribute('aria-pressed', b.dataset.kind === currentKind ? 'true' : 'false');
+          });
+          replaceUrlState(currentSearch, currentKind);
+          render(allCollections, currentKind, currentSearch);
+        });
+      });
+    })
+    .catch(function (err) {
+      console.error('collections.json load error:', err);
+      var festGrid = document.getElementById('festival-grid');
+      var tempGrid = document.getElementById('temple-grid');
+      var msg = '<p class="t-caption" style="color:var(--vermilion); padding:var(--space-m);">The collection directory could not be loaded. Please try again.</p>';
+      if (festGrid) festGrid.innerHTML = msg;
+      if (tempGrid) tempGrid.innerHTML = '';
+    });
+})();
+</script>
+</body>
+</html>

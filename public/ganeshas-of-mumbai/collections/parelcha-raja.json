@@ -1,0 +1,817 @@
+{
+  "slug": "parelcha-raja",
+  "kind": "festival",
+  "researchStage": "expanded",
+  "meta": {
+    "title": "Parelcha Raja - Nare Park",
+    "marathi": "परळचा राजा - नरेपार्क",
+    "institution": "Parel Vibhag Sarvajanik Ganeshotsav Mandal, Nare Park",
+    "location": "Bhivajirao Nare Udyan, Nare Park, Parel East, Mumbai",
+    "neighborhood": "Parel",
+    "founded": 1947,
+    "foundedNote": "Institutional account corroborated by 2017 and 2022 reporting.",
+    "intro": "Parelcha Raja here means the Nare Park festival of Parel Vibhag Sarvajanik Ganeshotsav Mandal. Its institutional history traces the celebration to ordinary mill workers in 1947. The standing Ganesh form, changing devotional interpretations and community initiatives distinguish its documented record. It must not be confused with Parelcha Maharaja, Parelcha Samrat or Parel Post Galli’s Vighnaharta, all separate organizations in the same broad neighborhood.",
+    "hero": null,
+    "id": "parelcha-raja",
+    "kind": "festival",
+    "researchStage": "expanded",
+    "catalogueMode": "located-records",
+    "updated": "16 November 2026",
+    "edition": "Expanded collection · Research edition · 16 November 2026",
+    "downloads": {
+      "json": "collections/parelcha-raja.json"
+    }
+  },
+  "sections": [
+    {
+      "id": "origins",
+      "eyebrow": "Origins",
+      "title": "Mill workers at Nare Park",
+      "paragraphs": [
+        {
+          "text": "The institutional account dates the festival to 1947 and describes ordinary Parel mill workers gathering at Nare Park. Times of India independently reports the same start year. This supports a specific labor-neighborhood origin, without treating every later programme as something present from the first celebration.",
+          "sourceIds": [
+            "PR01",
+            "PR02"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "art",
+      "eyebrow": "Sculpture",
+      "title": "Standing forms that change with the year",
+      "paragraphs": [
+        {
+          "text": "Indian Express describes a standing tradition interpreted through Vishnu, Shiva and Rama. Its 2022 report names that year’s form Gajalaxmi and explains a foldable crown for passing beneath Lalbaug Bridge. The reported idol and bridge heights belong to that account, not a permanent surveyed specification.",
+          "sourceIds": [
+            "PR03"
+          ]
+        },
+        {
+          "text": "Mumbai Mirror’s 2016 Nare Park report describes a Kaliya Mardan composition on a many-hooded serpent. The contrast with 2022 and the orange-clad standing figure in the specifically captioned 2025 photograph shows a changing repertoire. A generic image labeled only Parel is insufficient to establish which local mandal it depicts.",
+          "sourceIds": [
+            "PR05",
+            "PR03",
+            "PR04"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "service",
+      "eyebrow": "Community",
+      "title": "A decision about neighborhood fundraising",
+      "paragraphs": [
+        {
+          "text": "In 2017 the mandal announced it would stop seeking donations from nearby hawkers, with trustee Milind Gawde describing the burden of multiple festival requests. The report also mentions schoolbags, village-school computers, tree planting and blood donation. This gives a dated view of how a neighborhood institution negotiates its funding and service work.",
+          "sourceIds": [
+            "PR02"
+          ]
+        },
+        {
+          "text": "For 2026, FPJ quotes treasurer Suresh Arondekar on a Pandharpur/Warkari setting and the use of Chandrabhaga water. That report’s illustration is labeled file photo, so it is not accepted here as a dated 2026 photograph. A current article date does not establish the capture year of its illustration.",
+          "sourceIds": [
+            "PR06"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "photo-forms",
+      "eyebrow": "Annual evidence",
+      "title": "Mounted, serpent-backed and musical forms",
+      "paragraphs": [
+        {
+          "text": "The Nare Park archive gives a more specific visual record than a locality-only Parel caption. A 1971 print identifies a Krishna tableau; year-labelled arrival albums then show a rearing horse in 2014, an armed standing form in 2015, a serpent-supported 2016 idol and the multi-figure 2017 composition. The 2016 and 2017 photographs themselves carry the mandal name and year. Individual artists are left unassigned where the source does not name them.",
+          "sourceIds": [
+            "PR07",
+            "PR08",
+            "PR09",
+            "PR10",
+            "PR11"
+          ]
+        },
+        {
+          "text": "The 2018 addition concerns padyapujan and preparations, so it does not stand in for a missing finished-idol portrait. A small native 2019 arrival frame preserves another form, while the 2026 album documents the turbaned, drum-bearing Warkari image discussed in contemporary reporting. Scene photographs, archive frames and annual captions establish different kinds of evidence and are retained as such.",
+          "sourceIds": [
+            "PR12",
+            "PR13",
+            "PR14",
+            "PR06"
+          ]
+        }
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "year": 1947,
+      "title": "Foundation at Nare Park",
+      "text": "Institutional history and independent reporting agree on the start year.",
+      "sourceIds": [
+        "PR01",
+        "PR02"
+      ]
+    },
+    {
+      "year": 1971,
+      "title": "A labelled Krishna tableau survives",
+      "text": "An institutional archive print visibly names the institution, year and Krishna subject.",
+      "sourceIds": [
+        "PR07"
+      ]
+    },
+    {
+      "year": 2016,
+      "title": "Kaliya Mardan interpretation",
+      "text": "Mirror specifically identifies the Nare Park serpent composition.",
+      "sourceIds": [
+        "PR05"
+      ]
+    },
+    {
+      "year": 2017,
+      "title": "No hawker collections",
+      "text": "The mandal announces a change to neighborhood fundraising.",
+      "sourceIds": [
+        "PR02"
+      ]
+    },
+    {
+      "year": 2022,
+      "title": "Gajalaxmi and foldable crown",
+      "text": "Express reports the standing form and immersion-route adaptation.",
+      "sourceIds": [
+        "PR03"
+      ]
+    },
+    {
+      "year": 2025,
+      "title": "Documented orange-clad standing form",
+      "text": "A Marathi gallery explicitly identifies the Nare Park institution.",
+      "sourceIds": [
+        "PR04"
+      ]
+    },
+    {
+      "year": 2026,
+      "title": "Pandharpur setting",
+      "text": "FPJ reports the Warkari interpretation and treasurer’s account.",
+      "sourceIds": [
+        "PR06"
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": 1971,
+      "title": "Krishna Leela on a physical stage",
+      "summary": "An old reproduced photograph visibly names Nare Park and prints the year and Krishna subject.",
+      "artist": null,
+      "theme": "Krishna Leela (कृष्ण लीला; printed subject)",
+      "notes": [
+        {
+          "text": "Both the institution and १९७१ are printed on the object and independently read by two reviewers. The later file/import dates are not used as a capture date.",
+          "sourceIds": [
+            "PR07"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "PR07"
+      ],
+      "media": [
+        {
+          "id": "1971-official-krishna-leela",
+          "originalUrl": "https://parelcharaja.in/gallery/junya-smruti.php",
+          "kind": "photograph",
+          "label": "Historical stage photograph with printed year",
+          "caption": "Standing/dancing Ganesh in a Krishna-themed tableau, print-labelled Nare Park, 1971.",
+          "credit": "Official Nare Park archive; original photographer and print maker unconfirmed.",
+          "dateEvidence": "Printed institutional header names परळ विभाग सार्वजनिक गणेशोत्सव मंडळ (नरेपार्क), with centre year १९७१ and Krishna Leela caption. Source attribution, not negative/capture authentication.",
+          "dateStatus": "source-attributed",
+          "yearConfidence": "visible_printed_institution_and_year",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "PR07"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Standing/dancing four-armed Ganesh with long garlands, a raised foot and dark scalloped halo, flanked by human/divine figures, trees and a small architecture prop; physical floor and printed institutional/year header visible.",
+            "alignsWithSource": true,
+            "note": "Original 640 x 480 reproduction individually viewed. It is a photograph of a physical tableau; ageing, colour cast and later reproduction process remain unverified."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "title": "Ganesh above a rearing horse",
+      "summary": "A source-labelled official arrival photograph documents a particular annual form.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "The institutional album supplies the year. The surviving image is not an authenticated original negative or capture-day record.",
+          "sourceIds": [
+            "PR08"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "PR08"
+      ],
+      "media": [
+        {
+          "id": "2014-official-aagman-phase2",
+          "originalUrl": "https://parelcharaja.in/gallery/aagman-2014.php",
+          "kind": "photograph",
+          "label": "Institutional arrival photograph",
+          "caption": "Nare Park's Parelcha Raja arrival form, archive-attributed 2014.",
+          "credit": "Photographer uncredited in the inspected institutional album.",
+          "dateEvidence": "The exact Nare Park institutional page explicitly labels the album 2014. No upload-folder or filename arithmetic is used.",
+          "dateStatus": "source-attributed",
+          "yearConfidence": "official_year_labelled_album",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "PR08"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Four-armed blue-grey Ganesh in yellow garments above a rearing white horse, with physical crowd, scaffolding and a blue-covered workshop roof.",
+            "alignsWithSource": true,
+            "note": "Actually viewed in the album contact sheet; 2016/2017/2019 selected originals viewed individually. The institution/year attribution is preserved with its retrospective limit."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "title": "An armed arrival form",
+      "summary": "A source-labelled official arrival photograph documents a particular annual form.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "The institutional album supplies the year. The surviving image is not an authenticated original negative or capture-day record.",
+          "sourceIds": [
+            "PR09"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "PR09"
+      ],
+      "media": [
+        {
+          "id": "2015-official-aagman-phase2",
+          "originalUrl": "https://parelcharaja.in/gallery/aagman-2015.php",
+          "kind": "photograph",
+          "label": "Institutional arrival photograph",
+          "caption": "Nare Park's Parelcha Raja arrival form, archive-attributed 2015.",
+          "credit": "Photographer uncredited in the inspected institutional album.",
+          "dateEvidence": "The exact Nare Park institutional page explicitly labels the album 2015. No upload-folder or filename arithmetic is used.",
+          "dateStatus": "source-attributed",
+          "yearConfidence": "official_year_labelled_album",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "PR09"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Tall standing multi-armed Ganesh, high crown, yellow-green garments, multiple held implements and a bird/animal support, amid an actual street crowd at sunset.",
+            "alignsWithSource": true,
+            "note": "Actually viewed in the album contact sheet; 2016/2017/2019 selected originals viewed individually. The institution/year attribution is preserved with its retrospective limit."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "title": "A serpent-supported arrival",
+      "summary": "A source-labelled official arrival photograph documents a particular annual form.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "The institutional album supplies the year. The surviving image is not an authenticated original negative or capture-day record.",
+          "sourceIds": [
+            "PR10"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "PR10"
+      ],
+      "media": [
+        {
+          "id": "2016-official-aagman-phase2",
+          "originalUrl": "https://parelcharaja.in/gallery/aagman-2016.php",
+          "kind": "photograph",
+          "label": "Institutional arrival photograph",
+          "caption": "Nare Park's Parelcha Raja arrival form, archive-attributed 2016.",
+          "credit": "Siddhesh Mungekar (visible watermark); institutional archive.",
+          "dateEvidence": "The exact Nare Park institutional page explicitly labels the album 2016. The photograph itself also overlays the institution name and year in Marathi. No upload-folder or filename arithmetic is used.",
+          "dateStatus": "source-attributed",
+          "yearConfidence": "official_annual_album_and_visible_year_overlay",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "PR10"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Four-armed Ganesh with crown and trident, pink drapery and one knee raised against a many-hooded snake support; blue-shirted volunteers, flyover spectators and tree visible.",
+            "alignsWithSource": true,
+            "note": "Actually viewed in the album contact sheet; 2016/2017/2019 selected originals viewed individually. The institution/year attribution is preserved with its retrospective limit."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "title": "The standing multi-figure composition",
+      "summary": "A source-labelled official arrival photograph documents a particular annual form.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "The institutional album supplies the year. The surviving image is not an authenticated original negative or capture-day record.",
+          "sourceIds": [
+            "PR11"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "PR11"
+      ],
+      "media": [
+        {
+          "id": "2017-official-aagman-phase2",
+          "originalUrl": "https://parelcharaja.in/gallery/aagman-2017.php",
+          "kind": "photograph",
+          "label": "Institutional arrival photograph",
+          "caption": "Nare Park's Parelcha Raja arrival form, archive-attributed 2017.",
+          "credit": "Siddhesh Mungekar (visible watermark); institutional archive.",
+          "dateEvidence": "The exact Nare Park institutional page explicitly labels the album 2017. The photograph itself also overlays the institution name and year in Marathi. No upload-folder or filename arithmetic is used.",
+          "dateStatus": "source-attributed",
+          "yearConfidence": "official_annual_album_and_visible_year_overlay",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "PR11"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Standing four-armed Ganesh in yellow garments and red stole, a lotus held at right, tall gold frame and a green many-armed figure above; dense crowd, tree, dark sky and shops.",
+            "alignsWithSource": true,
+            "note": "Actually viewed in the album contact sheet; 2016/2017/2019 selected originals viewed individually. The institution/year attribution is preserved with its retrospective limit."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "title": "Padyapujan and preparation",
+      "summary": "The institution preserves a year-labelled padyapujan ritual photograph.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "This is a dated preparation/ritual scene, not evidence for the pose or completed body of the final 2018 idol.",
+          "sourceIds": [
+            "PR12"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "PR12"
+      ],
+      "media": [
+        {
+          "id": "2018-official-padyapujan-phase2",
+          "originalUrl": "https://parelcharaja.in/gallery/padyapujan-2018.php",
+          "kind": "photograph",
+          "label": "Institutional ritual photograph",
+          "caption": "Nare Park's Parelcha Raja padyapujan ritual, archive-attributed 2018.",
+          "credit": "Photographer uncredited in the inspected institutional album.",
+          "dateEvidence": "The exact Nare Park institutional page explicitly labels the album 2018. No upload-folder or filename arithmetic is used.",
+          "dateStatus": "source-attributed",
+          "yearConfidence": "official_year_labelled_album",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "PR12"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "A large golden foot/paduka-shaped sacred object being washed or anointed, with flowers, water vessels and gathered participants in a covered workshop; finished Ganesh body not visible.",
+            "alignsWithSource": true,
+            "note": "Actually viewed in the album contact sheet; 2016/2017/2019 selected originals viewed individually. The institution/year attribution is preserved with its retrospective limit."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "title": "Arrival beneath the flyover",
+      "summary": "A source-labelled official arrival photograph documents a particular annual form.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "Only the native 200 x 300 observed image was available for this selection; several other album URLs failed. No larger URL was fabricated.",
+          "sourceIds": [
+            "PR13"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "PR13"
+      ],
+      "media": [
+        {
+          "id": "2019-official-aagman-phase2",
+          "originalUrl": "https://parelcharaja.in/gallery/aagman-2019.php",
+          "kind": "photograph",
+          "label": "Institutional arrival photograph",
+          "caption": "Nare Park's Parelcha Raja arrival form, archive-attributed 2019.",
+          "credit": "Photographer uncredited in the inspected institutional album.",
+          "dateEvidence": "The exact Nare Park institutional page explicitly labels the album 2019. No upload-folder or filename arithmetic is used.",
+          "dateStatus": "source-attributed",
+          "yearConfidence": "official_year_labelled_album",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "PR13"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Standing multi-armed Ganesh in yellow dhoti, green sash and red stole, with trident and other implements, a circular sun-like backing; flyover, apartments, trees and actual procession crowd.",
+            "alignsWithSource": true,
+            "note": "Actually viewed in the album contact sheet; 2016/2017/2019 selected originals viewed individually. The institution/year attribution is preserved with its retrospective limit."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "title": "Pandemic plans and online worship",
+      "summary": "The Nare Park mandal announced a three-foot idol in place of its usual 23-foot installation. It planned immersion in an artificial tank, without a procession or neighbourhood fundraising. During the festival, a trustee described online darshan and health precautions.",
+      "sourceIds": [
+        "PR-plans-2020",
+        "PR-report-2020"
+      ],
+      "media": []
+    },
+    {
+      "year": 2022,
+      "title": "Gajalaxmi in the pandal",
+      "summary": "Contemporary press photograph identifies Parelcha Raja.",
+      "artist": null,
+      "theme": "Gajalaxmi, as reported",
+      "notes": [],
+      "sourceIds": [
+        "PR03"
+      ],
+      "media": [
+        {
+          "id": "2022-express-pandal",
+          "originalUrl": "https://indianexpress.com/article/cities/mumbai/traditions-on-creating-idols-to-their-send-off-three-theme-based-ganpati-mandals-in-mumbai-8121311/",
+          "kind": "photograph",
+          "label": "Contemporary press photograph",
+          "caption": "Standing Parelcha Raja in the 2022 physical pandal.",
+          "credit": "Amit Chakravarty / The Indian Express",
+          "dateEvidence": "Article first published 30 August 2022, updated 9 September; caption identifies Parel Cha Raja and accompanying text gives the 2022 form.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "PR03"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Standing many-armed Ganesh in a blue-lit physical columned pandal, red/gold lower costume, small seated pooja idol and spectators in the foreground.",
+            "alignsWithSource": true,
+            "note": "Direct image visually inspected in Chrome. It matches the named Parel caption and standing Gajalaxmi reporting; attributes alone are not used to infer the year."
+          },
+          "dateStatus": "contemporary"
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "title": "Nare Park arrival form",
+      "summary": "The exact Nare Park institution is named in Loksatta’s caption.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "PR04"
+      ],
+      "media": [
+        {
+          "id": "2025-loksatta-arrival",
+          "originalUrl": "https://www.loksatta.com/photos/ganeshutsav/5331272/ganeshotsav-2025-see-photos-of-lalbaug-parel-ganpati-bappa-decoration-theme-festival-sdn-96/lite/",
+          "kind": "photograph",
+          "label": "Contemporary regional press photograph",
+          "caption": "Parelcha Raja of Parel Vibhag Sarvajanik Ganeshotsav Mandal, Nare Park.",
+          "credit": "Mandal / Instagram via Loksatta; photographer not individually credited",
+          "dateEvidence": "2025 gallery published 26 August; specific caption names Nare Park. Capture day unestablished.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "PR04"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Standing four-armed Ganesh in orange ascetic drapery with a topknot, long bow/staff, quiver and conch, above a dense street crowd and trees.",
+            "alignsWithSource": true,
+            "note": "Direct image visually inspected. Caption explicitly names Nare Park; visible Rama-like attributes are described, without assigning an unsourced official theme title."
+          },
+          "dateStatus": "contemporary"
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "title": "The Warkari arrival form",
+      "summary": "A source-labelled official arrival photograph documents a particular annual form.",
+      "artist": null,
+      "theme": "Warkari / Pandharpur (contemporary report)",
+      "notes": [
+        {
+          "text": "The institutional album supplies the year. The surviving image is not an authenticated original negative or capture-day record.",
+          "sourceIds": [
+            "PR14"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "PR14",
+        "PR06"
+      ],
+      "media": [
+        {
+          "id": "2026-official-aagman-phase2",
+          "originalUrl": "https://parelcharaja.in/gallery/aagman-sohala-2026.php",
+          "kind": "photograph",
+          "label": "Institutional arrival photograph",
+          "caption": "Nare Park's Parelcha Raja arrival form, archive-attributed 2026.",
+          "credit": "Photographer uncredited in the inspected institutional album.",
+          "dateEvidence": "The exact Nare Park institutional page explicitly labels the album 2026. No upload-folder or filename arithmetic is used.",
+          "dateStatus": "source-attributed",
+          "yearConfidence": "official_year_labelled_album",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "PR14"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Four-armed standing Ganesh in a white turban, purple kurta and yellow trousers, holding/playing a large barrel drum with another vessel-like musical attribute; workshop roof and procession crowd visible.",
+            "alignsWithSource": true,
+            "note": "Actually viewed in the album contact sheet; 2016/2017/2019 selected originals viewed individually. The institution/year attribution is preserved with its retrospective limit."
+          }
+        }
+      ]
+    }
+  ],
+  "undatedMedia": [],
+  "sources": [
+    {
+      "id": "PR01",
+      "title": "Parel Cha Raja - institutional home and history",
+      "publisher": "Parel Vibhag Sarvajanik Ganeshotsav Mandal",
+      "date": null,
+      "language": "English and Marathi",
+      "type": "institutional retrospective",
+      "url": "https://parelcharaja.com/?lang=en",
+      "note": "Explicit Nare Park identity, 1947 mill-worker origin and address. Current institutional account, not a 1947 document."
+    },
+    {
+      "id": "PR02",
+      "title": "Parel Ganpati mandal stops collecting donation from hawkers",
+      "publisher": "Times of India",
+      "date": "2017-07-13",
+      "language": "English",
+      "type": "contemporary reporting",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/parel-ganpati-mandal-stops-collecting-donation-from-hawkers/amp_articleshow/59582264.cms",
+      "note": "Bella Jaisinghani interviews trustee Milind Gawde; specifically identifies Nare Park and 1947."
+    },
+    {
+      "id": "PR03",
+      "title": "Traditions on creating idols to their send-off: Three theme-based Ganpati mandals",
+      "publisher": "The Indian Express",
+      "date": "2022-08-30",
+      "language": "English",
+      "type": "contemporary report and credited photos",
+      "url": "https://indianexpress.com/article/cities/mumbai/traditions-on-creating-idols-to-their-send-off-three-theme-based-ganpati-mandals-in-mumbai-8121311/",
+      "note": "Eeshanpriya MS; photo Amit Chakravarty. Gives 2022 Gajalaxmi and foldable crown; reported 26-foot idol and 23-foot bridge, not independent survey."
+    },
+    {
+      "id": "PR04",
+      "title": "लालबाग-परळमधील गणपती - २०२५ फोटो",
+      "publisher": "Loksatta",
+      "date": "2025-08-26",
+      "language": "Marathi",
+      "type": "contemporary captioned gallery",
+      "url": "https://www.loksatta.com/photos/ganeshutsav/5331272/ganeshotsav-2025-see-photos-of-lalbaug-parel-ganpati-bappa-decoration-theme-festival-sdn-96/lite/",
+      "note": "Slide 8 explicitly names Parel Vibhag Sarvajanik Ganeshotsav Mandal, Nare Park. Credits all images to mandals/Instagram without individual photographer names."
+    },
+    {
+      "id": "PR05",
+      "title": "Maha Ganesha Festival: Pandal-hopping time as Ganesha arrives in city",
+      "publisher": "Mumbai Mirror",
+      "date": "2016-09-05",
+      "language": "English",
+      "type": "contemporary report",
+      "url": "https://mumbaimirror.indiatimes.com/mumbai/other/maha-ganesha-festival-pandal-hopping-time-as-ganesha-arrives-in-city/articleshow/54009933.html",
+      "note": "Parelcha Raja section explicitly says Nare Park and Kaliya Mardan on a 16-hooded serpent; names trustee Gawde."
+    },
+    {
+      "id": "PR06",
+      "title": "Parel Cha Raja celebrates 80th year with Warkari Ganesh and Pandharpur setting",
+      "publisher": "Free Press Journal",
+      "date": "2026-09-23",
+      "language": "English",
+      "type": "contemporary treasurer interview",
+      "url": "https://www.freepressjournal.in/amp/mumbai/parel-cha-raja-celebrates-80th-year-with-23-foot-warkari-ganesh-idol-and-pandharpur-themed-setup",
+      "note": "Poonam Apraj, quoting Suresh Arondekar. Article illustration is expressly file photo and not used as a 2026 record."
+    },
+    {
+      "id": "PR07",
+      "title": "जुन्या स्मृती - Nare Park archive",
+      "publisher": "Parel Vibhag Sarvajanik Ganeshotsav Mandal, Nare Park",
+      "date": null,
+      "language": "Marathi",
+      "type": "institutional",
+      "url": "https://parelcharaja.in/gallery/junya-smruti.php",
+      "note": "Retrospective gallery includes prints, portraits and reused locality images. The selected old-memories object visibly prints 1971 and names Nare Park; filename dates alone were not used."
+    },
+    {
+      "id": "PR08",
+      "title": "aagman-2014 - official annual album",
+      "publisher": "Parel Vibhag Sarvajanik Ganeshotsav Mandal, Nare Park",
+      "date": null,
+      "language": "Marathi",
+      "type": "institutional",
+      "url": "https://parelcharaja.in/gallery/aagman-2014.php",
+      "note": "Explicit annual album label 2014; retrospective institutional photo attribution. Actual scenes inspected, not assumed from filenames. Some album pages contain other settings or differently framed forms, which were not all adopted."
+    },
+    {
+      "id": "PR09",
+      "title": "aagman-2015 - official annual album",
+      "publisher": "Parel Vibhag Sarvajanik Ganeshotsav Mandal, Nare Park",
+      "date": null,
+      "language": "Marathi",
+      "type": "institutional",
+      "url": "https://parelcharaja.in/gallery/aagman-2015.php",
+      "note": "Explicit annual album label 2015; retrospective institutional photo attribution. Actual scenes inspected, not assumed from filenames. Some album pages contain other settings or differently framed forms, which were not all adopted."
+    },
+    {
+      "id": "PR10",
+      "title": "aagman-2016 - official annual album",
+      "publisher": "Parel Vibhag Sarvajanik Ganeshotsav Mandal, Nare Park",
+      "date": null,
+      "language": "Marathi",
+      "type": "institutional",
+      "url": "https://parelcharaja.in/gallery/aagman-2016.php",
+      "note": "Explicit annual album label 2016; retrospective institutional photo attribution. Actual scenes inspected, not assumed from filenames. Some album pages contain other settings or differently framed forms, which were not all adopted."
+    },
+    {
+      "id": "PR11",
+      "title": "aagman-2017 - official annual album",
+      "publisher": "Parel Vibhag Sarvajanik Ganeshotsav Mandal, Nare Park",
+      "date": null,
+      "language": "Marathi",
+      "type": "institutional",
+      "url": "https://parelcharaja.in/gallery/aagman-2017.php",
+      "note": "Explicit annual album label 2017; retrospective institutional photo attribution. Actual scenes inspected, not assumed from filenames. Some album pages contain other settings or differently framed forms, which were not all adopted."
+    },
+    {
+      "id": "PR12",
+      "title": "padyapujan-2018 - official annual album",
+      "publisher": "Parel Vibhag Sarvajanik Ganeshotsav Mandal, Nare Park",
+      "date": null,
+      "language": "Marathi",
+      "type": "institutional",
+      "url": "https://parelcharaja.in/gallery/padyapujan-2018.php",
+      "note": "Explicit annual album label 2018; retrospective institutional photo attribution. Actual scenes inspected, not assumed from filenames. Some album pages contain other settings or differently framed forms, which were not all adopted."
+    },
+    {
+      "id": "PR13",
+      "title": "aagman-2019 - official annual album",
+      "publisher": "Parel Vibhag Sarvajanik Ganeshotsav Mandal, Nare Park",
+      "date": null,
+      "language": "Marathi",
+      "type": "institutional",
+      "url": "https://parelcharaja.in/gallery/aagman-2019.php",
+      "note": "Explicit annual album label 2019; retrospective institutional photo attribution. Actual scenes inspected, not assumed from filenames. Some album pages contain other settings or differently framed forms, which were not all adopted."
+    },
+    {
+      "id": "PR14",
+      "title": "aagman-sohala-2026 - official annual album",
+      "publisher": "Parel Vibhag Sarvajanik Ganeshotsav Mandal, Nare Park",
+      "date": null,
+      "language": "Marathi",
+      "type": "institutional",
+      "url": "https://parelcharaja.in/gallery/aagman-sohala-2026.php",
+      "note": "Explicit annual album label 2026; retrospective institutional photo attribution. Actual scenes inspected, not assumed from filenames. Some album pages contain other settings or differently framed forms, which were not all adopted."
+    },
+    {
+      "id": "PR-plans-2020",
+      "title": "Nare Park mandal announces a smaller Ganesh idol and simpler festival",
+      "publisher": "TV9 Marathi / Anish Bendre",
+      "url": "https://www.tv9marathi.com/maharashtra/mumbai/paralcha-parelcha-raja-nare-park-ganeshotsava-mandal-to-celebrate-simply-225935.html",
+      "date": "2020-05-31",
+      "type": "reporting",
+      "language": "Marathi",
+      "note": "Reports plans announced before the festival."
+    },
+    {
+      "id": "PR-report-2020",
+      "title": "Mumbai festival reporting, Nare Park section",
+      "publisher": "The Times of India / Bella Jaisinghani",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-hand-painted-ramayan-tableaux-600-kg-clay-idol-at-andheri-pandal/articleshow/77746367.cms",
+      "date": "2020-08-25",
+      "type": "reporting",
+      "language": "English",
+      "note": "The Nare Park section cites trustee Milind Gawde on online darshan, health measures and planned on-site immersion."
+    }
+  ],
+  "openQuestions": [
+    {
+      "title": "Artist succession",
+      "text": "A sourced year-by-year Nare Park sculptor chronology is still needed; do not transfer artists from other Parel mandals.",
+      "sourceIds": [
+        "PR03",
+        "PR04"
+      ]
+    },
+    {
+      "title": "Generic Parel image rejected",
+      "text": "Commons Ganpati Visarjan - Parel.jpg (2016) was visually inspected but only generically captioned; its sun-disc/human-support form does not clearly match Mirror’s Nare Park Kaliya report. It is omitted from display pending institution-level identification.",
+      "sourceIds": [
+        "PR05"
+      ]
+    },
+    {
+      "title": "Early archive and dimensions",
+      "text": "Find dated pre-2016 photographs and original foundation records. Historical reported heights use unspecified bases and should not be flattened into a fixed number.",
+      "sourceIds": [
+        "PR01",
+        "PR03",
+        "PR05"
+      ]
+    }
+  ],
+  "visit": {
+    "address": "Abhaya Shikha, Bhivajirao Nare Udyan, Nare Park, Parel East, Mumbai 400012",
+    "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Parelcha+Raja+Nare+Park+Mumbai",
+    "text": "Use the Nare Park identifier to distinguish this festival from Parel’s other Rajas. No current opening hours or procession route are asserted.",
+    "sourceIds": [
+      "PR01"
+    ]
+  },
+  "claims": [
+    {
+      "id": "C01",
+      "text": "The Nare Park mandal began in 1947 and describes mill-worker origins.",
+      "status": "institutional retrospective corroborated by reporting",
+      "sourceIds": [
+        "PR01",
+        "PR02"
+      ]
+    },
+    {
+      "id": "C02",
+      "text": "The standing tradition was interpreted as Gajalaxmi in 2022.",
+      "status": "contemporary reporting",
+      "sourceIds": [
+        "PR03"
+      ]
+    },
+    {
+      "id": "C03",
+      "text": "Hawker donation collections stopped in 2017 according to the trustee’s announcement.",
+      "status": "contemporary reporting",
+      "sourceIds": [
+        "PR02"
+      ]
+    }
+  ],
+  "researchNotes": {
+    "edition": "2026-11-16",
+    "coverage": "Independent exact-institution history and two visually inspected photo years. Generic 2016 Parel image rejected as insufficiently identified. Phase 2 examined 35 old-memory objects and samples from seven official annual albums, adding eight photo years including the explicitly printed 1971 Nare Park scene. All originals preserved unchanged.",
+    "gaps": [
+      "Early photographs",
+      "Original founding papers",
+      "Complete artist chronology",
+      "Unambiguous yearly height conventions",
+      "Old-memory filenames such as 2002/2005/2006/2008/2009 are not item-level capture proof; several show differing forms and are withheld pending dated captions.",
+      "The 1979 paired image is a composite and not counted as a single documentary photo.",
+      "Official albums include unrelated scenery and at least one differently framed idol view; selected annual images are individually checked."
+    ],
+    "nextActions": [
+      "Inspect official dated arrival albums without assuming every gallery image is documentary",
+      "Find early annual souvenirs and credited originals",
+      "Seek institutional identification for ambiguous locality-only photographs"
+    ]
+  }
+}

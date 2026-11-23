@@ -1,0 +1,857 @@
+{
+  "slug": "keshavji-naik-chawl",
+  "kind": "festival",
+  "researchStage": "expanded",
+  "meta": {
+    "title": "Keshavji Naik Chawl Ganpati",
+    "marathi": "केशवजी नाईक चाळ गणपती",
+    "institution": "Shree Sarvajanik Ganeshotsav Sanstha",
+    "location": "Keshavji Naik Chawl, Khadilkar Road, Girgaon, Mumbai 400004",
+    "neighborhood": "Girgaon",
+    "founded": 1893,
+    "foundedNote": "1893 is supported by the institution and BMC heritage account; priority claims are retained as attributed descriptions, not an all-India first.",
+    "intro": "A small Ganapati in a Girgaon chawl courtyard anchors a public festival traced to 1893. The Shree Sarvajanik Ganeshotsav Sanstha preserves a tradition associated with Lokmanya Tilak while residents sustain worship, talks and cultural programmes. Its archive is unusually rich in printed invitations, schedules and newspaper cuttings. This collection follows that documentary trail alongside the More family's idol-making association, keeping the separate Nikadwari Lane Girgaoncha Raja institution distinct.",
+    "aliases": [
+      "Keshavji Naik Chawl",
+      "Keshavji Nayak Chawl",
+      "Shri Sarvajanik Ganeshotsav Sanstha"
+    ],
+    "hero": null,
+    "id": "keshavji-naik-chawl",
+    "kind": "festival",
+    "researchStage": "expanded",
+    "catalogueMode": "located-records",
+    "updated": "16 November 2026",
+    "edition": "Expanded collection · Research edition · 16 November 2026",
+    "downloads": {
+      "json": "collections/keshavji-naik-chawl.json"
+    }
+  },
+  "sections": [
+    {
+      "id": "origins",
+      "eyebrow": "Origins",
+      "title": "A festival rooted in a courtyard",
+      "paragraphs": [
+        {
+          "text": "The festival dates to 1893 in both the institution's narrative and the municipal heritage account. The latter describes local organisers and an early move from a resident's apartment into the shared courtyard. This places household worship, public assembly and the architecture of the chawl within the same story.",
+          "sourceIds": [
+            "KN01",
+            "KN02"
+          ]
+        },
+        {
+          "text": "Lokmanya Tilak's 1901 visit is a documented institutional landmark. Calling the celebration Tilak-inspired is better supported than collapsing every local founder into a claim that he personally organised it. The 1893 priority is a Mumbai historical claim; it is not treated here as proof of the first public Ganesh festival anywhere.",
+          "sourceIds": [
+            "KN02",
+            "KN01"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "continuity",
+      "eyebrow": "Craft and community",
+      "title": "Small idol, extensive cultural record",
+      "paragraphs": [
+        {
+          "text": "Rediff's retrospective associates the small courtyard idol with the More family. The current institutional account identifies Rajendra More as a later-generation maker and describes restraint in amplification and display. Exact height and the number of sculptor generations should be attached to dated evidence rather than assumed constant.",
+          "sourceIds": [
+            "KN04",
+            "KN01"
+          ]
+        },
+        {
+          "text": "Surviving 1934 and 1946 programmes show that the festival archive extends beyond images of the deity. The 1946 sheet combines installation, games and devotional performance. In 2026, reporting described Warli-themed preparation and planned lectures, showing how cultural programming can change while the courtyard remains the organising setting.",
+          "sourceIds": [
+            "KN03",
+            "KN05"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "phase2-household-work-and-continuity",
+      "eyebrow": "Community memory and evidence",
+      "title": "The small form, the makers and the work around it",
+      "paragraphs": [
+        {
+          "text": "Varsha Mahajan's Marathi anniversary recollection describes the festival through household labour: preparing ritual vessels, buying flowers, sharing food and gathering for recitation and performance. She recalls a stable seated form and the palanquin custom. Her account also dates constitutional approval to 1935 and a Tilak re-enactment to 2001. These are attributed resident memories, useful leads for the institution's surviving minutes and programmes rather than substitutes for them.",
+          "sourceIds": [
+            "KN12"
+          ]
+        },
+        {
+          "text": "Mid-day's 2017 preparations report identifies Rajendra More in his Girgaum workshop and associates the commission with four generations of artisans. Its maker portrait is carefully distinguished from a verified photograph of the finished 2017 idol. The same report identifies the current Ganpatipule temple setting, allowing an annual decoration attribution without treating the article's sculpture foreground as the installed idol.",
+          "sourceIds": [
+            "KN11"
+          ]
+        },
+        {
+          "text": "The 2021 pandemic account provides a specific continuity test: unlike mandals forced to reduce large idols, Keshavji already used a2.25 ft form, according to the report. Its organiser also described educational supplies sent to a Chiplun school. The archive records that year's reported policy and welfare work without inventing a 2021 image.",
+          "sourceIds": [
+            "KN13"
+          ]
+        },
+        {
+          "text": "Clear idol views from the 2018 and 2024 Rediff visits extend the photographic record with Satish Bodas' credit. The 2024 palanquin scene also documents the carrying object and physical chawl environment. A separately identified 2025 agency preview adds a precisely captioned date, with publication permission still unknown. The 2023 two-frame press animation remains a dated publication object whose individual photographic years are unconfirmed.",
+          "sourceIds": [
+            "KN07",
+            "KN08",
+            "KN09",
+            "KN10"
+          ]
+        }
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "year": 1893,
+      "title": "Public celebration begins",
+      "text": "Institutional and municipal accounts place the beginning in this year.",
+      "sourceIds": [
+        "KN01",
+        "KN02"
+      ]
+    },
+    {
+      "year": 1901,
+      "title": "Tilak visits",
+      "text": "The municipal heritage account records a visit to the chawl.",
+      "sourceIds": [
+        "KN02"
+      ]
+    },
+    {
+      "year": 1917,
+      "title": "English invitation survives",
+      "text": "An archived invitation explicitly refers to the 1917 festival.",
+      "sourceIds": [
+        "KN03"
+      ]
+    },
+    {
+      "year": 1934,
+      "title": "Programme sheet",
+      "text": "Printed Marathi programme survives with the year visible.",
+      "sourceIds": [
+        "KN03"
+      ]
+    },
+    {
+      "year": 1946,
+      "title": "Worship and cultural schedule",
+      "text": "A programme links Ganesh installation with games and performances.",
+      "sourceIds": [
+        "KN03"
+      ]
+    },
+    {
+      "year": 1953,
+      "title": "Contemporary newspaper cutting",
+      "text": "The archive labels a Navshakti clipping 14 September 1953; its date is visible.",
+      "sourceIds": [
+        "KN03"
+      ]
+    },
+    {
+      "year": 2026,
+      "title": "Warli-themed preparation",
+      "text": "A contemporary report documents the planned decoration and talks.",
+      "sourceIds": [
+        "KN05"
+      ]
+    },
+    {
+      "year": 1935,
+      "title": "Constitutional approval recalled",
+      "text": "An anniversary recollection attributes approval of the drafted constitution to the 1935 general meeting; original minutes remain to be checked.",
+      "sourceIds": [
+        "KN12"
+      ]
+    },
+    {
+      "year": 2001,
+      "title": "Tilak re-enactment recalled",
+      "text": "A resident remembers a staged Tilak arrival during the 2001 festival.",
+      "sourceIds": [
+        "KN12"
+      ]
+    },
+    {
+      "year": 2017,
+      "title": "125th festival preparations",
+      "text": "A maker portrait and Ganpatipule setting accompany contemporary anniversary reporting.",
+      "sourceIds": [
+        "KN11"
+      ]
+    },
+    {
+      "year": 2021,
+      "title": "Small-scale continuity and school support",
+      "text": "Reporting describes the established small idol and educational aid to a Chiplun school.",
+      "sourceIds": [
+        "KN13"
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": 1917,
+      "title": "English invitation",
+      "summary": "A documented paper object, not a claimed photograph of that year's idol.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "KN03"
+      ],
+      "media": [
+        {
+          "id": "1917-archive-object",
+          "originalUrl": "https://1stganeshfestival.com/photo-gallery/",
+          "kind": "document",
+          "label": "Scanned archival object",
+          "caption": "English invitation retained in the institutional archive.",
+          "credit": "Institutional archive; scanner and original object maker uncredited.",
+          "dateEvidence": "Institutional archive caption and visible printed year/date establish the object year; 2026 upload path is not used as its date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "KN03"
+          ],
+          "yearConfidence": "printed_object_year",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Composite scan: an English invitation dated 1917 above a separate Marathi notice; no physical idol shown.",
+            "alignsWithSource": true,
+            "note": "Inspected as a document scan. Object provenance beyond institutional custody is unverified; illustration is not being presented as an annual idol photograph."
+          }
+        }
+      ]
+    },
+    {
+      "year": 1934,
+      "title": "Marathi programme",
+      "summary": "A documented paper object, not a claimed photograph of that year's idol.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "KN03"
+      ],
+      "media": [
+        {
+          "id": "1934-archive-object",
+          "originalUrl": "https://1stganeshfestival.com/photo-gallery/",
+          "kind": "document",
+          "label": "Scanned archival object",
+          "caption": "Marathi programme retained in the institutional archive.",
+          "credit": "Institutional archive; scanner and original object maker uncredited.",
+          "dateEvidence": "Institutional archive caption and visible printed year/date establish the object year; 2026 upload path is not used as its date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "KN03"
+          ],
+          "yearConfidence": "printed_object_year",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Aged, hole-punched programme sheet; printed 1934 year and illustrated seated Ganesha emblem, not an idol photograph.",
+            "alignsWithSource": true,
+            "note": "Inspected as a document scan. Object provenance beyond institutional custody is unverified; illustration is not being presented as an annual idol photograph."
+          }
+        }
+      ]
+    },
+    {
+      "year": 1946,
+      "title": "Festival programme",
+      "summary": "A documented paper object, not a claimed photograph of that year's idol.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "KN03"
+      ],
+      "media": [
+        {
+          "id": "1946-archive-object",
+          "originalUrl": "https://1stganeshfestival.com/photo-gallery/",
+          "kind": "document",
+          "label": "Scanned archival object",
+          "caption": "Festival programme retained in the institutional archive.",
+          "credit": "Institutional archive; scanner and original object maker uncredited.",
+          "dateEvidence": "Institutional archive caption and visible printed year/date establish the object year; 2026 upload path is not used as its date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "KN03"
+          ],
+          "yearConfidence": "printed_object_year",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Paper programme printed 1946 with an illustrated Ganesha and dated activity schedule, not a photograph of the annual idol.",
+            "alignsWithSource": true,
+            "note": "Inspected as a document scan. Object provenance beyond institutional custody is unverified; illustration is not being presented as an annual idol photograph."
+          }
+        }
+      ]
+    },
+    {
+      "year": 1953,
+      "title": "Navshakti cutting",
+      "summary": "A documented paper object, not a claimed photograph of that year's idol.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "KN03"
+      ],
+      "media": [
+        {
+          "id": "1953-archive-object",
+          "originalUrl": "https://1stganeshfestival.com/photo-gallery/",
+          "kind": "document",
+          "label": "Scanned archival object",
+          "caption": "Navshakti cutting retained in the institutional archive.",
+          "credit": "Institutional archive; scanner and original object maker uncredited.",
+          "dateEvidence": "Institutional archive caption and visible printed year/date establish the object year; 2026 upload path is not used as its date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "KN03"
+          ],
+          "yearConfidence": "printed_object_year",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Newspaper columns with the 14-9-1953 date printed along the top; no annual idol photograph.",
+            "alignsWithSource": true,
+            "note": "Inspected as a document scan. Object provenance beyond institutional custody is unverified; illustration is not being presented as an annual idol photograph."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "title": "125th festival: maker and resident memories",
+      "summary": "A contemporary maker portrait accompanies anniversary reporting; the Marathi recollection supplies the community's view of continuity.",
+      "artist": null,
+      "theme": "Ganpatipule temple replica (current preparation described by the organiser)",
+      "notes": [],
+      "sourceIds": [
+        "KN11",
+        "KN12"
+      ],
+      "media": [
+        {
+          "id": "2017-phase2-maker-workshop",
+          "originalUrl": "https://www.mid-day.com/mumbai/mumbai-news/article/mumbai-s-first-ganesh-mandal-turns-125-this-year-news-18501191",
+          "kind": "photograph",
+          "label": "Contemporary craft-context photograph",
+          "caption": "Rajendra More at his Girgaum workshop in the 2017 anniversary report; maker context, not a verified annual-idol portrait.",
+          "credit": "Bipin Kokate / Mid-day. Article by Anju Maskeri.",
+          "dateEvidence": "The13 August 2017 report captions Rajendra More at his workshop during preparations for the institution's125th festival. It documents a contemporary maker portrait; the visible unfinished sculpture is not explicitly established as the final 2017 installed mandal idol.",
+          "dateStatus": "contemporary",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "KN11"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "A portrait shows Rajendra More smiling behind the raised hand and pink body of a small unfinished Ganesh sculpture in a physical workshop; the sculpture obscures part of the face, and the Mid-day watermark remains visible.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "title": "Small idol and physical offering table",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "KN07"
+      ],
+      "media": [
+        {
+          "id": "2018-phase2-idol",
+          "originalUrl": "https://m.rediff.com/getahead/report/must-see-ganpati-celebrations-at-mumbais-oldest-pandal/20180919.htm",
+          "kind": "photograph",
+          "label": "Contemporary idol photograph",
+          "caption": "The small installed Ganesh during Rediff's 2018 Keshavji festival visit.",
+          "credit": "Satish Bodas / Rediff.com.",
+          "dateEvidence": "The19 September 2018 photo essay follows the current Keshavji celebration and credits Satish Bodas. Its separate archival lane photograph is explicitly old and is not dated 2018. The chosen present-day idol scene has no independent exact capture day.",
+          "dateStatus": "contemporary",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "KN07"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Small seated Ganesh wears yellow lower drapery, blue side cloth and a gold crown within a gold repoussé arch. Flower garlands, a silver platform and real fruit, lamps and offerings are visible against the pink-orange pandal wall.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "title": "A small idol through pandemic restrictions",
+      "summary": "Contemporary reporting says the mandal maintained its2.25 ft scale and supported a Chiplun school. This text-only event record supplies no 2021 idol photograph.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "KN13"
+      ],
+      "media": []
+    },
+    {
+      "year": 2022,
+      "title": "Welcoming the small idol",
+      "summary": "A captioned contemporary photograph records palanquin arrival and residents' aarti.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "KN06"
+      ],
+      "media": [
+        {
+          "id": "2022-ie-palanquin",
+          "originalUrl": "https://indianexpress.com/photos/lifestyle-gallery/ganesh-chaturthi-2022-celebrations-devotees-idols-prayers-11-day-festival-ganesh-photos-8109794/",
+          "kind": "photograph",
+          "label": "Contemporary palanquin photograph",
+          "caption": "The small Keshavji Naik Chawl Ganesh idol is welcomed in a flower-decorated palanquin while residents perform aarti.",
+          "credit": "Amit Chakravarty / The Indian Express",
+          "dateEvidence": "Gallery updated 31 August 2022; frame 20 explicitly identifies Keshavji Naik Chawl and welcomes the idol during the 2022 festival. Exact capture time is not independently verified.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "KN06"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Small seated Ganesh viewed in profile, with yellow lower cloth and orange-red drape, on a blue pedestal inside a flower-decorated wooden palanquin; residents, aarti plate and white Gandhi caps visible.",
+            "alignsWithSource": true,
+            "note": "Physical procession scene aligns with the caption and the institution's small-idol, palanquin tradition. Side view does not establish all iconographic attributes."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "title": "Press photograph sequence: year uncertain",
+      "summary": "A dated publication object with two photographic frames; individual capture years are unconfirmed.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "KN09"
+      ],
+      "media": [
+        {
+          "id": "2023-phase2-press-animation",
+          "originalUrl": "https://indianexpress.com/article/cities/mumbai/mumbai-celebrates-ganeshotsav-citys-oldest-ganpati-pandal-red-light-district-8955154/",
+          "kind": "treated",
+          "label": "Animated photograph sequence - capture year uncertain",
+          "caption": "Two-frame Keshavji photograph sequence in the source's 2023 report; the individual capture year remains unconfirmed.",
+          "credit": "Srishti Kapoor / The Indian Express (the source credits the plural photographs).",
+          "dateEvidence": "The GIF accompanies a specifically captioned Keshavji section in a report first published26 September 2023 and later updated7 September 2024. No individual frame explicitly states its capture year.2023 indexes the report object; neither frame is independently authenticated as a 2023 capture, and the later update does not prove 2024.",
+          "dateStatus": "uncertain",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "KN09"
+          ],
+          "yearConfidence": "uncertain",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Both source GIF frames were viewed: one shows the institution-labelled entrance, white temporary temple columns, red carpet and distant Ganesh; the other shows a small four-armed seated Ganesh in yellow dhoti and purple cushion/backing on an elaborate silver arched throne, with flowers and offering vessels.",
+            "alignsWithSource": true,
+            "note": "Every frame, not only the first, was visually inspected. The two scenes have compatible physical stage/throne details; this does not establish their capture year. Original animated GIF retained unchanged."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "title": "Installation and palanquin views",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "KN08"
+      ],
+      "media": [
+        {
+          "id": "2024-phase2-installed",
+          "originalUrl": "https://www.rediff.com/getahead/report/celebrating-history-mumbais-first-sarvajanik-bappa/20240912.htm",
+          "kind": "photograph",
+          "label": "Contemporary idol photograph",
+          "caption": "The installed Ganesh within the 2024 temporary temple setting.",
+          "credit": "Satish Bodas / Rediff.com.",
+          "dateEvidence": "The12 September 2024 contemporary photo essay explicitly covers this year's Keshavji celebration and credits Satish Bodas. It presents both the installed idol and palanquin scenes; exact camera capture days are not supplied.",
+          "dateStatus": "contemporary",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "KN08"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Small seated Ganesh in yellow lower drapery and flower garlands appears in a metal arched throne; grey-gold temporary temple panels, lamps, fruit and flowers fill the physical altar.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        },
+        {
+          "id": "2024-phase2-palanquin",
+          "originalUrl": "https://www.rediff.com/getahead/report/celebrating-history-mumbais-first-sarvajanik-bappa/20240912.htm",
+          "kind": "photograph",
+          "label": "Contemporary idol photograph",
+          "caption": "The small Ganesh in its palanquin in the 2024 photo essay, showing the carrying object and chawl setting.",
+          "credit": "Satish Bodas / Rediff.com.",
+          "dateEvidence": "The12 September 2024 contemporary photo essay explicitly covers this year's Keshavji celebration and credits Satish Bodas. It presents both the installed idol and palanquin scenes; exact camera capture days are not supplied.",
+          "dateStatus": "contemporary",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "KN08"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "A small Ganesh sits within a flower-draped wooden palanquin resting on a white-clothed table; physical chawl doorway, railings, steps and surrounding furnishings are visible.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "title": "Agency-captioned annual view",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "KN10"
+      ],
+      "media": [
+        {
+          "id": "2025-phase2-agency-reference",
+          "originalUrl": "https://www.gettyimages.ie/detail/news-photo/view-of-the-keshavji-naik-chawl-ganpati-during-the-ganesh-news-photo/2232666692",
+          "kind": "photograph",
+          "label": "Agency reference preview - permission unknown",
+          "caption": "Public agency reference preview of Keshavji Naik Chawl Ganpati, captioned1 September 2025. No image licence has been obtained.",
+          "credit": "Bhushan Koyande / Hindustan Times via Getty Images.",
+          "dateEvidence": "The agency's editorial caption explicitly dates this identified Keshavji Naik Chawl view to1 September 2025 in Girgaon, Mumbai. This is the agency's attribution; no independent original camera file is available. The downloaded item is its public reference preview.",
+          "dateStatus": "contemporary",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "KN10"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "A wide frontal view shows a small yellow-draped seated Ganesh in an elaborate silver arched throne inside a physical gold-brown temporary temple with side lattice panels, altar flowers and a Marathi sign naming the institution.",
+            "alignsWithSource": true,
+            "note": "Public agency preview inspected and retained without removing marks or altering source bytes. The source identifies subject and date; it does not grant this archive a publication licence."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "title": "Preparing the courtyard",
+      "summary": "Pre-festival imagery documents the setting and decoration before installation.",
+      "artist": null,
+      "theme": "Warli art (reported preparations)",
+      "notes": [],
+      "sourceIds": [
+        "KN05"
+      ],
+      "media": [
+        {
+          "id": "2026-warli-preparation",
+          "originalUrl": "https://www.freepressjournal.in/mumbai/mumbais-oldest-ganeshotsav-at-keshavji-naik-chawl-to-showcase-2000-year-old-warli-art-tradition-this-year",
+          "kind": "treated",
+          "label": "Editorial two-photo montage",
+          "caption": "Courtyard preparation and chawl entrance before the 2026 festival; the shrine is empty.",
+          "credit": "Vijay Gohil / Free Press Journal",
+          "dateEvidence": "Published 8 September 2026 in a report about preparations for that year's festival; no precise capture date supplied.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "KN05"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Two physical scenes combined: an empty orange-and-white Warli-style shrine in the courtyard, and a lane beneath an institutional sign.",
+            "alignsWithSource": true,
+            "note": "Photo montage, not an annual idol portrait. No AI or reconstruction claim made."
+          }
+        }
+      ]
+    }
+  ],
+  "undatedMedia": [],
+  "sources": [
+    {
+      "id": "KN01",
+      "title": "About us",
+      "publisher": "Shree Sarvajanik Ganeshotsav Sanstha",
+      "date": null,
+      "language": "English",
+      "type": "institutional",
+      "url": "https://1stganeshfestival.com/about-us/",
+      "note": "Current retrospective; specific history used cautiously because homepage boilerplate includes inconsistent descriptions."
+    },
+    {
+      "id": "KN02",
+      "title": "Keshavji Naik Chawl - Legacy of D Ward",
+      "publisher": "Brihanmumbai Municipal Corporation",
+      "date": null,
+      "language": "English",
+      "type": "municipal heritage account",
+      "url": "https://www.mcgm.gov.in/irj/go/km/docs/documents/D%20Ward/Heritage-Sites/77_Legacy%20of%20D%20Ward_Article_Keshavji%20Naik%20Chawl.pdf",
+      "note": "Names local founders and records the 1893 celebration, 1901 visit and courtyard tradition."
+    },
+    {
+      "id": "KN03",
+      "title": "Photo Gallery",
+      "publisher": "Shree Sarvajanik Ganeshotsav Sanstha",
+      "date": null,
+      "language": "Marathi / English",
+      "type": "institutional archive",
+      "url": "https://1stganeshfestival.com/photo-gallery/",
+      "note": "Dated document captions checked against the actual scanned objects; upload dates are not object dates."
+    },
+    {
+      "id": "KN04",
+      "title": "Rewind: When Mumbai celebrated its first Ganeshotsav",
+      "publisher": "Rediff. com",
+      "date": "2016-09-08",
+      "language": "English",
+      "type": "editorial",
+      "url": "https://www.rediff.com/getahead/report/ganesh-2016-rewind-when-mumbai-celebrated-its-first-ganeshotsav/20160908.htm",
+      "note": "Explicitly republishes a 1998 story; images must not silently become 2016 captures. Photographs credited to Jewella Miranda."
+    },
+    {
+      "id": "KN05",
+      "title": "Mumbai's Oldest Ganeshotsav At Keshavji Naik Chawl To Showcase Warli Art",
+      "publisher": "Free Press Journal",
+      "date": "2026-09-08",
+      "language": "English",
+      "type": "editorial",
+      "url": "https://www.freepressjournal.in/mumbai/mumbais-oldest-ganeshotsav-at-keshavji-naik-chawl-to-showcase-2000-year-old-warli-art-tradition-this-year",
+      "note": "Contemporary pre-festival reporting; image credit Vijay Gohil; no independent claim about antiquity of Warli art adopted."
+    },
+    {
+      "id": "KN06",
+      "title": "Ganesh Chaturthi 2022: Devotees usher in idols, pray fervently to mark the 11-day festival",
+      "publisher": "The Indian Express",
+      "date": "2022-08-31",
+      "language": "English",
+      "type": "editorial",
+      "url": "https://indianexpress.com/photos/lifestyle-gallery/ganesh-chaturthi-2022-celebrations-devotees-idols-prayers-11-day-festival-ganesh-photos-8109794/",
+      "note": "Frame 20 explicitly names Keshavji Naik Chawl and credits Amit Chakravarty. This is a dated contemporary photo, unlike the republished 1998 story."
+    },
+    {
+      "id": "KN07",
+      "title": "Must see! Ganpati celebrations at Mumbai's oldest pandal",
+      "publisher": "Rediff.com / Anita Aikara; photographs Satish Bodas",
+      "url": "https://m.rediff.com/getahead/report/must-see-ganpati-celebrations-at-mumbais-oldest-pandal/20180919.htm",
+      "language": "English",
+      "type": "contemporary photo essay",
+      "date": "2018-09-19",
+      "note": "A current festival portrait is distinguishable from the explicitly many-decades-old archival lane photograph in the same article. Only the clearly contemporary idol view is added."
+    },
+    {
+      "id": "KN08",
+      "title": "Celebrating history: Mumbai's first sarvajanik Bappa",
+      "publisher": "Rediff.com / Prasanna D Zore; photographs Satish Bodas",
+      "url": "https://www.rediff.com/getahead/report/celebrating-history-mumbais-first-sarvajanik-bappa/20240912.htm",
+      "language": "English",
+      "type": "contemporary photo essay",
+      "date": "2024-09-12",
+      "note": "Current installed-idol and palanquin views, individually inspected; the article's author and photographer are separate."
+    },
+    {
+      "id": "KN09",
+      "title": "Mumbai Ganeshotsav in pics: City's oldest Ganpati, pandal in red-light district, and more",
+      "publisher": "The Indian Express",
+      "url": "https://indianexpress.com/article/cities/mumbai/mumbai-celebrates-ganeshotsav-citys-oldest-ganpati-pandal-red-light-district-8955154/",
+      "language": "English",
+      "type": "captioned report with two-frame photograph animation; later updated",
+      "date": "2023-09-26",
+      "note": "First published26 September 2023, updated7 September 2024. Both frames of the Keshavji GIF viewed. Its caption credits Srishti Kapoor but no per-frame capture date is explicit. Preserved as a source-attributed 2023 report object, with uncertain depicted capture year."
+    },
+    {
+      "id": "KN10",
+      "title": "View of the Keshavji Naik Chawl Ganpati during the Ganesh Chaturthi festival",
+      "publisher": "Getty Images / Hindustan Times",
+      "url": "https://www.gettyimages.ie/detail/news-photo/view-of-the-keshavji-naik-chawl-ganpati-during-the-ganesh-news-photo/2232666692",
+      "language": "English",
+      "type": "agency image reference record and public preview",
+      "date": "2025-09-01",
+      "note": "Editorial caption specifies1 September 2025 in Girgaon, Mumbai. Photographer Bhushan Koyande/Hindustan Times via Getty Images. Only publicly displayed reference preview is retained; no image licence obtained."
+    },
+    {
+      "id": "KN11",
+      "title": "Mumbai's first Ganesh mandal turns125this year!",
+      "publisher": "Mid-day / Anju Maskeri",
+      "url": "https://www.mid-day.com/mumbai/mumbai-news/article/mumbai-s-first-ganesh-mandal-turns-125-this-year-news-18501191",
+      "language": "English",
+      "type": "contemporary craft and anniversary report",
+      "date": "2017-08-13",
+      "note": "Caption identifies Rajendra More at his Girgaum workshop and credits Bipin Kokate. Portrait is craft context, not proof that the visible unfinished sculpture is the final 2017 mandal idol. Article describes the current Ganpatipule setting."
+    },
+    {
+      "id": "KN12",
+      "title": "केशवजी नाईक चाळीतला गणेशोत्सव मर्मबंधातली ठेव",
+      "publisher": "Loksatta / Varsha Mahajan; words Sampada Wagle",
+      "url": "https://www.loksatta.com/vasturang/vastu-lekh/keshavji-naik-chawl-completes-125-years-of-ganesh-festival-1537507/",
+      "language": "Marathi",
+      "type": "resident's retrospective recollection",
+      "date": "2017-08-26",
+      "note": "First-person memories describe household labour, worship and performance, and attribute a 1935 constitution and 2001 re-enactment. Those are recollected milestones, not independently checked minute-book evidence. Its illustration is not dated as a 2017 capture."
+    },
+    {
+      "id": "KN13",
+      "title": "Ganeshotsav: Mumbai mandals revive creative idols and sets though darshan confined online",
+      "publisher": "The Times of India / Bella Jaisinghani",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/ganeshotsav-mumbai-mandals-revive-creative-idols-and-sets-though-darshan-confined-online/amp_articleshow/86076720.cms",
+      "language": "English",
+      "type": "contemporary interview report",
+      "date": "2021-09-09",
+      "note": "Names Keshavji's2.25 ft idol and school support at Chiplun. Statements by the organiser document that year's policy; no image in this article is assigned to the Keshavji 2021 idol."
+    },
+    {
+      "id": "KN14",
+      "title": "Ganesh at Mumbai's Oldest Mandal 2014: Keshavji Naik Chawl",
+      "publisher": "P S Ravinarayan / Flickr",
+      "url": "https://www.flickr.com/photos/72012023%40N07/14970611069",
+      "language": "English",
+      "type": "public uploader-labelled photograph; acquisition lead",
+      "date": "2014-09-06",
+      "note": "Public page states taken/uploaded6 September 2014. Root visually inspected the processed idol photograph in a normal browser: white border and blur/tilt-shift effect, not an untouched documentary master. Original source bytes could not be preserved because the displayed image URL returns403to ordinary download; no display media is added. Uploader's oldest-in-India rhetoric is not adopted."
+    }
+  ],
+  "openQuestions": [
+    {
+      "title": "Founder attribution",
+      "text": "Reconcile the current Tilak-led wording with the municipal account of local founders using the original constitution, minutes and correspondence.",
+      "sourceIds": [
+        "KN01",
+        "KN02"
+      ]
+    },
+    {
+      "title": "Historic idol images",
+      "text": "Acquire dated original photographs and More-family production records; programmes do not establish annual idol appearances.",
+      "sourceIds": [
+        "KN03",
+        "KN04"
+      ]
+    }
+  ],
+  "visit": {
+    "address": "Keshavji Naik Chawl, Khadilkar Road, Girgaon, Mumbai 400004",
+    "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Shree%20Sarvajanik%20Ganeshotsav%20Sanstha%20Keshavji%20Naik%20Chawl%2C%20Khadilkar%20Road%2C%20Girgaon%2C%20Mumbai%20400004",
+    "text": "Institutional address; annual festival arrangements require the relevant year's notice.",
+    "sourceIds": [
+      "KN01"
+    ]
+  },
+  "claims": [
+    {
+      "id": "C01",
+      "text": "The public celebration is traced to 1893.",
+      "status": "institutional retrospective / municipal account",
+      "sourceIds": [
+        "KN01",
+        "KN02"
+      ]
+    },
+    {
+      "id": "C02",
+      "text": "Tilak's 1901 visit forms part of the documented history.",
+      "status": "municipal account",
+      "sourceIds": [
+        "KN02"
+      ]
+    },
+    {
+      "id": "C03",
+      "text": "The institution retains dated programmes and press cuttings.",
+      "status": "institutional archival objects visually checked",
+      "sourceIds": [
+        "KN03"
+      ]
+    },
+    {
+      "id": "C04",
+      "text": "The More family is associated with making the small idol.",
+      "status": "retrospective reporting",
+      "sourceIds": [
+        "KN04"
+      ]
+    },
+    {
+      "id": "C05",
+      "text": "Warli-themed decoration was prepared for 2026.",
+      "status": "contemporary reporting",
+      "sourceIds": [
+        "KN05"
+      ]
+    },
+    {
+      "id": "C06",
+      "text": "The 2017 preparations report identifies Rajendra More at his workshop and describes a Ganpatipule setting for that year.",
+      "status": "contemporary reporting",
+      "sourceIds": [
+        "KN11"
+      ]
+    },
+    {
+      "id": "C07",
+      "text": "A resident's 2017 Marathi recollection dates constitutional approval to 1935 and a Tilak re-enactment to 2001.",
+      "status": "attributed resident recollection; minute-book corroboration pending",
+      "sourceIds": [
+        "KN12"
+      ]
+    },
+    {
+      "id": "C08",
+      "text": "The 2021 report describes an unchanged2.25 ft scale and school support at Chiplun.",
+      "status": "contemporary interview reporting",
+      "sourceIds": [
+        "KN13"
+      ]
+    }
+  ],
+  "researchNotes": {
+    "coverage": "Official history/gallery, BMC heritage account, Rediff retrospective and 2026 contemporary report; five dated media objects inspected. A clearly captioned 2022 Indian Express palanquin photograph supplies the idol hero; archive scans are documents. Phase 2: 6 annual entries supplemented after direct image inspection; source labels and photographic appearance assessed separately.",
+    "gaps": [
+      "No continuous annual idol-photo series: Phase2adds clear 2018/2024 views and an agency-captioned 2025 preview, not an invented eight-year sequence.",
+      "2017 photograph is a maker/workshop portrait; it does not establish the final annual-idol appearance.",
+      "The 2023 animated press sequence has two inspected frames but no explicit per-frame capture year;2023 is the report year and dateStatus remains uncertain.",
+      "Rediff 2016 republishes 1998 material; neither 2016 nor 1998 is assigned automatically to all its photographs. The many-decades-old 2018 lane photo also remains undated.",
+      "Public Flickr 2014 photograph was visually viewed in a browser, with a white border and blur effect, but source bytes were not preserved because ordinary image download returned403. Retained as a lead only.",
+      "The official 1992 Tendulkar photograph referenced in the municipal history currently returns404; the reference does not produce an acquired photo.",
+      "Original 1935 minutes, earlier idol photographs and individual artist chronology beyond reported family continuity are still needed.",
+      "Agency preview and other photographs have no obtained reuse licence; attribution and public availability do not establish permission."
+    ],
+    "nextActions": [
+      "Inventory physical programme pages and confirm original custody.",
+      "Confirm maker lineage and dated idol measurements from primary records."
+    ],
+    "edition": "2026-11-16"
+  }
+}

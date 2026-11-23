@@ -1,0 +1,706 @@
+{
+  "slug": "girgaoncha-raja",
+  "kind": "festival",
+  "researchStage": "expanded",
+  "meta": {
+    "title": "Girgaoncha Raja",
+    "marathi": "गिरगांवचा राजा",
+    "institution": "Nikadwari Lane Sarvajanik Shree Ganeshotsav Mandal",
+    "location": "Nikadwari Lane, Girgaon, Mumbai 400004; office: 9 Khedekar Sadan, opposite Jain Hospital",
+    "neighborhood": "Girgaon",
+    "founded": 1928,
+    "foundedNote": "Official institutional history dates the mandal to 1928.",
+    "intro": "Girgaoncha Raja belongs to the Nikadwari Lane mandal established in 1928, a separate institution from Keshavji Naik Chawl. Its archive centres on large Shadu-clay idols, a recognisable Maharashtrian pheta and a multigenerational sculpting tradition. Contemporary reports connect bamboo, grass and basketry to the making process. This foundation records those material choices and dated idol views while treating height records and environmental claims as year-specific statements by their named sources.",
+    "aliases": [
+      "Girgaon Cha Raja",
+      "Girgaumcha Raja",
+      "Nikatdwari / Nikadwari Lane Ganpati"
+    ],
+    "hero": null,
+    "id": "girgaoncha-raja",
+    "kind": "festival",
+    "researchStage": "expanded",
+    "catalogueMode": "located-records",
+    "updated": "16 November 2026",
+    "edition": "Expanded collection · Research edition · 16 November 2026",
+    "downloads": {
+      "json": "collections/girgaoncha-raja.json"
+    }
+  },
+  "sections": [
+    {
+      "id": "origin",
+      "eyebrow": "Identity",
+      "title": "Nikadwari Lane's own institution",
+      "paragraphs": [
+        {
+          "text": "The mandal's 1928 foundation belongs to Nikadwari Lane, not to the 1893 Keshavji Naik Chawl celebration. Its official retrospective links the organisation to Tilak's public-festival ideals and records continuing social, educational and cultural work. Spelling variants such as Nikatdwari and Girgaum must be searchable without merging separate institutions.",
+          "sourceIds": [
+            "GR01",
+            "GR02"
+          ]
+        },
+        {
+          "text": "The environmental reputation has a traceable public milestone: the Prime Minister's 28 August 2016 Mann Ki Baat transcript names Girgaoncha Raja among groups promoting clay idols. The primary transcript takes precedence over a later report's 2017 date. This is evidence of recognition, not an independent lifecycle assessment of every year's celebration.",
+          "sourceIds": [
+            "GR03"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "making",
+      "eyebrow": "Form and making",
+      "title": "Clay, basketry and the pheta",
+      "paragraphs": [
+        {
+          "text": "The 2024 making account describes clay, bamboo, grass and handwoven baskets, with a turbaned seated idol reported at 21 feet. Contemporary Marathi coverage in 2025 again names Shadu clay, grass and baskets. These details make the armature, material procurement and immersion apparatus as important to preserve as the finished front view.",
+          "sourceIds": [
+            "GR02",
+            "GR05"
+          ]
+        },
+        {
+          "text": "A 2019 report associates the idol with Patkar-family craftsmanship and a large Kolhapuri-style pheta. The 2026 gallery names Rajan Vishnupant Patkar within a four-generation lineage and shows a seated yellow-dhoti form with an elaborate blue-and-gold turban. Changing reported heights should remain attached to their years and measurement conventions.",
+          "sourceIds": [
+            "GR04",
+            "GR06"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "phase2-craft-and-image-series",
+      "eyebrow": "Craft and annual evidence",
+      "title": "Following the pheta and its makers across recorded years",
+      "paragraphs": [
+        {
+          "text": "The 2012 Rediff report connects its pictured clay idol to Nikadvari Lane and names Rajan Patkar as that year's sculptor. This gives a dated maker attribution without assigning one individual to every historical idol. A later Rediff page republishes the same photograph; its publication in 2013 does not create a second captured year.",
+          "sourceIds": [
+            "GR07"
+          ]
+        },
+        {
+          "text": "Mumbai Live's 2019 retrospective supplies four expressly year-labelled views: 2015, 2016, 2018 and 2019. The photographed street and pandal settings provide evidence of physical scenes, while the dates remain the publisher's attributions. The 2014 blog contributes a printed invitation and a feet-worship ceremony scene, which are distinct from a complete installation portrait.",
+          "sourceIds": [
+            "GR04",
+            "GR08"
+          ]
+        },
+        {
+          "text": "A Marathi Pudhari report describes the 2025 pheta's fabric construction and its 27 August unveiling. The claimed recognition belongs to the named World Records Book of India; the archive does not independently certify a worldwide superlative. Bridgestone's own September 2025 campaign statement identifies Rajan Patkar in its Girgaoncha Raja craft film, adding a primary contemporary maker link.",
+          "sourceIds": [
+            "GR09",
+            "GR10"
+          ]
+        }
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "year": 1928,
+      "title": "Mandal founded",
+      "text": "Official institutional foundation year.",
+      "sourceIds": [
+        "GR01"
+      ]
+    },
+    {
+      "year": 2016,
+      "title": "Clay tradition recognised",
+      "text": "Named in the 28 August Mann Ki Baat transcript.",
+      "sourceIds": [
+        "GR03"
+      ]
+    },
+    {
+      "year": 2019,
+      "title": "Pheta and maker documented",
+      "text": "Local report details the turban and Patkar association.",
+      "sourceIds": [
+        "GR04"
+      ]
+    },
+    {
+      "year": 2024,
+      "title": "Material record and certification",
+      "text": "Reported 21-foot clay idol and named record certification.",
+      "sourceIds": [
+        "GR02"
+      ]
+    },
+    {
+      "year": 2025,
+      "title": "Traditional materials continue",
+      "text": "Marathi reporting describes clay, grass and basket construction.",
+      "sourceIds": [
+        "GR05"
+      ]
+    },
+    {
+      "year": 2026,
+      "title": "99 th festival first look",
+      "text": "Contemporary gallery documents the new annual idol.",
+      "sourceIds": [
+        "GR06"
+      ]
+    },
+    {
+      "year": 2012,
+      "title": "Dated sculptor attribution",
+      "text": "Contemporary reporting names Rajan Patkar and pictures the installed idol.",
+      "sourceIds": [
+        "GR07"
+      ]
+    },
+    {
+      "year": 2014,
+      "title": "Padyapujan record",
+      "text": "A year-labelled invitation and ceremony scene survive in a mandal-named blog.",
+      "sourceIds": [
+        "GR08"
+      ]
+    },
+    {
+      "year": 2025,
+      "title": "Pheta craft in Marathi reporting",
+      "text": "A report describes the large fabric pheta unveiled on 27 August; record-book claims remain attributed.",
+      "sourceIds": [
+        "GR09"
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": 2012,
+      "title": "Annual festival gallery",
+      "summary": "A specifically captioned idol photograph and a year-specific sculptor attribution.",
+      "artist": "Rajan Patkar (named in the contemporary report)",
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "GR07"
+      ],
+      "media": [
+        {
+          "id": "2012-phase2-idol",
+          "originalUrl": "https://m.rediff.com/news/slide-show/slide-show-1-richest-biggest-and-famous-ganpati-of-mumbai/20120926.htm",
+          "kind": "photograph",
+          "label": "Contemporary press photograph",
+          "caption": "Girgaoncha Raja during the 2012 festival; the source names Rajan Patkar as that year's sculptor.",
+          "credit": "Uttam Ghosh / Rediff.com.",
+          "dateEvidence": "The 26 September 2012 report names this frame Girgaoncha Raja and describes this year's idol and its sculptor. The identical 2012 image reused in a 2013 page is excluded as a new 2013 capture.",
+          "dateStatus": "contemporary",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "GR07"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Four-armed seated Ganesh in green dhoti, red fanned Maharashtrian pheta and garlands; a woman, the physical red-gold pandal and a Marathi sculptor sign are visible.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "title": "Padyapujan invitation and ceremony context",
+      "summary": "A dated programme object and a related ritual scene; neither is counted as a complete annual-idol photograph.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "GR08"
+      ],
+      "media": [
+        {
+          "id": "2014-padyapujan-0",
+          "originalUrl": "https://girgaoncha-raja.blogspot.com/2014/08/girgaoncha-raja-padyapujan-sohla-2014.html",
+          "kind": "document",
+          "label": "Year-labelled ceremony document",
+          "caption": "Invitation for the institution's 2014 Padyapujan ceremony; the incorporated idol picture has no established capture year.",
+          "credit": "Girgaoncha Raja blog; original photographer/designer uncredited.",
+          "dateEvidence": "The individual post title and adjacent event caption explicitly identify Padyapujan Sohla 2014. The invitation also prints 2014. The source appears to repost social images; original camera metadata is unavailable, and the invitation's incorporated idol picture is not assigned a capture year.",
+          "dateStatus": "source-attributed",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "GR08"
+          ],
+          "yearConfidence": "source_labelled",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "A printed Marathi invitation combines a pictured seated Ganesh in a red pheta with institutional heading and 2014 event text. It is a designed printed/digital object, not a view of the 2014 installation.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        },
+        {
+          "id": "2014-padyapujan-1",
+          "originalUrl": "https://girgaoncha-raja.blogspot.com/2014/08/girgaoncha-raja-padyapujan-sohla-2014.html",
+          "kind": "photograph",
+          "label": "Source-labelled ritual photograph",
+          "caption": "Padyapujan ceremony context from the source-labelled 2014 post; sculpted feet, ritual objects and participants, rather than the complete installed idol.",
+          "credit": "Girgaoncha Raja blog; original photographer/designer uncredited.",
+          "dateEvidence": "The individual post title and adjacent event caption explicitly identify Padyapujan Sohla 2014. The invitation also prints 2014. The source appears to repost social images; original camera metadata is unavailable, and the invitation's incorporated idol picture is not assigned a capture year.",
+          "dateStatus": "source-attributed",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "GR08"
+          ],
+          "yearConfidence": "source_labelled",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "A priest in white cap and red dhoti performs a ritual over large sculpted Ganesh feet on a flower-covered table; a framed devotional image and pink cloth backdrop are visible. The complete annual idol is not shown.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "title": "Year-labelled retrospective idol view",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "GR04"
+      ],
+      "media": [
+        {
+          "id": "2015-phase2-idol",
+          "originalUrl": "https://www.mumbailive.com/en/festivals/ganesh-utsav-2019-ganpati-girgaoncha-raja-celebrates-91-years-39133",
+          "kind": "photograph",
+          "label": "Year-labelled retrospective photograph",
+          "caption": "The 2015 Girgaoncha Raja view as labelled in Mumbai Live's retrospective.",
+          "credit": "Mumbai Live retrospective; individual photographer uncredited. ",
+          "dateEvidence": "Mumbai Live's 31 August 2019 retrospective explicitly labels its sequential sections 2015, 2016, 2018 and 2019; this frame is beneath the 2015 label. This is publisher retrospective attribution, not an independently authenticated capture date.",
+          "dateStatus": "source-attributed",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "GR04"
+          ],
+          "yearConfidence": "source_labelled",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Seated Ganesh with a large red-and-gold fanned pheta, red-orange lower drapery and garlands, surrounded by buildings and a crowd in a narrow physical street.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "title": "Year-labelled retrospective idol view",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "GR04"
+      ],
+      "media": [
+        {
+          "id": "2016-phase2-idol",
+          "originalUrl": "https://www.mumbailive.com/en/festivals/ganesh-utsav-2019-ganpati-girgaoncha-raja-celebrates-91-years-39133",
+          "kind": "photograph",
+          "label": "Year-labelled retrospective photograph",
+          "caption": "The 2016 Girgaoncha Raja view as labelled in Mumbai Live's retrospective.",
+          "credit": "Mumbai Live retrospective; individual photographer uncredited. ",
+          "dateEvidence": "Mumbai Live's 31 August 2019 retrospective explicitly labels its sequential sections 2015, 2016, 2018 and 2019; this frame is beneath the 2016 label. This is publisher retrospective attribution, not an independently authenticated capture date.",
+          "dateStatus": "source-attributed",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "GR04"
+          ],
+          "yearConfidence": "source_labelled",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Four-armed seated Ganesh in pale yellow/silver-gold drapery, red fanned pheta and garlands; blue-purple lighting, a real ceiling and stage are visible.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "title": "Year-labelled retrospective idol view",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "GR04"
+      ],
+      "media": [
+        {
+          "id": "2018-phase2-idol",
+          "originalUrl": "https://www.mumbailive.com/en/festivals/ganesh-utsav-2019-ganpati-girgaoncha-raja-celebrates-91-years-39133",
+          "kind": "photograph",
+          "label": "Year-labelled retrospective photograph",
+          "caption": "The 2018 Girgaoncha Raja view as labelled in Mumbai Live's retrospective.",
+          "credit": "Mumbai Live retrospective; individual photographer uncredited. Visible @girgaoncharaja watermark retained.",
+          "dateEvidence": "Mumbai Live's 31 August 2019 retrospective explicitly labels its sequential sections 2015, 2016, 2018 and 2019; this frame is beneath the 2018 label. This is publisher retrospective attribution, not an independently authenticated capture date.",
+          "dateStatus": "source-attributed",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "GR04"
+          ],
+          "yearConfidence": "source_labelled",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Four-armed seated Ganesh in white lower drapery, with an elaborate red-blue-gold fanned pheta and garlands; the patterned back wall, stage offerings and @girgaoncharaja watermark are visible.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "title": "Year-labelled retrospective idol view",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "GR04"
+      ],
+      "media": [
+        {
+          "id": "2019-phase2-idol",
+          "originalUrl": "https://www.mumbailive.com/en/festivals/ganesh-utsav-2019-ganpati-girgaoncha-raja-celebrates-91-years-39133",
+          "kind": "photograph",
+          "label": "Year-labelled retrospective photograph",
+          "caption": "The 2019 Girgaoncha Raja view as labelled in Mumbai Live's retrospective.",
+          "credit": "Mumbai Live retrospective; individual photographer uncredited. ",
+          "dateEvidence": "Mumbai Live's 31 August 2019 retrospective explicitly labels its sequential sections 2015, 2016, 2018 and 2019; this frame is beneath the 2019 label. This is publisher retrospective attribution, not an independently authenticated capture date.",
+          "dateStatus": "source-attributed",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "GR04"
+          ],
+          "yearConfidence": "source_labelled",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "A close street-procession view of Ganesh's pink face, red fanned pheta and garlands, with adjacent buildings and people; the cropped body does not show every attribute.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "title": "Clay construction documented",
+      "summary": "A contemporary material account accompanies the idol photograph.",
+      "artist": null,
+      "theme": "Seated turbaned Ganesh",
+      "notes": [],
+      "sourceIds": [
+        "GR02"
+      ],
+      "media": [
+        {
+          "id": "2024-fpj-idol",
+          "originalUrl": "https://www.freepressjournal.in/mumbai/eco-ganesh-21-ft-tall-girgaon-cha-raja-certified-as-tallest-shaadu-mati-idol-by-world-records-book-of-india",
+          "kind": "photograph",
+          "label": "Contemporary press photograph",
+          "caption": "Turbaned Girgaoncha Raja inside the pandal, with devotees visible below.",
+          "credit": "Manoj Ramakrishnan / Free Press Journal",
+          "dateEvidence": "Published 16 September 2024 in a report explicitly about the 2024 idol.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "GR02"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Seated four-armed idol wearing an elaborate pheta, garlands and orange-red lower cloth; physical ceiling, throne and people visible.",
+            "alignsWithSource": true,
+            "note": "Image has blurred side-fill formatting; central image is a physical scene, not a reconstructed historic view."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "title": "Pheta craftsmanship and sculptor film",
+      "summary": "A contemporary Marathi report documents a large pheta; a separate primary campaign statement credits Rajan Patkar.",
+      "artist": "Rajan Patkar (identified by the maker of the 2025 film)",
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "GR09",
+        "GR10"
+      ],
+      "media": [
+        {
+          "id": "2025-phase2-pheta-news-graphic",
+          "originalUrl": "https://pudhari.news/maharashtra/kokan/sindhudurg/girgaoncha-raja-ganpati-turban-world-record-india-ng81",
+          "kind": "treated",
+          "label": "Contemporary news graphic with photograph",
+          "caption": "Pudhari's 2025 report of the mandal's large Maharashtrian pheta; a photographic ceremony scene within a news graphic.",
+          "credit": "Pudhari News / Pudhari Photo; individual photographer uncredited. Article by Ajay Gadekar.",
+          "dateEvidence": "The 29 August 2025 Marathi report explicitly names Nikadwari Lane mandal, the 2025 festival and a 27 August unveiling. Its photograph is incorporated into a designed news graphic; no original camera file or capture day is established.",
+          "dateStatus": "contemporary",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "GR09"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "A designed news graphic places a photograph of Ganesh in an elaborate multicoloured fanned pheta and people holding a certificate beside Marathi headline text and publisher branding.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "title": "99 th Ganeshotsav",
+      "summary": "First-look gallery documents the annual idol.",
+      "artist": "Rajan Vishnupant Patkar (reported)",
+      "theme": "Seated turbaned Ganesh",
+      "notes": [],
+      "sourceIds": [
+        "GR06"
+      ],
+      "media": [
+        {
+          "id": "2026-mandal-first-look",
+          "originalUrl": "https://www.mid-day.com/mumbai/mumbai-news/photo/in-photos-girgaoncha-raja-2026-first-look-24-foot-clay-ganpati-marks-99-years-of-faith-tradition-and-culture-113003",
+          "kind": "photograph",
+          "label": "Mandal-supplied first-look photograph",
+          "caption": "The 2026 seated idol with yellow dhoti and a prominent blue-and-gold pheta.",
+          "credit": "Nikadwari Lane Sarvajanik Shree Ganeshotsav Mandal, via Mid-day; individual photographer uncredited.",
+          "dateEvidence": "Gallery published 11 September 2026 identifies unveiling on 10 September 2026.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "GR06"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Four-armed seated idol, yellow dhoti, blue-and-gold turban, ornate dark throne; red physical pandal fabric and offerings visible.",
+            "alignsWithSource": true,
+            "note": "Matches the source's 2026 first-look attribution; independent capture metadata unavailable."
+          }
+        }
+      ]
+    }
+  ],
+  "undatedMedia": [],
+  "sources": [
+    {
+      "id": "GR01",
+      "title": "About Us",
+      "publisher": "Nikadwari Lane Sarvajanik Ganeshotsav Mandal",
+      "date": null,
+      "language": "English",
+      "type": "institutional",
+      "url": "https://girgaoncharaja.com/about",
+      "note": "Establishment, identity and office; website mixes changing anniversary counters."
+    },
+    {
+      "id": "GR02",
+      "title": "Eco-Ganesh: Girgaon Cha Raja certified as tallest Shaadu Mati idol",
+      "publisher": "Free Press Journal",
+      "date": "2024-09-16",
+      "language": "English",
+      "type": "editorial",
+      "url": "https://www.freepressjournal.in/mumbai/eco-ganesh-21-ft-tall-girgaon-cha-raja-certified-as-tallest-shaadu-mati-idol-by-world-records-book-of-india",
+      "note": "Material/making interview and photograph credited to Manoj Ramakrishnan. Record claim attributed to the named record body."
+    },
+    {
+      "id": "GR03",
+      "title": "PM's Mann Ki Baat programme, 28 August 2016",
+      "publisher": "Prime Minister's Office",
+      "date": "2016-08-28",
+      "language": "English",
+      "type": "government transcript",
+      "url": "https://www.pmindia.gov.in/en/news_updates/pms-mann-ki-baat-programme-on-all-india-radio-on-august-28-2016/",
+      "note": "Primary transcript fixes recognition to 2016; some later press articles say 2017."
+    },
+    {
+      "id": "GR04",
+      "title": "Girgaoncha Raja celebrates 91 years",
+      "publisher": "Mumbai Live",
+      "date": null,
+      "language": "English",
+      "type": "editorial",
+      "url": "https://www.mumbailive.com/en/festivals/ganesh-utsav-2019-ganpati-girgaoncha-raja-celebrates-91-years-39133",
+      "note": "2019-labelled report with year-labelled image sequence; sculptor spelling differs from later sources."
+    },
+    {
+      "id": "GR05",
+      "title": "गणेशोत्सवाला पर्यावरण रक्षणाची जोड",
+      "publisher": "Loksatta",
+      "date": null,
+      "language": "Marathi",
+      "type": "editorial",
+      "url": "https://www.loksatta.com/mumbai/ganeshotsav-mandals-in-mumbai-celebrate-ganeshotsav-with-the-aim-of-protecting-environment-mumbai-print-news-zws-70-5334087/",
+      "note": "2025 reporting names Rajan Patkar and clay/grass/basket materials; exact publication date should be rechecked if independently extracted."
+    },
+    {
+      "id": "GR06",
+      "title": "Girgaoncha Raja 2026 first look",
+      "publisher": "Mid-day",
+      "date": "2026-09-11",
+      "language": "English",
+      "type": "editorial",
+      "url": "https://www.mid-day.com/mumbai/mumbai-news/photo/in-photos-girgaoncha-raja-2026-first-look-24-foot-clay-ganpati-marks-99-years-of-faith-tradition-and-culture-113003",
+      "note": "Contemporary gallery; images supplied by Nikadwari Lane mandal, not photographer Divya Nair."
+    },
+    {
+      "id": "GR07",
+      "title": "PIX: The richest, biggest and famous Ganpatis of Mumbai",
+      "publisher": "Rediff.com",
+      "url": "https://m.rediff.com/news/slide-show/slide-show-1-richest-biggest-and-famous-ganpati-of-mumbai/20120926.htm",
+      "language": "English",
+      "type": "contemporary captioned photo report",
+      "date": "2012-09-26",
+      "note": "Girgaon section explicitly names Nikadvari Lane and Rajan Patkar for the 2012 idol. The later 2013 article reuses this same image URL and is not a distinct photographic year."
+    },
+    {
+      "id": "GR08",
+      "title": "Girgaoncha Raja Padyapujan Sohla 2014",
+      "publisher": "Girgaoncha Raja blog; author displayed as Unknown",
+      "url": "https://girgaoncha-raja.blogspot.com/2014/08/girgaoncha-raja-padyapujan-sohla-2014.html",
+      "language": "Marathi / English",
+      "type": "year-labelled ceremony post and invitation reproduction",
+      "date": "2014-08",
+      "note": "The invitation explicitly prints Nikadwari Lane institution and 2014. Adjacent ceremony image is under the same named event; original photographer and original social upload are unverified. The idol illustration on the invitation is not dated camera evidence."
+    },
+    {
+      "id": "GR09",
+      "title": "Girgaoncha Raja: pheta recognised by World Records Book of India",
+      "publisher": "Pudhari / Ajay Gadekar",
+      "url": "https://pudhari.news/maharashtra/kokan/sindhudurg/girgaoncha-raja-ganpati-turban-world-record-india-ng81",
+      "language": "Marathi",
+      "type": "contemporary regional craft report",
+      "date": "2025-08-29",
+      "note": "Names Nikadwari Lane mandal and the 27 August 2025 unveiling. Its world-record claim is attributed to the named record organisation, not independently verified. Lead image is a designed news graphic combining a ceremony photograph and text."
+    },
+    {
+      "id": "GR10",
+      "title": "Bridgestone India Ganesh Chaturthi video recognizes the craftsmanship of renowned idol maker Rajan Patkar",
+      "publisher": "Bridgestone India",
+      "url": "https://press.bridgestone-emea.com/en-in/bridgestone-india-ganesh-chaturthi-video-recognizes-the-craftsmanship-of-renowned-idol-maker-rajan-patkar/",
+      "language": "English",
+      "type": "primary campaign-maker statement",
+      "date": "2025-09-02",
+      "note": "Identifies the sculptor featured in its 2025 Girgaoncha Raja film. Corporate publicity is useful for attribution, not independent environmental certification."
+    }
+  ],
+  "openQuestions": [
+    {
+      "title": "Maker spellings and lineage",
+      "text": "Reconcile the 2019 Rajender spelling with Rajan Vishnupant Patkar in 2026 using workshop and mandal records.",
+      "sourceIds": [
+        "GR04",
+        "GR06"
+      ]
+    },
+    {
+      "title": "Dimensions",
+      "text": "Distinguish idol height, support/plinth and turban measurements; contemporary reports range from 21 to 24 feet.",
+      "sourceIds": [
+        "GR02",
+        "GR06"
+      ]
+    }
+  ],
+  "visit": {
+    "address": "Nikadwari Lane, Girgaon, Mumbai 400004; office: 9 Khedekar Sadan, opposite Jain Hospital",
+    "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Nikadwari%20Lane%20Sarvajanik%20Shree%20Ganeshotsav%20Mandal%20Nikadwari%20Lane%2C%20Girgaon%2C%20Mumbai400004%3B%20office%3A9%20Khedekar%20Sadan%2C%20opposite%20Jain%20Hospital",
+    "text": "Institutional address; annual festival arrangements require the relevant year's notice.",
+    "sourceIds": [
+      "GR01"
+    ]
+  },
+  "claims": [
+    {
+      "id": "C01",
+      "text": "This is the Nikadwari Lane institution founded in 1928.",
+      "status": "institutional retrospective",
+      "sourceIds": [
+        "GR01"
+      ]
+    },
+    {
+      "id": "C02",
+      "text": "The primary Mann Ki Baat recognition date is 28 August 2016.",
+      "status": "government transcript",
+      "sourceIds": [
+        "GR03"
+      ]
+    },
+    {
+      "id": "C03",
+      "text": "Clay, bamboo, grass and baskets are documented making materials.",
+      "status": "contemporary reporting",
+      "sourceIds": [
+        "GR02",
+        "GR05"
+      ]
+    },
+    {
+      "id": "C04",
+      "text": "The 2024 height and record certification are year-specific reported claims.",
+      "status": "attributed record claim",
+      "sourceIds": [
+        "GR02"
+      ]
+    },
+    {
+      "id": "C05",
+      "text": "The 2026 source names the Patkar lineage and current sculptor.",
+      "status": "contemporary mandal-supplied reporting",
+      "sourceIds": [
+        "GR06"
+      ]
+    },
+    {
+      "id": "C06",
+      "text": "The 2012 report specifically names Rajan Patkar for that year's Girgaoncha Raja idol.",
+      "status": "contemporary reporting",
+      "sourceIds": [
+        "GR07"
+      ]
+    },
+    {
+      "id": "C07",
+      "text": "The 2025 corporate film-maker statement identifies Rajan Patkar with Girgaoncha Raja.",
+      "status": "primary campaign statement; limited to its subject",
+      "sourceIds": [
+        "GR10"
+      ]
+    }
+  ],
+  "researchNotes": {
+    "coverage": "Institutional record, primary 2016 government transcript, Marathi materials reporting and two inspected dated press images. Phase 2: 7 annual entries supplemented after direct image inspection; source labels and photographic appearance assessed separately.",
+    "gaps": [
+      "No continuous annual photographic sequence; most years before 2012 and pandemic-year installations remain unfilled.",
+      "2015/2016/2018/2019 years are explicit retrospective publisher labels, not authenticated camera dates.",
+      "2014 materials document a ceremony and an invitation; the invitation's incorporated idol picture has no established capture year.",
+      "Indian Express 2022 and 2023 Girgaon-captioned candidates are withheld: their depicted forms differ from corroborated examples and exact institution/year identity needs further checking. A changing form alone does not prove the captions false.",
+      "Original sculptor contracts, festival souvenirs and individual photo credits are still needed; 2025 record-book recognition has not been independently certified.",
+      "Unknown reuse rights for photographs and designed objects."
+    ],
+    "nextActions": [
+      "Confirm sculptor-family chronology and individual photo credits.",
+      "Preserve dated making and immersion sequences, not just first-look portraits."
+    ],
+    "edition": "2026-11-16"
+  }
+}

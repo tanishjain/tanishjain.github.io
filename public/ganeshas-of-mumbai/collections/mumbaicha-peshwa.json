@@ -1,0 +1,597 @@
+{
+  "slug": "mumbaicha-peshwa",
+  "kind": "festival",
+  "researchStage": "expanded",
+  "meta": {
+    "title": "Mumbaicha Peshwa",
+    "marathi": "मुंबईचा पेशवा - बाळ गोपाळ मित्र मंडळ",
+    "institution": "Bal Gopal Mitra Mandal",
+    "location": "Shraddhanand Road, Vile Parle East",
+    "neighborhood": "Vile Parle East",
+    "founded": 1989,
+    "foundedNote": "1989 is stated by the mandal and corroborated by contemporary PTI and Marathi reporting. The names Vile Parlecha Peshwa and Mumbaicha Peshwa are later identities, not separate founding dates.",
+    "intro": "Mumbaicha Peshwa is Bal Gopal Mitra Mandal's public Ganesh festival in Vile Parle East. The mandal began in 1989 and describes an origin among schoolchildren assisted by older residents. Its later history centres on large paper-based Ganesh forms, with materials and supporting figures changing between years. Social themes appear in the surrounding scenery and performances. Contemporary Marathi and English reports document particular commissions, helping separate the festival's general reputation from the actual form and materials reported for each year.",
+    "hero": null,
+    "updated": "16 November 2026",
+    "edition": "Research edition - 16 November 2026",
+    "id": "mumbaicha-peshwa",
+    "kind": "festival",
+    "researchStage": "expanded",
+    "catalogueMode": "located-records",
+    "downloads": {
+      "json": "collections/mumbaicha-peshwa.json"
+    }
+  },
+  "sections": [
+    {
+      "id": "origins",
+      "eyebrow": "Vile Parle East",
+      "title": "Children, neighbours and a changing name",
+      "paragraphs": [
+        {
+          "text": "The mandal's Marathi history dates its establishment to 1989 and recalls schoolchildren pooling pocket money, with older residents, to buy and install an idol. It says volunteers adopted the name Vile Parlecha Peshwa in 2001 and Mumbaicha Peshwa in 2016. These are stages in one organisation's identity. The founding year is also reported by PTI in 2024 and Loksatta in 2025.",
+          "sourceIds": [
+            "pesh-official",
+            "pesh-pti",
+            "pesh-loksatta"
+          ]
+        },
+        {
+          "text": "The same institutional account describes moving-picture presentations and social work, including blood donation, educational assistance and help for vulnerable households. These statements provide a community perspective, while the dates and outcomes of individual initiatives still need original records. The homepage's narrative refers to 2022; its anniversary language should not be mistaken for a current annual count.",
+          "sourceIds": [
+            "pesh-official"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "eyebrow": "Paper and structure",
+      "title": "A material experiment with annual variations",
+      "paragraphs": [
+        {
+          "text": "The mandal places its tissue-paper idol practice from 2008, a date also reported in Marathi coverage. In the 2024 PTI report, committee member Sunil Mayekar described a 23-foot figure made with used temple flowers and tissue paper. The report names Digambar Mayekar and Rajesh Digambar Mayekar as sculptors and describes four mice supporting Ganesh's palanquin. Material and size claims remain specific to that reported commission.",
+          "sourceIds": [
+            "pesh-official",
+            "pesh-loksatta",
+            "pesh-pti"
+          ]
+        },
+        {
+          "text": "Ashutosh M Shukla's 2023 report records a 22-foot paper-and-coconut-husk idol and a “My garbage my responsibility” theme. A garbage demon and a globe divided between ocean and waste extended the message into the visitor's route. Vijay Gohil's accompanying photograph shows the actual Ganesh, named mandal banner and physical tableaux, rather than an isolated digital portrayal.",
+          "sourceIds": [
+            "pesh-fpj"
+          ]
+        },
+        {
+          "text": "Abhishek Teli's 2025 Marathi report names Digambar and Rajesh Mayekar for a 24-foot tissue-paper-and-rice-husk Ganesh. It describes Vasudhaiva Kutumbakam as the central concept and says young volunteers wrote the Marathi script for a presentation about family conflict and mobile-phone overuse. These details connect sculpture, stage setting and performance for one documented festival year.",
+          "sourceIds": [
+            "pesh-loksatta"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "changing-forms",
+      "eyebrow": "Year-specific evidence",
+      "title": "Different supports and a reuse process",
+      "paragraphs": [
+        {
+          "text": "The newly located press photographs extend the visible sequence back into the previous decade. They show an elephant-supported composition in 2015 and a horse-mounted form in 2016. A 2022 image adds a winged central support and two tigers. A contemporary Times of India report describes the 2022 ingredients as tissue paper and banana fibres with chalk powder and binding glue. These are individual commissions, not a single repeated design.",
+          "sourceIds": [
+            "pesh-ht2015",
+            "pesh-ht2016",
+            "pesh-ht2022",
+            "pesh-toi2022"
+          ]
+        },
+        {
+          "text": "Pratiksha Sawant's 2026 Marathi report attributes the new 25-foot composition to Digambar and Rajesh Mayekar and describes music, knowledge and spiritual practice as its concept. It reports that pulp recovered after the previous year's immersion was combined with tissue paper, and that the mandal uses an artificial tank to collect material for another year. Those are reported workshop and immersion practices; no independent lifecycle study was found.",
+          "sourceIds": [
+            "pesh-loksatta2026"
+          ]
+        }
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "year": 1989,
+      "title": "Mandal established",
+      "text": "Founding year stated by the mandal and contemporary reporting.",
+      "sourceIds": [
+        "pesh-official",
+        "pesh-pti",
+        "pesh-loksatta"
+      ]
+    },
+    {
+      "year": 2001,
+      "title": "Vile Parlecha Peshwa name",
+      "text": "Name adoption recalled in the institutional history.",
+      "sourceIds": [
+        "pesh-official"
+      ]
+    },
+    {
+      "year": 2008,
+      "title": "Paper-based practice begins",
+      "text": "Start date reported for the mandal's paper-idol practice.",
+      "sourceIds": [
+        "pesh-official",
+        "pesh-loksatta"
+      ]
+    },
+    {
+      "year": 2016,
+      "title": "Mumbaicha Peshwa identity",
+      "text": "Institutional history records the newer name.",
+      "sourceIds": [
+        "pesh-official"
+      ]
+    },
+    {
+      "year": 2026,
+      "title": "Reported reuse of the previous year's pulp",
+      "text": "Loksatta describes recovered paper pulp being used in the new annual commission.",
+      "sourceIds": [
+        "pesh-loksatta2026"
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": 2015,
+      "title": "Ganesh above an elephant",
+      "summary": "A contemporary press photograph records this festival form.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "See photograph ledger for source, date and rights.",
+          "sourceIds": [
+            "pesh-ht2015"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "pesh-ht2015"
+      ],
+      "media": [
+        {
+          "id": "peshwa-2015-elephant-ht",
+          "originalUrl": "https://www.hindustantimes.com/mumbai/rolling-out-ganesh-idol-made-of-30k-tissue-papers-in-mumbai/story-kX0nsg2CjOfoTXWmC2EabM.html",
+          "kind": "photograph",
+          "label": "Ganesh above an elephant - 2015",
+          "caption": "Ganesh above a decorated elephant, with a group posing below.",
+          "credit": "Hindustan Times; individual photographer unspecified.",
+          "dateStatus": "contemporary",
+          "yearConfidence": "Contemporary event and image caption; exact camera capture day not supplied.",
+          "dateEvidence": "Published 2015-09-14 in the identified festival-year report; the image is attached to the Peshwa/Vile Parle subject. Capture year follows contemporary editorial attribution, not the upload folder or filename.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "pesh-ht2015"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Four-armed crowned Ganesh in red trousers, seated with one knee raised on a dark throne above a large blue-grey elephant head with gold forehead ornament. A group of adults and young people poses on the platform against blue walls.",
+            "alignsWithSource": true,
+            "note": "Original public image file actually viewed at its natural dimensions. The physical form matches the caption; the photograph alone does not establish its year."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "title": "Horse-mounted Ganesh",
+      "summary": "A contemporary press photograph records this festival form.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "See photograph ledger for source, date and rights.",
+          "sourceIds": [
+            "pesh-ht2016"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "pesh-ht2016"
+      ],
+      "media": [
+        {
+          "id": "peshwa-2016-horse-ht",
+          "originalUrl": "https://www.hindustantimes.com/mumbai-news/three-make-11-eco-friendly-ganesh-idols-using-3-55l-tissue-papers/story-VlFpksgNV0fWTqRE9Gzp3N.html",
+          "kind": "photograph",
+          "label": "Horse-mounted Ganesh - 2016",
+          "caption": "Ganesh mounted above a rearing white horse.",
+          "credit": "HT Photo; individual photographer unspecified.",
+          "dateStatus": "contemporary",
+          "yearConfidence": "Contemporary event and image caption; exact camera capture day not supplied.",
+          "dateEvidence": "Published 2016-09-10 in the identified festival-year report; the image is attached to the Peshwa/Vile Parle subject. Capture year follows contemporary editorial attribution, not the upload folder or filename.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "pesh-ht2016"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Four-armed Ganesh with radiating gold headpiece and purple-red lower garment above a rearing white horse. Blue-purple light falls across the horse; covered indoor set and a small worship area visible below.",
+            "alignsWithSource": true,
+            "note": "Original public image file actually viewed at its natural dimensions. The physical form matches the caption; the photograph alone does not establish its year."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "title": "Ganesh, a winged support and two tigers",
+      "summary": "A contemporary report describes a 21-foot commission using tissue paper and banana fibres, with chalk powder and glue. The press photograph records its physical support figures.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "The ingredients and height are reported claims; no independent material test or measurement is supplied.",
+          "sourceIds": [
+            "pesh-toi2022"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "pesh-ht2022",
+        "pesh-toi2022"
+      ],
+      "media": [
+        {
+          "id": "peshwa-2022-bate",
+          "originalUrl": "https://www.hindustantimes.com/cities/mumbai-news/vile-parle-to-have-the-tallest-eco-friendly-idol-in-mumbai-101661540773262.html",
+          "kind": "photograph",
+          "label": "Ganesh, a winged support and two tigers - 2022",
+          "caption": "Ganesh above a gold winged figure, flanked by two tigers.",
+          "credit": "Vijay Bate / Hindustan Times.",
+          "dateStatus": "contemporary",
+          "yearConfidence": "Contemporary event and image caption; exact camera capture day not supplied.",
+          "dateEvidence": "Published 2022-08-27 in the identified festival-year report; the image is attached to the Peshwa/Vile Parle subject. Capture year follows contemporary editorial attribution, not the upload folder or filename.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "pesh-ht2022"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Four-armed crowned Ganesh elevated over a gold winged human-bird form, with a white tiger at image left and orange tiger at right. Physical set has blue walls, ladders, work platforms and a person beside the figures.",
+            "alignsWithSource": true,
+            "note": "Original public image file actually viewed at its natural dimensions. The physical form matches the caption; the photograph alone does not establish its year."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "title": "My garbage, my responsibility",
+      "summary": "A reported paper-and-coconut-husk Ganesh within a waste-awareness setting.",
+      "artist": null,
+      "theme": "My garbage my responsibility",
+      "notes": [
+        {
+          "text": "The newspaper reports 22 feet; no measurement record or individual sculptor attribution was found for this year.",
+          "sourceIds": [
+            "pesh-fpj"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "pesh-fpj"
+      ],
+      "media": [
+        {
+          "id": "peshwa-2023-gohil",
+          "originalUrl": "https://www.freepressjournal.in/mumbai/ganesh-utsav-2023-in-mumbai-a-blend-of-tradition-creativity-and-social-messages-this-festive-season-see-pics",
+          "kind": "photograph",
+          "label": "Ganesh and the waste-awareness setting - 2023",
+          "caption": "Turquoise-clad Ganesh beneath a Mumbaicha Peshwa banner, with waste-awareness tableaux and a smaller worship idol.",
+          "credit": "Vijay Gohil / Free Press Journal.",
+          "dateEvidence": "Contemporary 24 September 2023 festival report; image appears directly under the Vile Parlecha Peshwa section and is credited Vijay Gohil.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "pesh-fpj"
+          ],
+          "yearConfidence": "contemporary festival-year reporting",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Large four-armed crowned Ganesh seated on an ornate dark-and-gold throne, one leg bent and the other descending; turquoise garments and saffron stole; smaller worship idol at lower left, mouse, cow and elephant figures, human tableaux and Marathi waste-responsibility banner.",
+            "alignsWithSource": true,
+            "note": "Published photo opened and inspected. The banner names Bal Gopal Mitra Mandal and Mumbaicha Peshwa and matches the source's waste theme. Year follows contemporary reporting."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "title": "Flowers, paper and a palanquin",
+      "summary": "PTI reports a 23-foot Ganesh carried on a palanquin supported by four mice.",
+      "artist": "Digambar Mayekar and Rajesh Digambar Mayekar (reported)",
+      "theme": "Cybercrime awareness",
+      "notes": [
+        {
+          "text": "PTI describes reused temple flowers and tissue paper, with a play addressing online fraud. No inspected photograph is attached to this record.",
+          "sourceIds": [
+            "pesh-pti"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "pesh-pti"
+      ],
+      "media": []
+    },
+    {
+      "year": 2025,
+      "title": "Vasudhaiva Kutumbakam",
+      "summary": "A reported tissue-paper-and-rice-husk commission, with a Marathi social presentation.",
+      "artist": "Digambar and Rajesh Mayekar (reported)",
+      "theme": "Vasudhaiva Kutumbakam",
+      "notes": [
+        {
+          "text": "Loksatta reports 24 feet. The newspaper caption identifies the specific Peshwa photograph, not its lead composite image of other mandals.",
+          "sourceIds": [
+            "pesh-loksatta"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "pesh-loksatta"
+      ],
+      "media": [
+        {
+          "id": "peshwa-2025-loksatta",
+          "originalUrl": "https://www.loksatta.com/mumbai/ganeshotsav-mandals-in-mumbai-celebrate-ganeshotsav-with-the-aim-of-protecting-environment-mumbai-print-news-zws-70-5334087/",
+          "kind": "photograph",
+          "label": "Mumbaicha Peshwa - 2025",
+          "caption": "Ganesh in purple and turquoise with smaller deity figures, a cow-headed figure and lion in the surrounding composition.",
+          "credit": "Loksatta; individual photographer not named in accessible caption.",
+          "dateEvidence": "27 August 2025 report explicitly captions this image as Mumbaicha Peshwa's current-year commission.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "pesh-loksatta"
+          ],
+          "yearConfidence": "contemporary festival-year article and specific image caption",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Tall front-facing crowned Ganesh with long trunk, raised blessing hand, dark purple garments and turquoise drapery, circular gold support behind; smaller deity figures above, white cow-headed figure at left and lion figure below right; planetary painted backdrop.",
+            "alignsWithSource": true,
+            "note": "Published photo opened and inspected. Form and captioned Peshwa composition align; year follows Loksatta's contemporary 2025 article, not appearance alone."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "title": "Music, knowledge and reused paper pulp",
+      "summary": "Loksatta reports a 25-foot composition using tissue paper and pulp recovered after the previous year's immersion.",
+      "artist": "Digambar Mayekar and Rajesh Mayekar",
+      "theme": "Music, knowledge and spiritual practice",
+      "notes": [
+        {
+          "text": "Reuse of pulp and the artificial-tank process are reported practices. An inconsistent anniversary statement in the source is not adopted.",
+          "sourceIds": [
+            "pesh-loksatta2026"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "pesh-loksatta2026"
+      ],
+      "media": [
+        {
+          "id": "peshwa-2026-loksatta-team",
+          "originalUrl": "https://www.loksatta.com/mumbai/mumbai-vile-parle-bal-gopal-mitra-mandal-eco-friendly-25-feet-ganpati-murtikar-digambar-mayekar-mumbai-print-news-rub-99-6112158/lite/",
+          "kind": "photograph",
+          "label": "Music, knowledge and reused paper pulp - 2026",
+          "caption": "The 2026 Ganesh composition photographed outdoors, with a stringed instrument and accompanying figures.",
+          "credit": "Loksatta Team.",
+          "dateStatus": "contemporary",
+          "yearConfidence": "Contemporary event and image caption; exact camera capture day not supplied.",
+          "dateEvidence": "Published 2026-09-01 in the identified festival-year report; the image is attached to the Peshwa/Vile Parle subject. Capture year follows contemporary editorial attribution, not the upload folder or filename.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "pesh-loksatta2026"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Elevated cross-legged crowned Ganesh with multiple arms, a circular radiating headpiece and a long brown stringed instrument across the body. White-clad crowned female figure and white bird below right, seated orange-clad figures on a pink lotus below; palms, trees, wires and street flags in the physical outdoor setting.",
+            "alignsWithSource": true,
+            "note": "Original public image file actually viewed at its natural dimensions. The physical form matches the caption; the photograph alone does not establish its year."
+          }
+        }
+      ]
+    }
+  ],
+  "undatedMedia": [],
+  "sources": [
+    {
+      "id": "pesh-official",
+      "title": "Mumbai Cha Peshwa - Bal Gopal Mitra Mandal",
+      "publisher": "Bal Gopal Mitra Mandal",
+      "date": null,
+      "language": "Marathi",
+      "type": "primary",
+      "url": "https://mumbaichapeshwa.com/",
+      "note": "Indexed institutional text retrieved; live server intermittently returns 502. Narrative refers to 2022; historical self-account requires record-level corroboration."
+    },
+    {
+      "id": "pesh-fpj",
+      "title": "Ganesh Utsav 2023 In Mumbai: A Blend of Tradition, Creativity, And Social Messages This Festive Season; See Pics",
+      "publisher": "Free Press Journal - Ashutosh M Shukla",
+      "date": "2023-09-24",
+      "language": "English",
+      "type": "reporting",
+      "url": "https://www.freepressjournal.in/mumbai/ganesh-utsav-2023-in-mumbai-a-blend-of-tradition-creativity-and-social-messages-this-festive-season-see-pics",
+      "note": "Only the Vile Parlecha Peshwa section and adjacent credited photograph used; unrelated historical typo elsewhere is not adopted."
+    },
+    {
+      "id": "pesh-pti",
+      "title": "Mumbai mandal creates 23-foot-tall Ganesh idol with used flowers, tissue papers",
+      "publisher": "PTI, carried by Daily Excelsior",
+      "date": "2024-09-12",
+      "language": "English",
+      "type": "reporting",
+      "url": "https://www.dailyexcelsior.com/mumbai-mandal-creates-23-foot-tall-ganesh-idol-with-used-flowers-tissue-papers/",
+      "note": "PTI dispatch dated 11 September; this syndication published 12 September. Committee testimony and named sculptors."
+    },
+    {
+      "id": "pesh-loksatta",
+      "title": "गणेशोत्सवाला पर्यावरण रक्षणाची जोड",
+      "publisher": "Loksatta - Abhishek Teli",
+      "date": "2025-08-27",
+      "language": "Marathi",
+      "type": "reporting",
+      "url": "https://www.loksatta.com/mumbai/ganeshotsav-mandals-in-mumbai-celebrate-ganeshotsav-with-the-aim-of-protecting-environment-mumbai-print-news-zws-70-5334087/",
+      "note": "Specific Peshwa section and second embedded image; article also covers several other mandals."
+    },
+    {
+      "id": "pesh-ht2015",
+      "title": "2015 Vile Parle photograph",
+      "publisher": "Hindustan Times / Badri Chatterjee",
+      "date": "2015-09-14",
+      "language": "English",
+      "type": "Contemporary photo metadata",
+      "url": "https://www.hindustantimes.com/mumbai/rolling-out-ganesh-idol-made-of-30k-tissue-papers-in-mumbai/story-kX0nsg2CjOfoTXWmC2EabM.html",
+      "note": "Used for image identity and contemporary date. The separately captioned Andheri fibre idol is a different mandal and is excluded."
+    },
+    {
+      "id": "pesh-ht2016",
+      "title": "2016 festival photograph",
+      "publisher": "Hindustan Times / Badri Chatterjee",
+      "date": "2016-09-10",
+      "language": "English",
+      "type": "Contemporary photo metadata",
+      "url": "https://www.hindustantimes.com/mumbai-news/three-make-11-eco-friendly-ganesh-idols-using-3-55l-tissue-papers/story-VlFpksgNV0fWTqRE9Gzp3N.html",
+      "note": "Used for image identity and contemporary date. The accessible portrait is only 204 px wide; retained without enlargement."
+    },
+    {
+      "id": "pesh-ht2022",
+      "title": "2022 Peshwa photograph",
+      "publisher": "Hindustan Times / Linah Baliga",
+      "date": "2022-08-27",
+      "language": "English",
+      "type": "Contemporary photo metadata",
+      "url": "https://www.hindustantimes.com/cities/mumbai-news/vile-parle-to-have-the-tallest-eco-friendly-idol-in-mumbai-101661540773262.html",
+      "note": "Image caption identifies Vile Parlecha Peshwa and credits Vijay Bate. The 400 px image is retained unchanged."
+    },
+    {
+      "id": "pesh-toi2022",
+      "title": "Ganeshotsav 2022: This idol in Mumbai’s Vile Parle is carved out of banana fibre",
+      "publisher": "Times of India",
+      "date": "2022-09-08",
+      "language": "English",
+      "type": "Contemporary video report and descriptive text",
+      "url": "https://timesofindia.indiatimes.com/videos/city/mumbai/ganeshotsav-2022-this-idol-in-mumbais-vile-parle-is-carved-out-of-banana-fibre/videoshow/94082129.cms",
+      "note": "Text reports a 21-foot idol using tissue paper, banana fibres, chalk powder and binding glue. This records reported ingredients, not independently tested environmental performance."
+    },
+    {
+      "id": "pesh-loksatta2026",
+      "title": "कागदाच्या लगद्यापासून साकारला २५ फुटी ‘मुंबईचा पेशवा’",
+      "publisher": "Loksatta / Pratiksha Sawant",
+      "date": "2026-09-01",
+      "language": "Marathi",
+      "type": "Contemporary local report and photograph",
+      "url": "https://www.loksatta.com/mumbai/mumbai-vile-parle-bal-gopal-mitra-mandal-eco-friendly-25-feet-ganpati-murtikar-digambar-mayekar-mumbai-print-news-rub-99-6112158/lite/",
+      "note": "First published 1 September 2026 19:35 IST; updated 2 September. Photo credited Loksatta Team. The article inconsistently calls this the 37 th eco-friendly year despite also giving 2008 as the material-practice start; that anniversary claim is not adopted."
+    }
+  ],
+  "openQuestions": [
+    {
+      "title": "First-generation records",
+      "text": "Seek early photographs, minutes and name-change records for 1989, 2001 and 2016.",
+      "sourceIds": [
+        "pesh-official"
+      ]
+    },
+    {
+      "title": "Artist names and materials",
+      "text": "Confirm preferred Marathi/English name spellings against commission records; the artist ledger is incomplete. Environmental claims need material/process evidence.",
+      "sourceIds": [
+        "pesh-pti",
+        "pesh-loksatta"
+      ]
+    },
+    {
+      "title": "Original photo permission",
+      "text": "Obtain credited originals and permission, and locate dependable photographs for earlier years.",
+      "sourceIds": [
+        "pesh-fpj",
+        "pesh-loksatta"
+      ]
+    }
+  ],
+  "visit": {
+    "address": "Siddhivinayak Housing Society, Shraddhanand Road, Akash Kiran Society / Navapada, Vile Parle East, Mumbai 400057.",
+    "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Bal+Gopal+Mitra+Mandal+Mumbaicha+Peshwa+Vile+Parle+East",
+    "text": "Seasonal festival. Confirm the current site and entry arrangements with the mandal.",
+    "sourceIds": [
+      "pesh-official"
+    ]
+  },
+  "claims": [
+    {
+      "id": "pesh-founded",
+      "text": "Mandal founded in 1989.",
+      "status": "institutional account corroborated by reporting",
+      "sourceIds": [
+        "pesh-official",
+        "pesh-pti",
+        "pesh-loksatta"
+      ]
+    },
+    {
+      "id": "pesh-paper",
+      "text": "Paper-idol practice reported from 2008.",
+      "status": "supported retrospective account",
+      "sourceIds": [
+        "pesh-official",
+        "pesh-loksatta"
+      ]
+    },
+    {
+      "id": "pesh-ecology",
+      "text": "Reported materials do not independently prove full environmental impact.",
+      "status": "archival limitation",
+      "sourceIds": [
+        "pesh-pti",
+        "pesh-loksatta"
+      ]
+    },
+    {
+      "id": "pesh-2022-materials",
+      "text": "The 2022 commission is reported as banana-fibre and tissue-paper construction, with chalk powder and glue.",
+      "status": "contemporary reported practice",
+      "sourceIds": [
+        "pesh-toi2022"
+      ]
+    },
+    {
+      "id": "pesh-2026-reuse",
+      "text": "A 2026 Marathi report describes collecting immersion pulp for reuse in the following commission.",
+      "status": "contemporary reported practice, not independent environmental validation",
+      "sourceIds": [
+        "pesh-loksatta2026"
+      ]
+    }
+  ],
+  "researchNotes": {
+    "coverage": "Expanded research,16 November 2026: seven located festival years (2015,2016,2022-26), six inspected Ganesh photographs, nine sources, and year-specific material/form evidence. Four new native press photographs are preserved unchanged.",
+    "gaps": [
+      "No founding-era photograph or original 1989 minutes.",
+      "2024 remains a text-only year: the previously observed Daily Excelsior image URL returns 404.",
+      "2016 photograph survives in the accessible source as a small 204 px-wide portrait; no enlargement made.",
+      "Official domain remains intermittently unavailable; historical video labels do not establish dates for unrelated photos.",
+      "No open image licences found; no independent environmental testing located."
+    ],
+    "nextActions": [
+      "Find original 2015/2016 photographer files, including a larger 2016 frame.",
+      "Recover the 2024 PTI photograph and image-specific credit.",
+      "Trace official 2018-20 and 2022 videos to original still photographs and dated commissions.",
+      "Obtain early mandal minutes and workshop commission records, including the changing material recipes.",
+      "Seek reproduction permission from photographers and mandal."
+    ]
+  }
+}

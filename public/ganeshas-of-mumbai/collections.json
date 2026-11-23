@@ -1,0 +1,1580 @@
+{
+  "phase": "This edition preserves the dated records and their sources. Image credits and reuse information accompany the photographs on display.",
+  "expectedCount": 20,
+  "loadedCount": 20,
+  "missingSlugs": [],
+  "collections": [
+    {
+      "id": "mumbaicha-raja",
+      "title": "Mumbaicha Raja",
+      "marathi": "मुंबईचा राजा",
+      "institution": "Lalbaug Sarvajanik Utsav Mandal",
+      "kind": "festival",
+      "neighborhood": "Lalbaug",
+      "location": "Ganesh Galli, Lalbaug, Mumbai",
+      "intro": "At Ganesh Galli, an annual idol becomes a lasting part of Mumbai's memory. Follow the people, the changing forms and the surviving images behind a festival tradition that began in 1928.",
+      "founded": 1928,
+      "foundedNote": "",
+      "researchStage": "extended",
+      "sourceCount": 66,
+      "mediaCount": 0,
+      "datedYearCount": 99,
+      "openQuestionsCount": 3,
+      "hero": null,
+      "nextAction": "Why exactly twenty-two feet?",
+      "yearRecords": {
+        "1928": {
+          "title": "Founded in Peru Chawl",
+          "hasMedia": false
+        },
+        "1942": {
+          "title": "Patriotic tableaux",
+          "hasMedia": false
+        },
+        "1945": {
+          "title": "Subhas Chandra Bose tableau",
+          "hasMedia": false
+        },
+        "1977": {
+          "title": "The lotus and the 22-foot tradition",
+          "hasMedia": false
+        },
+        "1978": {
+          "title": "Kaliya Mardan",
+          "hasMedia": false
+        },
+        "1979": {
+          "title": "Images from 1979",
+          "hasMedia": false
+        },
+        "1980": {
+          "title": "Images from 1980",
+          "hasMedia": false
+        },
+        "1981": {
+          "title": "Images from 1981",
+          "hasMedia": false
+        },
+        "1982": {
+          "title": "The flute-playing form / working attribution",
+          "hasMedia": false
+        },
+        "1983": {
+          "title": "The lamp-balanced form / working attribution",
+          "hasMedia": false
+        },
+        "1984": {
+          "title": "Images from 1984",
+          "hasMedia": false
+        },
+        "1985": {
+          "title": "Images from 1985",
+          "hasMedia": false
+        },
+        "1986": {
+          "title": "Images from 1986",
+          "hasMedia": false
+        },
+        "1987": {
+          "title": "Images from 1987",
+          "hasMedia": false
+        },
+        "1988": {
+          "title": "Images from 1988",
+          "hasMedia": false
+        },
+        "1989": {
+          "title": "Images from 1989",
+          "hasMedia": false
+        },
+        "1990": {
+          "title": "Images from 1990",
+          "hasMedia": false
+        },
+        "1991": {
+          "title": "Images from 1991",
+          "hasMedia": false
+        },
+        "1992": {
+          "title": "Images from 1992",
+          "hasMedia": false
+        },
+        "1993": {
+          "title": "Images from 1993",
+          "hasMedia": false
+        },
+        "1994": {
+          "title": "Images from 1994",
+          "hasMedia": false
+        },
+        "1995": {
+          "title": "Images from 1995",
+          "hasMedia": false
+        },
+        "1996": {
+          "title": "Images from 1996",
+          "hasMedia": false
+        },
+        "1997": {
+          "title": "Images from 1997",
+          "hasMedia": false
+        },
+        "1998": {
+          "title": "Images from 1998",
+          "hasMedia": false
+        },
+        "1999": {
+          "title": "Images from 1999",
+          "hasMedia": false
+        },
+        "2000": {
+          "title": "Images from 2000",
+          "hasMedia": false
+        },
+        "2001": {
+          "title": "Images from 2001",
+          "hasMedia": false
+        },
+        "2002": {
+          "title": "Temple sets become a recurring programme",
+          "hasMedia": false
+        },
+        "2003": {
+          "title": "Images from 2003",
+          "hasMedia": false
+        },
+        "2004": {
+          "title": "The formal name Mumbai Cha Raja",
+          "hasMedia": false
+        },
+        "2005": {
+          "title": "Images from 2005",
+          "hasMedia": false
+        },
+        "2006": {
+          "title": "Images from 2006",
+          "hasMedia": false
+        },
+        "2007": {
+          "title": "Images from 2007",
+          "hasMedia": false
+        },
+        "2008": {
+          "title": "Images from 2008",
+          "hasMedia": false
+        },
+        "2009": {
+          "title": "Images from 2009",
+          "hasMedia": false
+        },
+        "2010": {
+          "title": "Chamundeshwari temple set",
+          "hasMedia": false
+        },
+        "2011": {
+          "title": "A reported 24.5-foot idol",
+          "hasMedia": false
+        },
+        "2012": {
+          "title": "Pashupatinath and another Weling tribute",
+          "hasMedia": false
+        },
+        "2013": {
+          "title": "Somnath",
+          "hasMedia": false
+        },
+        "2014": {
+          "title": "Jejuri's Khandoba temple",
+          "hasMedia": false
+        },
+        "2015": {
+          "title": "Sarangpur Bajrangbali temple",
+          "hasMedia": false
+        },
+        "2016": {
+          "title": "Badrinath and Vishnu",
+          "hasMedia": false
+        },
+        "2017": {
+          "title": "Golden Temple of Vellore",
+          "hasMedia": false
+        },
+        "2018": {
+          "title": "Gwalior Sun Temple",
+          "hasMedia": false
+        },
+        "2019": {
+          "title": "An imagined Ayodhya Nagri",
+          "hasMedia": false
+        },
+        "2020": {
+          "title": "Contributions waived",
+          "hasMedia": false
+        },
+        "2021": {
+          "title": "Four-foot idol and online viewing",
+          "hasMedia": false
+        },
+        "2022": {
+          "title": "Kashi Vishwanath and Vishwakarma",
+          "hasMedia": false
+        },
+        "2023": {
+          "title": "Imagining Raigad",
+          "hasMedia": false
+        },
+        "2024": {
+          "title": "Ujjain Mahakal",
+          "hasMedia": false
+        },
+        "2025": {
+          "title": "Akash Tirmal and Rameshwaram",
+          "hasMedia": false
+        },
+        "2026": {
+          "title": "Tirmal's Vaishnava interpretation",
+          "hasMedia": false
+        }
+      },
+      "downloads": {
+        "json": "collections/mumbaicha-raja.json"
+      }
+    },
+    {
+      "id": "lalbaugcha-raja",
+      "title": "Lalbaugcha Raja",
+      "marathi": "लालबागचा राजा",
+      "institution": "Lalbaugcha Raja Sarvajanik Ganeshotsav Mandal",
+      "kind": "festival",
+      "neighborhood": "Lalbaug",
+      "location": "Lalbaug Market / Putlabai Chawl area, Lalbaug, Mumbai",
+      "intro": "Lalbaugcha Raja is the Lalbaug Market festival of Lalbaugcha Raja Sarvajanik Ganeshotsav Mandal, founded in 1934. Its widely remembered origin concerns fishermen and traders seeking a permanent market. Devotees know the idol as Navsacha Ganpati, associated with vows. The royal sculptural form and Kambli family are important to its modern identity, while evidence also preserves other makers and pandemic interruptions. It is separate from Ganesh Galli’s Mumbaicha Raja.",
+      "founded": 1934,
+      "foundedNote": "1934 is corroborated by institutional materials, municipal history and reporting; 12 September is a retrospective exact date.",
+      "researchStage": "expanded",
+      "sourceCount": 12,
+      "mediaCount": 2,
+      "datedYearCount": 26,
+      "openQuestionsCount": 4,
+      "hero": {
+        "src": "assets/editions/lalbaug-2012.jpg",
+        "alt": "The Ganesh idol, crowned and draped in pink, passes above the procession crowd.",
+        "caption": "The Ganesh idol, crowned and draped in pink, passes above the procession crowd.",
+        "credit": "Karthik Nadar, Lalbaugcha Raja on its way for viserjan · CC BY 3.0",
+        "sourceIds": [
+          "LR-open-2012"
+        ]
+      },
+      "nextAction": "Inspect official year albums and original souvenirs without classifying devotional prints automatically as photos",
+      "yearRecords": {
+        "1937": {
+          "title": "An early devotional portrait",
+          "hasMedia": false
+        },
+        "1940": {
+          "title": "An early devotional portrait",
+          "hasMedia": false
+        },
+        "1954": {
+          "title": "Narrative figures around Ganesh",
+          "hasMedia": false
+        },
+        "1955": {
+          "title": "A colour-treated narrative print",
+          "hasMedia": false
+        },
+        "1956": {
+          "title": "A colour-treated narrative print",
+          "hasMedia": false
+        },
+        "1957": {
+          "title": "A colour-treated narrative print",
+          "hasMedia": false
+        },
+        "1959": {
+          "title": "A colour-treated narrative print",
+          "hasMedia": false
+        },
+        "1962": {
+          "title": "A colour-treated narrative print",
+          "hasMedia": false
+        },
+        "1967": {
+          "title": "A royal court tableau",
+          "hasMedia": false
+        },
+        "1968": {
+          "title": "A throne and assembled figures",
+          "hasMedia": false
+        },
+        "1969": {
+          "title": "Ganesh and civic figures",
+          "hasMedia": false
+        },
+        "1971": {
+          "title": "The Mirabai tableau",
+          "hasMedia": false
+        },
+        "1972": {
+          "title": "Standing Ganesh in a narrative scene",
+          "hasMedia": false
+        },
+        "1974": {
+          "title": "A coronation-themed court",
+          "hasMedia": false
+        },
+        "1975": {
+          "title": "Social inequality on the stage",
+          "hasMedia": false
+        },
+        "1976": {
+          "title": "Duryodhana and the Pandavas",
+          "hasMedia": false
+        },
+        "1977": {
+          "title": "Ganesh on an upholstered couch",
+          "hasMedia": false
+        },
+        "1978": {
+          "title": "Ganesh with historical and cultural figures",
+          "hasMedia": false
+        },
+        "1979": {
+          "title": "Yama in a narrative court",
+          "hasMedia": false
+        },
+        "1982": {
+          "title": "A royal hall and kneeling figure",
+          "hasMedia": false
+        },
+        "1985": {
+          "title": "Raised knee on a tiled throne",
+          "hasMedia": false
+        },
+        "2008": {
+          "title": "Flowers before the royal throne",
+          "hasMedia": false
+        },
+        "2023": {
+          "title": "Petals over the procession",
+          "hasMedia": false
+        },
+        "2025": {
+          "title": "The gold-arched pandal",
+          "hasMedia": false
+        },
+        "2010": {
+          "title": "Lalbaugcha Raja in the pandal",
+          "hasMedia": true
+        },
+        "2012": {
+          "title": "Lalbaugcha Raja on the visarjan procession",
+          "hasMedia": true
+        }
+      },
+      "downloads": {
+        "json": "collections/lalbaugcha-raja.json"
+      }
+    },
+    {
+      "id": "chinchpoklicha-chintamani",
+      "title": "Chinchpoklicha Chintamani",
+      "marathi": "चिंचपोकळीचा चिंतामणी",
+      "institution": "Chinchpokli Sarvajanik Utsav Mandal",
+      "kind": "festival",
+      "neighborhood": "Chinchpokli",
+      "location": "Chinchpokli East, near the railway station; office on Dattaram Lad Marg, Mumbai",
+      "intro": "Chinchpoklicha Chintamani is the festival idol of Chinchpokli Sarvajanik Utsav Mandal, founded in 1920 in the mill district. Its institutional account links the beginning to the weeks after Lokmanya Tilak’s death. A long sculptural repertoire and the Aagman arrival procession shape its public identity. This collection distinguishes the Mumbai institution from later authorized-looking replicas elsewhere, and preserves conflicts within its retrospective artist and anniversary chronology.",
+      "founded": 1920,
+      "foundedNote": "Official history gives foundation 6 September and first installation 16 September 1920; contemporary press corroborates the year.",
+      "researchStage": "expanded",
+      "sourceCount": 11,
+      "mediaCount": 0,
+      "datedYearCount": 23,
+      "openQuestionsCount": 3,
+      "hero": null,
+      "nextAction": "Inspect annual souvenirs rather than filling chronology gaps from social captions",
+      "yearRecords": {
+        "1948": {
+          "title": "An elbow-resting royal seat",
+          "hasMedia": false
+        },
+        "1951": {
+          "title": "A standing shrine tableau",
+          "hasMedia": false
+        },
+        "1958": {
+          "title": "A cart and gathering",
+          "hasMedia": false
+        },
+        "1959": {
+          "title": "A circular arch narrative",
+          "hasMedia": false
+        },
+        "1961": {
+          "title": "Figures at a palace threshold",
+          "hasMedia": false
+        },
+        "1966": {
+          "title": "A throne and royal attendants",
+          "hasMedia": false
+        },
+        "1967": {
+          "title": "A gathering of communities",
+          "hasMedia": false
+        },
+        "1968": {
+          "title": "Ganesh in a village narrative",
+          "hasMedia": false
+        },
+        "1970": {
+          "title": "A raised throne and lion",
+          "hasMedia": false
+        },
+        "1971": {
+          "title": "A balancing-scale tableau",
+          "hasMedia": false
+        },
+        "1972": {
+          "title": "Ganesh devotion on stage",
+          "hasMedia": false
+        },
+        "1974": {
+          "title": "A narrative stage with explanatory banner",
+          "hasMedia": false
+        },
+        "1976": {
+          "title": "A mythological court",
+          "hasMedia": false
+        },
+        "1978": {
+          "title": "The churning tableau",
+          "hasMedia": false
+        },
+        "1979": {
+          "title": "A symmetrical shrine",
+          "hasMedia": false
+        },
+        "1980": {
+          "title": "The Ganesh-birth tableau",
+          "hasMedia": false
+        },
+        "1981": {
+          "title": "The Kirtimukha narrative",
+          "hasMedia": false
+        },
+        "1982": {
+          "title": "An assembly below trees",
+          "hasMedia": false
+        },
+        "2019": {
+          "title": "Centenary procession",
+          "hasMedia": false
+        },
+        "2022": {
+          "title": "Yakshini court",
+          "hasMedia": false
+        },
+        "2024": {
+          "title": "Jagannath Puri and Krishna",
+          "hasMedia": false
+        },
+        "2025": {
+          "title": "Sambhaji-inspired throne",
+          "hasMedia": false
+        },
+        "2026": {
+          "title": "A Garuda-backed throne and named new commission",
+          "hasMedia": false
+        }
+      },
+      "downloads": {
+        "json": "collections/chinchpoklicha-chintamani.json"
+      }
+    },
+    {
+      "id": "tejukayacha-raja",
+      "title": "Raja Tejukayacha",
+      "marathi": "राजा तेजुकायाचा",
+      "institution": "Tejukaya Sarvajanik Ganeshotsav Trust",
+      "kind": "festival",
+      "neighborhood": "Lalbaug",
+      "location": "Tejukaya Mansion, Dr. Babasaheb Ambedkar Road, Lalbaug, Mumbai",
+      "intro": "Raja Tejukayacha belongs to the Tejukaya Sarvajanik Ganeshotsav Trust at Tejukaya Mansion, Lalbaug. Its documented story joins the Zad family of sculptors, ambitious monumental forms and an immersion tradition of carrying the idol on devotees’ shoulders. Contemporary reporting on the 2019 papier-mache idol offers a useful check against later promotional retellings. It is separate from Ganesh Galli’s Mumbaicha Raja and the Lalbaug Market mandal.",
+      "founded": 1967,
+      "foundedNote": "Explicitly dated 1967 by the 2025 artisan interview; earlier age labels are not fully consistent.",
+      "researchStage": "expanded",
+      "sourceCount": 25,
+      "mediaCount": 1,
+      "datedYearCount": 15,
+      "openQuestionsCount": 4,
+      "hero": {
+        "src": "assets/editions/tejukaya-2023.jpg",
+        "alt": "The crowned Ganesh, seated on a dark lion throne with a purple oval back and clothed in red and orange, rises above the procession crowd.",
+        "caption": "The crowned Ganesh, seated on a dark lion throne with a purple oval back and clothed in red and orange, rises above the procession crowd.",
+        "credit": "Nitantpatole, मुंबई गणेश उत्सव · CC BY-SA 4.0",
+        "sourceIds": [
+          "TJ-open-2023"
+        ]
+      },
+      "nextAction": "Inspect original trust souvenirs and dated early photographs",
+      "yearRecords": {
+        "2008": {
+          "title": "A royal lion throne",
+          "hasMedia": false
+        },
+        "2009": {
+          "title": "Green garments before the throne",
+          "hasMedia": false
+        },
+        "2010": {
+          "title": "A lifted knee and surrounding figures",
+          "hasMedia": false
+        },
+        "2011": {
+          "title": "Dafli-playing detail",
+          "hasMedia": false
+        },
+        "2012": {
+          "title": "Recreating the farmer theme at a reduced reported height",
+          "hasMedia": false
+        },
+        "2013": {
+          "title": "Paint and jewellery detail",
+          "hasMedia": false
+        },
+        "2015": {
+          "title": "Armour beside an elephant",
+          "hasMedia": false
+        },
+        "2016": {
+          "title": "The bull-drawn farmer composition",
+          "hasMedia": false
+        },
+        "2017": {
+          "title": "Conch and disc on the lion throne",
+          "hasMedia": false
+        },
+        "2018": {
+          "title": "A signed throne composition",
+          "hasMedia": false
+        },
+        "2019": {
+          "title": "Paper idol in procession",
+          "hasMedia": false
+        },
+        "2024": {
+          "title": "Immersion celebration",
+          "hasMedia": false
+        },
+        "2026": {
+          "title": "Jyotiba avatar in the farewell procession",
+          "hasMedia": false
+        },
+        "2020": {
+          "title": "A four-foot papier-mâché idol",
+          "hasMedia": false
+        },
+        "2023": {
+          "title": "Tejukayacha Raja in procession",
+          "hasMedia": true
+        }
+      },
+      "downloads": {
+        "json": "collections/tejukayacha-raja.json"
+      }
+    },
+    {
+      "id": "parelcha-raja",
+      "title": "Parelcha Raja - Nare Park",
+      "marathi": "परळचा राजा - नरेपार्क",
+      "institution": "Parel Vibhag Sarvajanik Ganeshotsav Mandal, Nare Park",
+      "kind": "festival",
+      "neighborhood": "Parel",
+      "location": "Bhivajirao Nare Udyan, Nare Park, Parel East, Mumbai",
+      "intro": "Parelcha Raja here means the Nare Park festival of Parel Vibhag Sarvajanik Ganeshotsav Mandal. Its institutional history traces the celebration to ordinary mill workers in 1947. The standing Ganesh form, changing devotional interpretations and community initiatives distinguish its documented record. It must not be confused with Parelcha Maharaja, Parelcha Samrat or Parel Post Galli’s Vighnaharta, all separate organizations in the same broad neighborhood.",
+      "founded": 1947,
+      "foundedNote": "Institutional account corroborated by 2017 and 2022 reporting.",
+      "researchStage": "expanded",
+      "sourceCount": 16,
+      "mediaCount": 0,
+      "datedYearCount": 11,
+      "openQuestionsCount": 3,
+      "hero": null,
+      "nextAction": "Inspect official dated arrival albums without assuming every gallery image is documentary",
+      "yearRecords": {
+        "1971": {
+          "title": "Krishna Leela on a physical stage",
+          "hasMedia": false
+        },
+        "2014": {
+          "title": "Ganesh above a rearing horse",
+          "hasMedia": false
+        },
+        "2015": {
+          "title": "An armed arrival form",
+          "hasMedia": false
+        },
+        "2016": {
+          "title": "A serpent-supported arrival",
+          "hasMedia": false
+        },
+        "2017": {
+          "title": "The standing multi-figure composition",
+          "hasMedia": false
+        },
+        "2018": {
+          "title": "Padyapujan and preparation",
+          "hasMedia": false
+        },
+        "2019": {
+          "title": "Arrival beneath the flyover",
+          "hasMedia": false
+        },
+        "2022": {
+          "title": "Gajalaxmi in the pandal",
+          "hasMedia": false
+        },
+        "2025": {
+          "title": "Nare Park arrival form",
+          "hasMedia": false
+        },
+        "2026": {
+          "title": "The Warkari arrival form",
+          "hasMedia": false
+        },
+        "2020": {
+          "title": "Pandemic plans and online worship",
+          "hasMedia": false
+        }
+      },
+      "downloads": {
+        "json": "collections/parelcha-raja.json"
+      }
+    },
+    {
+      "id": "kalachowkicha-mahaganpati",
+      "title": "Kalachowkicha Mahaganpati",
+      "marathi": "काळाचौकीचा महागणपती",
+      "institution": "Kalachowki Vibhag Sarvajanik Utsav Mandal",
+      "kind": "festival",
+      "neighborhood": "Kalachowki",
+      "location": "Dattaram Lad Marg, Kalachowki, Mumbai",
+      "intro": "Kalachowkicha Mahaganpati is the Ganesh festival of Kalachowki Vibhag Sarvajanik Utsav Mandal on Dattaram Lad Marg. Its photograph series now reaches from a 2013 display to the 2026 arrival, showing seated, standing and multi-armed forms across changing years. Marathi and English reporting also documents neighborhood service, processional labor and the 2026 fatal electrical accident near the pandal. Its identity remains separate from Kalachowki's similarly named Maharaja and other local mandals.",
+      "founded": 1956,
+      "foundedNote": "1956 is reported by contemporary FPJ coverage; an original founding document was not inspected.",
+      "researchStage": "expanded",
+      "sourceCount": 14,
+      "mediaCount": 0,
+      "datedYearCount": 10,
+      "openQuestionsCount": 5,
+      "hero": null,
+      "nextAction": "Locate exact-institution annual souvenirs and dated workshop announcements",
+      "yearRecords": {
+        "2013": {
+          "title": "A seated form credited to Vijay Khatu",
+          "hasMedia": false
+        },
+        "2014": {
+          "title": "A seated royal form",
+          "hasMedia": false
+        },
+        "2017": {
+          "title": "Raised arms and a bird support",
+          "hasMedia": false
+        },
+        "2018": {
+          "title": "The street arrival",
+          "hasMedia": false
+        },
+        "2019": {
+          "title": "Immersion beneath a serpent crown",
+          "hasMedia": false
+        },
+        "2022": {
+          "title": "Trident-bearing arrival",
+          "hasMedia": false
+        },
+        "2023": {
+          "title": "Immersion on Dattaram Lad Marg",
+          "hasMedia": false
+        },
+        "2024": {
+          "title": "A flute-bearing arrival",
+          "hasMedia": false
+        },
+        "2025": {
+          "title": "The arrival procession",
+          "hasMedia": false
+        },
+        "2026": {
+          "title": "A lion-supported Mahalakshmi form",
+          "hasMedia": false
+        }
+      },
+      "downloads": {
+        "json": "collections/kalachowkicha-mahaganpati.json"
+      }
+    },
+    {
+      "id": "khetwadicha-ganraj",
+      "title": "Khetwadicha Ganraj - 12th Lane",
+      "marathi": "खेतवाडीचा गणराज - बारावी गल्ली",
+      "institution": "12th Khetwadi Sarvajanik Ganeshotsav Mandal",
+      "kind": "festival",
+      "neighborhood": "Khetwadi",
+      "location": "12th Khetwadi Lane, Girgaon / Grant Road, Mumbai",
+      "intro": "Khetwadicha Ganraj is the 12th Khetwadi Sarvajanik Ganeshotsav Mandal, one institution among separate lane festivals. Its legacy history recalls small subscriptions, a tall-idol initiative in 1984 and a 40-foot Parashuram form in 2000. The expanded image record distinguishes treated historical cards from photographs of physical throne and palace displays in 2009-2025. The institution's 1959 foundation account is retained, while conflicting anniversary counts and an unlinked same-name 1952 claim remain qualified.",
+      "founded": 1959,
+      "foundedNote": "The exact 12th-lane institution dates its foundation to 1959 in its legacy history. A newer same-name site gives 1952, but its connection to this institution has not been established.",
+      "researchStage": "expanded",
+      "sourceCount": 18,
+      "mediaCount": 1,
+      "datedYearCount": 15,
+      "openQuestionsCount": 7,
+      "hero": {
+        "src": "assets/collections/khetwadicha-ganraj-fb8cf993119a.jpg",
+        "alt": "Khetwadicha Ganraj 2019, physical throne and floor context visible.",
+        "caption": "Khetwadicha Ganraj 2019, physical throne and floor context visible.",
+        "credit": "Khetwadichaganraj / Wikimedia Commons · CC BY-SA 4.0",
+        "sourceIds": [
+          "KG08"
+        ]
+      },
+      "nextAction": "Locate old annual souvenirs and original photographic prints without contacting anyone in this phase",
+      "yearRecords": {
+        "1983": {
+          "title": "Kurma-supported form",
+          "hasMedia": false
+        },
+        "1984": {
+          "title": "Matsya form",
+          "hasMedia": false
+        },
+        "2000": {
+          "title": "Parashuram form",
+          "hasMedia": false
+        },
+        "2009": {
+          "title": "Red drapery and an ornate throne",
+          "hasMedia": false
+        },
+        "2010": {
+          "title": "A sun-like throne surround",
+          "hasMedia": false
+        },
+        "2011": {
+          "title": "Blue drapery and brass lamps",
+          "hasMedia": false
+        },
+        "2012": {
+          "title": "The physical throne from an angle",
+          "hasMedia": false
+        },
+        "2014": {
+          "title": "A photographed face detail",
+          "hasMedia": false
+        },
+        "2015": {
+          "title": "A peacock-crowned detail",
+          "hasMedia": false
+        },
+        "2016": {
+          "title": "Green-clad throne portrait",
+          "hasMedia": false
+        },
+        "2017": {
+          "title": "White drapery and a lion throne",
+          "hasMedia": false
+        },
+        "2018": {
+          "title": "A royal throne with companion figures",
+          "hasMedia": false
+        },
+        "2019": {
+          "title": "Magenta-clad Ganraj",
+          "hasMedia": true
+        },
+        "2022": {
+          "title": "Radha-Krishna Mahal",
+          "hasMedia": false
+        },
+        "2025": {
+          "title": "A European-inspired palace display",
+          "hasMedia": false
+        }
+      },
+      "downloads": {
+        "json": "collections/khetwadicha-ganraj.json"
+      }
+    },
+    {
+      "id": "keshavji-naik-chawl",
+      "title": "Keshavji Naik Chawl Ganpati",
+      "marathi": "केशवजी नाईक चाळ गणपती",
+      "institution": "Shree Sarvajanik Ganeshotsav Sanstha",
+      "kind": "festival",
+      "neighborhood": "Girgaon",
+      "location": "Keshavji Naik Chawl, Khadilkar Road, Girgaon, Mumbai 400004",
+      "intro": "A small Ganapati in a Girgaon chawl courtyard anchors a public festival traced to 1893. The Shree Sarvajanik Ganeshotsav Sanstha preserves a tradition associated with Lokmanya Tilak while residents sustain worship, talks and cultural programmes. Its archive is unusually rich in printed invitations, schedules and newspaper cuttings. This collection follows that documentary trail alongside the More family's idol-making association, keeping the separate Nikadwari Lane Girgaoncha Raja institution distinct.",
+      "founded": 1893,
+      "foundedNote": "1893 is supported by the institution and BMC heritage account; priority claims are retained as attributed descriptions, not an all-India first.",
+      "researchStage": "expanded",
+      "sourceCount": 14,
+      "mediaCount": 0,
+      "datedYearCount": 12,
+      "openQuestionsCount": 2,
+      "hero": null,
+      "nextAction": "Inventory physical programme pages and confirm original custody.",
+      "yearRecords": {
+        "1917": {
+          "title": "English invitation",
+          "hasMedia": false
+        },
+        "1934": {
+          "title": "Marathi programme",
+          "hasMedia": false
+        },
+        "1946": {
+          "title": "Festival programme",
+          "hasMedia": false
+        },
+        "1953": {
+          "title": "Navshakti cutting",
+          "hasMedia": false
+        },
+        "2017": {
+          "title": "125th festival: maker and resident memories",
+          "hasMedia": false
+        },
+        "2018": {
+          "title": "Small idol and physical offering table",
+          "hasMedia": false
+        },
+        "2021": {
+          "title": "A small idol through pandemic restrictions",
+          "hasMedia": false
+        },
+        "2022": {
+          "title": "Welcoming the small idol",
+          "hasMedia": false
+        },
+        "2023": {
+          "title": "Press photograph sequence: year uncertain",
+          "hasMedia": false
+        },
+        "2024": {
+          "title": "Installation and palanquin views",
+          "hasMedia": false
+        },
+        "2025": {
+          "title": "Agency-captioned annual view",
+          "hasMedia": false
+        },
+        "2026": {
+          "title": "Preparing the courtyard",
+          "hasMedia": false
+        }
+      },
+      "downloads": {
+        "json": "collections/keshavji-naik-chawl.json"
+      }
+    },
+    {
+      "id": "girgaoncha-raja",
+      "title": "Girgaoncha Raja",
+      "marathi": "गिरगांवचा राजा",
+      "institution": "Nikadwari Lane Sarvajanik Shree Ganeshotsav Mandal",
+      "kind": "festival",
+      "neighborhood": "Girgaon",
+      "location": "Nikadwari Lane, Girgaon, Mumbai 400004; office: 9 Khedekar Sadan, opposite Jain Hospital",
+      "intro": "Girgaoncha Raja belongs to the Nikadwari Lane mandal established in 1928, a separate institution from Keshavji Naik Chawl. Its archive centres on large Shadu-clay idols, a recognisable Maharashtrian pheta and a multigenerational sculpting tradition. Contemporary reports connect bamboo, grass and basketry to the making process. This foundation records those material choices and dated idol views while treating height records and environmental claims as year-specific statements by their named sources.",
+      "founded": 1928,
+      "foundedNote": "Official institutional history dates the mandal to 1928.",
+      "researchStage": "expanded",
+      "sourceCount": 10,
+      "mediaCount": 0,
+      "datedYearCount": 9,
+      "openQuestionsCount": 2,
+      "hero": null,
+      "nextAction": "Confirm sculptor-family chronology and individual photo credits.",
+      "yearRecords": {
+        "2012": {
+          "title": "Annual festival gallery",
+          "hasMedia": false
+        },
+        "2014": {
+          "title": "Padyapujan invitation and ceremony context",
+          "hasMedia": false
+        },
+        "2015": {
+          "title": "Year-labelled retrospective idol view",
+          "hasMedia": false
+        },
+        "2016": {
+          "title": "Year-labelled retrospective idol view",
+          "hasMedia": false
+        },
+        "2018": {
+          "title": "Year-labelled retrospective idol view",
+          "hasMedia": false
+        },
+        "2019": {
+          "title": "Year-labelled retrospective idol view",
+          "hasMedia": false
+        },
+        "2024": {
+          "title": "Clay construction documented",
+          "hasMedia": false
+        },
+        "2025": {
+          "title": "Pheta craftsmanship and sculptor film",
+          "hasMedia": false
+        },
+        "2026": {
+          "title": "99 th Ganeshotsav",
+          "hasMedia": false
+        }
+      },
+      "downloads": {
+        "json": "collections/girgaoncha-raja.json"
+      }
+    },
+    {
+      "id": "fortcha-icchapurti-ganesh",
+      "title": "Fortcha Icchapurti Ganesh",
+      "marathi": "फोर्टचा इच्छापूर्ती गणेश",
+      "institution": "Fort Vibhag Sarvajanik Ganeshotsav Mandal",
+      "kind": "festival",
+      "neighborhood": "Fort",
+      "location": "21/23 Mint Road, Dr Sundarlal Bahal Path (Goa Street), opposite GPO, Fort, Mumbai 400001",
+      "intro": "Fortcha Icchapurti Ganesh is organised by the Fort Vibhag Sarvajanik Ganeshotsav Mandal near the General Post Office. The institution traces its foundation to 1956 and participants in the Samyukta Maharashtra movement. Its archive combines a deliberately consistent seated idol with changing architectural settings. An elevated street-spanning pandal and visiting Rajasthan craftspeople give this collection a distinctive relationship to Fort's working streets, alongside the deity's annual worship.",
+      "founded": 1956,
+      "foundedNote": "The mandal's Marathi retrospective gives 1956; this is not the separately named Ballard Estate Fortcha Raja.",
+      "researchStage": "expanded",
+      "sourceCount": 14,
+      "mediaCount": 0,
+      "datedYearCount": 9,
+      "openQuestionsCount": 2,
+      "hero": null,
+      "nextAction": "Document the raised-pandal structure with plans and dated street photographs.",
+      "yearRecords": {
+        "1976": {
+          "title": "Historical stage reproduction",
+          "hasMedia": false
+        },
+        "2015": {
+          "title": "2015 idol and setting",
+          "hasMedia": false
+        },
+        "2016": {
+          "title": "2016 idol and setting",
+          "hasMedia": false
+        },
+        "2017": {
+          "title": "Palace-interior gallery",
+          "hasMedia": false
+        },
+        "2018": {
+          "title": "Idol and ceiling detail",
+          "hasMedia": false
+        },
+        "2019": {
+          "title": "2019 idol and setting",
+          "hasMedia": false
+        },
+        "2022": {
+          "title": "2022 idol and setting",
+          "hasMedia": false
+        },
+        "2023": {
+          "title": "2023 idol and setting",
+          "hasMedia": false
+        },
+        "2024": {
+          "title": "2024 idol and setting",
+          "hasMedia": false
+        }
+      },
+      "downloads": {
+        "json": "collections/fortcha-icchapurti-ganesh.json"
+      }
+    },
+    {
+      "id": "gsb-kings-circle",
+      "title": "GSB Seva Mandal Mahaganapati",
+      "marathi": "जीएसबी सेवा मंडळ महागणपती",
+      "institution": "Gowd Saraswat Brahman (G.S.B.) Seva Mandal",
+      "kind": "festival",
+      "neighborhood": "King's Circle / Matunga",
+      "location": "Shree Sukriteendra Nagar, A. Rama Nayak Hall and GSB Sports Club Ground, near SNDT Women's College, R. A. Kidwai Road, King's Circle, Matunga, Mumbai 400019",
+      "intro": "The King's Circle Mahaganapati is the annual festival of GSB Seva Mandal, a charitable organisation with roots in community service. Its five-day Ganeshotsav began in 1955 and retains a close association with Shri Kashi Math. Clay preparation, worship, collective meals and volunteer work provide a fuller archive than the widely circulated ornamented front view alone. This collection treats the festival venue in Matunga separately from the mandal's Sion office and from Wadala's independently organised GSB Ganeshotsav.",
+      "founded": 1955,
+      "foundedNote": "The institution dates its Ganeshotsav to 1955. The parent charitable trust began in 1951; those are different events.",
+      "researchStage": "expanded",
+      "sourceCount": 21,
+      "mediaCount": 0,
+      "datedYearCount": 13,
+      "openQuestionsCount": 2,
+      "hero": null,
+      "nextAction": "Extend with dated workshop, ritual and meal-service records.",
+      "yearRecords": {
+        "2009": {
+          "title": "Dated festival idol view",
+          "hasMedia": false
+        },
+        "2011": {
+          "title": "Dated festival idol view",
+          "hasMedia": false
+        },
+        "2014": {
+          "title": "Dated festival idol view",
+          "hasMedia": false
+        },
+        "2015": {
+          "title": "Dated festival idol view",
+          "hasMedia": false
+        },
+        "2016": {
+          "title": "Dated festival idol view",
+          "hasMedia": false
+        },
+        "2017": {
+          "title": "Dated festival idol view",
+          "hasMedia": false
+        },
+        "2018": {
+          "title": "Dated festival idol view",
+          "hasMedia": false
+        },
+        "2022": {
+          "title": "Return of public participation",
+          "hasMedia": false
+        },
+        "2023": {
+          "title": "Dated festival idol view",
+          "hasMedia": false
+        },
+        "2024": {
+          "title": "70th Ganeshotsav unveiling",
+          "hasMedia": false
+        },
+        "2025": {
+          "title": "71st Ganeshotsav unveiling",
+          "hasMedia": false
+        },
+        "2026": {
+          "title": "Dated festival idol view",
+          "hasMedia": false
+        },
+        "2020": {
+          "title": "A four-foot idol and online darshan",
+          "hasMedia": false
+        }
+      },
+      "downloads": {
+        "json": "collections/gsb-kings-circle.json"
+      }
+    },
+    {
+      "id": "gsb-wadala",
+      "title": "GSB Wadala Mahaganapati",
+      "marathi": "जीएसबी वडाळा महागणपती",
+      "institution": "G.S.B. Sarvajanik Ganeshotsava Samiti",
+      "kind": "festival",
+      "neighborhood": "Wadala",
+      "location": "Dwarakanath Bhavan, Shree Ram Mandir complex, Katrak Road, Wadala, Mumbai 400031",
+      "intro": "Wadala's GSB Ganeshotsav is organised by G.S.B. Sarvajanik Ganeshotsava Samiti at Dwarakanath Bhavan in the Shree Ram Mandir complex. Its annual Mahaganapati, known devotionally as Navasacha Suvarna Ganapati, belongs to a festival traced to 1955. The extended cycle of Vedic sevas, communal meals and Anant Chaturdashi observance makes it distinct from King's Circle's GSB Seva Mandal. This foundation records rituals and community work without treating the host Ram temple's institutional history as a history of a permanent Ganesh idol.",
+      "founded": 1955,
+      "foundedNote": "The Samiti and host temple both date this annual Ganeshotsav to 1955; this does not date the permanent Ram temple.",
+      "researchStage": "expanded",
+      "sourceCount": 21,
+      "mediaCount": 1,
+      "datedYearCount": 14,
+      "openQuestionsCount": 2,
+      "hero": {
+        "src": "assets/collections/gsb-wadala-93243e5c8470.jpg",
+        "alt": "The Wadala annual idol in the source's 2022 record.",
+        "caption": "The Wadala annual idol in the source's 2022 record.",
+        "credit": "Heshanbhag / Wikimedia Commons. · CC BY-SA 4.0",
+        "sourceIds": [
+          "GW21"
+        ]
+      },
+      "nextAction": "Seek documented annual idol photographs with original captions and individual credit.",
+      "yearRecords": {
+        "2008": {
+          "title": "54th festival and welfare programme",
+          "hasMedia": false
+        },
+        "2009": {
+          "title": "Dated Wadala festival idol view",
+          "hasMedia": false
+        },
+        "2011": {
+          "title": "Dated Wadala festival idol view",
+          "hasMedia": false
+        },
+        "2012": {
+          "title": "Dated Wadala festival idol view",
+          "hasMedia": false
+        },
+        "2015": {
+          "title": "Dated Wadala festival idol view",
+          "hasMedia": false
+        },
+        "2016": {
+          "title": "Dated Wadala festival idol view",
+          "hasMedia": false
+        },
+        "2017": {
+          "title": "Dated Wadala festival idol view",
+          "hasMedia": false
+        },
+        "2018": {
+          "title": "Dated Wadala festival idol view",
+          "hasMedia": false
+        },
+        "2020": {
+          "title": "Bhadrapad festival postponed",
+          "hasMedia": false
+        },
+        "2021": {
+          "title": "A restricted Maghi observance planned",
+          "hasMedia": false
+        },
+        "2022": {
+          "title": "Dated Wadala festival idol view",
+          "hasMedia": true
+        },
+        "2024": {
+          "title": "70th festival idol",
+          "hasMedia": false
+        },
+        "2025": {
+          "title": "71st festival community care",
+          "hasMedia": false
+        },
+        "2026": {
+          "title": "72nd festival announcement",
+          "hasMedia": false
+        }
+      },
+      "downloads": {
+        "json": "collections/gsb-wadala.json"
+      }
+    },
+    {
+      "id": "andhericha-raja",
+      "title": "Andhericha Raja",
+      "marathi": "अंधेरीचा राजा",
+      "institution": "Azad Nagar Sarvajanik Utsav Samiti",
+      "kind": "festival",
+      "neighborhood": "Andheri West / Azad Nagar",
+      "location": "Ganesh Maidan, Azad Nagar II, Veera Desai Road, Andheri West, Mumbai 400053",
+      "intro": "Andhericha Raja is the public Ganeshotsav of Azad Nagar Sarvajanik Utsav Samiti, founded in 1966 by workers settling around Andheri's industrial workplaces. Its best-known ritual distinction is the large idol's immersion on the Sankashti following Anant Chaturdashi, while a smaller puja idol follows the earlier calendar. Changing temple-inspired sets and the community's labour history both belong in this collection. The date when the later immersion began remains disputed across the available institutional and press accounts.",
+      "founded": 1966,
+      "foundedNote": "Institutional history and contemporary English and Marathi reporting agree on 1966; sources disagree on the start of the later-immersion tradition.",
+      "researchStage": "expanded",
+      "sourceCount": 20,
+      "mediaCount": 0,
+      "datedYearCount": 12,
+      "openQuestionsCount": 2,
+      "hero": null,
+      "nextAction": "Obtain a captioned full view of the 2025 main idol and dated making sequence.",
+      "yearRecords": {
+        "2016": {
+          "title": "2016 installed idol",
+          "hasMedia": false
+        },
+        "2017": {
+          "title": "2017 installed idol",
+          "hasMedia": false
+        },
+        "2018": {
+          "title": "2018 installed idol",
+          "hasMedia": false
+        },
+        "2019": {
+          "title": "2019 installed idol",
+          "hasMedia": false
+        },
+        "2020": {
+          "title": "2020 installed idol",
+          "hasMedia": false
+        },
+        "2021": {
+          "title": "2021 installed idol",
+          "hasMedia": false
+        },
+        "2022": {
+          "title": "2022 installed idol",
+          "hasMedia": false
+        },
+        "2023": {
+          "title": "2023 installed idol",
+          "hasMedia": false
+        },
+        "2024": {
+          "title": "Sankashti farewell",
+          "hasMedia": false
+        },
+        "2025": {
+          "title": "60th festival and smaller idol",
+          "hasMedia": false
+        },
+        "2026": {
+          "title": "2026 installed idol",
+          "hasMedia": false
+        },
+        "2012": {
+          "title": "Dilwara temple setting",
+          "hasMedia": false
+        }
+      },
+      "downloads": {
+        "json": "collections/andhericha-raja.json"
+      }
+    },
+    {
+      "id": "sahyadri-krida-mandal",
+      "title": "Sahyadri Krida Mandal",
+      "marathi": "सह्याद्री क्रीडा मंडळ - सह्याद्रीचा राजा",
+      "institution": "Sahyadri Krida Mandal (Nyas)",
+      "kind": "festival",
+      "neighborhood": "Chembur",
+      "location": "Tilak Nagar, Chembur",
+      "intro": "Sahyadri Krida Mandal organises a public Ganesh festival at Tilak Nagar in Chembur. Its history joins a neighbourhood sports organisation to elaborate temporary scenery and the work of sculptors and stage designers. The mandal dates its establishment to 1976; an earlier newspaper account places the festival's beginning in 1977. Its online retrospective offers year-labelled photographs, giving this collection a documented starting point for comparing Ganesh forms and physical settings without treating those selected images as a complete annual archive.",
+      "founded": null,
+      "foundedNote": "The mandal states 1976 for its organisation; Mid-day (2009) dates the first festival to 1977, while Rediff (2016) says the organisation formed in 1975. These retrospective dates are not silently reconciled. Inaugural minutes or a period souvenir remain needed.",
+      "researchStage": "expanded",
+      "sourceCount": 7,
+      "mediaCount": 0,
+      "datedYearCount": 9,
+      "openQuestionsCount": 4,
+      "hero": null,
+      "nextAction": "Audit the retrospective year labels against original souvenirs and photographer files.",
+      "yearRecords": {
+        "2005": {
+          "title": "A celestial setting",
+          "hasMedia": false
+        },
+        "2007": {
+          "title": "Transparent dome",
+          "hasMedia": false
+        },
+        "2010": {
+          "title": "Stone-temple facade",
+          "hasMedia": false
+        },
+        "2013": {
+          "title": "Cinema-centenary setting",
+          "hasMedia": false
+        },
+        "2016": {
+          "title": "Panda Village",
+          "hasMedia": false
+        },
+        "2018": {
+          "title": "Horse-column sanctum",
+          "hasMedia": false
+        },
+        "2023": {
+          "title": "Peacock motifs",
+          "hasMedia": false
+        },
+        "2024": {
+          "title": "Ganesh and the Hanuman exterior",
+          "hasMedia": false
+        },
+        "2025": {
+          "title": "Palace-facade view",
+          "hasMedia": false
+        }
+      },
+      "downloads": {
+        "json": "collections/sahyadri-krida-mandal.json"
+      }
+    },
+    {
+      "id": "mumbaicha-peshwa",
+      "title": "Mumbaicha Peshwa",
+      "marathi": "मुंबईचा पेशवा - बाळ गोपाळ मित्र मंडळ",
+      "institution": "Bal Gopal Mitra Mandal",
+      "kind": "festival",
+      "neighborhood": "Vile Parle East",
+      "location": "Shraddhanand Road, Vile Parle East",
+      "intro": "Mumbaicha Peshwa is Bal Gopal Mitra Mandal's public Ganesh festival in Vile Parle East. The mandal began in 1989 and describes an origin among schoolchildren assisted by older residents. Its later history centres on large paper-based Ganesh forms, with materials and supporting figures changing between years. Social themes appear in the surrounding scenery and performances. Contemporary Marathi and English reports document particular commissions, helping separate the festival's general reputation from the actual form and materials reported for each year.",
+      "founded": 1989,
+      "foundedNote": "1989 is stated by the mandal and corroborated by contemporary PTI and Marathi reporting. The names Vile Parlecha Peshwa and Mumbaicha Peshwa are later identities, not separate founding dates.",
+      "researchStage": "expanded",
+      "sourceCount": 9,
+      "mediaCount": 0,
+      "datedYearCount": 7,
+      "openQuestionsCount": 3,
+      "hero": null,
+      "nextAction": "Find original 2015/2016 photographer files, including a larger 2016 frame.",
+      "yearRecords": {
+        "2015": {
+          "title": "Ganesh above an elephant",
+          "hasMedia": false
+        },
+        "2016": {
+          "title": "Horse-mounted Ganesh",
+          "hasMedia": false
+        },
+        "2022": {
+          "title": "Ganesh, a winged support and two tigers",
+          "hasMedia": false
+        },
+        "2023": {
+          "title": "My garbage, my responsibility",
+          "hasMedia": false
+        },
+        "2024": {
+          "title": "Flowers, paper and a palanquin",
+          "hasMedia": false
+        },
+        "2025": {
+          "title": "Vasudhaiva Kutumbakam",
+          "hasMedia": false
+        },
+        "2026": {
+          "title": "Music, knowledge and reused paper pulp",
+          "hasMedia": false
+        }
+      },
+      "downloads": {
+        "json": "collections/mumbaicha-peshwa.json"
+      }
+    },
+    {
+      "id": "kastur-park",
+      "title": "Kastur Park",
+      "marathi": "श्री सार्वजनिक गणेशोत्सव मंडळ, कस्तुर पार्क",
+      "institution": "Shree Sarvajanik Ganeshotsav Mandal, Kastur Park",
+      "kind": "festival",
+      "neighborhood": "Borivali West",
+      "location": "Kastur Park, Borivali West",
+      "intro": "Kastur Park's Shree Sarvajanik Ganeshotsav Mandal is a neighbourhood festival in Borivali West. Its history brings together housing-society volunteers, social-awareness presentations and elaborate temporary settings. A dated Marathi account explicitly places its beginning in 1979, later repeated in a local newspaper caption. Reports from different years show how the festival's scenery, public messages and organising conditions changed. This collection includes two genuine idol photographs with publication-year evidence and a separate community photograph whose capture date remains unverified.",
+      "founded": 1979,
+      "foundedNote": "1979 is explicitly reported in Vinay Upasani's Marathi account of 7 September 2011 and printed in Vrittamanas on 5 September 2025. This is stronger than inferring 1979 from a 38 th-festival label in 2016; an original founding record has not yet been located.",
+      "researchStage": "expanded",
+      "sourceCount": 11,
+      "mediaCount": 0,
+      "datedYearCount": 7,
+      "openQuestionsCount": 6,
+      "hero": null,
+      "nextAction": "Obtain the mandal's original 2025 advertising presentation and annual decoration albums, then verify each photograph and printed year.",
+      "yearRecords": {
+        "2011": {
+          "title": "Organ donation",
+          "hasMedia": false
+        },
+        "2012": {
+          "title": "Bringing Ganesh from Jogeshwari",
+          "hasMedia": false
+        },
+        "2014": {
+          "title": "Art-direction recognition",
+          "hasMedia": false
+        },
+        "2016": {
+          "title": "A Kedarnath-inspired mandap",
+          "hasMedia": false
+        },
+        "2018": {
+          "title": "An art-direction nomination and a changing neighbourhood",
+          "hasMedia": false
+        },
+        "2019": {
+          "title": "First aid presented to an aarti tune",
+          "hasMedia": false
+        },
+        "2025": {
+          "title": "A contemporary local newspaper view",
+          "hasMedia": false
+        }
+      },
+      "downloads": {
+        "json": "collections/kastur-park.json"
+      }
+    },
+    {
+      "id": "siddhivinayak",
+      "title": "Shree Siddhivinayak",
+      "marathi": "श्री सिद्धिविनायक",
+      "institution": "Shree Siddhivinayak Ganapati Temple Trust, Prabhadevi",
+      "kind": "temple",
+      "neighborhood": "Prabhadevi",
+      "location": "S. K. Bole Marg, Prabhadevi, Mumbai",
+      "intro": "Siddhivinayak at Prabhadevi is a permanent Ganesh temple whose surviving institutional history connects an early nineteenth-century shrine to a major rebuilding in the 1990s. Its right-trunk black-stone icon remained central as the surrounding structure changed. This collection follows the temple, its architecture and public-service institutions, with dated exterior photographs rather than an invented sequence of annual festival idols.",
+      "founded": 1801,
+      "foundedNote": "The trust identifies first consecration as 19 November 1801; a Maharashtra district statistical publication gives the same date. The original 1801 document was not inspected.",
+      "researchStage": "expanded",
+      "sourceCount": 14,
+      "mediaCount": 6,
+      "datedYearCount": 7,
+      "openQuestionsCount": 3,
+      "hero": {
+        "src": "assets/collections/siddhivinayak-3b535b80d24a.jpg",
+        "alt": "A view of Siddhivinayak Temple in Prabhadevi.",
+        "caption": "A view of Siddhivinayak Temple in Prabhadevi.",
+        "credit": "Av9 · CC BY-SA 4.0",
+        "sourceIds": [
+          "SV07"
+        ]
+      },
+      "nextAction": "Locate the 1990 building file and 1994 ceremonial souvenir with dated construction photographs.",
+      "yearRecords": {
+        "1991": {
+          "title": "Teledarshan, 1991 issue",
+          "hasMedia": false
+        },
+        "2006": {
+          "title": "Close view of the rebuilt exterior",
+          "hasMedia": true
+        },
+        "2008": {
+          "title": "The temple in its street setting",
+          "hasMedia": true
+        },
+        "2009": {
+          "title": "An exterior view",
+          "hasMedia": true
+        },
+        "2012": {
+          "title": "Roof and wall articulation",
+          "hasMedia": true
+        },
+        "2015": {
+          "title": "Prabhadevi temple exterior",
+          "hasMedia": true
+        },
+        "2018": {
+          "title": "Fruit and flower decoration",
+          "hasMedia": true
+        }
+      },
+      "downloads": {
+        "json": "collections/siddhivinayak.json"
+      }
+    },
+    {
+      "id": "phadke-ganpati",
+      "title": "Phadke Shree Ganpati",
+      "marathi": "फडके श्रीगणपती",
+      "institution": "The Yashodabai Govind Gangadhar Phadke Charitable Trust",
+      "kind": "temple",
+      "neighborhood": "Girgaon",
+      "location": "Phadke Wadi, Vithalbhai Patel Road, opposite Sikka Nagar, Girgaon, Mumbai 400004",
+      "intro": "Phadke Shree Ganpati is a permanent temple in Girgaon’s Phadkewadi. Its history centres on Yashodabai Phadke’s patronage, a lotus-seated Ganesh accompanied by Riddhi-Siddhi and a Ganesh Panchayatan, and the later work of a charitable trust. Alongside temple and festival history, this collection includes dated photographs of the trust’s community service. It is separate from similarly named Phadke temples in Pune.",
+      "founded": 1890,
+      "foundedNote": "The temple’s history says construction was completed around 1890; its organizational account dates idol installation to 1890. Treat this as a retrospective approximate construction date, not a recovered consecration certificate.",
+      "researchStage": "expanded",
+      "sourceCount": 7,
+      "mediaCount": 0,
+      "datedYearCount": 2,
+      "openQuestionsCount": 3,
+      "hero": null,
+      "nextAction": "Match the 2019 camera-dated ceremony to temple registers and identify its photographer.",
+      "yearRecords": {
+        "2019": {
+          "title": "A camera-dated ritual sequence",
+          "hasMedia": false
+        },
+        "2023": {
+          "title": "Food distribution at Yashomangal",
+          "hasMedia": false
+        }
+      },
+      "downloads": {
+        "json": "collections/phadke-ganpati.json"
+      }
+    },
+    {
+      "id": "udyan-ganesh",
+      "title": "Shree Udyan Ganesh",
+      "marathi": "श्री उद्यान गणेश",
+      "institution": "Shree Udyan Ganesh Mandir Seva Samiti",
+      "kind": "temple",
+      "neighborhood": "Dadar West",
+      "location": "Shivaji Park, Dadar West, Mumbai",
+      "intro": "A permanent Ganesh shrine beneath a banyan tree at Shivaji Park, Udyan Ganesh belongs to the everyday religious life of Dadar. Its historical record includes the move from an outdoor image to a built sanctuary, later rebuilding, and distinctive Bal Ganesh iconography. This collection preserves disagreements within the temple’s own chronology and distinguishes photographs of the enduring shrine from annually recreated festival idols.",
+      "founded": null,
+      "foundedNote": "A temple establishment in 1970 is consistently reported. The official homepage gives 1 March 1970, while its history page gives 9 February 1970. Discovery accounts differ between 1963 and 1966; none is silently selected.",
+      "researchStage": "expanded",
+      "sourceCount": 9,
+      "mediaCount": 2,
+      "datedYearCount": 4,
+      "openQuestionsCount": 3,
+      "hero": {
+        "src": "assets/collections/udyan-ganesh-98255bde4b2d.jpg",
+        "alt": "Illuminated white temple at night with tall central shikhara and two lower stepped roofs, flower garlands, visitors on the approach, trees and roofed queue shelters; the central Ganesh icon is not visible.",
+        "caption": "Illuminated white temple at night with tall central shikhara and two lower stepped roofs, flower garlands, visitors on the approach, trees and roofed queue shelters; the central Ganesh icon is not visible.",
+        "credit": "Savarkar IAS Study circle, Wikimedia Commons. · CC BY-SA 4.0",
+        "sourceIds": [
+          "UG08"
+        ]
+      },
+      "nextAction": "Locate the 1982 souvenir, ceremony photographs and temple building file.",
+      "yearRecords": {
+        "1982": {
+          "title": "Installation in a new marble sanctum",
+          "hasMedia": false
+        },
+        "2006": {
+          "title": "Udyan Ganesh photographed",
+          "hasMedia": true
+        },
+        "2021": {
+          "title": "Temple view",
+          "hasMedia": true
+        },
+        "2026": {
+          "title": "A temporary-shelter notice reported",
+          "hasMedia": false
+        }
+      },
+      "downloads": {
+        "json": "collections/udyan-ganesh.json"
+      }
+    },
+    {
+      "id": "vazira-ganesh",
+      "title": "Vazira Ganesh",
+      "marathi": "वजिऱ्याचा स्वयंभू गणेश",
+      "institution": "Shri Ganesh Gramstha Seva Mandal",
+      "kind": "temple",
+      "neighborhood": "Borivali West",
+      "location": "Vazira Naka, Borivali West",
+      "intro": "Vazira Ganesh is a permanent rock-carved shrine in Borivali West, also described as Swayambhu Shri Ganesh Mandir. The surrounding village, pond and temple complex are part of its history. Local accounts connect its development with Koli and Somvanshi Kshatriya Pathare residents. Its emergence is told through a quarry worker's dream; the tradition is recorded here as belief, while the precise age of the carving and the governing trust's establishment remain open questions.",
+      "founded": null,
+      "foundedNote": "The icon has an undated devotional origin tradition. Indian Express (2016) dates the governing trust to 1970; Sakal (2023) says 1974. Neither is treated here as the age of the rock-carved icon.",
+      "researchStage": "expanded",
+      "sourceCount": 6,
+      "mediaCount": 0,
+      "datedYearCount": 3,
+      "openQuestionsCount": 4,
+      "hero": null,
+      "nextAction": "Locate Gramstha Seva Mandal registration records and 1962 construction photographs.",
+      "yearRecords": {
+        "2015": {
+          "title": "Outdoor darshan during immersion day",
+          "hasMedia": false
+        },
+        "2016": {
+          "title": "The rock shrine in village life",
+          "hasMedia": false
+        },
+        "2023": {
+          "title": "New Year worship",
+          "hasMedia": false
+        }
+      },
+      "downloads": {
+        "json": "collections/vazira-ganesh.json"
+      }
+    }
+  ]
+}

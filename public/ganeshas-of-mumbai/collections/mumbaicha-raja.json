@@ -1,0 +1,4245 @@
+{
+  "meta": {
+    "title": "Mumbaicha Raja",
+    "marathi": "मुंबईचा राजा",
+    "institution": "Lalbaug Sarvajanik Utsav Mandal",
+    "location": "Ganesh Galli, Lalbaug, Mumbai",
+    "founded": 1928,
+    "startYear": 1928,
+    "endYear": 2026,
+    "updated": "16 November 2026",
+    "edition": "Collection 01 · Research edition · 16 November 2026",
+    "intro": "At Ganesh Galli, an annual idol becomes a lasting part of Mumbai's memory. Follow the people, the changing forms and the surviving images behind a festival tradition that began in 1928.",
+    "hero": null,
+    "neighborhood": "Lalbaug",
+    "id": "mumbaicha-raja",
+    "kind": "festival",
+    "researchStage": "extended",
+    "catalogueMode": "annual-calendar",
+    "downloads": {
+      "json": "collections/mumbaicha-raja.json"
+    }
+  },
+  "sections": [
+    {
+      "id": "origins",
+      "eyebrow": "01 / 1928-1951",
+      "title": "A festival in the mill neighborhood",
+      "paragraphs": [
+        {
+          "text": "The story begins in Peru Chawl in 1928. The mandal remembers a five-day celebration, followed by a period at Tejukaya Mansion and a move to Ganesh Galli in 1937-38. The celebration grew to eleven days. These dates come from its institutional history, written in retrospect.",
+          "sourceIds": [
+            "H01",
+            "H07"
+          ]
+        },
+        {
+          "text": "Public display mattered before the arrival of the giant idol. The mandal recalls patriotic tableaux from 1942; later accounts describe a Subhas Chandra Bose tableau in 1945. It places its formal registration in 1950-51. The festival was a setting for performance, public education and neighborhood association as well as worship.",
+          "sourceIds": [
+            "H01",
+            "H07"
+          ]
+        },
+        {
+          "text": "Lalbaug belongs to Girangaon, Mumbai's mill district. Its history of work, migration and redevelopment helps explain the festival's social setting. This collection follows one institution within that larger history; nearby Lalbaugcha Raja is a separate mandal.",
+          "sourceIds": [
+            "H24",
+            "H07"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "twenty-two-feet",
+      "eyebrow": "02 / 1977",
+      "title": "Fifty festivals. Twenty-two feet.",
+      "paragraphs": [
+        {
+          "text": "Counting 1928 as the first festival makes 1977 the fiftieth celebration. For that jubilee, Dinanath Weling created a monumental Ganesh seated on a lotus, remembered as twenty-two feet tall. Organizers describe an ambitious anniversary experiment that showcased the sculptor's skill.",
+          "sourceIds": [
+            "H04",
+            "H20",
+            "H01"
+          ]
+        },
+        {
+          "text": "The scale became a recurring identity. In a 2023 interview, joint secretary Adwait Pedhamkar described the height as an inheritance the mandal wanted to preserve. That is evidence of how the tradition is understood today. It does not settle why precisely twenty-two feet was originally chosen.",
+          "sourceIds": [
+            "H05"
+          ]
+        },
+        {
+          "text": "Measurements also need context. A contemporary report describes the 2011 idol as twenty-four-and-a-half feet; pandemic years brought much smaller idols. The archive therefore treats “twenty-two feet” as a documented tradition, while retaining individual reports and exceptions.",
+          "sourceIds": [
+            "H08",
+            "H15",
+            "H16",
+            "H17"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "experiments",
+      "eyebrow": "03 / 1978-1990",
+      "title": "Balance becomes a language",
+      "paragraphs": [
+        {
+          "text": "Weling's 1978 Kaliya Mardan brought another kind of spectacle: the official history describes a toe-balanced composition above a many-headed serpent. The later lamp-balanced form is different. This edition follows the mandal's 1982 flute / 1983 lamp sequence as a working attribution, while preserving the older archive's reversed labels.",
+          "sourceIds": [
+            "H01",
+            "H02"
+          ]
+        },
+        {
+          "text": "A living repertoire emerges from the images: changing gestures, youthful forms, narrative scenes and feats of balance. The surviving pictures are uneven evidence. Some are scans of photographic cards; others are cutouts or digital devotional treatments. Each item in the catalogue records that distinction.",
+          "sourceIds": [
+            "H02"
+          ]
+        },
+        {
+          "text": "Even the end of Weling's tenure is not fully settled. One Marathi retrospective gives 1977-1989; the mandal remembers a final idol made while he was ill in 1990. A reliable succession will require period records rather than a seamless timeline assembled from later recollections.",
+          "sourceIds": [
+            "H01",
+            "H23"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "name",
+      "eyebrow": "04 / 2004",
+      "title": "A name, formal and remembered",
+      "paragraphs": [
+        {
+          "text": "Accounts place the formal adoption of “Mumbai Cha Raja” in 2004. The name is now inseparable from Ganesh Galli's public identity, but it should not be projected backwards as the original 1928 institutional name.",
+          "sourceIds": [
+            "H12",
+            "H22"
+          ]
+        },
+        {
+          "text": "Navakal offers a complementary memory: an immersion headline helped popularize the name. Its retrospective does not date that original headline. Popular usage and formal adoption may have different histories; the archive leaves room to trace both.",
+          "sourceIds": [
+            "H06"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pilgrimage",
+      "eyebrow": "05 / 2002-2019",
+      "title": "A pilgrimage built in a lane",
+      "paragraphs": [
+        {
+          "text": "From the seventy-fifth festival in 2002, elaborate landmark recreations became a recurring programme, with Madurai's Meenakshi Temple remembered as an early turning point. The pandal could transport visitors through architectural imagination as well as scale.",
+          "sourceIds": [
+            "H04",
+            "H25"
+          ]
+        },
+        {
+          "text": "Contemporary reports locate Chamundeshwari in 2010, Mallikarjun in 2011, Pashupatinath in 2012, Somnath in 2013 and Jejuri's Khandoba temple in 2014. Organizers explained the impulse as bringing places of pilgrimage closer to devotees unable to make those journeys themselves.",
+          "sourceIds": [
+            "H25",
+            "H08",
+            "H09",
+            "H28",
+            "H11"
+          ]
+        },
+        {
+          "text": "Later settings included Sarangpur in 2015, Badrinath in 2016 and Gwalior's Sun Temple in 2018. In 2019, art director Nitesh Kumar described an imagined Ayodhya setting built with a large team. These are authored interpretations, and the catalogue records the idol and its surrounding set as separate subjects.",
+          "sourceIds": [
+            "H26",
+            "H12",
+            "H13",
+            "H14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "makers",
+      "eyebrow": "06 / The makers",
+      "title": "A succession still being assembled",
+      "paragraphs": [
+        {
+          "text": "The record is clearest when a report names the maker of a particular year. In 2011, secretary Swapnil Parab described Vijay Khatu's first Ganesh Galli commission as a tribute to his teacher Weling. Khatu was also named for the 2012 idol.",
+          "sourceIds": [
+            "H08",
+            "H09"
+          ]
+        },
+        {
+          "text": "A 2025 obituary credits Gajanan Deu Tondwalkar with thirteen consecutive Ganesh Galli idols, but does not provide a dependable start and end sequence. The archive preserves the association without filling in those years. Satish Walivadekar is named in 2022 reporting and, with a spelling variant, in the 2023 account.",
+          "sourceIds": [
+            "H21",
+            "H18",
+            "H05"
+          ]
+        },
+        {
+          "text": "Akash Tirmal is credited with the 2025 idol. In a 2026 interview, he said the team took on Mumbai Cha Raja “last year,” supporting that start date. Artists, assistants, decorators and structural workers all belong in this history; a complete workshop record is still to be made.",
+          "sourceIds": [
+            "H04",
+            "H19"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pandemic",
+      "eyebrow": "07 / 2020-2021",
+      "title": "A smaller form, a continuing festival",
+      "paragraphs": [
+        {
+          "text": "In June 2020, the mandal announced a smaller idol and waived local subscriber contributions amid the pandemic. Reports disagree on the proposed height: TV9 Marathi said three feet, while ANI's report carried by Rediff said four. Both concern an announcement; neither alone establishes the final installed measurement.",
+          "sourceIds": [
+            "H15",
+            "H16"
+          ]
+        },
+        {
+          "text": "Mumbai Tak's September 2021 first-look report describes a four-foot idol and online darshan. These years are part of the tradition's history, showing why a familiar monumental identity should not be mistaken for an unbroken physical measurement.",
+          "sourceIds": [
+            "H17"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "present",
+      "eyebrow": "08 / 2022-2026",
+      "title": "The present looks back",
+      "paragraphs": [
+        {
+          "text": "The recent set sequence is more firmly documented: Kashi Vishwanath in 2022, an imagined Raigad in 2023, Ujjain Mahakal in 2024, and Ramanathaswamy at Rameshwaram in 2025. For 2026, the official title invokes Vaishnavanchi Wari, the devotional world of the Warkari pilgrimage.",
+          "sourceIds": [
+            "H18",
+            "H05",
+            "H03"
+          ]
+        },
+        {
+          "text": "Tirmal described the 2026 idol as a hand-sculpted, base-to-crown twenty-two-foot composition that revisits the youthful Ganesh forms of the 1980s. His explanation connects Vaishnava imagery with contemporary gestures. It is the artist's account of intention, preserved alongside dated photographs of the finished installation.",
+          "sourceIds": [
+            "H19"
+          ]
+        }
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "year": 1928,
+      "title": "Founded in Peru Chawl",
+      "text": "The mandal dates its foundation to 1928 at Peru Chawl.",
+      "sourceIds": [
+        "H01",
+        "H07"
+      ]
+    },
+    {
+      "year": 1977,
+      "title": "The 22-foot turning point",
+      "text": "For the 50th festival year, Dinanath Weling made a monumental lotus-seated Ganesh, conventionally described as 22 feet.",
+      "sourceIds": [
+        "H04",
+        "H05",
+        "H20",
+        "H23"
+      ]
+    },
+    {
+      "year": 1978,
+      "title": "Kaliya Mardan",
+      "text": "The official history identifies Weling's 1978 Kaliya Mardan as toe-balanced; the gallery shows the serpent composition.",
+      "sourceIds": [
+        "H01",
+        "H02"
+      ]
+    },
+    {
+      "year": 2002,
+      "title": "Temple sets become a recurring programme",
+      "text": "The 75th festival year is remembered as the start of elaborate landmark recreations, beginning with Madurai's Meenakshi Temple.",
+      "sourceIds": [
+        "H04",
+        "H05",
+        "H10",
+        "H25"
+      ]
+    },
+    {
+      "year": 2004,
+      "title": "The formal name Mumbai Cha Raja",
+      "text": "The name Mumbai Cha Raja was officially adopted in 2004.",
+      "sourceIds": [
+        "H12",
+        "H22"
+      ]
+    },
+    {
+      "year": 2020,
+      "title": "Pandemic reduction",
+      "text": "The mandal announced a smaller idol instead of the usual monumental one. June reports disagree: TV9 gives three feet; ANI/Rediff gives four.",
+      "sourceIds": [
+        "H15",
+        "H16"
+      ]
+    },
+    {
+      "year": 2025,
+      "title": "Akash Tirmal and Rameshwaram",
+      "text": "Mid-day credits Akash Tirmal with the 2025 idol; the official theme is Ramanathaswamy Temple at Rameshwaram.",
+      "sourceIds": [
+        "H04",
+        "H03",
+        "H19"
+      ]
+    },
+    {
+      "year": 2026,
+      "title": "Vaishnavanchi Wari",
+      "text": "The official 2026 decoration title is Ganesh Gallit Avatarnaar Vaishnavanchi Wari, evoking the Warkari pilgrimage and devotion to Vitthal.",
+      "sourceIds": [
+        "H03",
+        "H29"
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": 1928,
+      "title": "Founded in Peru Chawl",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "The mandal dates its foundation to 1928 at Peru Chawl.",
+          "sourceIds": [
+            "H01",
+            "H07"
+          ]
+        },
+        {
+          "text": "A modern branded devotional image exists under a 1928 filename in the official gallery. It has been excluded from this annual photographic record because that filename does not establish a 1928 image.",
+          "sourceIds": [
+            "H02"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "H01",
+        "H07",
+        "H02"
+      ],
+      "media": []
+    },
+    {
+      "year": 1929,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1930,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1931,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1932,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1933,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1934,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1935,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1936,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1937,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1938,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1939,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1940,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1941,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1942,
+      "title": "Patriotic tableaux",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        },
+        {
+          "text": "The official account dates patriotic tableaux and public education programmes to 1942.",
+          "sourceIds": [
+            "H01"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "H01"
+      ],
+      "media": []
+    },
+    {
+      "year": 1943,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1944,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1945,
+      "title": "Subhas Chandra Bose tableau",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        },
+        {
+          "text": "Later accounts remember a Bose-related chariot tableau and exceptional viewing demand in 1945.",
+          "sourceIds": [
+            "H07",
+            "H10"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "H07",
+        "H10"
+      ],
+      "media": []
+    },
+    {
+      "year": 1946,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1947,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1948,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1949,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1950,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1951,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1952,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1953,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1954,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1955,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1956,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1957,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1958,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1959,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1960,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1961,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1962,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1963,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1964,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1965,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1966,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1967,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1968,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1969,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1970,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1971,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1972,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1973,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1974,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1975,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1976,
+      "title": "Year awaiting images",
+      "summary": "No documentary image has been located for this year in the sources checked.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No year-documented image obtained from inspected sources. This is a research gap, not a claim no image survives.",
+          "sourceIds": []
+        }
+      ],
+      "sourceIds": [],
+      "media": []
+    },
+    {
+      "year": 1977,
+      "title": "The lotus and the 22-foot tradition",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": "Dinanath Weling",
+      "theme": null,
+      "notes": [
+        {
+          "text": "No independently obtained documentary scene photograph in this research pass; treated/source-labelled imagery may still exist.",
+          "sourceIds": [
+            "H02",
+            "P01"
+          ]
+        },
+        {
+          "text": "For the 50th festival year, Dinanath Weling made a monumental lotus-seated Ganesh, conventionally described as 22 feet.",
+          "sourceIds": [
+            "H04",
+            "H05",
+            "H20",
+            "H23"
+          ]
+        },
+        {
+          "text": "Organizers describe an anniversary experiment to showcase sculptural skill, supported by younger members.",
+          "sourceIds": [
+            "H01",
+            "H20"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "H02",
+        "P01",
+        "H04",
+        "H05",
+        "H20",
+        "H23",
+        "H01",
+        "H33"
+      ],
+      "media": [
+        {
+          "id": "user-instagram-1977",
+          "originalUrl": "https://www.instagram.com/p/DcylLjhtHNs/",
+          "kind": "photograph",
+          "label": "Historical scene photograph / source-attributed year",
+          "caption": "A lotus-seated Ganesh above a dense beach crowd. The post attributes the immersion scene to Ganesh Galli in 1977; the historical photographer is not identified.",
+          "credit": "Historical photographer unidentified. Posted by @mumbai.ganpati / Yogesh Chendwankar; the account attribution is not a photographer credit for 1977.",
+          "dateEvidence": "The post caption explicitly assigns the scene to the 1977 Ganesh Galli immersion at Girgaon Beach. The post was published 2 September 2026; this is not the capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H33"
+          ],
+          "yearConfidence": "retrospective_source_caption",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Black-and-white scene: crowned, garlanded Ganesh seated above clearly visible lotus petals, with a dense crowd and beach-city setting. Not the flute-playing standing figure or the toe-on-lamp design.",
+            "alignsWithSource": true,
+            "note": "The form agrees with the documented 1977 lotus repertoire. Visual agreement does not authenticate the capture year or original print. Original public-post media downloaded unchanged at 1440 x 1440."
+          }
+        },
+        {
+          "id": "official-1977",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "treated",
+          "label": "Digitally treated image",
+          "caption": "Image filed under 1977 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
+          "credit": "Photographer unidentified",
+          "dateEvidence": "Filed under 1977 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or in a labelled contact sheet: photo-derived idol isolated/composited with flat color, digital rays, clouds or decorative graphic background. Not an unaltered documentary scene photograph."
+        },
+        {
+          "id": "mlg-1977-1",
+          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaugs-ganesh-galli-ganpati-1977/",
+          "kind": "treated",
+          "label": "Digitally treated image",
+          "caption": "Lalbaug’s Ganesh Galli Ganpati – 1977",
+          "credit": "Photographer unidentified. Posted by Vikram Kharvi; not assumed to be the photographer.",
+          "dateEvidence": "Lalbaug’s Ganesh Galli Ganpati – 1977",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "P01"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Photo-derived cutout against flat pink background with red border; not an unaltered in-situ record."
+        }
+      ]
+    },
+    {
+      "year": 1978,
+      "title": "Kaliya Mardan",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": "Dinanath Weling",
+      "theme": null,
+      "notes": [
+        {
+          "text": "The official history identifies Weling's 1978 Kaliya Mardan as toe-balanced; the gallery shows the serpent composition.",
+          "sourceIds": [
+            "H01",
+            "H02"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "H02",
+        "P02",
+        "H20",
+        "H01"
+      ],
+      "media": [
+        {
+          "id": "official-1978",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "treated",
+          "label": "Digitally treated image",
+          "caption": "Image filed under 1978 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
+          "credit": "Photographer unidentified; visible credit: KALAKAR (graphic mark, not a photographer attribution)",
+          "dateEvidence": "Filed under 1978 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or in a labelled contact sheet: photo-derived idol isolated/composited with flat color, digital rays, clouds or decorative graphic background. Not an unaltered documentary scene photograph."
+        },
+        {
+          "id": "mlg-1978-1",
+          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1978/",
+          "kind": "unassessed",
+          "label": "Photo-derived devotional print / original unverified",
+          "caption": "Lalbaug, Ganesh Galli Ganpati – 1978. A photo-derived devotional print; original capture, print history and background treatment remain unverified.",
+          "credit": "Photographer unidentified. Posted by Vikram Kharvi; not assumed to be the photographer.",
+          "dateEvidence": "Lalbaug, Ganesh Galli Ganpati – 1978",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "P02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Inspected devotional card/print scan. Photographic material may be present, but background treatment and original in-situ photographic provenance are not established. Do not count as a confirmed documentary photograph."
+        },
+        {
+          "id": "rediff-circa1978",
+          "originalUrl": "https://www.rediff.com/getahead/report/ganeshotsav-is-no-longer-the-same/20260916.htm",
+          "kind": "treated",
+          "label": "Digitally treated image",
+          "caption": "Mumbaicha Raja, circa1978",
+          "credit": "Photographer unidentified; visible credit: 1978 KALAKAR; editorial credit: Kind courtesy Mumbaicha Raja",
+          "dateEvidence": "Caption explicitly says circa 1978; article published 2026-09-16. Approximate date must remain visible.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H20"
+          ],
+          "yearConfidence": "approximate",
+          "assessment": "Despite the editorial caption calling it a photograph, the image visibly reproduces the official 1978 KALAKAR composite. Do not count this republication as an independent historic photograph."
+        }
+      ]
+    },
+    {
+      "year": 1979,
+      "title": "Images from 1979",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "H02",
+        "P03"
+      ],
+      "media": [
+        {
+          "id": "official-1979",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "treated",
+          "label": "Digitally treated image",
+          "caption": "Image filed under 1979 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
+          "credit": "Photographer unidentified; visible credit: KALAKAR (graphic mark, not a photographer attribution)",
+          "dateEvidence": "Filed under 1979 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or in a labelled contact sheet: photo-derived idol isolated/composited with flat color, digital rays, clouds or decorative graphic background. Not an unaltered documentary scene photograph."
+        },
+        {
+          "id": "mlg-1979-1",
+          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1979/",
+          "kind": "unassessed",
+          "label": "Photo-derived devotional print / original unverified",
+          "caption": "Lalbaug, Ganesh Galli Ganpati – 1979. A photo-derived devotional print; original capture, print history and background treatment remain unverified.",
+          "credit": "Photographer unidentified. Posted by Vikram Kharvi; not assumed to be the photographer.",
+          "dateEvidence": "Lalbaug, Ganesh Galli Ganpati – 1979",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "P03"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Inspected devotional card/print scan. Photographic material may be present, but background treatment and original in-situ photographic provenance are not established. Do not count as a confirmed documentary photograph."
+        }
+      ]
+    },
+    {
+      "year": 1980,
+      "title": "Images from 1980",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "H02",
+        "P04"
+      ],
+      "media": [
+        {
+          "id": "official-1980",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "treated",
+          "label": "Digitally treated image",
+          "caption": "Image filed under 1980 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
+          "credit": "Photographer unidentified; visible credit: KALAKAR (graphic mark, not a photographer attribution)",
+          "dateEvidence": "Filed under 1980 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or in a labelled contact sheet: photo-derived idol isolated/composited with flat color, digital rays, clouds or decorative graphic background. Not an unaltered documentary scene photograph."
+        },
+        {
+          "id": "mlg-1980-1",
+          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1980/",
+          "kind": "unassessed",
+          "label": "Photo-derived devotional print / original unverified",
+          "caption": "Lalbaug, Ganesh Galli Ganpati – 1980. A photo-derived devotional print; original capture, print history and background treatment remain unverified.",
+          "credit": "Photographer unidentified. Posted by Vikram Kharvi; not assumed to be the photographer.",
+          "dateEvidence": "Lalbaug, Ganesh Galli Ganpati – 1980",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "P04"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Inspected devotional card/print scan. Photographic material may be present, but background treatment and original in-situ photographic provenance are not established. Do not count as a confirmed documentary photograph."
+        }
+      ]
+    },
+    {
+      "year": 1981,
+      "title": "Images from 1981",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "H02",
+        "P05"
+      ],
+      "media": [
+        {
+          "id": "official-1981",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "treated",
+          "label": "Digitally treated image",
+          "caption": "Image filed under 1981 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
+          "credit": "Photographer unidentified; visible credit: KALAKAR (graphic mark, not a photographer attribution)",
+          "dateEvidence": "Filed under 1981 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or in a labelled contact sheet: photo-derived idol isolated/composited with flat color, digital rays, clouds or decorative graphic background. Not an unaltered documentary scene photograph."
+        },
+        {
+          "id": "mlg-1981-1",
+          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1981/",
+          "kind": "unassessed",
+          "label": "Photo-derived devotional print / original unverified",
+          "caption": "Lalbaug, Ganesh Galli Ganpati – 1981. A photo-derived devotional print; original capture, print history and background treatment remain unverified.",
+          "credit": "Photographer unidentified. Posted by Vikram Kharvi; not assumed to be the photographer.",
+          "dateEvidence": "Lalbaug, Ganesh Galli Ganpati – 1981",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "P05"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Inspected devotional card/print scan. Photographic material may be present, but background treatment and original in-situ photographic provenance are not established. Do not count as a confirmed documentary photograph."
+        }
+      ]
+    },
+    {
+      "year": 1982,
+      "title": "The flute-playing form / working attribution",
+      "summary": "Working chronology follows the mandal: 1982 flute, 1983 lamp. A newly located flute scene is also captioned 1982. The older My Lord Ganesha archive reverses the labels; that disagreement remains recorded below.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "The lamp-balancing design has conflicting year labels. The supplied beach photograph is undated and is presented separately in the investigation, without assigning it to either year.",
+          "sourceIds": [
+            "H02"
+          ]
+        },
+        {
+          "text": "Apparent 1982/1983 swap: official 1982=flute form and 1983=lamp dancer; My Lord Ganesha 1982=lamp dancer and 1983=flute form. The chronology remains unresolved.",
+          "sourceIds": [
+            "H02",
+            "P06"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "H02",
+        "P06",
+        "H34"
+      ],
+      "media": [
+        {
+          "id": "user-pinterest-1982",
+          "originalUrl": "https://kr.pinterest.com/pin/mumbai-cha-raja-1982--978125612842206440/",
+          "kind": "photograph",
+          "label": "Historical scene photograph / source-attributed year",
+          "caption": "Standing, flute-playing Ganesh in a crowded beach immersion scene. The pin labels it Ganesh Galli 1982, matching the form filed as 1982 in the mandal's gallery. The older My Lord Ganesha archive gives the flute form a different year.",
+          "credit": "Historical photographer and original publication unidentified. Pinterest is the located repost, not an established image creator.",
+          "dateEvidence": "Both pin title and description explicitly label the immersion 1982. No original dated print, capture metadata or original publication has been located. A matching form alone cannot establish a year, since designs can recur.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H34"
+          ],
+          "yearConfidence": "retrospective_source_caption",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Tinted photographic scan: standing multi-armed Ganesh with a tall peacock-feather-like head ornament and hands posed with a flute near the face; people sit and stand around the base amid a crowded beachfront. No lotus seat or tall oil-lamp support is visible.",
+            "alignsWithSource": true,
+            "note": "Downloaded the observed 480 x 638 image and inspected it directly. Its form matches the mandal's 1982 flute image, not the official 1983 lamp artwork. This supports a working attribution, not independent authentication of the pin's year."
+          }
+        },
+        {
+          "id": "official-1982",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "treated",
+          "label": "Digitally treated image / year disputed",
+          "caption": "Image filed under 1982 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph. The official gallery and My Lord Ganesha exchange the lamp and flute forms between 1982 and 1983; neither label is adopted as final.",
+          "credit": "Photographer unidentified; visible credit: KALAKAR (graphic mark, not a photographer attribution)",
+          "dateEvidence": "Filed under 1982 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "conflicted",
+          "assessment": "Visually inspected individually or in a labelled contact sheet: photo-derived idol isolated/composited with flat color, digital rays, clouds or decorative graphic background. Not an unaltered documentary scene photograph. Official 1982=flute-playing form, official 1983=dancing on lamp; My Lord Ganesha assigns those forms to 1983 and 1982 respectively."
+        },
+        {
+          "id": "mlg-1982-1",
+          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1982/",
+          "kind": "unassessed",
+          "label": "Photo-derived devotional print / original unverified / year disputed",
+          "caption": "Lalbaug, Ganesh Galli Ganpati – 1982. A photo-derived devotional print; original capture, print history and background treatment remain unverified. The official gallery and My Lord Ganesha exchange the lamp and flute forms between 1982 and 1983; neither label is adopted as final.",
+          "credit": "Photographer unidentified. Posted by Vikram Kharvi; not assumed to be the photographer.",
+          "dateEvidence": "Lalbaug, Ganesh Galli Ganpati – 1982",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "P06"
+          ],
+          "yearConfidence": "conflicted",
+          "assessment": "Inspected devotional card/print scan. Photographic material may be present, but background treatment and original in-situ photographic provenance are not established. Do not count as a confirmed documentary photograph."
+        }
+      ]
+    },
+    {
+      "year": 1983,
+      "title": "The lamp-balanced form / working attribution",
+      "summary": "Working chronology follows the mandal: 1982 flute, 1983 lamp. A newly located flute scene is also captioned 1982. The older My Lord Ganesha archive reverses the labels; that disagreement remains recorded below.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "The lamp-balancing design has conflicting year labels. The supplied beach photograph is undated and is presented separately in the investigation, without assigning it to either year.",
+          "sourceIds": [
+            "H02"
+          ]
+        },
+        {
+          "text": "Apparent 1982/1983 swap: official 1982=flute form and 1983=lamp dancer; My Lord Ganesha 1982=lamp dancer and 1983=flute form. The chronology remains unresolved.",
+          "sourceIds": [
+            "H02",
+            "H31"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "H02",
+        "H31"
+      ],
+      "media": [
+        {
+          "id": "official-1983",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "treated",
+          "label": "Digitally treated image / year disputed",
+          "caption": "Image filed under 1983 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph. The official gallery and My Lord Ganesha exchange the lamp and flute forms between 1982 and 1983; neither label is adopted as final.",
+          "credit": "Photographer unidentified; visible credit: KALAKAR (graphic mark, not a photographer attribution)",
+          "dateEvidence": "Filed under 1983 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "conflicted",
+          "assessment": "Visually inspected individually or in a labelled contact sheet: photo-derived idol isolated/composited with flat color, digital rays, clouds or decorative graphic background. Not an unaltered documentary scene photograph. Official 1982=flute-playing form, official 1983=dancing on lamp; My Lord Ganesha assigns those forms to 1983 and 1982 respectively."
+        },
+        {
+          "id": "mlg-1983-1",
+          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1983/",
+          "kind": "unassessed",
+          "label": "Photo-derived devotional print / original unverified / year disputed",
+          "caption": "Lalbaug, Ganesh Galli Ganpati – 1983. A photo-derived devotional print; original capture, print history and background treatment remain unverified. The official gallery and My Lord Ganesha exchange the lamp and flute forms between 1982 and 1983; neither label is adopted as final.",
+          "credit": "Photographer unidentified. Posted by Vikram Kharvi; not assumed to be the photographer.",
+          "dateEvidence": "Lalbaug, Ganesh Galli Ganpati – 1983",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H31"
+          ],
+          "yearConfidence": "conflicted",
+          "assessment": "Inspected devotional card/print scan. Photographic material may be present, but background treatment and original in-situ photographic provenance are not established. Do not count as a confirmed documentary photograph."
+        }
+      ]
+    },
+    {
+      "year": 1984,
+      "title": "Images from 1984",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "H02",
+        "P07"
+      ],
+      "media": [
+        {
+          "id": "official-1984",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "treated",
+          "label": "Digitally treated image",
+          "caption": "Image filed under 1984 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
+          "credit": "Photographer unidentified; visible credit: KALAKAR (graphic mark, not a photographer attribution)",
+          "dateEvidence": "Filed under 1984 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or in a labelled contact sheet: photo-derived idol isolated/composited with flat color, digital rays, clouds or decorative graphic background. Not an unaltered documentary scene photograph."
+        },
+        {
+          "id": "mlg-1984-1",
+          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1984/",
+          "kind": "unassessed",
+          "label": "Photo-derived devotional print / original unverified",
+          "caption": "Lalbaug, Ganesh Galli Ganpati – 1984. A photo-derived devotional print; original capture, print history and background treatment remain unverified.",
+          "credit": "Photographer unidentified. Posted by Vikram Kharvi; not assumed to be the photographer.",
+          "dateEvidence": "Lalbaug, Ganesh Galli Ganpati – 1984",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "P07"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Inspected devotional card/print scan. Photographic material may be present, but background treatment and original in-situ photographic provenance are not established. Do not count as a confirmed documentary photograph."
+        }
+      ]
+    },
+    {
+      "year": 1985,
+      "title": "Images from 1985",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "H02",
+        "P08"
+      ],
+      "media": [
+        {
+          "id": "official-1985",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "treated",
+          "label": "Digitally treated image",
+          "caption": "Image filed under 1985 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
+          "credit": "Photographer unidentified; visible credit: KALAKAR (graphic mark, not a photographer attribution)",
+          "dateEvidence": "Filed under 1985 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or in a labelled contact sheet: photo-derived idol isolated/composited with flat color, digital rays, clouds or decorative graphic background. Not an unaltered documentary scene photograph."
+        },
+        {
+          "id": "mlg-1985-1",
+          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1985/",
+          "kind": "unassessed",
+          "label": "Photo-derived devotional print / original unverified",
+          "caption": "Lalbaug, Ganesh Galli Ganpati – 1985. A photo-derived devotional print; original capture, print history and background treatment remain unverified.",
+          "credit": "Photographer unidentified. Posted by Vikram Kharvi; not assumed to be the photographer.",
+          "dateEvidence": "Lalbaug, Ganesh Galli Ganpati – 1985",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "P08"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Inspected devotional card/print scan. Photographic material may be present, but background treatment and original in-situ photographic provenance are not established. Do not count as a confirmed documentary photograph."
+        }
+      ]
+    },
+    {
+      "year": 1986,
+      "title": "Images from 1986",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "H02",
+        "P09"
+      ],
+      "media": [
+        {
+          "id": "official-1986",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "treated",
+          "label": "Digitally treated image",
+          "caption": "Image filed under 1986 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
+          "credit": "Photographer unidentified; visible credit: KALAKAR (graphic mark, not a photographer attribution)",
+          "dateEvidence": "Filed under 1986 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or in a labelled contact sheet: photo-derived idol isolated/composited with flat color, digital rays, clouds or decorative graphic background. Not an unaltered documentary scene photograph."
+        },
+        {
+          "id": "mlg-1986-1",
+          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1986/",
+          "kind": "unassessed",
+          "label": "Photo-derived devotional print / original unverified",
+          "caption": "Lalbaug, Ganesh Galli Ganpati – 1986. A photo-derived devotional print; original capture, print history and background treatment remain unverified.",
+          "credit": "Photographer unidentified. Posted by Vikram Kharvi; not assumed to be the photographer.",
+          "dateEvidence": "Lalbaug, Ganesh Galli Ganpati – 1986",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "P09"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Inspected devotional card/print scan. Photographic material may be present, but background treatment and original in-situ photographic provenance are not established. Do not count as a confirmed documentary photograph."
+        }
+      ]
+    },
+    {
+      "year": 1987,
+      "title": "Images from 1987",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "H02",
+        "P10"
+      ],
+      "media": [
+        {
+          "id": "official-1987",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "treated",
+          "label": "Digitally treated image",
+          "caption": "Image filed under 1987 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
+          "credit": "Photographer unidentified",
+          "dateEvidence": "Filed under 1987 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or in a labelled contact sheet: photo-derived idol isolated/composited with flat color, digital rays, clouds or decorative graphic background. Not an unaltered documentary scene photograph."
+        },
+        {
+          "id": "mlg-1987-1",
+          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1987/",
+          "kind": "unassessed",
+          "label": "Photo-derived devotional print / original unverified",
+          "caption": "Lalbaug, Ganesh Galli Ganpati – 1987. A photo-derived devotional print; original capture, print history and background treatment remain unverified.",
+          "credit": "Photographer unidentified. Posted by Vikram Kharvi; not assumed to be the photographer.",
+          "dateEvidence": "Lalbaug, Ganesh Galli Ganpati – 1987",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "P10"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Inspected devotional card/print scan. Photographic material may be present, but background treatment and original in-situ photographic provenance are not established. Do not count as a confirmed documentary photograph."
+        }
+      ]
+    },
+    {
+      "year": 1988,
+      "title": "Images from 1988",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "H02",
+        "P11"
+      ],
+      "media": [
+        {
+          "id": "official-1988",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "treated",
+          "label": "Digitally treated image",
+          "caption": "Image filed under 1988 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
+          "credit": "Photographer unidentified",
+          "dateEvidence": "Filed under 1988 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or in a labelled contact sheet: photo-derived idol isolated/composited with flat color, digital rays, clouds or decorative graphic background. Not an unaltered documentary scene photograph."
+        },
+        {
+          "id": "mlg-1988-1",
+          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1988/",
+          "kind": "unassessed",
+          "label": "Photo-derived devotional print / original unverified",
+          "caption": "Lalbaug, Ganesh Galli Ganpati – 1988. A photo-derived devotional print; original capture, print history and background treatment remain unverified.",
+          "credit": "Photographer unidentified. Posted by Vikram Kharvi; not assumed to be the photographer.",
+          "dateEvidence": "Lalbaug, Ganesh Galli Ganpati – 1988",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "P11"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Inspected devotional card/print scan. Photographic material may be present, but background treatment and original in-situ photographic provenance are not established. Do not count as a confirmed documentary photograph."
+        }
+      ]
+    },
+    {
+      "year": 1989,
+      "title": "Images from 1989",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "H02",
+        "P12"
+      ],
+      "media": [
+        {
+          "id": "official-1989",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "treated",
+          "label": "Digitally treated image",
+          "caption": "Image filed under 1989 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
+          "credit": "Photographer unidentified; visible credit: KALAKAR (graphic mark, not a photographer attribution)",
+          "dateEvidence": "Filed under 1989 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or in a labelled contact sheet: photo-derived idol isolated/composited with flat color, digital rays, clouds or decorative graphic background. Not an unaltered documentary scene photograph."
+        },
+        {
+          "id": "mlg-1989-1",
+          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1989/",
+          "kind": "unassessed",
+          "label": "Photo-derived devotional print / original unverified",
+          "caption": "Lalbaug, Ganesh Galli Ganpati – 1989. A photo-derived devotional print; original capture, print history and background treatment remain unverified.",
+          "credit": "Photographer unidentified. Posted by Vikram Kharvi; not assumed to be the photographer.",
+          "dateEvidence": "Lalbaug, Ganesh Galli Ganpati – 1989",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "P12"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Inspected devotional card/print scan. Photographic material may be present, but background treatment and original in-situ photographic provenance are not established. Do not count as a confirmed documentary photograph."
+        }
+      ]
+    },
+    {
+      "year": 1990,
+      "title": "Images from 1990",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "H02",
+        "P13"
+      ],
+      "media": [
+        {
+          "id": "official-1990",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "treated",
+          "label": "Digitally treated image",
+          "caption": "Image filed under 1990 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
+          "credit": "Photographer unidentified; visible credit: KALAKAR (graphic mark, not a photographer attribution)",
+          "dateEvidence": "Filed under 1990 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or in a labelled contact sheet: photo-derived idol isolated/composited with flat color, digital rays, clouds or decorative graphic background. Not an unaltered documentary scene photograph."
+        },
+        {
+          "id": "mlg-1990-1",
+          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1990/",
+          "kind": "unassessed",
+          "label": "Photo-derived devotional print / original unverified",
+          "caption": "Lalbaug, Ganesh Galli Ganpati – 1990. A photo-derived devotional print; original capture, print history and background treatment remain unverified.",
+          "credit": "Photographer unidentified. Posted by Vikram Kharvi; not assumed to be the photographer.",
+          "dateEvidence": "Lalbaug, Ganesh Galli Ganpati – 1990",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "P13"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Inspected devotional card/print scan. Photographic material may be present, but background treatment and original in-situ photographic provenance are not established. Do not count as a confirmed documentary photograph."
+        }
+      ]
+    },
+    {
+      "year": 1991,
+      "title": "Images from 1991",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "H02",
+        "P14"
+      ],
+      "media": [
+        {
+          "id": "official-1991",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "treated",
+          "label": "Digitally treated image",
+          "caption": "Image filed under 1991 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
+          "credit": "Photographer unidentified",
+          "dateEvidence": "Filed under 1991 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or in a labelled contact sheet: photo-derived idol isolated/composited with flat color, digital rays, clouds or decorative graphic background. Not an unaltered documentary scene photograph."
+        },
+        {
+          "id": "mlg-1991-1",
+          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1991/",
+          "kind": "unassessed",
+          "label": "Photo-derived devotional print / original unverified",
+          "caption": "Lalbaug, Ganesh Galli Ganpati – 1991. A photo-derived devotional print; original capture, print history and background treatment remain unverified.",
+          "credit": "Photographer unidentified. Posted by Vikram Kharvi; not assumed to be the photographer.",
+          "dateEvidence": "Lalbaug, Ganesh Galli Ganpati – 1991",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "P14"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Inspected devotional card/print scan. Photographic material may be present, but background treatment and original in-situ photographic provenance are not established. Do not count as a confirmed documentary photograph."
+        }
+      ]
+    },
+    {
+      "year": 1992,
+      "title": "Images from 1992",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "H02",
+        "P15"
+      ],
+      "media": [
+        {
+          "id": "official-1992",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "treated",
+          "label": "Digitally treated image",
+          "caption": "Image filed under 1992 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
+          "credit": "Photographer unidentified; visible credit: KALAKAR (graphic mark, not a photographer attribution)",
+          "dateEvidence": "Filed under 1992 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or in a labelled contact sheet: photo-derived idol isolated/composited with flat color, digital rays, clouds or decorative graphic background. Not an unaltered documentary scene photograph."
+        },
+        {
+          "id": "mlg-1992-1",
+          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1992/",
+          "kind": "unassessed",
+          "label": "Photo-derived devotional print / original unverified",
+          "caption": "Lalbaug, Ganesh Galli Ganpati – 1992. A photo-derived devotional print; original capture, print history and background treatment remain unverified.",
+          "credit": "Photographer unidentified. Posted by Vikram Kharvi; not assumed to be the photographer.",
+          "dateEvidence": "Lalbaug, Ganesh Galli Ganpati – 1992",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "P15"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Inspected devotional card/print scan. Photographic material may be present, but background treatment and original in-situ photographic provenance are not established. Do not count as a confirmed documentary photograph."
+        }
+      ]
+    },
+    {
+      "year": 1993,
+      "title": "Images from 1993",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "H02",
+        "P16"
+      ],
+      "media": [
+        {
+          "id": "official-1993",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "treated",
+          "label": "Digitally treated image",
+          "caption": "Image filed under 1993 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
+          "credit": "Photographer unidentified",
+          "dateEvidence": "Filed under 1993 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or in a labelled contact sheet: photo-derived idol isolated/composited with flat color, digital rays, clouds or decorative graphic background. Not an unaltered documentary scene photograph."
+        },
+        {
+          "id": "mlg-1993-1",
+          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1993/",
+          "kind": "unassessed",
+          "label": "Photo-derived devotional print / original unverified",
+          "caption": "Lalbaug, Ganesh Galli Ganpati – 1993. A photo-derived devotional print; original capture, print history and background treatment remain unverified.",
+          "credit": "Photographer unidentified. Posted by Vikram Kharvi; not assumed to be the photographer.",
+          "dateEvidence": "Lalbaug, Ganesh Galli Ganpati – 1993",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "P16"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Inspected devotional card/print scan. Photographic material may be present, but background treatment and original in-situ photographic provenance are not established. Do not count as a confirmed documentary photograph."
+        }
+      ]
+    },
+    {
+      "year": 1994,
+      "title": "Images from 1994",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "H02",
+        "P17"
+      ],
+      "media": [
+        {
+          "id": "official-1994",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "treated",
+          "label": "Digitally treated image",
+          "caption": "Image filed under 1994 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
+          "credit": "Photographer unidentified",
+          "dateEvidence": "Filed under 1994 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or in a labelled contact sheet: photo-derived idol isolated/composited with flat color, digital rays, clouds or decorative graphic background. Not an unaltered documentary scene photograph."
+        },
+        {
+          "id": "mlg-1994-1",
+          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-%e2%80%93-1994/",
+          "kind": "unassessed",
+          "label": "Photo-derived devotional print / original unverified",
+          "caption": "Lalbaug, Ganesh Galli Ganpati – 1994. A photo-derived devotional print; original capture, print history and background treatment remain unverified.",
+          "credit": "Photographer unidentified. Posted by Vikram Kharvi; not assumed to be the photographer.",
+          "dateEvidence": "Lalbaug, Ganesh Galli Ganpati – 1994",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "P17"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Inspected devotional card/print scan. Photographic material may be present, but background treatment and original in-situ photographic provenance are not established. Do not count as a confirmed documentary photograph."
+        }
+      ]
+    },
+    {
+      "year": 1995,
+      "title": "Images from 1995",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "H02",
+        "P18"
+      ],
+      "media": [
+        {
+          "id": "official-1995",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "treated",
+          "label": "Digitally treated image",
+          "caption": "Image filed under 1995 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
+          "credit": "Photographer unidentified",
+          "dateEvidence": "Filed under 1995 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or in a labelled contact sheet: photo-derived idol isolated/composited with flat color, digital rays, clouds or decorative graphic background. Not an unaltered documentary scene photograph."
+        },
+        {
+          "id": "mlg-1995-1",
+          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-%e2%80%93-1995/",
+          "kind": "unassessed",
+          "label": "Photo-derived devotional print / original unverified",
+          "caption": "Lalbaug, Ganesh Galli Ganpati – 1995. A photo-derived devotional print; original capture, print history and background treatment remain unverified.",
+          "credit": "Photographer unidentified. Posted by Vikram Kharvi; not assumed to be the photographer.",
+          "dateEvidence": "Lalbaug, Ganesh Galli Ganpati – 1995",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "P18"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Inspected devotional card/print scan. Photographic material may be present, but background treatment and original in-situ photographic provenance are not established. Do not count as a confirmed documentary photograph."
+        }
+      ]
+    },
+    {
+      "year": 1996,
+      "title": "Images from 1996",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "H02",
+        "P19"
+      ],
+      "media": [
+        {
+          "id": "official-1996",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "treated",
+          "label": "Digitally treated image",
+          "caption": "Image filed under 1996 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
+          "credit": "Photographer unidentified; visible credit: KALAKAR (graphic mark, not a photographer attribution)",
+          "dateEvidence": "Filed under 1996 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or in a labelled contact sheet: photo-derived idol isolated/composited with flat color, digital rays, clouds or decorative graphic background. Not an unaltered documentary scene photograph."
+        },
+        {
+          "id": "mlg-1996-1",
+          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/1124/",
+          "kind": "unassessed",
+          "label": "Photo-derived devotional print / original unverified",
+          "caption": "Lalbaug, Ganesh Galli Ganpati – 1996. A photo-derived devotional print; original capture, print history and background treatment remain unverified.",
+          "credit": "Photographer unidentified. Posted by Vikram Kharvi; not assumed to be the photographer.",
+          "dateEvidence": "Lalbaug, Ganesh Galli Ganpati – 1996",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "P19"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Inspected devotional card/print scan. Photographic material may be present, but background treatment and original in-situ photographic provenance are not established. Do not count as a confirmed documentary photograph."
+        }
+      ]
+    },
+    {
+      "year": 1997,
+      "title": "Images from 1997",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "H02",
+        "P20"
+      ],
+      "media": [
+        {
+          "id": "official-1997",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "treated",
+          "label": "Digitally treated image",
+          "caption": "Image filed under 1997 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
+          "credit": "Photographer unidentified; visible credit: KALAKAR (graphic mark, not a photographer attribution)",
+          "dateEvidence": "Filed under 1997 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or in a labelled contact sheet: photo-derived idol isolated/composited with flat color, digital rays, clouds or decorative graphic background. Not an unaltered documentary scene photograph."
+        },
+        {
+          "id": "mlg-1997-1",
+          "originalUrl": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-%e2%80%93-1997/",
+          "kind": "unassessed",
+          "label": "Photo-derived devotional print / original unverified",
+          "caption": "Lalbaug, Ganesh Galli Ganpati – 1997. A photo-derived devotional print; original capture, print history and background treatment remain unverified.",
+          "credit": "Photographer unidentified. Posted by Vikram Kharvi; not assumed to be the photographer.",
+          "dateEvidence": "Lalbaug, Ganesh Galli Ganpati – 1997",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "P20"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Inspected devotional card/print scan. Photographic material may be present, but background treatment and original in-situ photographic provenance are not established. Do not count as a confirmed documentary photograph."
+        }
+      ]
+    },
+    {
+      "year": 1998,
+      "title": "Images from 1998",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No independently obtained documentary scene photograph in this research pass; treated/source-labelled imagery may still exist.",
+          "sourceIds": [
+            "H02"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "H02"
+      ],
+      "media": [
+        {
+          "id": "official-1998",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "treated",
+          "label": "Digitally treated image",
+          "caption": "Image filed under 1998 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
+          "credit": "Photographer unidentified",
+          "dateEvidence": "Filed under 1998 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or in a labelled contact sheet: photo-derived idol isolated/composited with flat color, digital rays, clouds or decorative graphic background. Not an unaltered documentary scene photograph."
+        }
+      ]
+    },
+    {
+      "year": 1999,
+      "title": "Images from 1999",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No independently obtained documentary scene photograph in this research pass; treated/source-labelled imagery may still exist.",
+          "sourceIds": [
+            "H02"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "H02"
+      ],
+      "media": [
+        {
+          "id": "official-1999",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "treated",
+          "label": "Digitally treated image",
+          "caption": "Image filed under 1999 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
+          "credit": "Photographer unidentified",
+          "dateEvidence": "Filed under 1999 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or in a labelled contact sheet: photo-derived idol isolated/composited with flat color, digital rays, clouds or decorative graphic background. Not an unaltered documentary scene photograph."
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "title": "Images from 2000",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No independently obtained documentary scene photograph in this research pass; treated/source-labelled imagery may still exist.",
+          "sourceIds": [
+            "H02"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "H02"
+      ],
+      "media": [
+        {
+          "id": "official-2000",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "treated",
+          "label": "Digitally treated image",
+          "caption": "Image filed under 2000 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
+          "credit": "Photographer unidentified; visible credit: KALAKAR (graphic mark, not a photographer attribution)",
+          "dateEvidence": "Filed under 2000 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or in a labelled contact sheet: photo-derived idol isolated/composited with flat color, digital rays, clouds or decorative graphic background. Not an unaltered documentary scene photograph."
+        }
+      ]
+    },
+    {
+      "year": 2001,
+      "title": "Images from 2001",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No independently obtained documentary scene photograph in this research pass; treated/source-labelled imagery may still exist.",
+          "sourceIds": [
+            "H02"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "H02"
+      ],
+      "media": [
+        {
+          "id": "official-2001",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "treated",
+          "label": "Digitally treated image",
+          "caption": "Image filed under 2001 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
+          "credit": "Photographer unidentified",
+          "dateEvidence": "Filed under 2001 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or in a labelled contact sheet: photo-derived idol isolated/composited with flat color, digital rays, clouds or decorative graphic background. Not an unaltered documentary scene photograph."
+        }
+      ]
+    },
+    {
+      "year": 2002,
+      "title": "Temple sets become a recurring programme",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No independently obtained documentary scene photograph in this research pass; treated/source-labelled imagery may still exist.",
+          "sourceIds": [
+            "H02"
+          ]
+        },
+        {
+          "text": "The 75th festival year is remembered as the start of elaborate landmark recreations, beginning with Madurai's Meenakshi Temple.",
+          "sourceIds": [
+            "H04",
+            "H05",
+            "H10",
+            "H25"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "H02",
+        "H04",
+        "H05",
+        "H10",
+        "H25"
+      ],
+      "media": [
+        {
+          "id": "official-2002",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "treated",
+          "label": "Digitally treated image",
+          "caption": "Image filed under 2002 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
+          "credit": "Photographer unidentified; visible credit: KALAKAR (graphic mark, not a photographer attribution)",
+          "dateEvidence": "Filed under 2002 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or in a labelled contact sheet: photo-derived idol isolated/composited with flat color, digital rays, clouds or decorative graphic background. Not an unaltered documentary scene photograph."
+        }
+      ]
+    },
+    {
+      "year": 2003,
+      "title": "Images from 2003",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No independently obtained documentary scene photograph in this research pass; treated/source-labelled imagery may still exist.",
+          "sourceIds": [
+            "H02"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "H02"
+      ],
+      "media": [
+        {
+          "id": "official-2003",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "treated",
+          "label": "Digitally treated image",
+          "caption": "Image filed under 2003 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
+          "credit": "Photographer unidentified",
+          "dateEvidence": "Filed under 2003 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or in a labelled contact sheet: photo-derived idol isolated/composited with flat color, digital rays, clouds or decorative graphic background. Not an unaltered documentary scene photograph."
+        }
+      ]
+    },
+    {
+      "year": 2004,
+      "title": "The formal name Mumbai Cha Raja",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No independently obtained documentary scene photograph in this research pass; treated/source-labelled imagery may still exist.",
+          "sourceIds": [
+            "H02"
+          ]
+        },
+        {
+          "text": "The name Mumbai Cha Raja was officially adopted in 2004.",
+          "sourceIds": [
+            "H12",
+            "H22"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "H02",
+        "H12",
+        "H22"
+      ],
+      "media": [
+        {
+          "id": "official-2004",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "treated",
+          "label": "Digitally treated image",
+          "caption": "Image filed under 2004 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
+          "credit": "Photographer unidentified",
+          "dateEvidence": "Filed under 2004 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or in a labelled contact sheet: photo-derived idol isolated/composited with flat color, digital rays, clouds or decorative graphic background. Not an unaltered documentary scene photograph."
+        }
+      ]
+    },
+    {
+      "year": 2005,
+      "title": "Images from 2005",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No independently obtained documentary scene photograph in this research pass; treated/source-labelled imagery may still exist.",
+          "sourceIds": [
+            "H02"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "H02"
+      ],
+      "media": [
+        {
+          "id": "official-2005",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "treated",
+          "label": "Digitally treated image",
+          "caption": "Image filed under 2005 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
+          "credit": "Photographer unidentified",
+          "dateEvidence": "Filed under 2005 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or in a labelled contact sheet: photo-derived idol isolated/composited with flat color, digital rays, clouds or decorative graphic background. Not an unaltered documentary scene photograph."
+        }
+      ]
+    },
+    {
+      "year": 2006,
+      "title": "Images from 2006",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No independently obtained documentary scene photograph in this research pass; treated/source-labelled imagery may still exist.",
+          "sourceIds": [
+            "H02"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "H02"
+      ],
+      "media": [
+        {
+          "id": "official-2006",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "treated",
+          "label": "Digitally treated image",
+          "caption": "Image filed under 2006 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
+          "credit": "Photographer unidentified",
+          "dateEvidence": "Filed under 2006 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or in a labelled contact sheet: photo-derived idol isolated/composited with flat color, digital rays, clouds or decorative graphic background. Not an unaltered documentary scene photograph."
+        }
+      ]
+    },
+    {
+      "year": 2007,
+      "title": "Images from 2007",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "H02",
+        "P21",
+        "P22"
+      ],
+      "media": [
+        {
+          "id": "flickr-2007",
+          "originalUrl": "https://www.flickr.com/photos/20701652@N07/2015642898",
+          "kind": "photograph",
+          "label": "Photograph",
+          "caption": "Ganesh galli Decoration copy",
+          "credit": "amitmasavkar",
+          "dateEvidence": "Flickr title identifies Ganesh Galli; taken 2007-09-25, uploaded 2007-11-14.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "P21"
+          ],
+          "yearConfidence": "source_dated",
+          "assessment": "Inspected actual scene photograph: idol procession, idol installed indoors, or pandal exterior as described by subject field."
+        },
+        {
+          "id": "flickr-2007-idol",
+          "originalUrl": "https://www.flickr.com/photos/14577288@N03/1505209246/in/album-72157602296603832",
+          "kind": "photograph",
+          "label": "Photograph",
+          "caption": "Grand Entry...Ganesh Galli",
+          "credit": "Rupali (rups_vg)",
+          "dateEvidence": "Individual page identifies Ganesh Galli, Lalbagh, Mumbai; taken/uploaded 2007-10-07. Album Ganpati 2007 describes the 25 September 2007 visarjan. Capture day differs between page and album, but both support 2007.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "P22"
+          ],
+          "yearConfidence": "source_dated",
+          "assessment": "Actual street procession with Ganesha as Shiva and a vehicle/figure below; crowd and urban buildings visible."
+        },
+        {
+          "id": "official-2007",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "treated",
+          "label": "Digitally treated image",
+          "caption": "Image filed under 2007 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
+          "credit": "Photographer unidentified",
+          "dateEvidence": "Filed under 2007 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or in a labelled contact sheet: photo-derived idol isolated/composited with flat color, digital rays, clouds or decorative graphic background. Not an unaltered documentary scene photograph."
+        }
+      ]
+    },
+    {
+      "year": 2008,
+      "title": "Images from 2008",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "No independently obtained documentary scene photograph in this research pass; treated/source-labelled imagery may still exist.",
+          "sourceIds": [
+            "H02"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "H02"
+      ],
+      "media": [
+        {
+          "id": "official-2008",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "treated",
+          "label": "Digitally treated image",
+          "caption": "Image filed under 2008 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
+          "credit": "Photographer unidentified",
+          "dateEvidence": "Filed under 2008 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or in a labelled contact sheet: photo-derived idol isolated/composited with flat color, digital rays, clouds or decorative graphic background. Not an unaltered documentary scene photograph."
+        }
+      ]
+    },
+    {
+      "year": 2009,
+      "title": "Images from 2009",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "H02",
+        "P23"
+      ],
+      "media": [
+        {
+          "id": "flickr-2009",
+          "originalUrl": "https://www.flickr.com/photos/ashugalande/3936079421",
+          "kind": "photograph",
+          "label": "Photograph",
+          "caption": "Ganesh Galli Ganpati2009",
+          "credit": "Ashish Galande",
+          "dateEvidence": "Individual title identifies year 2009; taken/uploaded 2009-09-20.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "P23"
+          ],
+          "yearConfidence": "source_dated",
+          "assessment": "Inspected actual scene photograph: idol procession, idol installed indoors, or pandal exterior as described by subject field."
+        },
+        {
+          "id": "official-2009",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "treated",
+          "label": "Digitally treated image",
+          "caption": "Image filed under 2009 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
+          "credit": "Photographer unidentified",
+          "dateEvidence": "Filed under 2009 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or in a labelled contact sheet: photo-derived idol isolated/composited with flat color, digital rays, clouds or decorative graphic background. Not an unaltered documentary scene photograph."
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "title": "Chamundeshwari temple set",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": "Chamundeshwari Temple, Mysore",
+      "notes": [
+        {
+          "text": "The 2010 set recreated Mysore's Chamundeshwari Temple.",
+          "sourceIds": [
+            "H25"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "H02",
+        "P24",
+        "H25"
+      ],
+      "media": [
+        {
+          "id": "flickr-2010",
+          "originalUrl": "https://www.flickr.com/photos/ashugalande/5019953782/",
+          "kind": "photograph",
+          "label": "Photograph",
+          "caption": "Ganesh Galli, lalbaugh, Mumbai2010",
+          "credit": "Ashish Galande",
+          "dateEvidence": "Individual title identifies year 2010; taken/uploaded 2010-09-24.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "P24"
+          ],
+          "yearConfidence": "source_dated",
+          "assessment": "Inspected actual scene photograph: idol procession, idol installed indoors, or pandal exterior as described by subject field."
+        },
+        {
+          "id": "official-2010",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "treated",
+          "label": "Digitally treated image",
+          "caption": "Image filed under 2010 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
+          "credit": "Photographer unidentified",
+          "dateEvidence": "Filed under 2010 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or in a labelled contact sheet: photo-derived idol isolated/composited with flat color, digital rays, clouds or decorative graphic background. Not an unaltered documentary scene photograph."
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "title": "A reported 24.5-foot idol",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": "Vijay Khatu",
+      "theme": "Mallikarjun Temple",
+      "notes": [
+        {
+          "text": "No independently obtained documentary scene photograph in this research pass; treated/source-labelled imagery may still exist.",
+          "sourceIds": [
+            "H02"
+          ]
+        },
+        {
+          "text": "A contemporary report quotes the secretary saying 2011 was Vijay Khatu's first idol for the mandal, a lotus-seated tribute to his teacher Weling.",
+          "sourceIds": [
+            "H08"
+          ]
+        },
+        {
+          "text": "The same report describes the 2011 idol as 24.5 feet and the set as Mallikarjun Temple.",
+          "sourceIds": [
+            "H08"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "H02",
+        "H08"
+      ],
+      "media": [
+        {
+          "id": "official-2011",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "treated",
+          "label": "Digitally treated image",
+          "caption": "Image filed under 2011 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
+          "credit": "Photographer unidentified",
+          "dateEvidence": "Filed under 2011 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or in a labelled contact sheet: photo-derived idol isolated/composited with flat color, digital rays, clouds or decorative graphic background. Not an unaltered documentary scene photograph."
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "title": "Pashupatinath and another Weling tribute",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": "Vijay Khatu",
+      "theme": "Pashupatinath Temple, Kathmandu",
+      "notes": [
+        {
+          "text": "Mid-day identifies Vijay Khatu as the 2012 sculptor and the decoration as Kathmandu's Pashupatinath Temple.",
+          "sourceIds": [
+            "H09"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "H02",
+        "P25",
+        "H09"
+      ],
+      "media": [
+        {
+          "id": "mlg-2012-1",
+          "originalUrl": "https://mylordganesha.wordpress.com/2012/09/22/ganesh-galli-2012-pashupatinath-temple/",
+          "kind": "photograph",
+          "label": "Photograph",
+          "caption": "Ganesh Galli 2012 – Pashupatinath Temple",
+          "credit": "Photographer unidentified. Posted by Vikram Kharvi; not assumed to be the photographer.",
+          "dateEvidence": "Ganesh Galli 2012 – Pashupatinath Temple",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "P25"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or as labelled contact sheet. Historic files are scanned photographic-looking devotional cards/prints with red borders and staged backdrops; original negative, print history and possible retouching are not verified. Recent files show in-situ idol/detail or pandal views."
+        },
+        {
+          "id": "mlg-2012-2",
+          "originalUrl": "https://mylordganesha.wordpress.com/2012/09/22/ganesh-galli-2012-pashupatinath-temple/",
+          "kind": "photograph",
+          "label": "Photograph",
+          "caption": "Ganesh Galli 2012 – Pashupatinath Temple",
+          "credit": "Photographer unidentified. Posted by Vikram Kharvi; not assumed to be the photographer.",
+          "dateEvidence": "Ganesh Galli 2012 – Pashupatinath Temple",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "P25"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or as labelled contact sheet. Historic files are scanned photographic-looking devotional cards/prints with red borders and staged backdrops; original negative, print history and possible retouching are not verified. Recent files show in-situ idol/detail or pandal views."
+        },
+        {
+          "id": "mlg-2012-3",
+          "originalUrl": "https://mylordganesha.wordpress.com/2012/09/22/ganesh-galli-2012-pashupatinath-temple/",
+          "kind": "photograph",
+          "label": "Photograph",
+          "caption": "Ganesh Galli 2012 – Pashupatinath Temple",
+          "credit": "Photographer unidentified. Posted by Vikram Kharvi; not assumed to be the photographer.",
+          "dateEvidence": "Ganesh Galli 2012 – Pashupatinath Temple",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "P25"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or as labelled contact sheet. Historic files are scanned photographic-looking devotional cards/prints with red borders and staged backdrops; original negative, print history and possible retouching are not verified. Recent files show in-situ idol/detail or pandal views."
+        },
+        {
+          "id": "official-2012",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "treated",
+          "label": "Digitally treated image",
+          "caption": "Image filed under 2012 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
+          "credit": "Photographer unidentified",
+          "dateEvidence": "Filed under 2012 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or in a labelled contact sheet: photo-derived idol isolated/composited with flat color, digital rays, clouds or decorative graphic background. Not an unaltered documentary scene photograph."
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "title": "Somnath",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": "Somnath Temple",
+      "notes": [
+        {
+          "text": "Contemporary accounts identify the 2013 set as Somnath Temple, Gujarat.",
+          "sourceIds": [
+            "H10",
+            "H28"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "H02",
+        "P26",
+        "H10",
+        "H28"
+      ],
+      "media": [
+        {
+          "id": "official-2013",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "photograph",
+          "label": "Photograph",
+          "caption": "Image filed under 2013 in the mandal's retrospective gallery.",
+          "credit": "Photographer unidentified",
+          "dateEvidence": "Filed under 2013 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected: photographic view of idol in its stage/pandal setting. Normal color processing, cropping or watermarking may exist; original capture file and independent date authentication are unavailable."
+        },
+        {
+          "id": "mlg-2013-1",
+          "originalUrl": "https://mylordganesha.wordpress.com/2013/09/12/mumbaicha-raja-ganesh-galli-2013/",
+          "kind": "photograph",
+          "label": "Photograph",
+          "caption": "Mumbaicha Raja – Ganesh Galli 2013",
+          "credit": "Photographer unidentified. Posted by Vikram Kharvi; not assumed to be the photographer.",
+          "dateEvidence": "Mumbaicha Raja – Ganesh Galli 2013",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "P26"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or as labelled contact sheet. Historic files are scanned photographic-looking devotional cards/prints with red borders and staged backdrops; original negative, print history and possible retouching are not verified. Recent files show in-situ idol/detail or pandal views."
+        },
+        {
+          "id": "mlg-2013-2",
+          "originalUrl": "https://mylordganesha.wordpress.com/2013/09/12/mumbaicha-raja-ganesh-galli-2013/",
+          "kind": "photograph",
+          "label": "Photograph",
+          "caption": "Mumbaicha Raja – Ganesh Galli 2013",
+          "credit": "Photographer unidentified. Posted by Vikram Kharvi; not assumed to be the photographer.",
+          "dateEvidence": "Mumbaicha Raja – Ganesh Galli 2013",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "P26"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or as labelled contact sheet. Historic files are scanned photographic-looking devotional cards/prints with red borders and staged backdrops; original negative, print history and possible retouching are not verified. Recent files show in-situ idol/detail or pandal views."
+        },
+        {
+          "id": "mlg-2013-3",
+          "originalUrl": "https://mylordganesha.wordpress.com/2013/09/12/mumbaicha-raja-ganesh-galli-2013/",
+          "kind": "photograph",
+          "label": "Photograph",
+          "caption": "Mumbaicha Raja – Ganesh Galli 2013",
+          "credit": "Photographer unidentified. Posted by Vikram Kharvi; not assumed to be the photographer.",
+          "dateEvidence": "Mumbaicha Raja – Ganesh Galli 2013",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "P26"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or as labelled contact sheet. Historic files are scanned photographic-looking devotional cards/prints with red borders and staged backdrops; original negative, print history and possible retouching are not verified. Recent files show in-situ idol/detail or pandal views."
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "title": "Jejuri's Khandoba temple",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": "Khandoba Temple, Jejuri",
+      "notes": [
+        {
+          "text": "Rediff's on-site report describes a Khandoba temple set and a throne-seated idol.",
+          "sourceIds": [
+            "H11"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "H02",
+        "H11"
+      ],
+      "media": [
+        {
+          "id": "press-2014",
+          "originalUrl": "https://www.rediff.com/news/special/mumbaicha-raja-and-a-sea-of-devotees/20140830.htm",
+          "kind": "photograph",
+          "label": "Contemporary press photograph",
+          "caption": "The 2014 installation in a contemporaneously published photoessay.",
+          "credit": "Hitesh Harisinghani / Rediff.com",
+          "dateEvidence": "Published 2014-08-30 in a report identifying the current festival year.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H11"
+          ],
+          "yearConfidence": "contemporary_publication"
+        },
+        {
+          "id": "official-2014",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "photograph",
+          "label": "Photograph",
+          "caption": "Image filed under 2014 in the mandal's retrospective gallery.",
+          "credit": "Photographer unidentified",
+          "dateEvidence": "Filed under 2014 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected: photographic view of idol in its stage/pandal setting. Normal color processing, cropping or watermarking may exist; original capture file and independent date authentication are unavailable."
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "title": "Sarangpur Bajrangbali temple",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": "Sarangpur Bajrangbali Temple",
+      "notes": [
+        {
+          "text": "The 2015 set resembled Sarangpur's Bajrangbali Temple.",
+          "sourceIds": [
+            "H26"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "H02",
+        "P27",
+        "H26"
+      ],
+      "media": [
+        {
+          "id": "official-2015",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "photograph",
+          "label": "Photograph",
+          "caption": "Image filed under 2015 in the mandal's retrospective gallery.",
+          "credit": "Photographer unidentified",
+          "dateEvidence": "Filed under 2015 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected: photographic view of idol in its stage/pandal setting. Normal color processing, cropping or watermarking may exist; original capture file and independent date authentication are unavailable."
+        },
+        {
+          "id": "mlg-2015-1",
+          "originalUrl": "https://mylordganesha.wordpress.com/2015/09/18/mumbaicha-raja-ganesh-galli-2015/",
+          "kind": "photograph",
+          "label": "Photograph",
+          "caption": "Mumbaicha Raja – Ganesh Galli 2015",
+          "credit": "Photographer unidentified; visible credit: Small photography watermark visible; name not confidently transcribed.. Posted by Vikram Kharvi; not assumed to be the photographer.",
+          "dateEvidence": "Mumbaicha Raja – Ganesh Galli 2015",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "P27"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or as labelled contact sheet. Historic files are scanned photographic-looking devotional cards/prints with red borders and staged backdrops; original negative, print history and possible retouching are not verified. Recent files show in-situ idol/detail or pandal views."
+        },
+        {
+          "id": "mlg-2015-2",
+          "originalUrl": "https://mylordganesha.wordpress.com/2015/09/18/mumbaicha-raja-ganesh-galli-2015/",
+          "kind": "photograph",
+          "label": "Photograph",
+          "caption": "Mumbaicha Raja – Ganesh Galli 2015",
+          "credit": "Photographer unidentified. Posted by Vikram Kharvi; not assumed to be the photographer.",
+          "dateEvidence": "Mumbaicha Raja – Ganesh Galli 2015",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "P27"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or as labelled contact sheet. Historic files are scanned photographic-looking devotional cards/prints with red borders and staged backdrops; original negative, print history and possible retouching are not verified. Recent files show in-situ idol/detail or pandal views."
+        },
+        {
+          "id": "mlg-2015-3",
+          "originalUrl": "https://mylordganesha.wordpress.com/2015/09/18/mumbaicha-raja-ganesh-galli-2015/",
+          "kind": "photograph",
+          "label": "Photograph",
+          "caption": "Mumbaicha Raja – Ganesh Galli 2015",
+          "credit": "Photographer unidentified. Posted by Vikram Kharvi; not assumed to be the photographer.",
+          "dateEvidence": "Mumbaicha Raja – Ganesh Galli 2015",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "P27"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected individually or as labelled contact sheet. Historic files are scanned photographic-looking devotional cards/prints with red borders and staged backdrops; original negative, print history and possible retouching are not verified. Recent files show in-situ idol/detail or pandal views."
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "title": "Badrinath and Vishnu",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": "Badrinath Temple",
+      "notes": [
+        {
+          "text": "Mumbai Mirror reports a Badrinath temple set and Ganesh in the form of Vishnu.",
+          "sourceIds": [
+            "H12"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "H02",
+        "H12"
+      ],
+      "media": [
+        {
+          "id": "official-2016",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "photograph",
+          "label": "Photograph",
+          "caption": "Image filed under 2016 in the mandal's retrospective gallery.",
+          "credit": "Photographer unidentified",
+          "dateEvidence": "Filed under 2016 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected: photographic view of idol in its stage/pandal setting. Normal color processing, cropping or watermarking may exist; original capture file and independent date authentication are unavailable."
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "title": "Golden Temple of Vellore",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": "Vellore Golden Temple (retrospective attribution)",
+      "notes": [
+        {
+          "text": "A 2019 retrospective lists the Sri Laxmi Narayani Golden Temple among previous sets; another 2019 guide places it in 2017.",
+          "sourceIds": [
+            "H14",
+            "H27"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "H02",
+        "H14",
+        "H27"
+      ],
+      "media": [
+        {
+          "id": "official-2017",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "photograph",
+          "label": "Photograph",
+          "caption": "Image filed under 2017 in the mandal's retrospective gallery.",
+          "credit": "Photographer unidentified",
+          "dateEvidence": "Filed under 2017 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected: photographic view of idol in its stage/pandal setting. Normal color processing, cropping or watermarking may exist; original capture file and independent date authentication are unavailable."
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "title": "Gwalior Sun Temple",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": "Sun Temple, Gwalior",
+      "notes": [
+        {
+          "text": "Rediff's report interviews secretary Swapnil Parab about Gwalior's Sun Temple set and a horse-seated idol.",
+          "sourceIds": [
+            "H13"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "H02",
+        "H13"
+      ],
+      "media": [
+        {
+          "id": "official-2018",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "photograph",
+          "label": "Photograph",
+          "caption": "Image filed under 2018 in the mandal's retrospective gallery.",
+          "credit": "Photographer unidentified",
+          "dateEvidence": "Filed under 2018 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected: photographic view of idol in its stage/pandal setting. Normal color processing, cropping or watermarking may exist; original capture file and independent date authentication are unavailable."
+        },
+        {
+          "id": "rediff-2018-pandal",
+          "originalUrl": "https://www.rediff.com/getahead/report/photos-what-to-expect-at-mumbai-oldest-ganesh-pandals/20180912.htm",
+          "kind": "photograph",
+          "label": "Photograph",
+          "caption": "Ganesh Galli Sun Temple pandal2018",
+          "credit": "Satish Bodas / Rediff.com",
+          "dateEvidence": "2018-09-13 article caption identifies this year's Ganesh Galli pandal; accompanying quotation describes Sun Temple replica.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H13"
+          ],
+          "yearConfidence": "source_dated",
+          "assessment": "Inspected in-situ photograph, matching the captioned Ganesh Galli subject."
+        },
+        {
+          "id": "rediff-2018-idol",
+          "originalUrl": "https://www.rediff.com/getahead/report/photos-what-to-expect-at-mumbai-oldest-ganesh-pandals/20180912.htm",
+          "kind": "photograph",
+          "label": "Photograph",
+          "caption": "Ganesh Galli idol preparations2018",
+          "credit": "Sahil Salvi",
+          "dateEvidence": "2018-09-13 article identifies this year's Ganesh Galli idol pictured above as seated on a horse.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H13"
+          ],
+          "yearConfidence": "source_dated",
+          "assessment": "Inspected in-situ photograph, matching the captioned Ganesh Galli subject."
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "title": "An imagined Ayodhya Nagri",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": "Imagined Ayodhya",
+      "notes": [
+        {
+          "text": "Art director Nitesh Kumar and more than sixty workers created an imagined Ram Mandir/Ayodhya setting, using Ramayana paintings and sculptures.",
+          "sourceIds": [
+            "H14"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "H02",
+        "H14"
+      ],
+      "media": [
+        {
+          "id": "official-2019",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "photograph",
+          "label": "Photograph",
+          "caption": "Image filed under 2019 in the mandal's retrospective gallery.",
+          "credit": "Photographer unidentified",
+          "dateEvidence": "Filed under 2019 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected: photographic view of idol in its stage/pandal setting. Normal color processing, cropping or watermarking may exist; original capture file and independent date authentication are unavailable."
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "title": "Contributions waived",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "The mandal announced a smaller idol instead of the usual monumental one. June reports disagree: TV9 gives three feet; ANI/Rediff gives four.",
+          "sourceIds": [
+            "H15",
+            "H16"
+          ]
+        },
+        {
+          "text": "TV9 reported that the mandal waived local subscriber contributions because of pandemic financial hardship.",
+          "sourceIds": [
+            "H15",
+            "H22"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "H02",
+        "H15",
+        "H16",
+        "H22"
+      ],
+      "media": [
+        {
+          "id": "official-2020",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "photograph",
+          "label": "Photograph",
+          "caption": "Image filed under 2020 in the mandal's retrospective gallery.",
+          "credit": "Photographer unidentified",
+          "dateEvidence": "Filed under 2020 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected: photographic view of idol in its stage/pandal setting. Normal color processing, cropping or watermarking may exist; original capture file and independent date authentication are unavailable."
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "title": "Four-foot idol and online viewing",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "Mumbai Tak's first-look report describes a four-foot idol under the pandemic rules and online darshan.",
+          "sourceIds": [
+            "H17"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "H02",
+        "H17"
+      ],
+      "media": [
+        {
+          "id": "official-2021",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "photograph",
+          "label": "Photograph",
+          "caption": "Image filed under 2021 in the mandal's retrospective gallery.",
+          "credit": "Photographer unidentified",
+          "dateEvidence": "Filed under 2021 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected: photographic view of idol in its stage/pandal setting. Normal color processing, cropping or watermarking may exist; original capture file and independent date authentication are unavailable."
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "title": "Kashi Vishwanath and Vishwakarma",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": "Satish Walivadekar (reported)",
+      "theme": "Kashi Vishwanath Temple",
+      "notes": [
+        {
+          "text": "Indian Express names sculptor Satish Walivadekar and a Vishwakarma-form Ganesh, with a Kashi Vishwanath set by Kunal Vijay Sable's team.",
+          "sourceIds": [
+            "H18"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "H02",
+        "H18",
+        "P28"
+      ],
+      "media": [
+        {
+          "id": "press-2022",
+          "originalUrl": "https://www.mid-day.com/mumbai/mumbai-news/photo/in-photos-first-look-of-mumbaicha-raja-unveiled-ahead-of-ganesh-chaturthi-93947",
+          "kind": "photograph",
+          "label": "Contemporary press photograph",
+          "caption": "A photograph from the 2022 unveiling; the set evoked Kashi Vishwanath.",
+          "credit": "Pradeep Dhivar / Mid-day",
+          "dateEvidence": "Published 2022-08-30 in a report identifying the current festival year.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "P28"
+          ],
+          "yearConfidence": "contemporary_publication"
+        },
+        {
+          "id": "official-2022",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "photograph",
+          "label": "Photograph",
+          "caption": "Image filed under 2022 in the mandal's retrospective gallery.",
+          "credit": "Photographer unidentified",
+          "dateEvidence": "Filed under 2022 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected: photographic view of idol in its stage/pandal setting. Normal color processing, cropping or watermarking may exist; original capture file and independent date authentication are unavailable."
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "title": "Imagining Raigad",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": "Satish Walivadelar (spelling in source)",
+      "theme": "Imagined Raigad",
+      "notes": [
+        {
+          "text": "For Shivaji's coronation commemoration, the mandal commissioned an imagined Raigad setting by Aman Vidhate; FPJ credits sculptor Satish Walivadelar.",
+          "sourceIds": [
+            "H05"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "H02",
+        "H05"
+      ],
+      "media": [
+        {
+          "id": "official-2023",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "photograph",
+          "label": "Photograph",
+          "caption": "Image filed under 2023 in the mandal's retrospective gallery.",
+          "credit": "Photographer unidentified",
+          "dateEvidence": "Filed under 2023 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected: photographic view of idol in its stage/pandal setting. Normal color processing, cropping or watermarking may exist; original capture file and independent date authentication are unavailable."
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "title": "Ujjain Mahakal",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": null,
+      "theme": "Ujjain Mahakal",
+      "notes": [
+        {
+          "text": "No independently obtained documentary scene photograph in this research pass; treated/source-labelled imagery may still exist.",
+          "sourceIds": [
+            "H02"
+          ]
+        },
+        {
+          "text": "The official annual theme page records Ujjain Mahakal for 2024.",
+          "sourceIds": [
+            "H03"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "H02",
+        "H03",
+        "P29"
+      ],
+      "media": [
+        {
+          "id": "press-2024",
+          "originalUrl": "https://www.mid-day.com/mumbai/mumbai-news/photo/in-photos-first-look-of-mumbaicha-raja-idol-unveiled-for-ganeshotsav-2024-102071/1",
+          "kind": "photograph",
+          "label": "Contemporary press photograph",
+          "caption": "The 2024 idol, photographed inside its pandal. The setting evoked Ujjain Mahakal.",
+          "credit": "Atul Kamble / Mid-day",
+          "dateEvidence": "Published 2024-09-06 in a report identifying the current festival year.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "P29"
+          ],
+          "yearConfidence": "contemporary_publication"
+        },
+        {
+          "id": "official-2024",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "treated",
+          "label": "Digitally treated image",
+          "caption": "Image filed under 2024 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
+          "credit": "Photographer unidentified",
+          "dateEvidence": "Filed under 2024 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Photo-derived idol against smooth/cloud/temple graphic background with added branding; keep as a treated devotional image rather than a documentary scene."
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "title": "Akash Tirmal and Rameshwaram",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": "Akash Tirmal",
+      "theme": "Ramanathaswamy Temple, Rameshwaram",
+      "notes": [
+        {
+          "text": "No independently obtained documentary scene photograph in this research pass; treated/source-labelled imagery may still exist.",
+          "sourceIds": [
+            "H02"
+          ]
+        },
+        {
+          "text": "Mid-day credits Akash Tirmal with the 2025 idol; the official theme is Ramanathaswamy Temple at Rameshwaram.",
+          "sourceIds": [
+            "H04",
+            "H03",
+            "H19"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "H02",
+        "H04",
+        "H03",
+        "H19",
+        "P30"
+      ],
+      "media": [
+        {
+          "id": "press-2025",
+          "originalUrl": "https://www.mid-day.com/mumbai/mumbai-news/photo/in-photos-first-look-of-mumbaicha-raja-107074/1",
+          "kind": "photograph",
+          "label": "Contemporary press photograph",
+          "caption": "The 2025 unveiling. The gallery credits two photographers without assigning individual frames.",
+          "credit": "Manjeet Thakur and Raj Patil / Mid-day (joint gallery credit)",
+          "dateEvidence": "Published 2025-08-25 in a report identifying the current festival year.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "P30"
+          ],
+          "yearConfidence": "contemporary_publication"
+        },
+        {
+          "id": "official-2025",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "treated",
+          "label": "Digitally treated image",
+          "caption": "Image filed under 2025 in the mandal's retrospective gallery. The background or presentation is digitally treated; it is not an untouched period photograph.",
+          "credit": "Photographer unidentified",
+          "dateEvidence": "Filed under 2025 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Photo-derived idol against smooth/cloud/temple graphic background with added branding; keep as a treated devotional image rather than a documentary scene."
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "title": "Tirmal's Vaishnava interpretation",
+      "summary": "Surviving images gathered from the sources listed below. Year labels and media classifications are recorded item by item.",
+      "artist": "Akash Tirmal",
+      "theme": "Vaishnavanchi Wari",
+      "notes": [
+        {
+          "text": "The official 2026 decoration title is Ganesh Gallit Avatarnaar Vaishnavanchi Wari, evoking the Warkari pilgrimage and devotion to Vitthal.",
+          "sourceIds": [
+            "H03",
+            "H29"
+          ]
+        },
+        {
+          "text": "Tirmal describes a 22-foot base-to-crown, freehand PoP idol honoring youthful Ganesh forms of the 1980s; its imagery includes Vishnu's conch and discus, Jagannath, a crow and a finger-heart gesture.",
+          "sourceIds": [
+            "H19"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "H02",
+        "H03",
+        "H29",
+        "H19",
+        "P31"
+      ],
+      "media": [
+        {
+          "id": "press-2026",
+          "originalUrl": "https://www.freepressjournal.in/amp/lifestyle/mumbaicha-raja-2026-first-look-grand-balancing-ganpati-idol-unveiled-in-ganesh-galli-see-inside-visuals",
+          "kind": "photograph",
+          "label": "Contemporary press photograph",
+          "caption": "The 2026 installation, with the balancing figure above a lotus supported by a blue hand.",
+          "credit": "Salman Ansari / Free Press Journal",
+          "dateEvidence": "Published 2026-09-13 in a report identifying the current festival year.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "P31"
+          ],
+          "yearConfidence": "contemporary_publication"
+        },
+        {
+          "id": "official-2026",
+          "originalUrl": "https://mumbaicharaja.co/gallery",
+          "kind": "photograph",
+          "label": "Photograph",
+          "caption": "Image filed under 2026 in the mandal's retrospective gallery.",
+          "credit": "Photographer unidentified",
+          "dateEvidence": "Filed under 2026 by the mandal's retrospective gallery. This is a source label, not an independently verified capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "H02"
+          ],
+          "yearConfidence": "source_label_only",
+          "assessment": "Visually inspected: photographic view of idol in its stage/pandal setting. Normal color processing, cropping or watermarking may exist; original capture file and independent date authentication are unavailable."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "H01",
+      "title": "About Us / मंडळाचा इतिहास",
+      "publisher": "Lalbaug Sarvajanik Utsav Mandal",
+      "url": "https://mumbaicharaja.co/about",
+      "date": null,
+      "language": "Marathi, English",
+      "type": "institutional",
+      "note": "Undated institutional memory, no attached period citations or registration certificate."
+    },
+    {
+      "id": "H02",
+      "title": "Gallery / छायाचित्र संग्रह",
+      "publisher": "Lalbaug Sarvajanik Utsav Mandal",
+      "url": "https://mumbaicharaja.co/gallery",
+      "date": null,
+      "language": "Marathi, English",
+      "type": "institutional",
+      "note": "Many images are retrospective devotional composites with KALAKAR overlays; dates rely on archive labels, not inspected negatives."
+    },
+    {
+      "id": "H03",
+      "title": "Theme / गणेश सजावट",
+      "publisher": "Lalbaug Sarvajanik Utsav Mandal",
+      "url": "https://mumbaicharaja.co/theme",
+      "date": null,
+      "language": "Marathi, English",
+      "type": "institutional",
+      "note": "Page default selected 2025 even while a 2026 tab existed; no date inference from the default state."
+    },
+    {
+      "id": "H04",
+      "title": "Ganesh Chaturthi special | Inside the making of Mumbai Cha Raja's iconic 22-foot idol",
+      "publisher": "Mid-day",
+      "url": "https://www.mid-day.com/mumbai/mumbai-news/article/ganesh-chaturthi-2025-mumbai-cha-raja-s-iconic-22-foot-idol-is-handmade-without-moulds-here-s-why-it-matters-23589039",
+      "date": "2025-08-14",
+      "language": "English",
+      "type": "reporting",
+      "note": "Secretary's claim of unchanged height conflicts with pandemic and 2011 reporting; first/tallest claims not independently verified."
+    },
+    {
+      "id": "H05",
+      "title": "Mumbaicha Raja, oldest pandals in the city, celebrates 350 years of Shivaji Maharaj's coronation with a special theme",
+      "publisher": "Free Press Journal",
+      "url": "https://www.freepressjournal.in/weekend/mumbaicha-raja-oldest-pandals-in-the-city-celebrates-350-years-of-shivaji-maharajs-coronation-with-a-special-theme",
+      "date": "2023-09-17",
+      "language": "English",
+      "type": "reporting",
+      "note": "Historical continuity and height assertions are retrospective, not independent measurement."
+    },
+    {
+      "id": "H06",
+      "title": "Mumbai Cha Raja : मुंबईच्या राजाचे प्रथमदर्शन; बाप्पाचे आगळे रूप पाहून भाविक झाले भावुक,नक्की कसं पडलं ‘मुंबईचा राजा’ नाव?",
+      "publisher": "Navakal",
+      "url": "https://navakal.in/city/mumbai-cha-raja-first-glimpse-of-mumbai-cha-raja-devotees-moved-by-bappas-unique-formhow-exactly-did-it-get-the-name-mumbai-cha-raja/",
+      "date": "2026-09-13",
+      "language": "Marathi",
+      "type": "reporting",
+      "note": "No original issue/date for its historical headline is supplied."
+    },
+    {
+      "id": "H07",
+      "title": "Mumbai Ganesh Chaturthi 2022: Five of the oldest Ganesh mandals in city",
+      "publisher": "The Indian Express",
+      "url": "https://indianexpress.com/article/cities/mumbai/five-of-the-oldest-ganesh-mandals-in-mumbai-8121369/",
+      "date": "2022-08-30",
+      "language": "English",
+      "type": "reporting",
+      "note": "Do not reuse unrelated mandal measurements from this roundup; some are implausible. Its 1945 description lacks a period citation."
+    },
+    {
+      "id": "H08",
+      "title": "Shishya recreates guru's magic at Ganesh Galli",
+      "publisher": "Mid-day report preserved on My Lord Ganesha",
+      "url": "https://mylordganesha.wordpress.com/2011/08/29/shishya-recreates-gurus-magic-at-ganesh-galli/",
+      "date": "2011-08-29",
+      "language": "English",
+      "type": "community",
+      "note": "Original URL inaccessible; retain reprint status. Quotes secretary Swapnil Parab and sculptor Vijay Khatu."
+    },
+    {
+      "id": "H09",
+      "title": "See Pashupatinath temple in Ganesh Galli this year",
+      "publisher": "Mid-day",
+      "url": "https://www.mid-day.com/news/india-news/article/see-pashupatinath-temple-in-ganesh-galli-this-year-177909",
+      "date": "2012-08-21",
+      "language": "English",
+      "type": "reporting",
+      "note": "Surviving publisher text truncates after photo caption. Photos credited Dutta Kumbhar. Longer reprint also exists at H08's category archive."
+    },
+    {
+      "id": "H10",
+      "title": "Ganpati Utsav: Mumbai's Maha Kumbh",
+      "publisher": "Redscarab; authors identify original publication as Rail Bandhu September 2013",
+      "url": "https://redscarabtravelandmedia.wordpress.com/tag/ganesh-galli/",
+      "date": "2013-09-11",
+      "language": "English",
+      "type": "reporting",
+      "note": "Reports 1977 height as 26 feet, contrary to conventional 22. 1945 details are retrospective oral history."
+    },
+    {
+      "id": "H11",
+      "title": "Mumbaicha Raja and a sea of devotees",
+      "publisher": "Rediff",
+      "url": "https://www.rediff.com/news/special/mumbaicha-raja-and-a-sea-of-devotees/20140830.htm",
+      "date": "2014-08-30",
+      "language": "English",
+      "type": "reporting",
+      "note": ""
+    },
+    {
+      "id": "H12",
+      "title": "Maha Ganesha Festival: Pandal-hopping time as Ganesha arrives in city",
+      "publisher": "Mumbai Mirror",
+      "url": "https://mumbaimirror.indiatimes.com/mumbai/other/maha-ganesha-festival-pandal-hopping-time-as-ganesha-arrives-in-city/articleshow/54009933.html",
+      "date": "2016-09-05",
+      "language": "English",
+      "type": "reporting",
+      "note": ""
+    },
+    {
+      "id": "H13",
+      "title": "Photos: What to expect at Mumbai's oldest Ganesh pandals",
+      "publisher": "Rediff",
+      "url": "https://www.rediff.com/getahead/report/photos-what-to-expect-at-mumbai-oldest-ganesh-pandals/20180912.htm",
+      "date": "2018-09-13",
+      "language": "English",
+      "type": "reporting",
+      "note": "An uninterrupted height statement predates pandemic exceptions but still conflicts with 2011 report."
+    },
+    {
+      "id": "H14",
+      "title": "WATCH: How I designed Ram Mandir in Mumbai",
+      "publisher": "Rediff",
+      "url": "https://m.rediff.com/amp/getahead/report/ganeshaspecial-how-i-designed-ram-mandir-in-mumbai/20190904.htm",
+      "date": "2019-09-05",
+      "language": "English",
+      "type": "reporting",
+      "note": "Do not conflate reusable set materials with the idol's material or full environmental impact."
+    },
+    {
+      "id": "H15",
+      "title": "Mumbaicha Raja | ‘मुंबईच्या राजा’ची 22 फुटांची मूर्ती रद्द, ‘लालबाग सार्वजनिक गणेशोत्सव मंडळा’चा निर्णय",
+      "publisher": "TV9 Marathi",
+      "url": "https://www.tv9marathi.com/maharashtra/mumbai/lalbaug-sarvajanik-utsav-mandal-mumbaicha-raja-ganesh-galli-decides-to-bring-small-ganesha-idol-234130.html",
+      "date": "2020-06-23",
+      "language": "Marathi",
+      "type": "reporting",
+      "note": "Planned height 3 feet conflicts with same-day ANI 4 feet; not final installation verification."
+    },
+    {
+      "id": "H16",
+      "title": "Covid-19 effect: Mumbai Ka Raja to have 4-ft Ganesh idol",
+      "publisher": "Rediff",
+      "url": "https://www.rediff.com/news/report/covid-effect-mumbai-ka-raja-to-have-4-ft-ganesh-idol/20200623.htm",
+      "date": "2020-06-23",
+      "language": "English",
+      "type": "reporting",
+      "note": "Planned height 4 feet conflicts with TV9 3 feet; reports intended artificial-pond immersion, not final outcome."
+    },
+    {
+      "id": "H17",
+      "title": "मुंबईचा राजा... गणेश गल्लीच्या बाप्पाचा फर्स्ट लूक!",
+      "publisher": "Mumbai Tak",
+      "url": "https://www.mumbaitak.in/news/story/mumbaicha-raja-ganesh-galli-94th-year-ganeshotsav-2021-ganpati-first-look-815255-2021-09-09",
+      "date": "2021-09-09",
+      "language": "Marathi",
+      "type": "reporting",
+      "note": "Reports four feet and online darshan; does not justify generalizing this height to other years."
+    },
+    {
+      "id": "H18",
+      "title": "At Ganesh Galli this year, Kashi Vishwanath temple replica & idol in ‘Vishwakarma Avatar’ await devotees",
+      "publisher": "The Indian Express",
+      "url": "https://indianexpress.com/article/cities/mumbai/at-ganesh-galli-this-year-kashi-vishwanath-temple-replica-idol-in-vishwakarma-avatar-await-devotees-8114205/lite/",
+      "date": "2022-08-27",
+      "language": "English",
+      "type": "reporting",
+      "note": ""
+    },
+    {
+      "id": "H19",
+      "title": "He Created The MumbaiCha Raja Ganesh Idol",
+      "publisher": "Rediff",
+      "url": "https://www.rediff.com/getahead/report/he-created-the-mumbaicha-raja-ganesh-idol/20260917.htm",
+      "date": "2026-09-17",
+      "language": "English",
+      "type": "reporting",
+      "note": "Artistic intent and production claims are attributed to the maker; ecological arguments are advocacy, not independent assessment."
+    },
+    {
+      "id": "H20",
+      "title": "'Ganeshotsav Is No Longer The Same'",
+      "publisher": "Rediff",
+      "url": "https://www.rediff.com/getahead/report/ganeshotsav-is-no-longer-the-same/20260916.htm",
+      "date": "2026-09-16",
+      "language": "English",
+      "type": "reporting",
+      "note": "Recollections about pre-Independence events are not firsthand evidence. Distinguish the account of a 50th festival year from a completed 50th anniversary."
+    },
+    {
+      "id": "H21",
+      "title": "Mumbaicha Raja : मुंबईचा राजा घडवणारे मूर्तिकार गजानन देऊ तोंडवळकर यांचे निधन",
+      "publisher": "Navarashtra",
+      "url": "https://www.navarashtra.com/maharashtra/mumbai/mumbaicha-raja-mumbaicha-raja-ganesh-galli-famous-ganesh-idol-sculptor-tondawalkar-passes-away-832590.html",
+      "date": "2025-04-04",
+      "language": "Marathi",
+      "type": "reporting",
+      "note": "Its imprecise 'last thirteen years' lead conflicts with contemporary assignments. Death age 82 and Pendhur/Pendur locality are reported, not independently checked."
+    },
+    {
+      "id": "H22",
+      "title": "गणेशउत्सव2020 - मुंबईतील मानाचे गणपती - स्वातंत्र्य चळवळीतून उभा राहिलेला मुंबईचा राजा",
+      "publisher": "Pudhari",
+      "url": "https://pudhari.news/amp/story/uncategorized/god-ganpati-ganesh-spiritual-information-mumbai-cha-raja-ganeshgalli-manacha-ganpati-mumbai-ganpati-blog-azad-nagar-ganesh-festival-2020-moraya",
+      "date": null,
+      "language": "Marathi",
+      "type": "reporting",
+      "note": "May derive from mandal history; not an independent period record of 2004."
+    },
+    {
+      "id": "H23",
+      "title": "Mumbai Ganesh Festival: मुंबईतील या सार्वजनिक मंडळाच्या बाप्पाला गोड गणपती का म्हणतात?",
+      "publisher": "Pudhari",
+      "url": "https://pudhari.news/maharashtra/mumbai/unique-colorful-mumbai-ganeshotsav-ab96",
+      "date": "2025-08-26",
+      "language": "Marathi",
+      "type": "reporting",
+      "note": "Weling tenure given as 1977-1989; conflicts with official final-1990 account. First/tallest wording is unverified."
+    },
+    {
+      "id": "H24",
+      "title": "Fake Gods and False History: Being Indian in a contested Mumbai neighbourhood",
+      "publisher": "UCL Press",
+      "url": "https://discovery.ucl.ac.uk/id/eprint/10181580/",
+      "date": "2023",
+      "language": "English",
+      "type": "scholarship",
+      "note": "Study centers BDD Chawls, not a dedicated Ganesh Galli mandal history. Must not supply its chronology by inference."
+    },
+    {
+      "id": "H25",
+      "title": "Madurai temple in this Ganesh pandal",
+      "publisher": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/mumbai/madurai-temple-in-this-ganesh-pandal/story-WoME3y2vwQ8lWrQzhL48vM.html",
+      "date": "2010-08-12",
+      "language": "English",
+      "type": "reporting",
+      "note": "Use only brief factual corroboration, within the source's 25-word allowance."
+    },
+    {
+      "id": "H26",
+      "title": "Pandal-hopping: Sneak peek of Mumbai's 10 must-visit Ganesh mandals",
+      "publisher": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/mumbai/pandal-hopping-sneak-peek-of-mumbai-s-10-must-visit-ganesh-mandals/story-o1mhAoUy25YyoHacCVmplI_amp.html",
+      "date": "2015-09-16",
+      "language": "English",
+      "type": "reporting",
+      "note": "Use only the brief theme attribution, not the full excerpt or material claims."
+    },
+    {
+      "id": "H27",
+      "title": "Ganesh Chaturthi 2019: Here's your guide to Mumbai's top 10 Ganpati pandals",
+      "publisher": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/mumbai-news/ganesh-chaturthi-2019-here-s-your-guide-to-mumbai-s-top-10-ganpati-pandals/story-83u703BkBuqq4ZLgYYKM2I_amp.html",
+      "date": null,
+      "language": "English",
+      "type": "reporting",
+      "note": "Supports 2017 Vellore via relative-year wording; no inspected contemporary 2017 source."
+    },
+    {
+      "id": "H28",
+      "title": "Idol money",
+      "publisher": "Business Standard",
+      "url": "https://www.business-standard.com/article/beyond-business/idol-money-113091301119_1.html",
+      "date": "2013-09-13",
+      "language": "English",
+      "type": "reporting",
+      "note": "Use festival finance context only when relevant; monetary estimates are reported, not audited accounts."
+    },
+    {
+      "id": "H29",
+      "title": "Mumbai's Ganeshotsav Gets a Warkari Touch",
+      "publisher": "Rediff",
+      "url": "https://m.rediff.com/amp/getahead/report/mumbais-ganeshotsav-gets-a-warkari-touch/20260911.htm",
+      "date": "2026-09-11",
+      "language": "English",
+      "type": "reporting",
+      "note": ""
+    },
+    {
+      "id": "H30",
+      "title": "File:Ganpati Visarjan - Ganesh Galli badrinath Set.jpg",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Ganpati_Visarjan_-_Ganesh_Galli_badrinath_Set.jpg",
+      "date": "2016-09-17",
+      "language": "English",
+      "type": "collection",
+      "note": "Camera dates and user captions are not independent authentication; metadata explicitly carries that qualification."
+    },
+    {
+      "id": "H31",
+      "title": "Lalbaug, Ganesh Galli Ganpati - 1983",
+      "publisher": "My Lord Ganesha",
+      "url": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1983/",
+      "date": "2010-09-15",
+      "language": "English",
+      "type": "community",
+      "note": "No photographer or original print provenance. Earlier online publication than current gallery is useful, not proof its year is correct."
+    },
+    {
+      "id": "H32",
+      "title": "Mumbaicha Raja 1977-1986 image carousel",
+      "publisher": "Instagram",
+      "url": "https://www.instagram.com/p/DXMw5dvCKo6/",
+      "date": "2026-04-16",
+      "language": "English, Marathi",
+      "type": "reporting",
+      "note": "Fan archive, no original photographer/license, not contemporary evidence. Preserve its disagreement without treating it as authoritative."
+    },
+    {
+      "id": "H33",
+      "title": "Lotus-seated Ganesh immersion scene, attributed to 1977",
+      "publisher": "Mumbai Ganpati / @mumbai.ganpati",
+      "url": "https://www.instagram.com/p/DcylLjhtHNs/",
+      "date": "2026-09-02",
+      "language": "English",
+      "type": "community",
+      "note": "1977 is the retrospective caption attribution; historical photographer and original print unidentified."
+    },
+    {
+      "id": "H34",
+      "title": "Mumbai cha Raja 1982 - flute-form immersion image",
+      "publisher": "Pinterest / GGGG",
+      "url": "https://kr.pinterest.com/pin/mumbai-cha-raja-1982--978125612842206440/",
+      "date": null,
+      "language": "English",
+      "type": "community",
+      "note": "Source label1982 agrees with current mandal flute ordering; no original dated print or capture metadata. Repost is not independent period authentication."
+    },
+    {
+      "id": "P01",
+      "title": "Lalbaug’s Ganesh Galli Ganpati – 1977",
+      "publisher": "My Lord Ganesha",
+      "url": "https://mylordganesha.wordpress.com/2010/09/15/lalbaugs-ganesh-galli-ganpati-1977/",
+      "date": "2010-09-15",
+      "language": "English",
+      "type": "community",
+      "note": "Image date is the source attribution; publication and capture dates are distinct. No reuse permission inferred."
+    },
+    {
+      "id": "P02",
+      "title": "Lalbaug, Ganesh Galli Ganpati – 1978",
+      "publisher": "My Lord Ganesha",
+      "url": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1978/",
+      "date": "2010-09-15",
+      "language": "English",
+      "type": "community",
+      "note": "Image date is the source attribution; publication and capture dates are distinct. No reuse permission inferred."
+    },
+    {
+      "id": "P03",
+      "title": "Lalbaug, Ganesh Galli Ganpati – 1979",
+      "publisher": "My Lord Ganesha",
+      "url": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1979/",
+      "date": "2010-09-15",
+      "language": "English",
+      "type": "community",
+      "note": "Image date is the source attribution; publication and capture dates are distinct. No reuse permission inferred."
+    },
+    {
+      "id": "P04",
+      "title": "Lalbaug, Ganesh Galli Ganpati – 1980",
+      "publisher": "My Lord Ganesha",
+      "url": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1980/",
+      "date": "2010-09-15",
+      "language": "English",
+      "type": "community",
+      "note": "Image date is the source attribution; publication and capture dates are distinct. No reuse permission inferred."
+    },
+    {
+      "id": "P05",
+      "title": "Lalbaug, Ganesh Galli Ganpati – 1981",
+      "publisher": "My Lord Ganesha",
+      "url": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1981/",
+      "date": "2010-09-15",
+      "language": "English",
+      "type": "community",
+      "note": "Image date is the source attribution; publication and capture dates are distinct. No reuse permission inferred."
+    },
+    {
+      "id": "P06",
+      "title": "Lalbaug, Ganesh Galli Ganpati – 1982",
+      "publisher": "My Lord Ganesha",
+      "url": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1982/",
+      "date": "2010-09-15",
+      "language": "English",
+      "type": "community",
+      "note": "Image date is the source attribution; publication and capture dates are distinct. No reuse permission inferred."
+    },
+    {
+      "id": "P07",
+      "title": "Lalbaug, Ganesh Galli Ganpati – 1984",
+      "publisher": "My Lord Ganesha",
+      "url": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1984/",
+      "date": "2010-09-15",
+      "language": "English",
+      "type": "community",
+      "note": "Image date is the source attribution; publication and capture dates are distinct. No reuse permission inferred."
+    },
+    {
+      "id": "P08",
+      "title": "Lalbaug, Ganesh Galli Ganpati – 1985",
+      "publisher": "My Lord Ganesha",
+      "url": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1985/",
+      "date": "2010-09-15",
+      "language": "English",
+      "type": "community",
+      "note": "Image date is the source attribution; publication and capture dates are distinct. No reuse permission inferred."
+    },
+    {
+      "id": "P09",
+      "title": "Lalbaug, Ganesh Galli Ganpati – 1986",
+      "publisher": "My Lord Ganesha",
+      "url": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1986/",
+      "date": "2010-09-15",
+      "language": "English",
+      "type": "community",
+      "note": "Image date is the source attribution; publication and capture dates are distinct. No reuse permission inferred."
+    },
+    {
+      "id": "P10",
+      "title": "Lalbaug, Ganesh Galli Ganpati – 1987",
+      "publisher": "My Lord Ganesha",
+      "url": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1987/",
+      "date": "2010-09-15",
+      "language": "English",
+      "type": "community",
+      "note": "Image date is the source attribution; publication and capture dates are distinct. No reuse permission inferred."
+    },
+    {
+      "id": "P11",
+      "title": "Lalbaug, Ganesh Galli Ganpati – 1988",
+      "publisher": "My Lord Ganesha",
+      "url": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1988/",
+      "date": "2010-09-15",
+      "language": "English",
+      "type": "community",
+      "note": "Image date is the source attribution; publication and capture dates are distinct. No reuse permission inferred."
+    },
+    {
+      "id": "P12",
+      "title": "Lalbaug, Ganesh Galli Ganpati – 1989",
+      "publisher": "My Lord Ganesha",
+      "url": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1989/",
+      "date": "2010-09-15",
+      "language": "English",
+      "type": "community",
+      "note": "Image date is the source attribution; publication and capture dates are distinct. No reuse permission inferred."
+    },
+    {
+      "id": "P13",
+      "title": "Lalbaug, Ganesh Galli Ganpati – 1990",
+      "publisher": "My Lord Ganesha",
+      "url": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1990/",
+      "date": "2010-09-15",
+      "language": "English",
+      "type": "community",
+      "note": "Image date is the source attribution; publication and capture dates are distinct. No reuse permission inferred."
+    },
+    {
+      "id": "P14",
+      "title": "Lalbaug, Ganesh Galli Ganpati – 1991",
+      "publisher": "My Lord Ganesha",
+      "url": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1991/",
+      "date": "2010-09-15",
+      "language": "English",
+      "type": "community",
+      "note": "Image date is the source attribution; publication and capture dates are distinct. No reuse permission inferred."
+    },
+    {
+      "id": "P15",
+      "title": "Lalbaug, Ganesh Galli Ganpati – 1992",
+      "publisher": "My Lord Ganesha",
+      "url": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1992/",
+      "date": "2010-09-15",
+      "language": "English",
+      "type": "community",
+      "note": "Image date is the source attribution; publication and capture dates are distinct. No reuse permission inferred."
+    },
+    {
+      "id": "P16",
+      "title": "Lalbaug, Ganesh Galli Ganpati – 1993",
+      "publisher": "My Lord Ganesha",
+      "url": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-1993/",
+      "date": "2010-09-15",
+      "language": "English",
+      "type": "community",
+      "note": "Image date is the source attribution; publication and capture dates are distinct. No reuse permission inferred."
+    },
+    {
+      "id": "P17",
+      "title": "Lalbaug, Ganesh Galli Ganpati – 1994",
+      "publisher": "My Lord Ganesha",
+      "url": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-%e2%80%93-1994/",
+      "date": "2010-09-15",
+      "language": "English",
+      "type": "community",
+      "note": "Image date is the source attribution; publication and capture dates are distinct. No reuse permission inferred."
+    },
+    {
+      "id": "P18",
+      "title": "Lalbaug, Ganesh Galli Ganpati – 1995",
+      "publisher": "My Lord Ganesha",
+      "url": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-%e2%80%93-1995/",
+      "date": "2010-09-15",
+      "language": "English",
+      "type": "community",
+      "note": "Image date is the source attribution; publication and capture dates are distinct. No reuse permission inferred."
+    },
+    {
+      "id": "P19",
+      "title": "Lalbaug, Ganesh Galli Ganpati – 1996",
+      "publisher": "My Lord Ganesha",
+      "url": "https://mylordganesha.wordpress.com/2010/09/15/1124/",
+      "date": "2010-09-15",
+      "language": "English",
+      "type": "community",
+      "note": "Image date is the source attribution; publication and capture dates are distinct. No reuse permission inferred."
+    },
+    {
+      "id": "P20",
+      "title": "Lalbaug, Ganesh Galli Ganpati – 1997",
+      "publisher": "My Lord Ganesha",
+      "url": "https://mylordganesha.wordpress.com/2010/09/15/lalbaug-ganesh-galli-ganpati-%e2%80%93-1997/",
+      "date": "2010-09-15",
+      "language": "English",
+      "type": "community",
+      "note": "Image date is the source attribution; publication and capture dates are distinct. No reuse permission inferred."
+    },
+    {
+      "id": "P21",
+      "title": "Ganesh galli Decoration copy",
+      "publisher": "Flickr",
+      "url": "https://www.flickr.com/photos/20701652@N07/2015642898",
+      "date": null,
+      "language": "English",
+      "type": "community",
+      "note": "Image date is the source attribution; publication and capture dates are distinct. No reuse permission inferred."
+    },
+    {
+      "id": "P22",
+      "title": "Grand Entry...Ganesh Galli",
+      "publisher": "Flickr",
+      "url": "https://www.flickr.com/photos/14577288@N03/1505209246/in/album-72157602296603832",
+      "date": null,
+      "language": "English",
+      "type": "community",
+      "note": "Image date is the source attribution; publication and capture dates are distinct. No reuse permission inferred."
+    },
+    {
+      "id": "P23",
+      "title": "Ganesh Galli Ganpati2009",
+      "publisher": "Flickr",
+      "url": "https://www.flickr.com/photos/ashugalande/3936079421",
+      "date": null,
+      "language": "English",
+      "type": "community",
+      "note": "Image date is the source attribution; publication and capture dates are distinct. No reuse permission inferred."
+    },
+    {
+      "id": "P24",
+      "title": "Ganesh Galli, lalbaugh, Mumbai2010",
+      "publisher": "Flickr",
+      "url": "https://www.flickr.com/photos/ashugalande/5019953782/",
+      "date": null,
+      "language": "English",
+      "type": "community",
+      "note": "Image date is the source attribution; publication and capture dates are distinct. No reuse permission inferred."
+    },
+    {
+      "id": "P25",
+      "title": "Ganesh Galli 2012 – Pashupatinath Temple",
+      "publisher": "My Lord Ganesha",
+      "url": "https://mylordganesha.wordpress.com/2012/09/22/ganesh-galli-2012-pashupatinath-temple/",
+      "date": "2012-09-22",
+      "language": "English",
+      "type": "community",
+      "note": "Image date is the source attribution; publication and capture dates are distinct. No reuse permission inferred."
+    },
+    {
+      "id": "P26",
+      "title": "Mumbaicha Raja – Ganesh Galli 2013",
+      "publisher": "My Lord Ganesha",
+      "url": "https://mylordganesha.wordpress.com/2013/09/12/mumbaicha-raja-ganesh-galli-2013/",
+      "date": "2013-09-12",
+      "language": "English",
+      "type": "community",
+      "note": "Image date is the source attribution; publication and capture dates are distinct. No reuse permission inferred."
+    },
+    {
+      "id": "P27",
+      "title": "Mumbaicha Raja – Ganesh Galli 2015",
+      "publisher": "My Lord Ganesha",
+      "url": "https://mylordganesha.wordpress.com/2015/09/18/mumbaicha-raja-ganesh-galli-2015/",
+      "date": "2015-09-18",
+      "language": "English",
+      "type": "community",
+      "note": "Image date is the source attribution; publication and capture dates are distinct. No reuse permission inferred."
+    },
+    {
+      "id": "P28",
+      "title": "First look of Mumbaicha Raja",
+      "publisher": "Mid-day",
+      "url": "https://www.mid-day.com/mumbai/mumbai-news/photo/in-photos-first-look-of-mumbaicha-raja-unveiled-ahead-of-ganesh-chaturthi-93947",
+      "date": "2022-08-30",
+      "language": "English",
+      "type": "reporting",
+      "note": "Contemporary photo coverage with a named credit. Reproduction permission has not been obtained."
+    },
+    {
+      "id": "P29",
+      "title": "Mumbaicha Raja idol unveiled for Ganeshotsav 2024",
+      "publisher": "Mid-day",
+      "url": "https://www.mid-day.com/mumbai/mumbai-news/photo/in-photos-first-look-of-mumbaicha-raja-idol-unveiled-for-ganeshotsav-2024-102071/1",
+      "date": "2024-09-06",
+      "language": "English",
+      "type": "reporting",
+      "note": "Contemporary photo coverage with a named credit. Reproduction permission has not been obtained."
+    },
+    {
+      "id": "P30",
+      "title": "First look of Mumbaicha Raja 2025",
+      "publisher": "Mid-day",
+      "url": "https://www.mid-day.com/mumbai/mumbai-news/photo/in-photos-first-look-of-mumbaicha-raja-107074/1",
+      "date": "2025-08-25",
+      "language": "English",
+      "type": "reporting",
+      "note": "Contemporary photo coverage with a named credit. Reproduction permission has not been obtained."
+    },
+    {
+      "id": "P31",
+      "title": "Mumbaicha Raja 2026 first look",
+      "publisher": "Free Press Journal",
+      "url": "https://www.freepressjournal.in/amp/lifestyle/mumbaicha-raja-2026-first-look-grand-balancing-ganpati-idol-unveiled-in-ganesh-galli-see-inside-visuals",
+      "date": "2026-09-13",
+      "language": "English",
+      "type": "reporting",
+      "note": "Contemporary photo coverage with a named credit. Reproduction permission has not been obtained."
+    },
+    {
+      "id": "P32",
+      "title": "User-supplied immersion thumbnail",
+      "publisher": "Google Images thumbnail; original publisher unresolved",
+      "date": null,
+      "language": "Unknown",
+      "type": "community",
+      "note": "399 x 501 pixels; visible ©SF watermark. Original photographer, capture date and publication remain unidentified."
+    }
+  ],
+  "investigation": {
+    "title": "The lamp, the flute, and a working chronology",
+    "text": "The mandal's sequence is our working attribution: 1982 is the flute-playing form and 1983 the lamp-balanced form. A newly supplied Pinterest photograph shows the flute form in an immersion scene and labels it 1982. An older enthusiast archive reverses those year labels, so the disagreement remains visible. The separate beach photograph described in this record bears a ©SF watermark but no established date or named photographer. It belongs to the lamp-form investigation without yet proving a 1983 capture date.",
+    "caption": "The dating investigation compares the immersion photograph with conflicting source captions.",
+    "sourceIds": [
+      "H02",
+      "P06",
+      "H31",
+      "H32",
+      "P32",
+      "H34"
+    ],
+    "questions": [
+      "Can an original dated print or contemporary report confirm the 1982 flute / 1983 lamp chronology?",
+      "Who used the ©SF watermark, and where is the original lamp photograph?",
+      "Where did the reversed labels in the older image archive originate?"
+    ]
+  },
+  "openQuestions": [
+    {
+      "title": "Why exactly twenty-two feet?",
+      "text": "The anniversary experiment is documented. The original reason for choosing that precise measurement is not.",
+      "sourceIds": [
+        "H01",
+        "H04",
+        "H20"
+      ]
+    },
+    {
+      "title": "Where are the early decades?",
+      "text": "No documentary annual image from 1928-1976 has been located in this research pass. Souvenir books, family albums and workshop records are the next sources to seek.",
+      "sourceIds": [
+        "H02"
+      ]
+    },
+    {
+      "title": "Who made each year's idol?",
+      "text": "Named assignments survive for selected years, but a continuous workshop and sculptor chronology would overstate the evidence.",
+      "sourceIds": [
+        "H08",
+        "H09",
+        "H18",
+        "H19",
+        "H21"
+      ]
+    }
+  ],
+  "visit": {
+    "address": "Ganesh Galli, Lalbaug, Mumbai, Maharashtra",
+    "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Mumbaicha+Raja+Ganesh+Galli+Lalbaug+Mumbai",
+    "text": "The festival's home is Ganesh Galli in Lalbaug. The large annual idol is temporary. For festival access and any procession route, consult the mandal's announcements for the relevant year; this research edition does not reproduce a current route advisory.",
+    "sourceIds": [
+      "H01",
+      "H13"
+    ]
+  },
+  "slug": "mumbaicha-raja",
+  "kind": "festival",
+  "researchStage": "extended"
+}

@@ -1,0 +1,971 @@
+{
+  "slug": "andhericha-raja",
+  "kind": "festival",
+  "researchStage": "expanded",
+  "meta": {
+    "title": "Andhericha Raja",
+    "marathi": "अंधेरीचा राजा",
+    "institution": "Azad Nagar Sarvajanik Utsav Samiti",
+    "location": "Ganesh Maidan, Azad Nagar II, Veera Desai Road, Andheri West, Mumbai 400053",
+    "neighborhood": "Andheri West / Azad Nagar",
+    "founded": 1966,
+    "foundedNote": "Institutional history and contemporary English and Marathi reporting agree on 1966; sources disagree on the start of the later-immersion tradition.",
+    "intro": "Andhericha Raja is the public Ganeshotsav of Azad Nagar Sarvajanik Utsav Samiti, founded in 1966 by workers settling around Andheri's industrial workplaces. Its best-known ritual distinction is the large idol's immersion on the Sankashti following Anant Chaturdashi, while a smaller puja idol follows the earlier calendar. Changing temple-inspired sets and the community's labour history both belong in this collection. The date when the later immersion began remains disputed across the available institutional and press accounts.",
+    "aliases": [
+      "Andheri Cha Raja",
+      "Navasala Pavnara Andhericha Raja",
+      "Azadnagar Sarvajanik Utsav Samiti"
+    ],
+    "hero": null,
+    "id": "andhericha-raja",
+    "kind": "festival",
+    "researchStage": "expanded",
+    "catalogueMode": "located-records",
+    "updated": "16 November 2026",
+    "edition": "Expanded collection · Research edition · 16 November 2026",
+    "downloads": {
+      "json": "collections/andhericha-raja.json"
+    }
+  },
+  "sections": [
+    {
+      "id": "origins",
+      "eyebrow": "Labour and locality",
+      "title": "Workers establish a neighbourhood festival",
+      "paragraphs": [
+        {
+          "text": "The mandal's history places its beginning in 1966 among workers of Golden Tobacco, Tata Special Steel and Excel Industries. It describes people moving from Lalbaug and Parel into Azad Nagar housing near Andheri workplaces. Contemporary retrospective reporting also identifies this industrial community as the festival's foundation, making work, migration and neighbourhood building central archival themes.",
+          "sourceIds": [
+            "AR01",
+            "AR03"
+          ]
+        },
+        {
+          "text": "The institution links its wish-fulfilling reputation and later immersion to a vow during a factory strike. Such accounts document community belief rather than establish supernatural causation. The official history and Indian Express give 1975, while Sakal quotes a 1973 beginning and Mid-day refers to 1972-73. The collection preserves the disagreement instead of selecting one date by repetition.",
+          "sourceIds": [
+            "AR01",
+            "AR03",
+            "AR04",
+            "AR07"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "form",
+      "eyebrow": "Two idols and changing sets",
+      "title": "A ritual calendar beyond Anant Chaturdashi",
+      "paragraphs": [
+        {
+          "text": "The smaller puja idol is immersed on Anant Chaturdashi; the life-size display idol follows on Sankashti. The inspected 2024 press scene records the large garlanded deity on a flower-covered procession platform. A separate 2025 institutional photograph shows a much smaller idol being carried in a workshop. Keeping those objects distinct prevents a gallery label from becoming a false claim about the main idol's scale.",
+          "sourceIds": [
+            "AR01",
+            "AR04",
+            "AR05"
+          ]
+        },
+        {
+          "text": "The 2025 programme describes a Sarangpur Kashtabhanjan Hanuman temple setting, with art direction attributed to Dharmesh Shah. Marathi reporting independently describes the set and a thirty-two-foot fibre Hanuman feature. That measurement belongs to the scenic Hanuman, not the Ganesh idol. The changing architecture and decorative trades should therefore be recorded alongside the recurring deity and immersion customs.",
+          "sourceIds": [
+            "AR06",
+            "AR07"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "phase2-annual-series",
+      "eyebrow": "Annual record",
+      "title": "Changing sets and pandemic scale",
+      "paragraphs": [
+        {
+          "text": "The official annual albums now support an inspected sequence from 2016 through 2026. They mix installed-idol views, workshop handovers, visitors and later religious events. Only frames showing Ganesh in a physical installation are used for this series. Album headings establish institutional year attribution; resemblance between recurring faces does not establish a date.",
+          "sourceIds": [
+            "AR09",
+            "AR10",
+            "AR11",
+            "AR12",
+            "AR13",
+            "AR14",
+            "AR15",
+            "AR16",
+            "AR17",
+            "AR18"
+          ]
+        },
+        {
+          "text": "The theme archive separates the reduced pandemic installations from the surrounding years. It describes four-foot idols, local immersion ponds and online viewing for 2020-21, followed by a Lakshmi Vilas Palace setting in 2022. This gives the photographs a history of changing scale and public access, alongside the temple-inspired scenery.",
+          "sourceIds": [
+            "AR08"
+          ]
+        }
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "year": 1966,
+      "title": "Festival founded",
+      "text": "Worker origins recorded by the institution and press.",
+      "sourceIds": [
+        "AR01",
+        "AR03",
+        "AR07"
+      ]
+    },
+    {
+      "year": "1972-1975 (conflicting accounts)",
+      "title": "Later immersion tradition",
+      "text": "Sources offer different starting years for the vow-linked change.",
+      "sourceIds": [
+        "AR01",
+        "AR03",
+        "AR04",
+        "AR07"
+      ]
+    },
+    {
+      "year": 2022,
+      "title": "Labour history recorded",
+      "text": "Contemporary feature preserves the mandal's strike narrative.",
+      "sourceIds": [
+        "AR03"
+      ]
+    },
+    {
+      "year": "2024-09-21",
+      "title": "Sankashti procession photographed",
+      "text": "Press gallery documents the annual farewell.",
+      "sourceIds": [
+        "AR04"
+      ]
+    },
+    {
+      "year": 2025,
+      "title": "60th festival setting",
+      "text": "Organiser announcement and Marathi coverage document the Hanuman-temple set.",
+      "sourceIds": [
+        "AR06",
+        "AR07"
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": 2012,
+      "title": "Dilwara temple setting",
+      "summary": "At Azad Nagar, the 2012 Andhericha Raja pandal took its design from the Jain Dilwara temples near Mount Abu. Preparations included a replica with 60 carved pillars, and Rediff identified the same theme during the festival.",
+      "sourceIds": [
+        "AR-preparation-2012",
+        "AR-report-2012"
+      ],
+      "media": []
+    },
+    {
+      "year": 2016,
+      "title": "2016 installed idol",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": "Kunkeshwar Mandir, Devgad",
+      "notes": [
+        {
+          "text": "The surrounding architectural theme is identified in the separate institutional theme archive; it is not inferred from this crop.",
+          "sourceIds": [
+            "AR08"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "AR09",
+        "AR08"
+      ],
+      "media": [
+        {
+          "id": "2016-official-phase2-idol",
+          "originalUrl": "https://www.andhericharaja.com/gallery/photo-gallery/",
+          "kind": "photograph",
+          "label": "Institutional annual-gallery photograph",
+          "caption": "The installed Ganesh in the official 2016 annual gallery.",
+          "credit": "Azad Nagar Sarvajanik Utsav Samiti archive; individual photographer uncredited.",
+          "dateEvidence": "The institution's gallery page is explicitly headed or navigated as 2016; the selected image occurs within that annual album. No precise capture day or original camera metadata is supplied.",
+          "dateStatus": "source-attributed",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "AR09"
+          ],
+          "yearConfidence": "source_labelled",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Close view of a four-armed orange-pink Ganesh with gold crown, modak/conch-like attributes and flower garlands; red beaded physical pandal curtain behind.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "title": "2017 installed idol",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": "Ballaleshwar Temple, Pali",
+      "notes": [
+        {
+          "text": "The surrounding architectural theme is identified in the separate institutional theme archive; it is not inferred from this crop.",
+          "sourceIds": [
+            "AR08"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "AR10",
+        "AR08"
+      ],
+      "media": [
+        {
+          "id": "2017-official-phase2-idol",
+          "originalUrl": "https://www.andhericharaja.com/2017-2/",
+          "kind": "photograph",
+          "label": "Institutional annual-gallery photograph",
+          "caption": "The installed Ganesh in the official 2017 annual gallery.",
+          "credit": "Azad Nagar Sarvajanik Utsav Samiti archive; individual photographer uncredited.",
+          "dateEvidence": "The institution's gallery page is explicitly headed or navigated as 2017; the selected image occurs within that annual album. No precise capture day or original camera metadata is supplied.",
+          "dateStatus": "source-attributed",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "AR10"
+          ],
+          "yearConfidence": "source_labelled",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Four-armed seated Ganesh in gold-brown dhoti and pink drape, feet on a low platform, lion-sided throne and garlands; umbrella, canopy beams, flowers and fruit visible.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "title": "2018 installed idol",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": "Shree Chintamani Temple, Theur",
+      "notes": [
+        {
+          "text": "The surrounding architectural theme is identified in the separate institutional theme archive; it is not inferred from this crop.",
+          "sourceIds": [
+            "AR08"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "AR11",
+        "AR08"
+      ],
+      "media": [
+        {
+          "id": "2018-official-phase2-idol",
+          "originalUrl": "https://www.andhericharaja.com/2018-2/",
+          "kind": "photograph",
+          "label": "Institutional annual-gallery photograph",
+          "caption": "The installed Ganesh in the official 2018 annual gallery.",
+          "credit": "Azad Nagar Sarvajanik Utsav Samiti archive; individual photographer uncredited.",
+          "dateEvidence": "The institution's gallery page is explicitly headed or navigated as 2018; the selected image occurs within that annual album. No precise capture day or original camera metadata is supplied.",
+          "dateStatus": "source-attributed",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "AR11"
+          ],
+          "yearConfidence": "source_labelled",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Four-armed seated Ganesh in red dhoti with white flower garlands, crowned head and silver-toned arch; metal umbrella, physical stage and floor offerings visible.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "title": "2019 installed idol",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": "Shree Mahakaleshwar Shikhar Mandir, Ujjain",
+      "notes": [
+        {
+          "text": "The surrounding architectural theme is identified in the separate institutional theme archive; it is not inferred from this crop.",
+          "sourceIds": [
+            "AR08"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "AR12",
+        "AR08"
+      ],
+      "media": [
+        {
+          "id": "2019-official-phase2-idol",
+          "originalUrl": "https://www.andhericharaja.com/2019-2/",
+          "kind": "photograph",
+          "label": "Institutional annual-gallery photograph",
+          "caption": "The installed Ganesh in the official 2019 annual gallery.",
+          "credit": "Azad Nagar Sarvajanik Utsav Samiti archive; individual photographer uncredited.",
+          "dateEvidence": "The institution's gallery page is explicitly headed or navigated as 2019; the selected image occurs within that annual album. No precise capture day or original camera metadata is supplied.",
+          "dateStatus": "source-attributed",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "AR12"
+          ],
+          "yearConfidence": "source_labelled",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Four-armed seated Ganesh in yellow dhoti, flower garlands and crown; silver-toned ornamental arch and umbrella, coloured stage light, coconuts and offerings on the floor.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "title": "2020 installed idol",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": "Swarg (Heaven)",
+      "notes": [
+        {
+          "text": "The surrounding architectural theme is identified in the separate institutional theme archive; it is not inferred from this crop.",
+          "sourceIds": [
+            "AR08"
+          ]
+        },
+        {
+          "text": "The theme archive describes a four-foot limit and an immersion pond at the festival ground during the pandemic. The visible smaller installation is not treated as the usual pre-pandemic size.",
+          "sourceIds": [
+            "AR08"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "AR13",
+        "AR08"
+      ],
+      "media": [
+        {
+          "id": "2020-official-phase2-idol",
+          "originalUrl": "https://www.andhericharaja.com/2020-2/",
+          "kind": "photograph",
+          "label": "Institutional annual-gallery photograph",
+          "caption": "The installed Ganesh in the official 2020 annual gallery.",
+          "credit": "Azad Nagar Sarvajanik Utsav Samiti archive; individual photographer uncredited.",
+          "dateEvidence": "The institution's gallery page is explicitly headed or navigated as 2020; the selected image occurs within that annual album. No precise capture day or original camera metadata is supplied.",
+          "dateStatus": "source-attributed",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "AR13"
+          ],
+          "yearConfidence": "source_labelled",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "A smaller seated four-armed Ganesh in yellow dhoti on a blue-backed lion-sided throne; physical shrine panels, lit niches, fruit and offerings, with another small idol at right.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "title": "2021 installed idol",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": "Rajwada (Royal Palace)",
+      "notes": [
+        {
+          "text": "The surrounding architectural theme is identified in the separate institutional theme archive; it is not inferred from this crop.",
+          "sourceIds": [
+            "AR08"
+          ]
+        },
+        {
+          "text": "The theme archive describes a four-foot limit and an immersion pond at the festival ground during the pandemic. The visible smaller installation is not treated as the usual pre-pandemic size.",
+          "sourceIds": [
+            "AR08"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "AR14",
+        "AR08"
+      ],
+      "media": [
+        {
+          "id": "2021-official-phase2-idol",
+          "originalUrl": "https://www.andhericharaja.com/2021-2/",
+          "kind": "photograph",
+          "label": "Institutional annual-gallery photograph",
+          "caption": "The installed Ganesh in the official 2021 annual gallery.",
+          "credit": "Azad Nagar Sarvajanik Utsav Samiti archive; individual photographer uncredited.",
+          "dateEvidence": "The institution's gallery page is explicitly headed or navigated as 2021; the selected image occurs within that annual album. No precise capture day or original camera metadata is supplied.",
+          "dateStatus": "source-attributed",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "AR14"
+          ],
+          "yearConfidence": "source_labelled",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "A small seated four-armed pink Ganesh in yellow dhoti on a lion-sided throne, beneath a broad metallic umbrella; patterned palace-like panels, flowers and lamps on the physical platform.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "title": "2022 installed idol",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": "Lakshmi Vilas Palace, Vadodara",
+      "notes": [
+        {
+          "text": "The surrounding architectural theme is identified in the separate institutional theme archive; it is not inferred from this crop.",
+          "sourceIds": [
+            "AR08"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "AR15",
+        "AR08"
+      ],
+      "media": [
+        {
+          "id": "2022-official-phase2-idol",
+          "originalUrl": "https://www.andhericharaja.com/2022-2/",
+          "kind": "photograph",
+          "label": "Institutional annual-gallery photograph",
+          "caption": "The installed Ganesh in the official 2022 annual gallery.",
+          "credit": "Azad Nagar Sarvajanik Utsav Samiti archive; individual photographer uncredited.",
+          "dateEvidence": "The institution's gallery page is explicitly headed or navigated as 2022; the selected image occurs within that annual album. No precise capture day or original camera metadata is supplied.",
+          "dateStatus": "source-attributed",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "AR15"
+          ],
+          "yearConfidence": "source_labelled",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Four-armed seated Ganesh in magenta dhoti and gold crown, with a long pale blue decorative garland; lion-sided throne, round umbrella, pink-lit physical panels and floor offerings.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "title": "2023 installed idol",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": "Raigad Fort and coronation anniversary",
+      "notes": [
+        {
+          "text": "The surrounding architectural theme is identified in the separate institutional theme archive; it is not inferred from this crop.",
+          "sourceIds": [
+            "AR08"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "AR16",
+        "AR08"
+      ],
+      "media": [
+        {
+          "id": "2023-official-phase2-idol",
+          "originalUrl": "https://www.andhericharaja.com/2023-2/",
+          "kind": "photograph",
+          "label": "Institutional annual-gallery photograph",
+          "caption": "The installed Ganesh in the official 2023 annual gallery.",
+          "credit": "Azad Nagar Sarvajanik Utsav Samiti archive; individual photographer uncredited.",
+          "dateEvidence": "The institution's gallery page is explicitly headed or navigated as 2023; the selected image occurs within that annual album. No precise capture day or original camera metadata is supplied.",
+          "dateStatus": "source-attributed",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "AR16"
+          ],
+          "yearConfidence": "source_labelled",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Four-armed seated Ganesh in yellow lower cloth on a lion-sided throne; round umbrella, red fabric walls, orange floor covering, fruit and offerings visible.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "title": "Sankashti farewell",
+      "summary": "A dated physical procession scene records the large annual idol.",
+      "artist": null,
+      "theme": "Patwa Ki Haveli, Jaisalmer (reported setting)",
+      "notes": [],
+      "sourceIds": [
+        "AR04"
+      ],
+      "media": [
+        {
+          "id": "2024-midday-procession",
+          "originalUrl": "https://www.mid-day.com/mumbai/mumbai-news/photo/in-photos-devotees-bid-adieu-to-andhericha-raja-102277/1",
+          "kind": "photograph",
+          "label": "Contemporary immersion-procession photograph",
+          "caption": "The large Andhericha Raja idol on its flower-decorated platform during the September 2024 farewell procession.",
+          "credit": "Shadab Khan / Mid-day",
+          "dateEvidence": "Gallery dated 21 September 2024 explicitly documents Andhericha Raja's immersion procession on Sankashti that year.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "AR04"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Large seated four-armed pink-faced Ganesh with crown and dense flower garlands, beneath a floral arch on a trolley; pink-clad volunteers, white caps and a physical night-time street crowd visible.",
+            "alignsWithSource": true,
+            "note": "Image visually inspected; source attribution retained without independent provenance authentication."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "title": "60th festival and smaller idol",
+      "summary": "The official gallery provides a physical workshop view; contemporary programme and Marathi coverage document the scenic theme.",
+      "artist": null,
+      "theme": "Sarangpur Kashtabhanjan Hanuman temple",
+      "notes": [
+        {
+          "text": "The organiser announcement names Dharmesh Shah as art director; a reported thirty-two-foot Hanuman is a scenic feature, not the height of Ganesh.",
+          "sourceIds": [
+            "AR06",
+            "AR07"
+          ]
+        },
+        {
+          "text": "The surrounding architectural theme is identified in the separate institutional theme archive; it is not inferred from this crop.",
+          "sourceIds": [
+            "AR08"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "AR05",
+        "AR17",
+        "AR08"
+      ],
+      "media": [
+        {
+          "id": "2025-official-small-idol",
+          "originalUrl": "https://www.andhericharaja.com/gallery/2025-2/",
+          "kind": "photograph",
+          "label": "Workshop scene photograph / small idol",
+          "caption": "A small carried Ganesh in the official 2025 gallery; its ritual role is not identified by the source.",
+          "credit": "Azad Nagar Sarvajanik Utsav Samiti gallery; individual photographer uncredited.",
+          "dateEvidence": "Explicit 2025 gallery label supplies the annual attribution. October upload path does not establish capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "AR05"
+          ],
+          "yearConfidence": "source_labelled",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Small seated four-armed pink/orange Ganesh with yellow lower cloth, gold crown and raised blessing hand, carried on a blue-topped support by two men; unpainted workshop idols and shelves behind.",
+            "alignsWithSource": true,
+            "note": "The small scale and workshop setting are visible. Its specific ritual role is unconfirmed; the general two-idol tradition does not identify this particular image."
+          }
+        },
+        {
+          "id": "2025-official-phase2-idol",
+          "originalUrl": "https://www.andhericharaja.com/gallery/2025-2/",
+          "kind": "photograph",
+          "label": "Institutional annual-gallery photograph",
+          "caption": "The installed Ganesh in the official 2025 annual gallery.",
+          "credit": "Azad Nagar Sarvajanik Utsav Samiti archive; individual photographer uncredited.",
+          "dateEvidence": "The institution's gallery page is explicitly headed or navigated as 2025; the selected image occurs within that annual album. No precise capture day or original camera metadata is supplied.",
+          "dateStatus": "source-attributed",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "AR17"
+          ],
+          "yearConfidence": "source_labelled",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Four-armed seated Ganesh in red dhoti and gold crown, with garlands, lion-sided throne and round umbrella; ornate pink-stone-like carved architectural set and orange floor cloth.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "title": "2026 installed idol",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": "Shri Ram Janmbhoomi Mandir, Ayodhya",
+      "notes": [
+        {
+          "text": "The surrounding architectural theme is identified in the separate institutional theme archive; it is not inferred from this crop.",
+          "sourceIds": [
+            "AR08"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "AR18",
+        "AR08"
+      ],
+      "media": [
+        {
+          "id": "2026-official-phase2-idol",
+          "originalUrl": "https://www.andhericharaja.com/2026-day-11-to-visarjan/",
+          "kind": "photograph",
+          "label": "Institutional annual-gallery photograph",
+          "caption": "The installed Ganesh in the official 2026 annual gallery.",
+          "credit": "Azad Nagar Sarvajanik Utsav Samiti archive; individual photographer uncredited.",
+          "dateEvidence": "The institution's gallery page is explicitly headed or navigated as 2026; the selected image occurs within that annual album. No precise capture day or original camera metadata is supplied.",
+          "dateStatus": "source-attributed",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "AR18"
+          ],
+          "yearConfidence": "source_labelled",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Four-armed seated Ganesh in blue dhoti, crowned head and garlands against a gold throne; round umbrella, carved white architectural panels, red platform and institutional signs visible.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    }
+  ],
+  "undatedMedia": [],
+  "sources": [
+    {
+      "id": "AR01",
+      "title": "History and institutional homepage",
+      "publisher": "Andhericha Raja / Azad Nagar Sarvajanik Utsav Samiti",
+      "date": null,
+      "language": "English",
+      "type": "institutional retrospective",
+      "url": "https://www.andhericharaja.com/",
+      "note": "Public page retrieved directly because browser search fetch times out. History gives 1966 and a 1975 vow narrative. Stale anniversary counters are not used as current dates."
+    },
+    {
+      "id": "AR02",
+      "title": "Contact Us",
+      "publisher": "Azad Nagar Sarvajanik Utsav Samiti",
+      "date": null,
+      "language": "English",
+      "type": "institutional",
+      "url": "https://www.andhericharaja.com/contact/",
+      "note": "Exact Ganesh Maidan address."
+    },
+    {
+      "id": "AR03",
+      "title": "From the richest Ganesha to one that blessed a labour strike: Famous Ganpati mandals in Mumbai",
+      "publisher": "The Indian Express",
+      "date": "2022-08-30",
+      "language": "English",
+      "type": "editorial",
+      "url": "https://indianexpress.com/article/cities/mumbai/richest-ganesha-blessed-labour-strike-famous-ganpati-mandals-mumbai-8121404/",
+      "note": "Updated 9 September 2022. Reports worker origins and 1975 strike tradition; retrospective, not contemporary evidence of the 1970s."
+    },
+    {
+      "id": "AR04",
+      "title": "In Photos: Devotees bid adieu to Andhericha Raja",
+      "publisher": "Mid-day",
+      "date": "2024-09-21",
+      "language": "English",
+      "type": "editorial",
+      "url": "https://www.mid-day.com/mumbai/mumbai-news/photo/in-photos-devotees-bid-adieu-to-andhericha-raja-102277/1",
+      "note": "Contemporary procession photographs credited to Shadab Khan. Ritual-origin date differs from official history; not silently reconciled."
+    },
+    {
+      "id": "AR05",
+      "title": "2025 Gallery",
+      "publisher": "Azad Nagar Sarvajanik Utsav Samiti",
+      "date": null,
+      "language": "English",
+      "type": "institutional year-labelled gallery",
+      "url": "https://www.andhericharaja.com/gallery/2025-2/",
+      "note": "Official gallery labels the 2025 group; the inspected frame shows a small carried Ganesh at a workshop, without identifying its ritual role."
+    },
+    {
+      "id": "AR06",
+      "title": "Andhericha Raja comes home to bless its devotees again for the 60th time",
+      "publisher": "MTI News",
+      "date": "2025-08-27",
+      "language": "English",
+      "type": "organiser announcement reproduced by local outlet",
+      "url": "https://mtinews.in/andhericha-raja-comes-home-to-bless-its-devotees-again-for-the-60th-time/",
+      "note": "Press-release-style 2025 programme, theme, art director and craft-team description; not counted as independent verification of organiser claims."
+    },
+    {
+      "id": "AR07",
+      "title": "अंधेरीचा राजा: सारंगपूर हनुमान मंदिराची भव्यता",
+      "publisher": "Sakal",
+      "date": "2025-09-05",
+      "language": "Marathi",
+      "type": "editorial",
+      "url": "https://www.esakal.com/mumbai/todays-latest-marathi-news-mbi25b27754-txt-mumbai-20250905040723",
+      "note": "Names secretary Vijay Sawant, 1966 beginning, 2025 scenic work and 1973 immersion-tradition date. Its Rajkot wording is not used to locate the original Sarangpur temple."
+    },
+    {
+      "id": "AR08",
+      "title": "Annual theme archive",
+      "publisher": "Azad Nagar Sarvajanik Utsav Samiti",
+      "url": "https://www.andhericharaja.com/theme/",
+      "language": "English",
+      "type": "institutional year-labelled gallery",
+      "date": null,
+      "note": "Year headings distinguish the settings. Pandemic entries describe reduced four-foot installations and local immersion ponds; current wording is retrospective, not a current access promise."
+    },
+    {
+      "id": "AR09",
+      "title": "2016 official photo gallery",
+      "publisher": "Azad Nagar Sarvajanik Utsav Samiti",
+      "url": "https://www.andhericharaja.com/gallery/photo-gallery/",
+      "language": "English",
+      "type": "institutional year-labelled gallery",
+      "date": null,
+      "note": "Specific year heading/navigation supplies retrospective annual attribution. Upload directory and filenames are not used as dates. The gallery also includes contextual events and smaller carried idols."
+    },
+    {
+      "id": "AR10",
+      "title": "2017 official photo gallery",
+      "publisher": "Azad Nagar Sarvajanik Utsav Samiti",
+      "url": "https://www.andhericharaja.com/2017-2/",
+      "language": "English",
+      "type": "institutional year-labelled gallery",
+      "date": null,
+      "note": "Specific year heading/navigation supplies retrospective annual attribution. Upload directory and filenames are not used as dates. The gallery also includes contextual events and smaller carried idols."
+    },
+    {
+      "id": "AR11",
+      "title": "2018 official photo gallery",
+      "publisher": "Azad Nagar Sarvajanik Utsav Samiti",
+      "url": "https://www.andhericharaja.com/2018-2/",
+      "language": "English",
+      "type": "institutional year-labelled gallery",
+      "date": null,
+      "note": "Specific year heading/navigation supplies retrospective annual attribution. Upload directory and filenames are not used as dates. The gallery also includes contextual events and smaller carried idols."
+    },
+    {
+      "id": "AR12",
+      "title": "2019 official photo gallery",
+      "publisher": "Azad Nagar Sarvajanik Utsav Samiti",
+      "url": "https://www.andhericharaja.com/2019-2/",
+      "language": "English",
+      "type": "institutional year-labelled gallery",
+      "date": null,
+      "note": "Specific year heading/navigation supplies retrospective annual attribution. Upload directory and filenames are not used as dates. The gallery also includes contextual events and smaller carried idols."
+    },
+    {
+      "id": "AR13",
+      "title": "2020 official photo gallery",
+      "publisher": "Azad Nagar Sarvajanik Utsav Samiti",
+      "url": "https://www.andhericharaja.com/2020-2/",
+      "language": "English",
+      "type": "institutional year-labelled gallery",
+      "date": null,
+      "note": "Specific year heading/navigation supplies retrospective annual attribution. Upload directory and filenames are not used as dates. The gallery also includes contextual events and smaller carried idols."
+    },
+    {
+      "id": "AR14",
+      "title": "2021 official photo gallery",
+      "publisher": "Azad Nagar Sarvajanik Utsav Samiti",
+      "url": "https://www.andhericharaja.com/2021-2/",
+      "language": "English",
+      "type": "institutional year-labelled gallery",
+      "date": null,
+      "note": "Specific year heading/navigation supplies retrospective annual attribution. Upload directory and filenames are not used as dates. The gallery also includes contextual events and smaller carried idols."
+    },
+    {
+      "id": "AR15",
+      "title": "2022 official photo gallery",
+      "publisher": "Azad Nagar Sarvajanik Utsav Samiti",
+      "url": "https://www.andhericharaja.com/2022-2/",
+      "language": "English",
+      "type": "institutional year-labelled gallery",
+      "date": null,
+      "note": "Specific year heading/navigation supplies retrospective annual attribution. Upload directory and filenames are not used as dates. The gallery also includes contextual events and smaller carried idols."
+    },
+    {
+      "id": "AR16",
+      "title": "2023 official photo gallery",
+      "publisher": "Azad Nagar Sarvajanik Utsav Samiti",
+      "url": "https://www.andhericharaja.com/2023-2/",
+      "language": "English",
+      "type": "institutional year-labelled gallery",
+      "date": null,
+      "note": "Specific year heading/navigation supplies retrospective annual attribution. Upload directory and filenames are not used as dates. The gallery also includes contextual events and smaller carried idols."
+    },
+    {
+      "id": "AR17",
+      "title": "2025 official photo gallery",
+      "publisher": "Azad Nagar Sarvajanik Utsav Samiti",
+      "url": "https://www.andhericharaja.com/gallery/2025-2/",
+      "language": "English",
+      "type": "institutional year-labelled gallery",
+      "date": null,
+      "note": "Specific year heading/navigation supplies retrospective annual attribution. Upload directory and filenames are not used as dates. The gallery also includes contextual events and smaller carried idols."
+    },
+    {
+      "id": "AR18",
+      "title": "2026 official photo gallery",
+      "publisher": "Azad Nagar Sarvajanik Utsav Samiti",
+      "url": "https://www.andhericharaja.com/2026-day-11-to-visarjan/",
+      "language": "English",
+      "type": "institutional year-labelled gallery",
+      "date": null,
+      "note": "Specific year heading/navigation supplies retrospective annual attribution. Upload directory and filenames are not used as dates. The gallery also includes contextual events and smaller carried idols."
+    },
+    {
+      "id": "AR-preparation-2012",
+      "title": "Temple, palace architecture inspire mandal decor",
+      "publisher": "The Times of India / Bella Jaisinghani",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/ganesh-chaturthi-celebrations-temple-palace-architecture-inspire-mandal-decor/articleshow/16242523.cms",
+      "date": "2012-09-04",
+      "type": "reporting",
+      "language": "English",
+      "note": "The preparation report names the Azad Nagar mandal and describes the Dilwara replica and its planned pillars."
+    },
+    {
+      "id": "AR-report-2012",
+      "title": "The richest, biggest and famous Ganpatis of Mumbai",
+      "publisher": "Rediff.com",
+      "url": "https://m.rediff.com/news/slide-show/slide-show-1-richest-biggest-and-famous-ganpati-of-mumbai/20120926.htm",
+      "date": "2012-09-26",
+      "type": "reporting",
+      "language": "English",
+      "note": "The festival report's Andhericha Raja section confirms that year's Dilwara setting."
+    }
+  ],
+  "openQuestions": [
+    {
+      "title": "Immersion chronology",
+      "text": "Find contemporary strike records, early programmes or committee minutes to distinguish the 1972-73, 1973 and 1975 accounts.",
+      "sourceIds": [
+        "AR01",
+        "AR03",
+        "AR04",
+        "AR07"
+      ]
+    },
+    {
+      "title": "Annual maker credits",
+      "text": "Identify the Ganesh sculptor, workshop and original image maker separately from the scenic art director; the present sources do not establish a continuous lineage.",
+      "sourceIds": [
+        "AR05",
+        "AR06"
+      ]
+    }
+  ],
+  "visit": {
+    "address": "Ganesh Maidan, Azad Nagar II, Veera Desai Road, Andheri West, Mumbai 400053",
+    "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Azad%20Nagar%20Sarvajanik%20Utsav%20Samiti%20Ganesh%20Maidan%2C%20Azad%20Nagar%20II%2C%20Veera%20Desai%20Road%2C%20Andheri%20West%2C%20Mumbai%20400053",
+    "text": "Official festival address at Ganesh Maidan, Azad Nagar II. Annual dates, access and procession arrangements require that year's notice.",
+    "sourceIds": [
+      "AR02"
+    ]
+  },
+  "claims": [
+    {
+      "id": "C01",
+      "text": "The festival began in 1966 among local industrial workers.",
+      "status": "institutional and press retrospectives",
+      "sourceIds": [
+        "AR01",
+        "AR03",
+        "AR07"
+      ]
+    },
+    {
+      "id": "C02",
+      "text": "Large and small idols follow distinct immersion days.",
+      "status": "institutional ritual tradition / contemporary reporting",
+      "sourceIds": [
+        "AR01",
+        "AR04",
+        "AR07"
+      ]
+    },
+    {
+      "id": "C03",
+      "text": "The start year for the later immersion is unresolved.",
+      "status": "disputed retrospective chronology",
+      "sourceIds": [
+        "AR01",
+        "AR03",
+        "AR04",
+        "AR07"
+      ]
+    },
+    {
+      "id": "C04",
+      "text": "The 2025 thirty-two-foot figure is Hanuman scenery.",
+      "status": "contemporary Marathi reporting",
+      "sourceIds": [
+        "AR07"
+      ]
+    },
+    {
+      "id": "C05",
+      "text": "The selected 2025 workshop photograph shows a small carried idol.",
+      "status": "visual assessment of year-labelled institutional gallery",
+      "sourceIds": [
+        "AR05"
+      ]
+    },
+    {
+      "id": "C06",
+      "text": "Annual galleries label the 2016-2026 images, while the theme archive documents the pandemic size and immersion changes.",
+      "status": "institutional retrospective year attribution and annual notices",
+      "sourceIds": [
+        "AR08",
+        "AR09",
+        "AR10",
+        "AR11",
+        "AR12",
+        "AR13",
+        "AR14",
+        "AR15",
+        "AR16",
+        "AR17",
+        "AR18"
+      ]
+    }
+  ],
+  "researchNotes": {
+    "coverage": "Institutional history and contact, English retrospective, contemporary 2024 procession gallery, 2025 official gallery, organiser programme and Marathi reporting. Both selected images visually inspected. Phase 2: 10 annual entries supplemented after direct image inspection; source labels and photographic appearance assessed separately.",
+    "gaps": [
+      "No authenticated annual photographs before 2016 obtained.",
+      "Official albums supply year attribution but no independently authenticated capture dates or photographer identities.",
+      "The start date of the Sankashti immersion tradition remains disputed.",
+      "Smaller carried Ganesh figures and non-Ganesh religious scenes occur in the albums; their precise ritual roles require captions.",
+      "Reuse rights remain unknown."
+    ],
+    "nextActions": [
+      "Obtain a captioned full view of the 2025 main idol and dated making sequence.",
+      "Resolve the strike chronology with contemporary records; retain devotional language as attributed belief."
+    ],
+    "edition": "2026-11-16"
+  }
+}

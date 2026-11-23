@@ -1,0 +1,815 @@
+{
+  "slug": "kalachowkicha-mahaganpati",
+  "kind": "festival",
+  "researchStage": "expanded",
+  "meta": {
+    "title": "Kalachowkicha Mahaganpati",
+    "marathi": "काळाचौकीचा महागणपती",
+    "institution": "Kalachowki Vibhag Sarvajanik Utsav Mandal",
+    "location": "Dattaram Lad Marg, Kalachowki, Mumbai",
+    "neighborhood": "Kalachowki",
+    "founded": 1956,
+    "foundedNote": "1956 is reported by contemporary FPJ coverage; an original founding document was not inspected.",
+    "intro": "Kalachowkicha Mahaganpati is the Ganesh festival of Kalachowki Vibhag Sarvajanik Utsav Mandal on Dattaram Lad Marg. Its photograph series now reaches from a 2013 display to the 2026 arrival, showing seated, standing and multi-armed forms across changing years. Marathi and English reporting also documents neighborhood service, processional labor and the 2026 fatal electrical accident near the pandal. Its identity remains separate from Kalachowki's similarly named Maharaja and other local mandals.",
+    "hero": null,
+    "id": "kalachowkicha-mahaganpati",
+    "kind": "festival",
+    "researchStage": "expanded",
+    "catalogueMode": "located-records",
+    "updated": "16 November 2026",
+    "edition": "Expanded collection · Research edition · 16 November 2026",
+    "downloads": {
+      "json": "collections/kalachowkicha-mahaganpati.json"
+    }
+  },
+  "sections": [
+    {
+      "id": "origins",
+      "eyebrow": "Identity",
+      "title": "A specific Kalachowki institution",
+      "paragraphs": [
+        {
+          "text": "The Mahaganpati belongs to Kalachowki Vibhag Sarvajanik Utsav Mandal. A 2023 press caption explicitly joins that institution, Dattaram Lad Marg and the Mahaganpati name. FPJ dates the organization to 1956. These identifiers are more reliable than assigning an image from the neighborhood alone; Maharaja and other nearby mandals are separate collections.",
+          "sourceIds": [
+            "KM01",
+            "KM03"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "procession",
+      "eyebrow": "Living practice",
+      "title": "Arrival as a neighborhood performance",
+      "paragraphs": [
+        {
+          "text": "ABP Majha documents the 3 August 2025 arrival from a Parel workshop with music, dance and a Govinda salute. Its report focuses on Mazgaon Tadwadi participants building a human-pyramid tribute. This is evidence for that particular procession, rather than proof that its exact arrangement occurs every year.",
+          "sourceIds": [
+            "KM02"
+          ]
+        },
+        {
+          "text": "In August 2026, FPJ described Morya Dhol Tasha Pathak members dressed as BEST transport workers during the arrival procession. It connected their presentation to recognition of the bus workforce. The same report described a Mahalakshmi-form idol. The pathak presentation and the idol theme are related parts of the event, but should not be confused as one sculptural design.",
+          "sourceIds": [
+            "KM03"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "service",
+      "eyebrow": "Community",
+      "title": "Beyond the public display",
+      "paragraphs": [
+        {
+          "text": "Marathi reports also document practical community activity. Mumbai Live included the mandal among participants in a 2019 CPR and basic-life-support workshop. Maharashtra Times reported a Chief Minister relief-fund contribution during the 2020 lockdown. These dated reports support a service history without projecting every initiative backward to the founding year.",
+          "sourceIds": [
+            "KM04",
+            "KM05"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "photographic-forms",
+      "eyebrow": "Visual record",
+      "title": "A changing idol, with bounded dates",
+      "paragraphs": [
+        {
+          "text": "The expanded photographic series shows seated forms in 2013-2014, a raised-arm form in 2017, and processional standing forms in 2018-2019 and 2022. The 2013 photograph carries a Vijay Khatu sculptor plaque. Photographer titles and Flickr Taken fields support the annual attributions, but neither later uploads nor costume recognition can independently authenticate exposure dates. A continuous artisan succession remains unestablished.",
+          "sourceIds": [
+            "KM06",
+            "KM07",
+            "KM08",
+            "KM09",
+            "KM10",
+            "KM11"
+          ]
+        },
+        {
+          "text": "The 2024 arrival photograph shows a flute and peacock-feather crown; the 2026 image shows a red-clad, lion-supported form described in reporting as Mahalakshmi. These distinct forms belong to the exact Mahaganpati institution in their individual gallery captions. They are not evidence that every similarly named Kalachowki idol belongs to this collection.",
+          "sourceIds": [
+            "KM12",
+            "KM13",
+            "KM03"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-accident",
+      "eyebrow": "Recorded event",
+      "title": "The September 2026 electrical accident",
+      "paragraphs": [
+        {
+          "text": "On 20 September 2026, Marathi reporting described an electrical accident near a temporary cold-drinks stall opposite the Mahaganpati pandal on Dattaram Lad Marg. Two people died and others were injured. This was preliminary coverage while police investigation continued; differing injury totals and allegations about responsibility are not resolved here.",
+          "sourceIds": [
+            "KM14"
+          ]
+        }
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "year": 1956,
+      "title": "Institutional founding",
+      "text": "FPJ identifies 1956 as the founding year; original trust records remain a research gap.",
+      "sourceIds": [
+        "KM03"
+      ]
+    },
+    {
+      "year": 2013,
+      "title": "A visible sculptor plaque",
+      "text": "A collector-published photograph identifies the Mahaganpati display and visibly credits Vijay Khatu.",
+      "sourceIds": [
+        "KM11"
+      ]
+    },
+    {
+      "year": 2019,
+      "title": "Emergency-response training",
+      "text": "Named among Mumbai mandals participating in CPR/BLS training.",
+      "sourceIds": [
+        "KM04"
+      ]
+    },
+    {
+      "year": 2020,
+      "title": "Lockdown relief",
+      "text": "Maharashtra Times reports a relief-fund contribution by the Mahaganpati mandal.",
+      "sourceIds": [
+        "KM05"
+      ]
+    },
+    {
+      "year": 2023,
+      "title": "Named immersion documentation",
+      "text": "Mid-day photographs identify the institution at Dattaram Lad Marg.",
+      "sourceIds": [
+        "KM01"
+      ]
+    },
+    {
+      "year": 2024,
+      "title": "A flute-bearing form",
+      "text": "Loksatta names the exact institution in its contemporary arrival gallery.",
+      "sourceIds": [
+        "KM12"
+      ]
+    },
+    {
+      "year": 2025,
+      "title": "Mazgaon Tadwadi arrival salute",
+      "text": "ABP documents the arrival procession and human-pyramid tribute.",
+      "sourceIds": [
+        "KM02"
+      ]
+    },
+    {
+      "year": 2026,
+      "title": "BEST workforce tribute",
+      "text": "FPJ documents the pathak presentation at the August arrival procession.",
+      "sourceIds": [
+        "KM03"
+      ]
+    },
+    {
+      "year": 2026,
+      "title": "Electrical accident near the pandal",
+      "text": "ABP reports two deaths and other injuries near a temporary stall; the report describes an ongoing investigation.",
+      "sourceIds": [
+        "KM14"
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": 2013,
+      "title": "A seated form credited to Vijay Khatu",
+      "summary": "A dated collector post identifies the display as Kalachowkicha Mahaganpati 2013; the physical stage includes a sculptor plaque.",
+      "artist": "Vijay Khatu (विजय खातू), attributed by the visible display plaque",
+      "theme": null,
+      "notes": [
+        {
+          "text": "The small plaque beside the throne reads मूर्तिकार विजय खातू. This is evidence for this particular display, not a complete Khatu workshop succession.",
+          "sourceIds": [
+            "KM11"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "KM11"
+      ],
+      "media": [
+        {
+          "id": "2013-photoganpati-display",
+          "originalUrl": "https://photoganpati.blogspot.com/2013/10/kalachowkicha-mahaganpati-2013.html",
+          "kind": "photograph",
+          "label": "Collector-published physical display photograph",
+          "caption": "Seated Mahaganpati display attributed to 2013 by Photo Ganpati.",
+          "credit": "Original photographer uncredited; published by Photo Ganpati",
+          "dateStatus": "source-attributed",
+          "yearConfidence": "contemporary_collector_annual_caption",
+          "dateEvidence": "Post is dated 30 October 2013 and explicitly titled Kalachowkicha Mahaganpati 2013. No original capture metadata or institutional annual record inspected.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "KM11"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Seated four-armed Ganesh in purple trousers with axe, blessing hand and two hands near the knees; ornate carved physical columns, brass standing lamps, red carpeted steps and a foreground mouse are visible. Small plaque names sculptor Vijay Khatu.",
+            "alignsWithSource": true,
+            "note": "Original photograph individually viewed. The stage and plaque are physical scene details; the annual date remains the collector's attribution."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "title": "A seated royal form",
+      "summary": "A photographer-published photograph identifies the Mahaganpati in 2014.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "KM06"
+      ],
+      "media": [
+        {
+          "id": "2014-flickr-19570471636",
+          "originalUrl": "https://www.flickr.com/photos/25959415@N06/19570471636/",
+          "kind": "photograph",
+          "label": "Photographer-published scene photograph",
+          "caption": "Kalachowkicha Mahaganpati, attributed to 2014 by Prathamesh Kini.",
+          "credit": "Prathamesh Kini",
+          "dateStatus": "source-attributed",
+          "dateEvidence": "Uploader title explicitly identifies 2014; uploaded 11 July 2015. No capture date recovered, and the later upload is kept separate from the depicted-year attribution.",
+          "yearConfidence": "uploader_caption",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "KM06"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Seated four-armed pink Ganesh in blue drapery on an ornate throne beneath the arched physical pandal ceiling; smaller flanking figures and offerings remain visible.",
+            "alignsWithSource": true,
+            "note": "Original image viewed in the six-image contact sheet; the physical setting and Ganesh form agree with the caption. The year comes from the source, not form recognition."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "title": "Raised arms and a bird support",
+      "summary": "A photographer-published photograph identifies the Mahaganpati in 2017.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "KM07"
+      ],
+      "media": [
+        {
+          "id": "2017-flickr-36174109963",
+          "originalUrl": "https://www.flickr.com/photos/116736796@N06/36174109963/",
+          "kind": "photograph",
+          "label": "Photographer-published scene photograph",
+          "caption": "Kalachowkicha Mahaganpati, attributed to 2017 by Prathamesh Yeram.",
+          "credit": "Prathamesh Yeram",
+          "dateStatus": "source-attributed",
+          "dateEvidence": "Uploader's caption/title explicitly identifies 2017; Taken on August 25, 2017 Prathamesh Yeram By: Prathamesh Yeram Kalachowkicha M Uploaded on September 2, 2017 Taken on August 25, 2017 Prathamesh Yeram By: Prath Taken metadata and upload dates are source assertions, not independent capture authentication.",
+          "yearConfidence": "uploader_caption_and_taken_metadata",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "KM07"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Standing multi-armed Ganesh with both upper hands raised, yellow and red drapery, blue stole and a dark bird at the feet; an ornate green arch and blue-lit physical ceiling frame the scene.",
+            "alignsWithSource": true,
+            "note": "Original image viewed in the six-image contact sheet; the physical setting and Ganesh form agree with the caption. The year comes from the source, not form recognition."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "title": "The street arrival",
+      "summary": "A photographer-published photograph identifies the Mahaganpati in 2018.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "KM08"
+      ],
+      "media": [
+        {
+          "id": "2018-flickr-30265971718",
+          "originalUrl": "https://www.flickr.com/photos/116736796@N06/30265971718/",
+          "kind": "photograph",
+          "label": "Photographer-published scene photograph",
+          "caption": "Kalachowkicha Mahaganpati, attributed to 2018 by Prathamesh Yeram.",
+          "credit": "Prathamesh Yeram",
+          "dateStatus": "source-attributed",
+          "dateEvidence": "Uploader's caption/title explicitly identifies 2018; Taken on August 19, 2018 Prathamesh Yeram By: Prathamesh Yeram Kalachowki Cha  Uploaded on August 19, 2018 Taken on August 19, 2018 Prathamesh Yeram By: Pratham Taken metadata and upload dates are source assertions, not independent capture authentication.",
+          "yearConfidence": "uploader_caption_and_taken_metadata",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "KM08"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Standing multi-armed Ganesh in pink trousers and a green sash, holding a long gold implement; the crown, street buildings, trees, megaphones and people are visible.",
+            "alignsWithSource": true,
+            "note": "Original image viewed in the six-image contact sheet; the physical setting and Ganesh form agree with the caption. The year comes from the source, not form recognition."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "title": "Immersion beneath a serpent crown",
+      "summary": "A photographer-published photograph identifies the Mahaganpati in 2019.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "KM09"
+      ],
+      "media": [
+        {
+          "id": "2019-flickr-48763533602",
+          "originalUrl": "https://www.flickr.com/photos/157301541@N04/48763533602/",
+          "kind": "photograph",
+          "label": "Photographer-published scene photograph",
+          "caption": "Kalachowkicha Mahaganpati, attributed to 2019 by Sameer Mohite.",
+          "credit": "Sameer Mohite",
+          "dateStatus": "source-attributed",
+          "dateEvidence": "Uploader's caption/title explicitly identifies 2019; Taken on September 12, 2019 Sameer Mohite 588 By: Sameer Mohite 588 •|| महागणप Uploaded on September 20, 2019 Taken on September 12, 2019 Sameer Mohite 588 By:  Taken metadata and upload dates are source assertions, not independent capture authentication.",
+          "yearConfidence": "uploader_caption_and_taken_metadata",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "KM09"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Standing four-armed Ganesh in yellow drapery, two hands at the waist, conch and blessing hand above, beneath a multi-hooded serpent crown; people, loudspeakers, overhead wires and street buildings surround the cart.",
+            "alignsWithSource": true,
+            "note": "Original image viewed in the six-image contact sheet; the physical setting and Ganesh form agree with the caption. The year comes from the source, not form recognition."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "title": "Trident-bearing arrival",
+      "summary": "A photographer-published photograph identifies the Mahaganpati in 2022.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "KM10"
+      ],
+      "media": [
+        {
+          "id": "2022-flickr-52326208637",
+          "originalUrl": "https://www.flickr.com/photos/157301541@N04/52326208637/",
+          "kind": "photograph",
+          "label": "Photographer-published scene photograph",
+          "caption": "Kalachowkicha Mahaganpati, attributed to 2022 by Sameer Mohite.",
+          "credit": "Sameer Mohite",
+          "dateStatus": "source-attributed",
+          "dateEvidence": "Uploader's caption/title explicitly identifies 2022; Taken on August 14, 2022 Sameer Mohite 588 By: Sameer Mohite 588 || महागणपती | Uploaded on September 1, 2022 Taken on August 14, 2022 Sameer Mohite 588 By: Same Taken metadata and upload dates are source assertions, not independent capture authentication.",
+          "yearConfidence": "uploader_caption_and_taken_metadata",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "KM10"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Standing multi-armed Ganesh in blue trousers and an orange waist cloth, carrying a trident and axe, crowned above a street procession with people, flags and tall buildings.",
+            "alignsWithSource": true,
+            "note": "Original image viewed in the six-image contact sheet; the physical setting and Ganesh form agree with the caption. The year comes from the source, not form recognition."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "title": "Immersion on Dattaram Lad Marg",
+      "summary": "The institution and locality are explicitly identified in a contemporary press caption.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "KM01"
+      ],
+      "media": [
+        {
+          "id": "2023-midday-procession",
+          "originalUrl": "https://www.mid-day.com/mumbai/mumbai-news/photo/in-photos-devotees-bid-adieu-to-lord-ganesha-in-mumbai-97522/7",
+          "kind": "photograph",
+          "label": "Contemporary press scene photograph",
+          "caption": "Members of Kalachowki Vibhag Sarvajanik Utsav Mandal at the Mahaganpati immersion procession on Dattaram Lad Marg.",
+          "credit": "Satej Shinde / Mid-day",
+          "dateEvidence": "Gallery published 28 September 2023 and caption explicitly identifies this procession. Capture date inferred from contemporary event coverage, not from filename alone.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "KM01"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Standing Ganesh viewed from above over a dense procession in a narrow street; buildings, tiled roof, palm trees and people surrounding the idol.",
+            "alignsWithSource": true,
+            "note": "Direct image visually inspected. Wide scene supports the processional caption; exact attributes are small and not independently used to identify the year."
+          },
+          "dateStatus": "contemporary"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "title": "A flute-bearing arrival",
+      "summary": "Loksatta explicitly identifies the institution in its 2024 arrival gallery.",
+      "artist": null,
+      "theme": "Flute-bearing, peacock-crowned form (visible attributes; official theme title unestablished)",
+      "notes": [],
+      "sourceIds": [
+        "KM12"
+      ],
+      "media": [
+        {
+          "id": "2024-loksatta-arrival",
+          "originalUrl": "https://www.loksatta.com/photos/trending-gallery/4540158/ganeshotsav-2024-ganpati-bappa-aagman-sohala-grand-celebration-huge-crowd-photos-sdn-96/lite/",
+          "kind": "photograph",
+          "label": "Contemporary Marathi press scene photograph",
+          "caption": "Kalachowkicha Mahaganpati arrival, identified in slide 2 of Loksatta's 2024 gallery.",
+          "credit": "Loksatta; individual photographer uncredited in inspected caption",
+          "dateStatus": "contemporary",
+          "yearConfidence": "contemporary_caption",
+          "dateEvidence": "The gallery is dated 30 August 2024, explicitly concerns 2024 arrivals, and the individual slide names the exact institution. This supports the festival year, not a separately recorded exposure date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "KM12"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Standing multi-armed Ganesh with a peacock-feather crown, pink trousers and blue waist cloth, holding a flute across the chest, lotus stems and conch; palm trees, street crowd and men on the cart show a physical arrival scene.",
+            "alignsWithSource": true,
+            "note": "Exact caption-linked image individually viewed. No creator attribution or exposure metadata is inferred from the generic filename."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "title": "The arrival procession",
+      "summary": "ABP Majha documents the 3 August arrival and Mazgaon Tadwadi salute.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "KM02"
+      ],
+      "media": [
+        {
+          "id": "2025-abp-arrival",
+          "originalUrl": "https://marathi.abplive.com/photo-gallery/news/mumbai-kalachowkicha-mahaganpati-agaman-sohla-2025-mazgaon-tadwadi-thar-mumbai-ganeshotsav-2025-photo-1374660",
+          "kind": "photograph",
+          "label": "Contemporary regional press photograph",
+          "caption": "Kalachowkicha Mahaganpati arrival, identified in the first gallery caption.",
+          "credit": "ABP Majha; individual photographer uncredited in inspected caption",
+          "dateEvidence": "Published 4 August 2025; text identifies the arrival as the previous day. Date rests on the article, not an upload timestamp.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "KM02"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Standing multi-armed Ganesh with tall crown, trident, small drum and tiger-patterned garment; orange lower cloth, bubbles/confetti, trees and a street crowd beneath a flyover.",
+            "alignsWithSource": true,
+            "note": "Direct image visually inspected in Chrome. Physical arrival setting matches the regional report; the year comes from its contemporary caption, not visual recognition alone."
+          },
+          "dateStatus": "contemporary"
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "title": "A lion-supported Mahalakshmi form",
+      "summary": "Contemporary accounts identify the August arrival as a Mahalakshmi-form conception, alongside a BEST-workforce tribute by the pathak.",
+      "artist": null,
+      "theme": "Mahalakshmi form (महालक्ष्मी रूप)",
+      "notes": [
+        {
+          "text": "FPJ reports a 24-foot idol and the 16 August arrival. Height is reported, not independently measured. The separately documented pathak tribute is not a sculptor credit.",
+          "sourceIds": [
+            "KM03"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "KM03",
+        "KM13"
+      ],
+      "media": [
+        {
+          "id": "2026-loksatta-arrival",
+          "originalUrl": "https://www.freepressjournal.in/amp/mumbai/best-tribute-mumbais-morya-dhol-tasha-pathak-wins-hearts-with-unique-homage-to-citys-road-transport-lifeline-during-ganpati-aagman-videos",
+          "kind": "photograph",
+          "label": "Contemporary Marathi press arrival photograph",
+          "caption": "Kalachowkicha Mahaganpati arrival in August 2026, named in the individual slide.",
+          "credit": "Loksatta; individual photographer uncredited in inspected caption",
+          "dateStatus": "contemporary",
+          "yearConfidence": "contemporary_caption",
+          "dateEvidence": "Gallery introduction dates the pictured arrivals to 15-16 August 2026; slide 2 identifies the exact mandal. FPJ separately dates this mandal's arrival to 16 August. The 9 September gallery update is not treated as capture day.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "KM03",
+            "KM13"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Standing multi-armed Ganesh in red and gold drapery over a lion, holding a lotus with sun-like disc, conch and a small pot; flyover pillars, trees, ambulances and dense spectators establish the physical street setting.",
+            "alignsWithSource": true,
+            "note": "Exact caption-linked original individually viewed. Visible lion, red drapery and attributes agree with the reported Mahalakshmi conception; no unverified sculptor assignment is added."
+          }
+        }
+      ]
+    }
+  ],
+  "undatedMedia": [],
+  "sources": [
+    {
+      "id": "KM01",
+      "title": "IN PHOTOS: Devotees bid adieu to Lord Ganesha in Mumbai",
+      "publisher": "Mid-day",
+      "date": "2023-09-28",
+      "language": "English",
+      "type": "contemporary photo report",
+      "url": "https://www.mid-day.com/mumbai/mumbai-news/photo/in-photos-devotees-bid-adieu-to-lord-ganesha-in-mumbai-97522/7",
+      "note": "Specific caption names institution, Mahaganpati, Dattaram Lad Marg and photographer Satej Shinde."
+    },
+    {
+      "id": "KM02",
+      "title": "काळचौकीच्या महागणपतीला माझगाव ताडवाडीची अनोखी सलामी",
+      "publisher": "ABP Majha",
+      "date": "2025-08-04",
+      "language": "Marathi",
+      "type": "contemporary photo report",
+      "url": "https://marathi.abplive.com/photo-gallery/news/mumbai-kalachowkicha-mahaganpati-agaman-sohla-2025-mazgaon-tadwadi-thar-mumbai-ganeshotsav-2025-photo-1374660",
+      "note": "By Mukesh Chavan; direct image link observed. Article author is not assumed to be photographer."
+    },
+    {
+      "id": "KM03",
+      "title": "BEST Tribute! Morya Dhol Tasha Pathak during Ganpati Aagman",
+      "publisher": "Free Press Journal",
+      "date": "2026-08-17",
+      "language": "English",
+      "type": "contemporary reporting",
+      "url": "https://www.freepressjournal.in/amp/mumbai/best-tribute-mumbais-morya-dhol-tasha-pathak-wins-hearts-with-unique-homage-to-citys-road-transport-lifeline-during-ganpati-aagman-videos",
+      "note": "Prathamesh Kharade; identifies exact institution and 1956 founding, describes 16 August 2026 arrival. Height is a reported figure, not independent measurement."
+    },
+    {
+      "id": "KM04",
+      "title": "गणेशोत्सव २०१९: गणेश मंडळांना सीपीआरचे प्रशिक्षण",
+      "publisher": "Mumbai Live",
+      "date": null,
+      "language": "Marathi",
+      "type": "contemporary reporting",
+      "url": "https://www.mumbailive.com/mr/festivals/cpr-training-for-ganesh-mandals-from-wockhardt-hospital-mumbai-central-38762",
+      "note": "2019 in title/context; exact day not recovered. Search-index text inspected; direct open failed. Names Kalachowki Mahaganpati specifically among participating mandals."
+    },
+    {
+      "id": "KM05",
+      "title": "मदतीचा ओघ सुरूच",
+      "publisher": "Maharashtra Times",
+      "date": null,
+      "language": "Marathi",
+      "type": "2020 lockdown reporting",
+      "url": "https://maharashtratimes.com/maharashtra/mumbai-news/the-flow-of-help-continues/amp_articleshow/75111181.cms",
+      "note": "Indexed text names the exact mandal and reports a one-lakh-rupee CM relief contribution. Exact publication day not inspected."
+    },
+    {
+      "id": "KM06",
+      "title": "Kalachowkie cha Mahaganpati - 2014",
+      "publisher": "Prathamesh Kini / Flickr",
+      "date": "2015-07-11",
+      "language": "Marathi / English",
+      "type": "photographer-published photograph",
+      "url": "https://www.flickr.com/photos/25959415@N06/19570471636/",
+      "note": "Uploader's annual title/caption identifies Kalachowkicha Mahaganpati. No separate Taken date recovered. Uploaded on July 11, 2015 Prathamography by Prathamesh Kini By: Prathamography by All rights reserved; uploader attribution is not independent authentication."
+    },
+    {
+      "id": "KM07",
+      "title": "Kalachowkicha Mahaganpati 2017",
+      "publisher": "Prathamesh Yeram / Flickr",
+      "date": "2017-09-02",
+      "language": "Marathi / English",
+      "type": "photographer-published photograph",
+      "url": "https://www.flickr.com/photos/116736796@N06/36174109963/",
+      "note": "Uploader's annual title/caption identifies Kalachowkicha Mahaganpati. Taken on August 25, 2017 Prathamesh Yeram By: Prathamesh Yeram Kalachowkicha M Uploaded on September 2, 2017 Taken on August 25, 2017 Prathamesh Yeram By: Prath All rights reserved; uploader attribution is not independent authentication."
+    },
+    {
+      "id": "KM08",
+      "title": "Kalachowki Cha Mahaganpati 2018",
+      "publisher": "Prathamesh Yeram / Flickr",
+      "date": "2018-08-19",
+      "language": "Marathi / English",
+      "type": "photographer-published photograph",
+      "url": "https://www.flickr.com/photos/116736796@N06/30265971718/",
+      "note": "Uploader's annual title/caption identifies Kalachowkicha Mahaganpati. Taken on August 19, 2018 Prathamesh Yeram By: Prathamesh Yeram Kalachowki Cha  Uploaded on August 19, 2018 Taken on August 19, 2018 Prathamesh Yeram By: Pratham All rights reserved; uploader attribution is not independent authentication."
+    },
+    {
+      "id": "KM09",
+      "title": "•|| महागणपती ||•",
+      "publisher": "Sameer Mohite / Flickr",
+      "date": "2019-09-20",
+      "language": "Marathi / English",
+      "type": "photographer-published photograph",
+      "url": "https://www.flickr.com/photos/157301541@N04/48763533602/",
+      "note": "Uploader's annual title/caption identifies Kalachowkicha Mahaganpati. Taken on September 12, 2019 Sameer Mohite 588 By: Sameer Mohite 588 •|| महागणप Uploaded on September 20, 2019 Taken on September 12, 2019 Sameer Mohite 588 By:  All rights reserved; uploader attribution is not independent authentication."
+    },
+    {
+      "id": "KM10",
+      "title": "|| महागणपती ||",
+      "publisher": "Sameer Mohite / Flickr",
+      "date": "2022-09-01",
+      "language": "Marathi / English",
+      "type": "photographer-published photograph",
+      "url": "https://www.flickr.com/photos/157301541@N04/52326208637/",
+      "note": "Uploader's annual title/caption identifies Kalachowkicha Mahaganpati. Taken on August 14, 2022 Sameer Mohite 588 By: Sameer Mohite 588 || महागणपती | Uploaded on September 1, 2022 Taken on August 14, 2022 Sameer Mohite 588 By: Same All rights reserved; uploader attribution is not independent authentication."
+    },
+    {
+      "id": "KM11",
+      "title": "Kalachowkicha Mahaganpati 2013",
+      "publisher": "Ganpati Photo Collection / Photo Ganpati",
+      "date": "2013-10-30",
+      "language": "English / Marathi",
+      "type": "contemporary collector blog with embedded photograph",
+      "url": "https://photoganpati.blogspot.com/2013/10/kalachowkicha-mahaganpati-2013.html",
+      "note": "Annual title and date are explicit; the blog does not identify the original photographer. The visible sculptor plaque reads Vijay Khatu. This collector attribution is weaker than an institution-issued annual record."
+    },
+    {
+      "id": "KM12",
+      "title": "गणरायाच्या आगमन सोहळ्याला जल्लोष; भक्तांची गर्दी",
+      "publisher": "Loksatta",
+      "date": "2024-08-30",
+      "language": "Marathi",
+      "type": "contemporary captioned photo gallery",
+      "url": "https://www.loksatta.com/photos/trending-gallery/4540158/ganeshotsav-2024-ganpati-bappa-aagman-sohala-grand-celebration-huge-crowd-photos-sdn-96/lite/",
+      "note": "Slide 2 explicitly names Kalachowkicha Mahaganpati and Kalachowki Vibhag Sarvajanik Utsav Mandal. Updated 30 August 2024 at 18:20 IST. Individual photographer uncredited in inspected caption."
+    },
+    {
+      "id": "KM13",
+      "title": "मुंबईत गणरायाचा महाआगमन सोहळा; लालबाग-परळमध्ये घुमला ढोल-ताशांचा गजर!",
+      "publisher": "Loksatta",
+      "date": "2026-09-09",
+      "language": "Marathi",
+      "type": "contemporary captioned photo gallery",
+      "url": "https://www.loksatta.com/photos/trending-gallery/6081453/ganesh-chaturthi-2026-mumbai-lalbaug-parel-ganpati-maha-aagman-sohala-15-and-16-august-photos-sdn-96/",
+      "note": "Updated 9 September 2026 at 13:04 IST; introduction explicitly dates arrivals to 15-16 August 2026. Slide 2 names the exact mandal. The update date is not the capture date."
+    },
+    {
+      "id": "KM14",
+      "title": "काळाचौकीचा महागणपतीच्या मंडपासमोर रात्री दोन वाजता आक्रित घडलं",
+      "publisher": "ABP Majha / Suraj Sawant",
+      "date": "2026-09-20",
+      "language": "Marathi",
+      "type": "contemporary news reporting",
+      "url": "https://marathi.abplive.com/news/mumbai/kalachowki-cha-mahaganpati-mumbai-ganpati-festival-shocking-incident-electricity-current-2-died-5-injured-in-parel-marathi-news-1439647",
+      "note": "Updated 09:27 IST. Explicitly locates the incident at Dattaram Lad Marg near the Mahaganpati pandal. Preliminary reporting; headline and body injury totals vary. Investigation was ongoing, so allegations are not findings."
+    }
+  ],
+  "openQuestions": [
+    {
+      "title": "Founding documentation",
+      "text": "Find an institutional history or registration document confirming the reported 1956 foundation and early organizers.",
+      "sourceIds": [
+        "KM03"
+      ]
+    },
+    {
+      "title": "Early visual archive",
+      "text": "No authenticated earlier-year idol photographs were obtained here. Do not substitute another Kalachowki mandal or a devotional illustration.",
+      "sourceIds": [
+        "KM01",
+        "KM02"
+      ]
+    },
+    {
+      "title": "Artists and yearly forms",
+      "text": "A verified sequence of sculptors and annually dated idol forms remains to be assembled; one contemporary height is not a permanent specification.",
+      "sourceIds": [
+        "KM03"
+      ]
+    },
+    {
+      "title": "Workshop succession",
+      "text": "The 2013 plaque provides one Vijay Khatu credit. Social-video descriptions mention a later studio change, but no inspected primary annual announcement establishes dates or successor credits, so later artist fields remain empty.",
+      "sourceIds": [
+        "KM11"
+      ]
+    },
+    {
+      "title": "Accident documentation",
+      "text": "Final investigation and differing reported injury counts remain unresolved. A Loksatta follow-up uses an explicitly Gemini-generated illustration, excluded from the photograph archive.",
+      "sourceIds": [
+        "KM14"
+      ]
+    }
+  ],
+  "visit": {
+    "address": "Dattaram Lad Marg, Kalachowki, Mumbai",
+    "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Kalachowkicha+Mahaganpati+Dattaram+Lad+Marg+Mumbai",
+    "text": "The exact street and institutional identity are established by the contemporary immersion caption. Seasonal arrangements and routes require current confirmation.",
+    "sourceIds": [
+      "KM01"
+    ]
+  },
+  "claims": [
+    {
+      "id": "C01",
+      "text": "Kalachowkicha Mahaganpati is Kalachowki Vibhag Sarvajanik Utsav Mandal at Dattaram Lad Marg.",
+      "status": "contemporary caption",
+      "sourceIds": [
+        "KM01"
+      ]
+    },
+    {
+      "id": "C02",
+      "text": "The organization is reported as founded in 1956.",
+      "status": "retrospective statement in contemporary reporting",
+      "sourceIds": [
+        "KM03"
+      ]
+    },
+    {
+      "id": "C03",
+      "text": "The 2025 arrival involved a Mazgaon Tadwadi Govinda salute.",
+      "status": "contemporary reporting",
+      "sourceIds": [
+        "KM02"
+      ]
+    },
+    {
+      "id": "C04",
+      "text": "The 2026 arrival featured a Morya Pathak BEST-workforce tribute.",
+      "status": "contemporary reporting",
+      "sourceIds": [
+        "KM03"
+      ]
+    },
+    {
+      "id": "C05-phase2",
+      "text": "Dated or explicitly annually captioned scene photographs extend the record to 2013, 2014, 2017, 2018, 2019, 2022, 2024 and 2026; early sculptor continuity is not established.",
+      "status": "mixed contemporary press and photographer/collector attribution",
+      "sourceIds": [
+        "KM06",
+        "KM07",
+        "KM08",
+        "KM09",
+        "KM10",
+        "KM11",
+        "KM12",
+        "KM13"
+      ]
+    },
+    {
+      "id": "C06-phase2",
+      "text": "The 2013 physical display photograph includes a plaque crediting Vijay Khatu.",
+      "status": "visible contemporary display label in collector-published photograph",
+      "sourceIds": [
+        "KM11"
+      ]
+    },
+    {
+      "id": "C07-phase2",
+      "text": "Contemporary reporting records two deaths in an electrical accident near the pandal on Dattaram Lad Marg in September 2026; final responsibility is unestablished.",
+      "status": "preliminary contemporary reporting",
+      "sourceIds": [
+        "KM14"
+      ]
+    }
+  ],
+  "researchNotes": {
+    "edition": "2026-11-16",
+    "coverage": "Expanded independently to ten distinct dated photo years (2013-2026), with photographer caption/Taken metadata separated from contemporary press evidence. Added a visible Vijay Khatu plaque, changing forms, and bounded documentation of the 2026 accident. Founding 1956 remains a retrospective press claim; no original mandal history file located.",
+    "gaps": [
+      "Original founding and registration documents",
+      "Pre-2013 photographic records and artisan chronology",
+      "Verified post-Khatu workshop succession",
+      "Final investigation record for the 2026 electrical accident",
+      "Image reuse permissions"
+    ],
+    "nextActions": [
+      "Locate exact-institution annual souvenirs and dated workshop announcements",
+      "Seek original negatives or contemporary captions for earlier years",
+      "Resolve rights with source owners in a later authorized phase"
+    ]
+  }
+}

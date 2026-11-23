@@ -1,0 +1,988 @@
+{
+  "slug": "gsb-wadala",
+  "kind": "festival",
+  "researchStage": "expanded",
+  "meta": {
+    "title": "GSB Wadala Mahaganapati",
+    "marathi": "जीएसबी वडाळा महागणपती",
+    "institution": "G.S.B. Sarvajanik Ganeshotsava Samiti",
+    "location": "Dwarakanath Bhavan, Shree Ram Mandir complex, Katrak Road, Wadala, Mumbai 400031",
+    "neighborhood": "Wadala",
+    "founded": 1955,
+    "foundedNote": "The Samiti and host temple both date this annual Ganeshotsav to 1955; this does not date the permanent Ram temple.",
+    "intro": "Wadala's GSB Ganeshotsav is organised by G.S.B. Sarvajanik Ganeshotsava Samiti at Dwarakanath Bhavan in the Shree Ram Mandir complex. Its annual Mahaganapati, known devotionally as Navasacha Suvarna Ganapati, belongs to a festival traced to 1955. The extended cycle of Vedic sevas, communal meals and Anant Chaturdashi observance makes it distinct from King's Circle's GSB Seva Mandal. This foundation records rituals and community work without treating the host Ram temple's institutional history as a history of a permanent Ganesh idol.",
+    "aliases": [
+      "GSB Sarvajanik Ganeshotsav Wadala",
+      "Navasacha Suvarna Ganapati",
+      "Navsacha Suvarna Mahaganapati",
+      "GSB Ram Mandir Wadala"
+    ],
+    "hero": {
+      "src": "assets/collections/gsb-wadala-93243e5c8470.jpg",
+      "alt": "The Wadala annual idol in the source's 2022 record.",
+      "caption": "The Wadala annual idol in the source's 2022 record.",
+      "credit": "Heshanbhag / Wikimedia Commons. · CC BY-SA 4.0",
+      "sourceIds": [
+        "GW21"
+      ]
+    },
+    "id": "gsb-wadala",
+    "kind": "festival",
+    "researchStage": "expanded",
+    "catalogueMode": "located-records",
+    "updated": "16 November 2026",
+    "edition": "Expanded collection · Research edition · 16 November 2026",
+    "downloads": {
+      "json": "collections/gsb-wadala.json"
+    }
+  },
+  "sections": [
+    {
+      "id": "institution",
+      "eyebrow": "Identity and origins",
+      "title": "The Wadala institution",
+      "paragraphs": [
+        {
+          "text": "Both the Samiti and the host temple trace the public festival at Dwarakanath Bhavan to 1955. Its address is Katrak Road, Wadala. Although the host temple website also uses a broader Dadar description in its footer, the named festival venue and contact address are Wadala. This is a separate organising body from GSB Seva Mandal at King's Circle.",
+          "sourceIds": [
+            "GW01",
+            "GW02",
+            "GW04"
+          ]
+        },
+        {
+          "text": "The temporary Ganapati is installed within an established Ram temple complex associated with followers of Gokarn Partagali Jeevottam Muth. Annual Ganesh worship should be catalogued separately from the temple's permanent deities, buildings and Ram Navami history. The host institution describes the festival as a setting for worship and social participation across community boundaries.",
+          "sourceIds": [
+            "GW04"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ritual",
+      "eyebrow": "Ritual and service",
+      "title": "An extended cycle of worship",
+      "paragraphs": [
+        {
+          "text": "The Samiti's ritual list includes Ganahoma, Mooda Ganapati, Tulabhar, Anna Santarpana, Ranga Pooja and Atharvashirsha recitation. Several sevas explicitly exclude Ekadashi. Its 2026 appeal announces twelve days from Ganesh Chaturthi to Anant Chaturdashi, 14-25 September. The duration should follow each annual calendar rather than be reduced to a fixed eleven-day formula.",
+          "sourceIds": [
+            "GW03",
+            "GW01"
+          ]
+        },
+        {
+          "text": "The host temple describes an Ananta observance involving a kalash, darbha form, Saligram and a fourteen-knotted thread, subsequently immersed with the festival Ganapati. Community care is also visible in recent records: GSBS Medical Trust reports a 3 September 2025 camp with more than 151 attendees, alongside a separate child-health event that festival. These records document festival activity without substituting service photographs for a portrait of its deity. A 2017 community periodical also records health and recitation programmes, establishing that this service component predates the recent photographs.",
+          "sourceIds": [
+            "GW04",
+            "GW05",
+            "GW06",
+            "GW09"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "phase2-annual-ritual-and-interruption",
+      "eyebrow": "Annual worship and change",
+      "title": "A separate Wadala sequence, including the interrupted festival",
+      "paragraphs": [
+        {
+          "text": "The 2008 community report explicitly places the54th festival at Dwarakanath Bhavan in the Ram Mandir complex and traces the first public celebration to 1955. It describes clay-idol practice alongside food distribution, educational aid and medical work. Its lost image links are a real archival gap: the surviving text cannot be converted into a photographed 2008 idol.",
+          "sourceIds": [
+            "GW17"
+          ]
+        },
+        {
+          "text": "Arun Shanbhag's 2009 photo essay is especially useful because it separates household worship, King's Circle and Wadala. His 2011 Wadala post adds a scene of priests working beside the ornamented idol, supported by original attachment metadata. The 2009 Photobucket overlay is retained, and the 2012 Rediff section is assigned here because it specifically says Ram Mandir Wadala despite its generic GSB header.",
+          "sourceIds": [
+            "GW10",
+            "GW11",
+            "GW12",
+            "GW20"
+          ]
+        },
+        {
+          "text": "The 2015 visitor photograph has embedded 2015 camera metadata consistent with its contemporary post, while the 2016 and 2018 roundups separately name and credit their Wadala frames. Bellevision's 2017 event report links the63rd festival to the presence of the Gokarna Partagali mutt's spiritual heads. These annual-festival records are kept distinct from the history of the permanent host temple.",
+          "sourceIds": [
+            "GW13",
+            "GW14",
+            "GW15",
+            "GW16"
+          ]
+        },
+        {
+          "text": "The pandemic interruption was institution-specific. A25 May 2020 announcement postponed Wadala's Bhadrapad festival to the following Maghi season. In February 2021, organisers described a much smaller proposed one-day observance: an18-inch idol, online pujas and immersion on the premises, without public darshan or prasad distribution. These are dated reported plans; neither source proves every planned action was completed.",
+          "sourceIds": [
+            "GW18",
+            "GW19"
+          ]
+        },
+        {
+          "text": "The openly licensed 2022 original offers unusually detailed provenance: the uploader identifies both Wadala and the depicted year, and the physical throne carries the institution's name. Its text and camera metadata disagree by one day but agree on 2022. The archive therefore preserves the year with the discrepancy disclosed, rather than choosing an exact date or using the 2023 upload as the event year.",
+          "sourceIds": [
+            "GW21"
+          ]
+        }
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "year": 1955,
+      "title": "Annual festival begins",
+      "text": "Date shared by Samiti and host-temple accounts.",
+      "sourceIds": [
+        "GW01",
+        "GW04"
+      ]
+    },
+    {
+      "year": 2017,
+      "title": "63rd festival community record",
+      "text": "A contemporary community issue records the 25 August-5 September cycle and associated health and recitation events.",
+      "sourceIds": [
+        "GW09"
+      ]
+    },
+    {
+      "year": 2024,
+      "title": "70th festival photographed",
+      "text": "A visitor post explicitly identifies the Wadala idol and anniversary.",
+      "sourceIds": [
+        "GW08"
+      ]
+    },
+    {
+      "year": "2025-08-31",
+      "title": "Child-health programme",
+      "text": "Participating medical trust records an event at the 71st festival.",
+      "sourceIds": [
+        "GW06"
+      ]
+    },
+    {
+      "year": "2025-09-03",
+      "title": "Open medical camp",
+      "text": "Trust reports screenings and specialist consultations.",
+      "sourceIds": [
+        "GW05"
+      ]
+    },
+    {
+      "year": "2026-09-14",
+      "title": "72nd festival opens",
+      "text": "Date printed in the annual appeal and announcement graphic.",
+      "sourceIds": [
+        "GW01",
+        "GW07"
+      ]
+    },
+    {
+      "year": "2026-09-25",
+      "title": "Anant Chaturdashi close",
+      "text": "Annual notice and Ananta Vrata schedule identify this date.",
+      "sourceIds": [
+        "GW01",
+        "GW03"
+      ]
+    },
+    {
+      "year": 2008,
+      "title": "54th festival in contemporary reporting",
+      "text": "The institution and its worship, food and welfare work are explicitly reported; original image links have not survived.",
+      "sourceIds": [
+        "GW17"
+      ]
+    },
+    {
+      "year": 2009,
+      "title": "A separated first-person photo record",
+      "text": "A visitor clearly distinguishes Wadala photographs from King's Circle and his household celebration.",
+      "sourceIds": [
+        "GW10"
+      ]
+    },
+    {
+      "year": 2017,
+      "title": "63rd festival at Ram Mandir",
+      "text": "A community event report records the annual celebration and visiting Partagali spiritual heads.",
+      "sourceIds": [
+        "GW15"
+      ]
+    },
+    {
+      "year": 2020,
+      "title": "Postponement announced",
+      "text": "The25 May decision deferred the Bhadrapad festival to Maghi 2021.",
+      "sourceIds": [
+        "GW18"
+      ]
+    },
+    {
+      "year": 2021,
+      "title": "Small Maghi observance planned",
+      "text": "Organisers described a proposed one-day restricted event with an18-inch idol.",
+      "sourceIds": [
+        "GW19"
+      ]
+    },
+    {
+      "year": 2022,
+      "title": "An openly licensed original",
+      "text": "An own-work photograph identifies Wadala and 2022; uploader and camera day differ, disclosed in the record.",
+      "sourceIds": [
+        "GW21"
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": 2008,
+      "title": "54th festival and welfare programme",
+      "summary": "A contemporary report identifies the Wadala institution, clay-idol practice, food distribution, education and medical support. Original picture links currently fail; no image is supplied.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "GW17"
+      ],
+      "media": []
+    },
+    {
+      "year": 2009,
+      "title": "Dated Wadala festival idol view",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "GW10"
+      ],
+      "media": [
+        {
+          "id": "2009-phase2-idol",
+          "originalUrl": "https://arunshanbhag.wordpress.com/2009/09/11/ganesh-chaturthi-2009/",
+          "kind": "photograph",
+          "label": "Contemporary captioned idol photograph",
+          "caption": "The Wadala annual idol in the source's 2009 record.",
+          "credit": "Arun Shanbhag; visible copyright 2009 and Photobucket host overlay retained.",
+          "dateEvidence": "The author's first-person Ganesh Chaturthi 2009 post separates its Wadala section from King's Circle and household images. This frame is in the Wadala section and bears the author's 2009 copyright; the preserved copy has an added Photobucket host overlay. Exact camera day is not authenticated.",
+          "dateStatus": "contemporary",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "GW10"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Four-armed seated Ganesh in blue lower drapery, heavy gold ornaments and garlands sits within a gold lion-sided rectangular arch with red backing and green leaves. Lamps, offering vessels, ceiling and physical stage are visible.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "title": "Dated Wadala festival idol view",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "GW11",
+        "GW20"
+      ],
+      "media": [
+        {
+          "id": "2011-phase2-idol",
+          "originalUrl": "https://arunshanbhag.wordpress.com/2011/09/07/gsb-muth-wadala/",
+          "kind": "photograph",
+          "label": "Contemporary captioned idol photograph",
+          "caption": "The Wadala annual idol in the source's 2011 record.",
+          "credit": "Arun Shanbhag (also credited in primary attachment metadata).",
+          "dateEvidence": "The7 September 2011 first-person post identifies the Wadala festival; attachment 4621also explicitly names Wadala and has 2011 attachment and camera timestamps. No exact day is inferred solely from the post.",
+          "dateStatus": "contemporary",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "GW11",
+            "GW20"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Crowned, gold-ornamented Ganesh in bright red-pink lower cloth sits before a gold arch, red-gold backing and green leaves. Two priests adjust offerings or ornaments beside the physical stage.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "title": "Dated Wadala festival idol view",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "GW12"
+      ],
+      "media": [
+        {
+          "id": "2012-phase2-idol",
+          "originalUrl": "https://m.rediff.com/news/slide-show/slide-show-1-richest-biggest-and-famous-ganpati-of-mumbai/20120926.htm",
+          "kind": "photograph",
+          "label": "Contemporary captioned idol photograph",
+          "caption": "The Wadala annual idol in the source's 2012 record.",
+          "credit": "Uttam Ghosh / Rediff.com.",
+          "dateEvidence": "The26 September 2012 report captions this GSB Samaj frame and explicitly locates its section at Ram Mandir Wadala, naming GSB Sarvajanik Ganeshotsav Samiti. It describes this year's idol. The later 2013 reuse of this 2012 URL is not a new photographic year.",
+          "dateStatus": "contemporary",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "GW12"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Four-armed seated Ganesh wears dark blue cloth and dense gold necklaces; the rectangular gold arch, lion-sided throne, red backing, leaf panels, ceiling and offering vessels are visible in an oblique physical-stage view.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "title": "Dated Wadala festival idol view",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "GW13"
+      ],
+      "media": [
+        {
+          "id": "2015-phase2-idol",
+          "originalUrl": "https://hobbyofphotography.blogspot.com/2015/09/gsb-wadala-ganapati.html",
+          "kind": "photograph",
+          "label": "Contemporary captioned idol photograph",
+          "caption": "The Wadala annual idol in the source's 2015 record.",
+          "credit": "Random Photography blog; individual photographer not identified (byline Unknown).",
+          "dateEvidence": "The21 September 2015 first-person post says the displayed photographs were captured at GSB Ganapati Wadala. The preserved displayed JPEG's DateTimeOriginal is 2015:09:19 20:27:17, consistent with a current visit. This is source metadata, not independently authenticated camera timing; the upload path alone is not used.",
+          "dateStatus": "contemporary",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "GW13"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Seated Ganesh in blue lower drapery, heavy gold ornaments and garlands is framed by a rectangular gold arch with lion-side supports and green leaf backing; the physical temple ceiling is visible.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "title": "Dated Wadala festival idol view",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "GW14"
+      ],
+      "media": [
+        {
+          "id": "2016-phase2-idol",
+          "originalUrl": "https://localpress.co.in/mumbai/pictures-15-mumbais-iconic-ganesh-idols-2016/",
+          "kind": "photograph",
+          "label": "Contemporary captioned idol photograph",
+          "caption": "The Wadala annual idol in the source's 2016 record.",
+          "credit": "Devendra Pai, as credited by Local Press Co.",
+          "dateEvidence": "The5 September 2016 current annual-idol gallery identifies its Wadala frame and credits Devendra Pai. The nearby King's Circle image is a separate entry.",
+          "dateStatus": "contemporary",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "GW14"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Seated pink Ganesh in blue cloth is densely ornamented before a gold lion-sided arch and maroon backing; tall green leaf panels, room ceiling and a Marathi institutional sign are visible.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "title": "Dated Wadala festival idol view",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "GW15"
+      ],
+      "media": [
+        {
+          "id": "2017-phase2-idol",
+          "originalUrl": "https://www.bellevision.com/index.php?action=topnews&type=18056",
+          "kind": "photograph",
+          "label": "Contemporary captioned idol photograph",
+          "caption": "The Wadala annual idol in the source's 2017 record.",
+          "credit": "Bellevision Media Network; individual photographer uncredited. Report by Rons Bantwal.",
+          "dateEvidence": "The26 August 2017 event report explicitly covers the63rd festival at Ram Mandir Wadala beginning25 August and places the selected images with that report. No independent exact camera timestamp is given.",
+          "dateStatus": "contemporary",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "GW15"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Four-armed seated Ganesh in green drapery and multiple gold garlands is set in a gold arch with lion side supports; physical ceiling and a lower Marathi institutional name panel are visible. Bellevision watermark retained.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "title": "Dated Wadala festival idol view",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "GW16"
+      ],
+      "media": [
+        {
+          "id": "2018-phase2-idol",
+          "originalUrl": "https://localpress.co.in/mumbai/in-pictures-most-iconic-ganesh-idols-of-2018-in-mumbai/",
+          "kind": "photograph",
+          "label": "Contemporary captioned idol photograph",
+          "caption": "The Wadala annual idol in the source's 2018 record.",
+          "credit": "Vivek Shanbhag, as credited by Local Press Co.",
+          "dateEvidence": "The15 September 2018 gallery specifically captions this frame GSB Wadala 2018 and credits Vivek Shanbhag; a separate King's Circle entry is not merged.",
+          "dateStatus": "contemporary",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "GW16"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Crowned seated Ganesh in blue lower drapery and long gold necklaces sits within a gold rectangular/lion-sided arch, with red inset cloth and green leaf backing; flowers and physical stage surfaces remain visible.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "title": "Bhadrapad festival postponed",
+      "summary": "The25 May decision announced a move to Maghi in February 2021. This records the announcement, without borrowing a generic GSB lead image as a 2020 idol photograph.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "GW18"
+      ],
+      "media": []
+    },
+    {
+      "year": 2021,
+      "title": "A restricted Maghi observance planned",
+      "summary": "The13 February report describes a proposed15 February one-day,18-inch-idol observance with online worship and on-site immersion; completion and photographs remain unverified.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "GW19"
+      ],
+      "media": []
+    },
+    {
+      "year": 2022,
+      "title": "Dated Wadala festival idol view",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "GW21"
+      ],
+      "media": [
+        {
+          "id": "2022-phase2-idol",
+          "originalUrl": "https://commons.wikimedia.org/wiki/File:GSB_Sarvajanik_Ganeshotsav_Samiti_Wadala_02.jpg",
+          "kind": "photograph",
+          "label": "Own-work photograph with uploader date",
+          "caption": "The Wadala annual idol in the source's 2022 record.",
+          "credit": "Heshanbhag / Wikimedia Commons.",
+          "dateEvidence": "The uploader's own-work Commons record explicitly gives8 September 2022, while preserved original EXIF/GPS gives9 September 2022. Both support 2022 but the day discrepancy remains unresolved. The 2023 upload date and 2026 page edit are not capture dates; camera-clock accuracy is not independently authenticated.",
+          "dateStatus": "source-attributed",
+          "rights": "CC BY-SA 4.0",
+          "sourceIds": [
+            "GW21"
+          ],
+          "yearConfidence": "source_labelled",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Four-armed seated pink Ganesh in purple satin lower drapery has gold crown, hands and ornaments, on an elaborate gold lion-sided throne. A leaf-covered backing, real wall panels, small mouse figure, lamps, coconuts and an explicit Marathi institutional name on the throne are visible.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          },
+          "src": "assets/collections/gsb-wadala-93243e5c8470.jpg",
+          "width": 2046,
+          "height": 2705,
+          "licence": "CC BY-SA 4.0",
+          "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "title": "70th festival idol",
+      "summary": "A visitor-photographer post directly identifies the Wadala annual idol.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "GW08"
+      ],
+      "media": [
+        {
+          "id": "2024-40kmph-idol",
+          "originalUrl": "https://www.40kmph.com/maharashtra/navasacha-suvarna-ganapati/",
+          "kind": "photograph",
+          "label": "Visitor-photographer record",
+          "caption": "Wadala Mahaganapati in the 70th festival, wearing red cloth and gold ornaments against a blue backing and green plant decoration.",
+          "credit": "40kmph.com; post by Tushar. Individual camera operator is not separately credited.",
+          "dateEvidence": "Post published 20 September 2024 explicitly names the Wadala Samiti, says the image was taken there and identifies the current 70th festival. The upload path is not used by itself to assign the year.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "GW08"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Seated four-armed pale-pink Ganesh in red cloth and layered gold ornaments, with a gold crown, blessing hand and hand-held attributes; gold lion-sided throne, blue drapery, green plant decoration and patterned side panels form a physical setting.",
+            "alignsWithSource": true,
+            "note": "Observed form and venue attribution are consistent with the Wadala festival. Precise capture date and original camera file are unavailable; no independent provenance authentication."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "title": "71st festival community care",
+      "summary": "A documented medical-camp photograph records activity at the annual festival.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "GW05"
+      ],
+      "media": [
+        {
+          "id": "2025-medical-camp",
+          "originalUrl": "https://gsbsmedicaltrust.org/free-medical-camp-at-the-71st-gsb-ganeshotsav-at-wadala/",
+          "kind": "photograph",
+          "label": "Community medical-camp photograph",
+          "caption": "Medical consultations during the 71st Wadala GSB Ganeshotsav; the Ganesh idol is outside the frame.",
+          "credit": "GSBS Medical Trust; individual photographer uncredited.",
+          "dateEvidence": "Report published 10 September 2025 explicitly dates the camp at Shree Ram Mandir Wadala to 3 September 2025.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "GW05"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Women seated at consultation tables with medical staff and paperwork; temporary ornamental wall panels and labelled clinical stations. No Ganesh idol visible.",
+            "alignsWithSource": true,
+            "note": "Scene matches the reported camp. This documents a festival service, not the annual idol's form."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "title": "72nd festival announcement",
+      "summary": "A year-dated promotional object, not an asserted 2026 idol photograph.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "GW07"
+      ],
+      "media": [
+        {
+          "id": "2026-official-announcement",
+          "originalUrl": "https://gsbganeshotsava.in/",
+          "kind": "treated",
+          "label": "Official festival announcement graphic",
+          "caption": "A composed announcement for the 72nd Wadala festival, with printed dates 14-25 September 2026 and an isolated devotional idol image.",
+          "credit": "G.S.B. Sarvajanik Ganeshotsava Samiti; graphic designer and original photographer uncredited.",
+          "dateEvidence": "Printed 2026 dates establish the announcement's issue year. The capture year of the isolated idol image is unknown and is not claimed as 2026.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "GW07"
+          ],
+          "yearConfidence": "printed_object_year",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Purple-and-gold graphic framing an isolated seated, gold-adorned Ganesh with blue lower cloth; institutional title, 72nd label and 14-25 September 2026 dates visible.",
+            "alignsWithSource": true,
+            "note": "Promotional composite. The depicted Ganesh is visually plausible for this institution but the original photographic capture and annual idol identity are not authenticated."
+          }
+        }
+      ]
+    }
+  ],
+  "undatedMedia": [],
+  "sources": [
+    {
+      "id": "GW01",
+      "title": "72nd Ganeshotsava appeal",
+      "publisher": "G.S.B. Sarvajanik Ganeshotsava Samiti",
+      "date": null,
+      "language": "English",
+      "type": "institutional annual notice",
+      "url": "https://gsbganeshotsava.in/appeal.html",
+      "note": "Foundation and explicit 14-25 September 2026 twelve-day festival dates."
+    },
+    {
+      "id": "GW02",
+      "title": "Contact Us",
+      "publisher": "G.S.B. Sarvajanik Ganeshotsava Samiti",
+      "date": null,
+      "language": "English",
+      "type": "institutional",
+      "url": "https://gsbganeshotsava.in/contactus.html",
+      "note": "Katrak Road, Wadala address."
+    },
+    {
+      "id": "GW03",
+      "title": "Poojas, Sevas and Ananta Vratotsava",
+      "publisher": "G.S.B. Sarvajanik Ganeshotsava Samiti",
+      "date": null,
+      "language": "English",
+      "type": "institutional ritual schedule",
+      "url": "https://gsbganeshotsava.in/sevas.html",
+      "note": "Year-specific 2026 Ananta Vrata date; listed sevas have Ekadashi exceptions. Prices and hours are not treated as permanent facts."
+    },
+    {
+      "id": "GW04",
+      "title": "Ganeshotsava",
+      "publisher": "Shree Rammandiram",
+      "date": null,
+      "language": "English",
+      "type": "host institution account",
+      "url": "https://www.shreerammandiram.org/ganeshotsava.html",
+      "note": "Host temple's festival and Anant Chaturdashi description. Undated idol image is not assigned the site footer or upload year."
+    },
+    {
+      "id": "GW05",
+      "title": "Free Medical Camp at the 71st GSB Ganeshotsav at Wadala",
+      "publisher": "GSBS Medical Trust",
+      "date": "2025-09-10",
+      "language": "English",
+      "type": "participating organisation report",
+      "url": "https://gsbsmedicaltrust.org/free-medical-camp-at-the-71st-gsb-ganeshotsav-at-wadala/",
+      "note": "Explicit camp date 3 September 2025. Image documents community services, not the annual Ganesh idol."
+    },
+    {
+      "id": "GW06",
+      "title": "Healthy Baby Contest 2025 conducted successfully at the 71st GSB Ganeshotsav",
+      "publisher": "GSBS Medical Trust",
+      "date": "2025-09-10",
+      "language": "English",
+      "type": "participating organisation report",
+      "url": "https://gsbsmedicaltrust.org/healthy-baby-contest-2025-conducted-successfully-at-the-71st-gsb-ganeshotsav/",
+      "note": "Event held 31 August 2025 at the Wadala festival; no child names or image reproduced here."
+    },
+    {
+      "id": "GW07",
+      "title": "72nd Ganeshotsava announcement banner",
+      "publisher": "G.S.B. Sarvajanik Ganeshotsava Samiti",
+      "date": null,
+      "language": "English",
+      "type": "institutional announcement graphic",
+      "url": "https://gsbganeshotsava.in/",
+      "note": "Banner prints 14-25 September 2026. It is a promotional composition, not proof that the depicted idol was photographed in 2026."
+    },
+    {
+      "id": "GW08",
+      "title": "Navasacha Suvarna Ganapati",
+      "publisher": "40kmph.com",
+      "date": "2024-09-20",
+      "language": "English",
+      "type": "visitor-photographer record",
+      "url": "https://www.40kmph.com/maharashtra/navasacha-suvarna-ganapati/",
+      "note": "Post by Tushar explicitly says the photograph was taken at the Wadala Samiti and identifies that year as its 70th festival. Exact capture day and camera operator are not separately specified."
+    },
+    {
+      "id": "GW09",
+      "title": "Samyukta Saraswat, September 2017 - G.S.B. Sarvajanik Ganesh Utsava, Wadala",
+      "publisher": "All India Saraswat Cultural Organisation",
+      "date": null,
+      "language": "English",
+      "type": "community periodical",
+      "url": "https://www.aisco.org.in/uploads/2/6/3/4/26346809/ss_sep_2017.pdf",
+      "note": "Pages 3-5 (PDF pages 5-7) record the 63rd Wadala festival, 25 August-5 September 2017, and associated community programmes. Exact issue day not given."
+    },
+    {
+      "id": "GW10",
+      "title": "Ganesh Chaturthi 2009",
+      "publisher": "Arun Shanbhag",
+      "url": "https://arunshanbhag.wordpress.com/2009/09/11/ganesh-chaturthi-2009/",
+      "language": "English",
+      "type": "first-person contemporary photo essay",
+      "date": "2009-09-11",
+      "note": "Own household, King's Circle and Wadala sections are separate. The selected Wadala full-idol photograph is in its named section; original copyright 2009 and later Photobucket overlay are retained."
+    },
+    {
+      "id": "GW11",
+      "title": "Ganapati at the GSB Muth, Wadala",
+      "publisher": "Arun Shanbhag",
+      "url": "https://arunshanbhag.wordpress.com/2011/09/07/gsb-muth-wadala/",
+      "language": "English",
+      "type": "first-person contemporary photographer account",
+      "date": "2011-09-07",
+      "note": "Selected installed-idol image was accessible in the normal browser. Camera credit is supported by author and public attachment metadata; the host temple is the festival venue, not proof of a permanent Ganesh idol."
+    },
+    {
+      "id": "GW12",
+      "title": "PIX: The richest, biggest and famous Ganpatis of Mumbai",
+      "publisher": "Rediff.com",
+      "url": "https://m.rediff.com/news/slide-show/slide-show-1-richest-biggest-and-famous-ganpati-of-mumbai/20120926.htm",
+      "language": "English",
+      "type": "contemporary captioned photo report",
+      "date": "2012-09-26",
+      "note": "Despite a generic GSB Samaj header, the individual section explicitly identifies Ram Mandir Wadala and GSB Sarvajanik Ganeshotsav Samiti. Photographer Uttam Ghosh. A 2013 page reuses the 2012 image and is not a new capture year."
+    },
+    {
+      "id": "GW13",
+      "title": "GSB Wadala Ganapati",
+      "publisher": "Random Photography blog; byline Unknown",
+      "url": "https://hobbyofphotography.blogspot.com/2015/09/gsb-wadala-ganapati.html",
+      "language": "English",
+      "type": "first-person photographic visit post",
+      "date": "2015-09-21",
+      "note": "Text says the images were captured at GSB Wadala. The preserved displayed image also has DateTimeOriginal 2015:09:19 20:27:17, consistent with the contemporary post; no independent camera authentication. Picasa/Google metadata are software, not a photographer name."
+    },
+    {
+      "id": "GW14",
+      "title": "In Pictures:15 of Mumbai's most iconic ganesh idols of 2016",
+      "publisher": "Local Press Co",
+      "url": "https://localpress.co.in/mumbai/pictures-15-mumbais-iconic-ganesh-idols-2016/",
+      "language": "English",
+      "type": "contemporary specifically captioned gallery",
+      "date": "2016-09-05",
+      "note": "Wadala photograph credited Devendra Pai. A separate GSB Seva Mandal frame belongs to King's Circle; the Keshavji image is expressly a file picture."
+    },
+    {
+      "id": "GW15",
+      "title": "Mumbai: Ganeshotsav celebrations held with pomp and gaiety at Ram Mandir, Wadala",
+      "publisher": "Bellevision / Rons Bantwal",
+      "url": "https://www.bellevision.com/index.php?action=topnews&type=18056",
+      "language": "English",
+      "type": "contemporary community event report and photographs",
+      "date": "2017-08-26",
+      "note": "Reports the63rd annual festival beginning25 August 2017 at Dwarakanath Bhavan, Ram Mandir. Photographs bear Bellevision watermark; Rons Bantwal is the report byline, not an individually confirmed camera credit."
+    },
+    {
+      "id": "GW16",
+      "title": "In Pictures: Most iconic Ganesh idols of 2018 in Mumbai",
+      "publisher": "Local Press Co",
+      "url": "https://localpress.co.in/mumbai/in-pictures-most-iconic-ganesh-idols-of-2018-in-mumbai/",
+      "language": "English",
+      "type": "contemporary specifically captioned gallery",
+      "date": "2018-09-15",
+      "note": "Caption explicitly says GSB Wadala 2018 and credits Vivek Shanbhag. King's Circle is a separate entry with a different image and supplier."
+    },
+    {
+      "id": "GW17",
+      "title": "54th Ganeshotsava Celebrations by GSB Samiti Wadala",
+      "publisher": "Daijiworld / Ancy Paladka",
+      "url": "https://www.daijiworld.com/news/newsDisplay?newsID=50645",
+      "language": "English",
+      "type": "contemporary community report; image links currently unavailable",
+      "date": "2008-09-04",
+      "note": "News and pictures credited Ancy Paladka. Explicit Ram Mandir/Dwarakanath Bhavan institution and 1955 first festival; a useful contemporary ritual and welfare account. Two tested original image links return404, so no 2008 photo is added."
+    },
+    {
+      "id": "GW18",
+      "title": "Wadala's GSB Mandal postpones Ganeshotsav celebrations to February 2021 during Maghi Ganesh Chaturthi",
+      "publisher": "Mumbai Live",
+      "url": "https://www.mumbailive.com/en/civic/covid-19-pandemic-wadala-gsb-mandal-cancels-ganesh-utsav-celebrations-due-to-coronavirus-50185",
+      "language": "English",
+      "type": "contemporary postponement announcement",
+      "date": "2020-05-25",
+      "note": "Explicit25 May decision and interview with Ulhas Kamat. Records a planned postponement, not proof of a later event. Lead-image credit uses generic/other GSB website wording and is not taken as a 2020 Wadala photograph."
+    },
+    {
+      "id": "GW19",
+      "title": "Mumbai: Mandals prepare to celebrate Maghi Ganeshotsav",
+      "publisher": "The Times of India / Bella Jaisinghani",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-mandals-prepare-to-celebrate-maghi-ganeshotsav/amp_articleshow/80899768.cms",
+      "language": "English",
+      "type": "contemporary organiser interview about planned observance",
+      "date": "2021-02-13",
+      "note": "Explicit Ram Mandir Wadala: proposed15 February one-day observance,18-inch idol, online pujas, no public darshan or prasad and immersion on the premises. Pre-event plans do not independently prove completion."
+    },
+    {
+      "id": "GW20",
+      "title": "WordPress media record4621: Ganapati at GSB Wadala",
+      "publisher": "Arun Shanbhag / WordPress.com public API",
+      "url": "https://public-api.wordpress.com/rest/v1.1/sites/1433352/media/4621",
+      "language": "English",
+      "type": "primary photograph attachment metadata",
+      "date": "2011-09-07",
+      "note": "Title and alt name Wadala; credit/copyright Arun Shanbhag, Nikon D80, creation timestamp1315138966in 2011. The unchanged public API search response is retained alongside the images."
+    },
+    {
+      "id": "GW21",
+      "title": "GSB Sarvajanik Ganeshotsav Samiti Wadala02.jpg",
+      "publisher": "Wikimedia Commons / Heshanbhag",
+      "url": "https://commons.wikimedia.org/wiki/File:GSB_Sarvajanik_Ganeshotsav_Samiti_Wadala_02.jpg",
+      "language": "English",
+      "type": "uploader's own-work photograph and original metadata",
+      "date": "2023-08-05",
+      "note": "Uploader date8 September 2022; EXIF/GPS date9 September 2022, a one-day discrepancy within the same year. Uploaded5 August 2023. Explicitly released CC BY-SA 4.0; neither upload date nor page edit year is capture evidence."
+    }
+  ],
+  "openQuestions": [
+    {
+      "title": "Dated annual idol images",
+      "text": "Extend beyond the 2024 visitor photograph with contemporary, captioned annual idol views. The promotional cutout still does not establish a 2026 capture.",
+      "sourceIds": [
+        "GW04",
+        "GW07",
+        "GW08"
+      ]
+    },
+    {
+      "title": "Founding records and maker lineage",
+      "text": "Locate original 1955 committee documents, sculptor credits and dated making photographs; the public retrospective is too brief to fill a historical series.",
+      "sourceIds": [
+        "GW01",
+        "GW04"
+      ]
+    }
+  ],
+  "visit": {
+    "address": "Dwarakanath Bhavan, Shree Ram Mandir complex, Katrak Road, Wadala, Mumbai 400031",
+    "directionsUrl": "https://www.google.com/maps/search/?api=1&query=G.S.B.%20Sarvajanik%20Ganeshotsava%20Samiti%20Dwarakanath%20Bhavan%2C%20Shree%20Ram%20Mandir%20complex%2C%20Katrak%20Road%2C%20Wadala%2C%20Mumbai%20400031",
+    "text": "Annual festival in the Shree Ram Mandir complex at Katrak Road, Wadala. The temple's routine opening hours do not by themselves establish Ganeshotsav access arrangements.",
+    "sourceIds": [
+      "GW02",
+      "GW04"
+    ]
+  },
+  "claims": [
+    {
+      "id": "C01",
+      "text": "This annual Wadala Ganeshotsav dates to 1955.",
+      "status": "institutional retrospective",
+      "sourceIds": [
+        "GW01",
+        "GW04"
+      ]
+    },
+    {
+      "id": "C02",
+      "text": "It is organised by G.S.B. Sarvajanik Ganeshotsava Samiti.",
+      "status": "institutional identity",
+      "sourceIds": [
+        "GW02"
+      ]
+    },
+    {
+      "id": "C03",
+      "text": "The 2026 notice specifies twelve days, 14-25 September.",
+      "status": "annual institutional notice",
+      "sourceIds": [
+        "GW01"
+      ]
+    },
+    {
+      "id": "C04",
+      "text": "The selected 2025 image documents health services, not an idol.",
+      "status": "contemporary participating-organisation evidence",
+      "sourceIds": [
+        "GW05"
+      ]
+    },
+    {
+      "id": "C05",
+      "text": "The 2026 banner dates the announcement, not the underlying idol photograph.",
+      "status": "visually checked document evidence",
+      "sourceIds": [
+        "GW07"
+      ]
+    },
+    {
+      "id": "C06",
+      "text": "The 2024 visitor record identifies the annual Wadala idol and 70th festival.",
+      "status": "first-person photographic attribution; capture metadata unavailable",
+      "sourceIds": [
+        "GW08"
+      ]
+    },
+    {
+      "id": "C07",
+      "text": "A 2008 contemporary report explicitly identifies the54th Wadala festival and its welfare activities.",
+      "status": "contemporary community reporting",
+      "sourceIds": [
+        "GW17"
+      ]
+    },
+    {
+      "id": "C08",
+      "text": "Wadala announced postponement in May 2020; a February 2021 report records plans for a one-day18-inch-idol observance.",
+      "status": "contemporary reported decisions and plans; completion unverified",
+      "sourceIds": [
+        "GW18",
+        "GW19"
+      ]
+    },
+    {
+      "id": "C09",
+      "text": "The Commons own-work image supports 2022, while its date text and EXIF differ by one day; the 2023 upload is not the capture year.",
+      "status": "uploader attribution and original metadata",
+      "sourceIds": [
+        "GW21"
+      ]
+    }
+  ],
+  "researchNotes": {
+    "coverage": "Samiti notices and rituals, host temple account, 2017 community periodical, medical-trust reports and a directly attributed 2024 visitor photograph. Three dated media inspected: an idol photograph, service scene and announcement graphic. Phase 2: 11 annual entries supplemented after direct image inspection; source labels and photographic appearance assessed separately.",
+    "gaps": [
+      "No idol photographs before 2009 obtained;2008 contemporary report survives but tested image links return404.",
+      "The 2012 contributor-blog sequence had ambiguous photo associations, including a visible Mumbaicha Raja banner; none of those frames was assigned to Wadala.",
+      "May 2020 postponement and February 2021 plans do not establish completion; actual pandemic observance photos and post-event records are still needed.",
+      "2011 procession photographs credited Amol Kamat are a promising public-post lead, but the tested original returned403and no unviewed image was added.",
+      "Most years still lack named sculptor contracts or original institution-held annual albums.",
+      "The 2022 uploader date and camera/GPS day differ by one day;2022 is supported, an exact day is not resolved.",
+      "New photographs retain unknown reuse permission except the specifically documented Heshanbhag Commons CC BY-SA 4.0original."
+    ],
+    "nextActions": [
+      "Seek documented annual idol photographs with original captions and individual credit.",
+      "Extend the timeline with contemporary records rather than inferred anniversary years."
+    ],
+    "edition": "2026-11-16"
+  }
+}

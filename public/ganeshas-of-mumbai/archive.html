@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Archive — Ganeshas of Mumbai</title>
+  <meta name="description" content="Year-by-year catalogue for Ganeshas of Mumbai collections.">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' fill='%23f5f1e8'/><text x='50%25' y='50%25' dominant-baseline='central' text-anchor='middle' font-family='Georgia,serif' font-size='18' fill='%23a33d2e'>G</text></svg>">
+</head>
+<body>
+
+<header class="site-header" role="banner">
+  <div class="wrap">
+    <div class="site-header__inner">
+      <a href="index.html" class="site-header__brand" aria-label="Ganeshas of Mumbai — city archive">
+        <span class="t-masthead">Ganeshas of Mumbai</span>
+        <span class="site-header__tagline">An independent archive</span>
+      </a>
+      <nav aria-label="Site navigation">
+        <ul class="site-nav">
+          <li><a href="index.html">City archive</a></li>
+          <li><a href="collection.html" id="nav-collection">Collection</a></li>
+          <li><a href="archive.html" id="nav-archive" aria-current="page">Archive</a></li>
+          <li><a href="sources.html" id="nav-sources">Sources</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+</header>
+
+<main id="main">
+
+  <section class="archive-intro" aria-labelledby="archive-heading">
+    <div class="wrap--narrow">
+      <p class="t-eyebrow" id="archive-eyebrow">Annual catalogue</p>
+      <h1 class="t-h1 mt-s" id="archive-heading">Archive</h1>
+      <p class="t-body-serif mt-m" id="archive-desc" style="max-width:var(--measure);">
+        Loading…
+      </p>
+      <p class="t-caption mt-s" style="color:var(--ink-muted);">Years follow the cited evidence. An attributed year is a source label; uncertain and disputed dates remain marked.</p>
+      <div class="archive-counts" id="archive-counts" role="region" aria-label="Collection counts" aria-live="polite"></div>
+    </div>
+  </section>
+
+  <div class="archive-controls" role="search" aria-label="Filter archive">
+    <div class="wrap">
+      <div class="archive-controls__inner">
+        <label class="visually-hidden" for="archive-collection">Collection</label>
+        <select id="archive-collection" class="archive-search" disabled>
+          <option value="">Loading collections…</option>
+        </select>
+        <label class="visually-hidden" for="archive-search">Search by year, theme, or artist</label>
+        <input
+          type="search"
+          id="archive-search"
+          class="archive-search"
+          placeholder="Search year, theme, artist…"
+          autocomplete="off"
+          spellcheck="false"
+        >
+        <select id="archive-decade" class="archive-search" aria-label="Decade">
+          <option value="">All decades</option>
+        </select>
+        <div class="filter-group" role="group" aria-label="Filter by media type">
+          <button class="filter-btn" data-filter="all" aria-pressed="true">All records</button>
+          <button class="filter-btn" data-filter="photograph" aria-pressed="false">Photographs</button>
+          <button class="filter-btn" data-filter="treated" aria-pressed="false">Artwork &amp; treated</button>
+          <button class="filter-btn" data-filter="document" aria-pressed="false">Documents</button>
+          <button class="filter-btn" data-filter="unassessed" aria-pressed="false">Prints / unverified</button>
+          <button class="filter-btn" data-filter="missing" aria-pressed="false">Without a displayed image</button>
+        </div>
+        <p class="archive-status" id="archive-status" aria-live="polite" aria-atomic="true"></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="archive-results wrap" id="archive-results" aria-label="Archive results">
+    <p class="loading-state">Loading catalogue…</p>
+  </div>
+
+</main>
+
+<footer class="site-footer" role="contentinfo">
+  <div class="wrap">
+    <div class="site-footer__inner">
+      <div>
+        <p class="t-masthead">Ganeshas of Mumbai</p>
+        <p class="t-caption mt-s" style="color:var(--ink-muted);">An independent cultural archive. Not affiliated with any mandal or temple trust.</p>
+        <p class="site-footer__edition" id="footer-edition"></p>
+      </div>
+      <nav aria-label="Footer navigation">
+        <ul class="site-nav" style="justify-content:flex-end;">
+          <li><a href="index.html">City archive</a></li>
+          <li><a href="collection.html" id="footer-collection">Collection</a></li>
+          <li><a href="sources.html" id="footer-sources">Sources</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+</footer>
+
+<script src="collection-utils.js"></script>
+<script>
+(function () {
+  'use strict';
+
+  var U = CollectionUtils;
+  var slug = U.getCollectionSlug();
+  var isMumbaicha = slug === 'mumbaicha-raja';
+  var ANNUAL_CALENDAR = isMumbaicha;
+
+  var ALL_YEARS = [];
+  var DATA_YEARS = [];
+  var currentFilter = 'all';
+  var currentSearch = '';
+  var currentDecade = '';
+
+  document.getElementById('nav-collection').href = U.collectionHref(slug);
+  document.getElementById('nav-archive').href = U.archiveHref(slug);
+  document.getElementById('nav-sources').href = U.sourcesHref(slug);
+  document.getElementById('footer-collection').href = U.collectionHref(slug);
+  document.getElementById('footer-sources').href = U.sourcesHref(slug);
+
+  var siteHeader = document.querySelector('.site-header');
+  if (window.ResizeObserver && siteHeader) new ResizeObserver(function () {
+    document.documentElement.style.setProperty('--site-header-height', siteHeader.getBoundingClientRect().height + 'px');
+  }).observe(siteHeader);
+
+  function esc(str) { return U.esc(str); }
+
+  function getMediaKinds(year) {
+    if (!year.media || year.media.length === 0) return [];
+    return year.media.filter(function (m) { return m.src; }).map(function (m) { return m.kind || 'unassessed'; });
+  }
+
+  function hasKind(year, kind) {
+    var kinds = getMediaKinds(year);
+    if (kind === 'missing') return !kinds.length;
+    if (kind === 'photograph') return kinds.indexOf('photograph') !== -1 && !kinds.every(function (k) { return k === 'document'; });
+    if (kind === 'treated') return kinds.indexOf('treated') !== -1 || kinds.indexOf('illustration') !== -1;
+    if (kind === 'document') return kinds.indexOf('document') !== -1;
+    if (kind === 'unassessed') return kinds.indexOf('unassessed') !== -1;
+    return false;
+  }
+
+  function primaryKindLabel(year) {
+    var kinds = getMediaKinds(year);
+    if (!kinds.length) return 'No record located';
+    if (kinds.length > 0 && kinds.every(function (k) { return k === 'document'; })) return 'Archival document';
+    if (kinds.indexOf('photograph') !== -1) return 'Photograph';
+    if (kinds.indexOf('treated') !== -1) return 'Treated image';
+    if (kinds.indexOf('illustration') !== -1) return 'Illustration';
+    if (kinds.indexOf('unassessed') !== -1) return 'Unassessed';
+    return 'Media';
+  }
+
+  function buildFullYearList(dataYears, startYear, endYear) {
+    var byYear = {};
+    dataYears.forEach(function (y) { byYear[y.year] = y; });
+    var list = [];
+    for (var yr = startYear; yr <= endYear; yr++) {
+      list.push(byYear[yr] || { year: yr, title: null, summary: null, artist: null, theme: null, media: [], notes: [], sourceIds: [], _synthetic: true });
+    }
+    return list;
+  }
+
+  function matchesSearch(year, q) {
+    if (!q) return true;
+    q = q.toLowerCase();
+    if (/^\d{4}$/.test(q)) return String(year.year) === q;
+    if (String(year.year).includes(q)) return true;
+    if (year.title && year.title.toLowerCase().includes(q)) return true;
+    if (year.theme && year.theme.toLowerCase().includes(q)) return true;
+    if (year.artist && year.artist.toLowerCase().includes(q)) return true;
+    if (year.summary && year.summary.toLowerCase().includes(q)) return true;
+    return false;
+  }
+
+  function matchesFilter(year, filter) {
+    if (filter === 'all') return true;
+    return hasKind(year, filter);
+  }
+
+  function getDecade(year) { return Math.floor(year / 10) * 10; }
+
+  function renderCounts(allYears, kind) {
+    var total = allYears.length;
+    var withMedia = allYears.filter(function (y) { return getMediaKinds(y).length > 0; }).length;
+    var photos = allYears.filter(function (y) { return hasKind(y, 'photograph'); }).length;
+    var missing = allYears.filter(function (y) { return hasKind(y, 'missing'); }).length;
+    var el = document.getElementById('archive-counts');
+    if (!el) return;
+    var rows;
+    if (ANNUAL_CALENDAR) {
+      rows = [
+        [total, 'Annual records'],
+        [withMedia, 'Years with images'],
+        [photos, 'Years with photographs'],
+        [missing, 'Text and source records'],
+      ];
+    } else {
+      rows = [
+        [total, 'Located record year' + (total !== 1 ? 's' : '')],
+        [withMedia, 'With images on display'],
+        [photos, 'With photographs'],
+      ];
+    }
+    el.innerHTML = rows.map(function (row) {
+      return '<div class="archive-count"><span class="archive-count__num">' + row[0] + '</span><span class="archive-count__label">' + esc(row[1]) + '</span></div>';
+    }).join('');
+  }
+
+  function recordHref(year) {
+    var state = new URLSearchParams();
+    if (currentFilter !== 'all') state.set('filter', currentFilter);
+    if (currentSearch) state.set('q', currentSearch);
+    if (currentDecade) state.set('decade', currentDecade);
+    var ret = state.toString() ? state.toString() : '';
+    return U.recordHref(slug, year, ret);
+  }
+
+  function renderResults(years, filter, search) {
+    var filtered = years.filter(function (y) {
+      return matchesFilter(y, filter) && matchesSearch(y, search) && (!currentDecade || String(getDecade(y.year)) === currentDecade);
+    });
+
+    var statusEl = document.getElementById('archive-status');
+    if (statusEl) statusEl.textContent = filtered.length + ' of ' + years.length + ' records';
+
+    var container = document.getElementById('archive-results');
+    if (!container) return;
+
+    if (filtered.length === 0) {
+      container.innerHTML = '<div class="empty-state"><p>No records match your search.</p><p class="mt-s"><button onclick="clearFilters()" style="background:none;border:none;color:var(--vermilion);cursor:pointer;font-size:0.875rem;text-decoration:underline;">Clear filters</button></p></div>';
+      return;
+    }
+
+    var decades = {};
+    var decadeOrder = [];
+    filtered.forEach(function (y) {
+      var d = getDecade(y.year);
+      if (!decades[d]) { decades[d] = []; decadeOrder.push(d); }
+      decades[d].push(y);
+    });
+
+    decadeOrder.sort(function (a, b) { return b - a; });
+    var html = '';
+    decadeOrder.forEach(function (decade) {
+      var group = decades[decade].slice().sort(function (a, b) { return b.year - a.year; });
+      var withImgs = group.filter(function (y) { return getMediaKinds(y).length > 0; });
+      var noImgs = group.filter(function (y) { return !getMediaKinds(y).length; });
+
+      html += '<div class="decade-group" data-decade="' + decade + '">';
+      html += '<h2 class="decade-heading">' + decade + 's</h2>';
+
+      if (withImgs.length > 0) {
+        html += '<div class="year-grid" role="list">';
+        withImgs.forEach(function (y) {
+          var m = y.media.find(function (item) {
+            return item.src && (filter === 'all' || item.kind === filter || (filter === 'treated' && item.kind === 'illustration'));
+          }) || y.media[0];
+          var src = m.src || '';
+          var kindLbl = m.label || primaryKindLabel(y);
+          var disputed = y.media.some(function (item) { return item.yearConfidence === 'conflicted'; });
+          var dateLbl = U.mediaDateLabel(m);
+          html += '<div role="listitem">';
+          html += '<a href="' + esc(recordHref(y.year)) + '" class="year-card" aria-label="' + esc(String(y.year)) + (y.title ? ': ' + y.title : '') + '">';
+          html += '<div class="year-card__img-wrap">';
+          if (src) {
+            html += '<img class="year-card__img" src="' + esc(src) + '" alt="' + esc(String(y.year) + (y.title ? ' — ' + y.title : '')) + '" loading="lazy">';
+          } else {
+            html += '<div class="year-card__img" style="background:var(--rule);aspect-ratio:3/4;display:flex;align-items:center;justify-content:center;"><span style="font-family:var(--font-serif);font-size:1.3rem;font-weight:300;color:var(--ink-muted);">' + esc(String(y.year)) + '</span></div>';
+          }
+          html += '</div>';
+          html += '<div class="year-card__body">';
+          html += '<p class="year-card__year">' + esc(String(y.year)) + '</p>';
+          if (disputed) html += '<p class="badge badge--disputed">Year disputed</p>';
+          if (y.title) html += '<p class="year-card__title">' + esc(y.title) + '</p>';
+          html += '<p class="year-card__kind">' + esc(kindLbl) + '</p>';
+          html += '<p class="year-card__date-label">' + esc(dateLbl) + '</p>';
+          html += '</div></a></div>';
+        });
+        html += '</div>';
+      }
+
+      if (noImgs.length > 0) {
+        if (filter === 'all' || filter === 'missing') {
+          html += '<ul class="ledger" aria-label="Years without a displayed image">';
+          noImgs.forEach(function (y) {
+            html += '<li><a href="' + esc(recordHref(y.year)) + '" class="ledger-row">';
+            html += '<span class="ledger-row__year">' + esc(String(y.year)) + '</span>';
+            html += '<span>' + esc(y.title || '—') + '</span>';
+            html += '<span class="ledger-row__status">' + (y.media && y.media.length ? 'Image referenced' : 'Text record') + '</span>';
+            html += '</a></li>';
+          });
+          html += '</ul>';
+        }
+      }
+
+      html += '</div>';
+    });
+
+    container.innerHTML = html;
+  }
+
+  window.clearFilters = function () {
+    currentFilter = 'all';
+    currentSearch = '';
+    currentDecade = '';
+    document.getElementById('archive-decade').value = '';
+    var searchEl = document.getElementById('archive-search');
+    if (searchEl) searchEl.value = '';
+    document.querySelectorAll('.filter-btn').forEach(function (btn) {
+      btn.setAttribute('aria-pressed', btn.dataset.filter === 'all' ? 'true' : 'false');
+    });
+    renderResults(ALL_YEARS, currentFilter, currentSearch);
+    updateUrl();
+  };
+
+  function updateUrl() {
+    var params = new URLSearchParams();
+    if (slug !== U.DEFAULT_SLUG) params.set('collection', slug);
+    if (currentFilter !== 'all') params.set('filter', currentFilter);
+    if (currentSearch) params.set('q', currentSearch);
+    if (currentDecade) params.set('decade', currentDecade);
+    var newUrl = window.location.pathname + (params.toString() ? '?' + params.toString() : '');
+    history.replaceState(null, '', newUrl);
+  }
+
+  function readUrl() {
+    var params = new URLSearchParams(window.location.search);
+    currentFilter = params.get('filter') || 'all';
+    currentSearch = params.get('q') || '';
+    currentDecade = params.get('decade') || '';
+    var validFilters = ['all','photograph','treated','document','unassessed','missing'];
+    if (validFilters.indexOf(currentFilter) === -1) currentFilter = 'all';
+  }
+
+  var dataPath = U.collectionDataPath(slug);
+  readUrl();
+  var searchEl = document.getElementById('archive-search');
+  searchEl.value = currentSearch;
+
+  (function () {
+    var collEl = document.getElementById('archive-collection');
+    fetch('collections.json')
+      .then(function (r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+      .then(function (dir) {
+        var list = dir.collections || [];
+        collEl.innerHTML = '';
+        list.forEach(function (c) {
+          var opt = document.createElement('option');
+          opt.value = c.id;
+          opt.textContent = c.title;
+          collEl.appendChild(opt);
+        });
+        collEl.value = slug;
+        if (!collEl.value) {
+          var opt = document.createElement('option');
+          opt.value = slug;
+          opt.textContent = slug;
+          opt.selected = true;
+          collEl.insertBefore(opt, collEl.firstChild);
+        }
+        collEl.disabled = false;
+        window.addEventListener('pageshow', function () { collEl.value = slug; });
+        collEl.addEventListener('change', function () {
+          var dest = collEl.value;
+          var params = new URLSearchParams();
+          var q = searchEl.value.trim();
+          if (q) params.set('q', q);
+          if (currentFilter !== 'all') params.set('filter', currentFilter);
+          if (currentDecade) params.set('decade', currentDecade);
+          window.location.href = U.archiveHref(dest, params.toString());
+        });
+      })
+      .catch(function () {
+        collEl.innerHTML = '';
+        var opt = document.createElement('option');
+        opt.value = '';
+        opt.textContent = 'Collections unavailable';
+        collEl.appendChild(opt);
+        collEl.disabled = true;
+      });
+  }());
+
+  fetch(dataPath)
+    .then(function (r) {
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      return r.json();
+    })
+    .then(function (data) {
+      var meta = data.meta || {};
+      var kind = data.kind || 'festival';
+      var catalogueMode = meta.catalogueMode || (isMumbaicha ? 'annual-calendar' : 'located-records');
+
+      document.title = (meta.title || 'Archive') + ' — Archive · Ganeshas of Mumbai';
+
+      var eyebrowEl = document.getElementById('archive-eyebrow');
+      if (eyebrowEl) eyebrowEl.textContent = meta.title || 'Archive';
+
+      var headingEl = document.getElementById('archive-heading');
+      if (headingEl) headingEl.textContent = catalogueMode === 'annual-calendar' ? 'Annual catalogue' : (kind === 'temple' ? 'Photographic record' : 'Visual record');
+
+      var descEl = document.getElementById('archive-desc');
+      if (descEl) {
+        if (catalogueMode === 'annual-calendar') {
+          descEl.textContent = 'A year-by-year search for the surviving images, from the latest festival back to the earliest years. Explore photographs, devotional artwork, and the years still waiting for evidence. Dates follow their sources; disputed labels remain visible.';
+        } else {
+          var yearCount = (data.years || []).length;
+          descEl.textContent = yearCount + ' located record year' + (yearCount !== 1 ? 's' : '') + ' in this collection. Only actual documented years are shown; this is not a comprehensive annual count.';
+        }
+      }
+
+      var footerEl = document.getElementById('footer-edition');
+      if (footerEl) footerEl.textContent = meta.edition || (meta.updated ? 'Updated ' + meta.updated : '');
+
+      DATA_YEARS = data.years || [];
+
+      if (catalogueMode === 'annual-calendar') {
+        var startYear = meta.startYear || 1928;
+        var endYear = meta.endYear || 2026;
+        ALL_YEARS = buildFullYearList(DATA_YEARS, startYear, endYear);
+      } else {
+        ALL_YEARS = DATA_YEARS.slice();
+      }
+
+      renderCounts(ALL_YEARS, kind);
+
+      var decadeEl = document.getElementById('archive-decade');
+      Array.from(new Set(ALL_YEARS.map(function (y) { return getDecade(y.year); }))).sort(function(a,b){return a-b;}).forEach(function (decade) {
+        var option = document.createElement('option');
+        option.value = String(decade);
+        option.textContent = decade + 's';
+        decadeEl.appendChild(option);
+      });
+      decadeEl.value = currentDecade;
+      if (decadeEl.value !== currentDecade) currentDecade = '';
+      decadeEl.addEventListener('change', function () {
+        currentDecade = decadeEl.value;
+        renderResults(ALL_YEARS, currentFilter, currentSearch);
+        updateUrl();
+      });
+
+      document.querySelectorAll('.filter-btn').forEach(function (btn) {
+        btn.setAttribute('aria-pressed', btn.dataset.filter === currentFilter ? 'true' : 'false');
+      });
+
+      renderResults(ALL_YEARS, currentFilter, currentSearch);
+
+      document.querySelectorAll('.filter-btn').forEach(function (btn) {
+        btn.addEventListener('click', function () {
+          currentFilter = btn.dataset.filter;
+          document.querySelectorAll('.filter-btn').forEach(function (b) {
+            b.setAttribute('aria-pressed', b.dataset.filter === currentFilter ? 'true' : 'false');
+          });
+          renderResults(ALL_YEARS, currentFilter, currentSearch);
+          updateUrl();
+        });
+      });
+
+      var debounceTimer;
+      if (searchEl) {
+        searchEl.addEventListener('input', function () {
+          clearTimeout(debounceTimer);
+          debounceTimer = setTimeout(function () {
+            currentSearch = searchEl.value.trim();
+            renderResults(ALL_YEARS, currentFilter, currentSearch);
+            updateUrl();
+          }, 200);
+        });
+      }
+    })
+    .catch(function (err) {
+      console.error('Archive data load error:', err);
+      var container = document.getElementById('archive-results');
+      if (container) container.innerHTML = '<p style="padding:2rem;color:var(--vermilion);">Data could not be loaded. <a href="index.html">Return to city archive</a>.</p>';
+    });
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,1351 @@
+{
+  "slug": "chinchpoklicha-chintamani",
+  "kind": "festival",
+  "researchStage": "expanded",
+  "meta": {
+    "title": "Chinchpoklicha Chintamani",
+    "marathi": "चिंचपोकळीचा चिंतामणी",
+    "institution": "Chinchpokli Sarvajanik Utsav Mandal",
+    "location": "Chinchpokli East, near the railway station; office on Dattaram Lad Marg, Mumbai",
+    "neighborhood": "Chinchpokli",
+    "founded": 1920,
+    "foundedNote": "Official history gives foundation 6 September and first installation 16 September 1920; contemporary press corroborates the year.",
+    "intro": "Chinchpoklicha Chintamani is the festival idol of Chinchpokli Sarvajanik Utsav Mandal, founded in 1920 in the mill district. Its institutional account links the beginning to the weeks after Lokmanya Tilak’s death. A long sculptural repertoire and the Aagman arrival procession shape its public identity. This collection distinguishes the Mumbai institution from later authorized-looking replicas elsewhere, and preserves conflicts within its retrospective artist and anniversary chronology.",
+    "hero": null,
+    "id": "chinchpoklicha-chintamani",
+    "kind": "festival",
+    "researchStage": "expanded",
+    "catalogueMode": "located-records",
+    "updated": "16 November 2026",
+    "edition": "Expanded collection · Research edition · 16 November 2026",
+    "downloads": {
+      "json": "collections/chinchpoklicha-chintamani.json"
+    }
+  },
+  "sections": [
+    {
+      "id": "origins",
+      "eyebrow": "Origins",
+      "title": "A 1920 mill-neighborhood beginning",
+      "paragraphs": [
+        {
+          "text": "The official account places foundation on 6 September 1920, with the first idol installed ten days later at Deccan Core. It remembers four-anna subscriptions and a collective early leadership. These specific dates remain institutional retrospective testimony; no original 1920 minutes or photograph were inspected.",
+          "sourceIds": [
+            "CC01"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "institution",
+      "eyebrow": "Institution",
+      "title": "A permanent base and a wider remit",
+      "paragraphs": [
+        {
+          "text": "The mandal says it acquired its railway-side home nineteen years after founding, and that a 1956 constitution widened the name to Sarvajanik Utsav Mandal. Navratri began that year too. Its anniversary labels need caution: the official history places the silver jubilee in 1945, while Loksatta’s later account says 1944. Festival-year counting may explain part of the difference, but original programmes are needed.",
+          "sourceIds": [
+            "CC01",
+            "CC03"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sculpture",
+      "eyebrow": "Artists",
+      "title": "A repertoire built by several hands",
+      "paragraphs": [
+        {
+          "text": "The institutional sculptor page credits Shyam Sarang’s 1953-1969 work, including a 1953 serpent composition, followed by Weling in 1971-1986 and Vijay Khatu in 1987-2007. It credits Reshma Khatu with the centenary idol. Its implication about Weling’s death conflicts with Ganesh Galli’s final-1990 account; artist assignments and death chronology must be kept separate.",
+          "sourceIds": [
+            "CC02"
+          ]
+        },
+        {
+          "text": "A 2023 report interviews Reshma Khatu about an idol made for a Surat mandal using Chintamani’s signature face but a different body. Those photographs depict the Surat commission, not automatically the Mumbai original. The 2025 Mumbai press image instead shows a royal throne interpretation described as Sambhaji-inspired, demonstrating why identifying an idol requires more than recognizing a face.",
+          "sourceIds": [
+            "CC05",
+            "CC06"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arrival",
+      "eyebrow": "Living practice",
+      "title": "Aagman as a dated event",
+      "paragraphs": [
+        {
+          "text": "The Aagman procession is a major part of the contemporary record. Loksatta’s 2024 report reproduces the mandal’s announcement for 31 August. That supports that year’s event, not a permanent date or route. The original 2019 street photograph provides a separately dated physical scene rather than a decontextualized devotional cutout.",
+          "sourceIds": [
+            "CC03",
+            "CC04"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "archive-evidence",
+      "eyebrow": "Historical photographs",
+      "title": "Scenes, craft credits and the limits of an archive frame",
+      "paragraphs": [
+        {
+          "text": "The official retrospective gallery contains eighty-eight framed objects spanning several decades. Its selected monochrome stage photographs show a relaxed throne pose in 1948, a standing shrine in 1951, and elaborate carts, courts and mythological narratives in the 1950 s-1980 s. The modern frame supplies explicit annual labels. It establishes what the institution attributes to each year, while leaving the original negative, print generation and any retouching unresolved.",
+          "sourceIds": [
+            "CC07"
+          ]
+        },
+        {
+          "text": "A 1972 print explicitly credits Dinanath Weling as sculptor, a positive annual record consistent with the institutional biography. Current work needs the same care: 2022 and 2024 reporting names Reshma Khatu, while the 2026 institutional report names Siddhesh Dighole and separately credits scenic, costume and lighting artists. A workshop lineage or familiar face should not be extended across those years without a specific commission record.",
+          "sourceIds": [
+            "CC07",
+            "CC02",
+            "CC08",
+            "CC10",
+            "CC11"
+          ]
+        }
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "year": 1920,
+      "title": "Foundation and first installation",
+      "text": "Official dates: 6 September foundation, 16 September installation.",
+      "sourceIds": [
+        "CC01"
+      ]
+    },
+    {
+      "year": 1926,
+      "title": "First president",
+      "text": "Institutional history names Ganpat Sitaram Kamat.",
+      "sourceIds": [
+        "CC01"
+      ]
+    },
+    {
+      "year": "1939 (derived)",
+      "title": "Railway-side home",
+      "text": "Official history says nineteen years after 1920; calendar year is derived, not a recovered document date.",
+      "sourceIds": [
+        "CC01"
+      ]
+    },
+    {
+      "year": 1953,
+      "title": "Sarang’s serpent composition",
+      "text": "Official sculptor history recalls a 17-foot design.",
+      "sourceIds": [
+        "CC02"
+      ]
+    },
+    {
+      "year": 1956,
+      "title": "Broader institutional name and Navratri",
+      "text": "Constitution and year-round scope in the official account.",
+      "sourceIds": [
+        "CC01"
+      ]
+    },
+    {
+      "year": "1971-1986",
+      "title": "Weling assignments",
+      "text": "Tenure given by the official sculptor page; death implication disputed.",
+      "sourceIds": [
+        "CC02"
+      ]
+    },
+    {
+      "year": "1987-2007",
+      "title": "Vijay Khatu assignments",
+      "text": "Official retrospective tenure; do not infer coverage of later gaps.",
+      "sourceIds": [
+        "CC02"
+      ]
+    },
+    {
+      "year": 2019,
+      "title": "Centenary festival",
+      "text": "Official page credits Reshma Khatu; a separately dated procession photo survives.",
+      "sourceIds": [
+        "CC02",
+        "CC04"
+      ]
+    },
+    {
+      "year": 2022,
+      "title": "Yakshini-court commission",
+      "text": "Marathi reporting separates sculpture, scenic art, costume and lighting roles.",
+      "sourceIds": [
+        "CC10"
+      ]
+    },
+    {
+      "year": 2023,
+      "title": "A distinct Surat commission",
+      "text": "Reshma Khatu explains the related face and different body.",
+      "sourceIds": [
+        "CC05"
+      ]
+    },
+    {
+      "year": 2024,
+      "title": "Jagannath conception",
+      "text": "Contemporary reporting names Reshma Khatu and the Krishna/Jagannath form.",
+      "sourceIds": [
+        "CC11"
+      ]
+    },
+    {
+      "year": 2025,
+      "title": "Royal throne interpretation",
+      "text": "Contemporary Mumbai gallery describes Sambhaji-inspired staging.",
+      "sourceIds": [
+        "CC06"
+      ]
+    },
+    {
+      "year": 2026,
+      "title": "Siddhesh Dighole annual credit",
+      "text": "Official annual account identifies the sculptor and a 29 August arrival.",
+      "sourceIds": [
+        "CC08",
+        "CC09"
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": 1948,
+      "title": "An elbow-resting royal seat",
+      "summary": "A retrospective official archive object preserves a visible annual label and a physical festival-stage composition.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "The modern archival frame explicitly prints the year in Marathi. This is an institutional year attribution, not authentication of the original negative or capture day; frame and print marks are preserved.",
+          "sourceIds": [
+            "CC07"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CC07"
+      ],
+      "media": [
+        {
+          "id": "1948-official-archive-stage",
+          "originalUrl": "https://chinchpoklichachintamani.com/Mar/gallery.php",
+          "kind": "photograph",
+          "label": "Archived stage photograph - source-labelled year",
+          "caption": "Chinchpoklicha Chintamani, archive-labelled 1948; physical Ganesh tableau reproduced within the institution's later frame.",
+          "credit": "Chinchpokli Sarvajanik Utsav Mandal archive; original photographer unconfirmed. Visible studio, printer and craft labels retain their separate roles.",
+          "dateEvidence": "Visible frame/print label reads year 1948 in Marathi; no year is assigned from the filename alone.",
+          "dateStatus": "source-attributed",
+          "yearConfidence": "visible_institutional_archive_year_label",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "CC07"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Four-armed Ganesh rests an elbow beside a lifted knee on a highly carved chair, with a framed arch, floor rug, flowers and a small credit board visible.",
+            "alignsWithSource": true,
+            "note": "Actually viewed in the labelled contact sheet; selected originals including 1948 and 1972 viewed individually. Scene depth, physical figures and stage props distinguish these selections from isolated cutouts. Sepia toning and later conventional print processing remain possible."
+          }
+        }
+      ]
+    },
+    {
+      "year": 1951,
+      "title": "A standing shrine tableau",
+      "summary": "A retrospective official archive object preserves a visible annual label and a physical festival-stage composition.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "The modern archival frame explicitly prints the year in Marathi. This is an institutional year attribution, not authentication of the original negative or capture day; frame and print marks are preserved.",
+          "sourceIds": [
+            "CC07"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CC07"
+      ],
+      "media": [
+        {
+          "id": "1951-official-archive-stage",
+          "originalUrl": "https://chinchpoklichachintamani.com/Mar/gallery.php",
+          "kind": "photograph",
+          "label": "Archived stage photograph - source-labelled year",
+          "caption": "Chinchpoklicha Chintamani, archive-labelled 1951; physical Ganesh tableau reproduced within the institution's later frame.",
+          "credit": "Chinchpokli Sarvajanik Utsav Mandal archive; original photographer unconfirmed. Visible studio, printer and craft labels retain their separate roles.",
+          "dateEvidence": "Visible frame/print label reads year 1951 in Marathi; no year is assigned from the filename alone.",
+          "dateStatus": "source-attributed",
+          "yearConfidence": "visible_institutional_archive_year_label",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "CC07"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Garlanded standing Ganesh flanked by a kneeling figure and a child-like standing attendant, within a columned temple set and altar labels.",
+            "alignsWithSource": true,
+            "note": "Actually viewed in the labelled contact sheet; selected originals including 1948 and 1972 viewed individually. Scene depth, physical figures and stage props distinguish these selections from isolated cutouts. Sepia toning and later conventional print processing remain possible."
+          }
+        }
+      ]
+    },
+    {
+      "year": 1958,
+      "title": "A cart and gathering",
+      "summary": "A retrospective official archive object preserves a visible annual label and a physical festival-stage composition.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "The modern archival frame explicitly prints the year in Marathi. This is an institutional year attribution, not authentication of the original negative or capture day; frame and print marks are preserved.",
+          "sourceIds": [
+            "CC07"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CC07"
+      ],
+      "media": [
+        {
+          "id": "1958-official-archive-stage",
+          "originalUrl": "https://chinchpoklichachintamani.com/Mar/gallery.php",
+          "kind": "photograph",
+          "label": "Archived stage photograph - source-labelled year",
+          "caption": "Chinchpoklicha Chintamani, archive-labelled 1958; physical Ganesh tableau reproduced within the institution's later frame.",
+          "credit": "Chinchpokli Sarvajanik Utsav Mandal archive; original photographer unconfirmed. Visible studio, printer and craft labels retain their separate roles.",
+          "dateEvidence": "Visible frame/print label reads year 1958 in Marathi; no year is assigned from the filename alone.",
+          "dateStatus": "source-attributed",
+          "yearConfidence": "visible_institutional_archive_year_label",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "CC07"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "A small standing Ganesh with a circular halo beside a large ox-drawn cart, thatched shelter and human figures in a receding painted landscape; physical floor and credit boards visible.",
+            "alignsWithSource": true,
+            "note": "Actually viewed in the labelled contact sheet; selected originals including 1948 and 1972 viewed individually. Scene depth, physical figures and stage props distinguish these selections from isolated cutouts. Sepia toning and later conventional print processing remain possible."
+          }
+        }
+      ]
+    },
+    {
+      "year": 1959,
+      "title": "A circular arch narrative",
+      "summary": "A retrospective official archive object preserves a visible annual label and a physical festival-stage composition.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "The modern archival frame explicitly prints the year in Marathi. This is an institutional year attribution, not authentication of the original negative or capture day; frame and print marks are preserved.",
+          "sourceIds": [
+            "CC07"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CC07"
+      ],
+      "media": [
+        {
+          "id": "1959-official-archive-stage",
+          "originalUrl": "https://chinchpoklichachintamani.com/Mar/gallery.php",
+          "kind": "photograph",
+          "label": "Archived stage photograph - source-labelled year",
+          "caption": "Chinchpoklicha Chintamani, archive-labelled 1959; physical Ganesh tableau reproduced within the institution's later frame.",
+          "credit": "Chinchpokli Sarvajanik Utsav Mandal archive; original photographer unconfirmed. Visible studio, printer and craft labels retain their separate roles.",
+          "dateEvidence": "Visible frame/print label reads year 1959 in Marathi; no year is assigned from the filename alone.",
+          "dateStatus": "source-attributed",
+          "yearConfidence": "visible_institutional_archive_year_label",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "CC07"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Central Ganesh within a large circular arch, a multi-armed figure behind, a lion and small attendant figures around the stepped stage.",
+            "alignsWithSource": true,
+            "note": "Actually viewed in the labelled contact sheet; selected originals including 1948 and 1972 viewed individually. Scene depth, physical figures and stage props distinguish these selections from isolated cutouts. Sepia toning and later conventional print processing remain possible."
+          }
+        }
+      ]
+    },
+    {
+      "year": 1961,
+      "title": "Figures at a palace threshold",
+      "summary": "A retrospective official archive object preserves a visible annual label and a physical festival-stage composition.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "The modern archival frame explicitly prints the year in Marathi. This is an institutional year attribution, not authentication of the original negative or capture day; frame and print marks are preserved.",
+          "sourceIds": [
+            "CC07"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CC07"
+      ],
+      "media": [
+        {
+          "id": "1961-official-archive-stage",
+          "originalUrl": "https://chinchpoklichachintamani.com/Mar/gallery.php",
+          "kind": "photograph",
+          "label": "Archived stage photograph - source-labelled year",
+          "caption": "Chinchpoklicha Chintamani, archive-labelled 1961; physical Ganesh tableau reproduced within the institution's later frame.",
+          "credit": "Chinchpokli Sarvajanik Utsav Mandal archive; original photographer unconfirmed. Visible studio, printer and craft labels retain their separate roles.",
+          "dateEvidence": "Visible frame/print label reads year 1961 in Marathi; no year is assigned from the filename alone.",
+          "dateStatus": "source-attributed",
+          "yearConfidence": "visible_institutional_archive_year_label",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "CC07"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "A court-like physical stage with Ganesh on an ornate seat, a long-tailed crowned figure, a seated musician, animal form and standing attendants beneath a scalloped palace arch.",
+            "alignsWithSource": true,
+            "note": "Actually viewed in the labelled contact sheet; selected originals including 1948 and 1972 viewed individually. Scene depth, physical figures and stage props distinguish these selections from isolated cutouts. Sepia toning and later conventional print processing remain possible."
+          }
+        }
+      ]
+    },
+    {
+      "year": 1966,
+      "title": "A throne and royal attendants",
+      "summary": "A retrospective official archive object preserves a visible annual label and a physical festival-stage composition.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "The modern archival frame explicitly prints the year in Marathi. This is an institutional year attribution, not authentication of the original negative or capture day; frame and print marks are preserved.",
+          "sourceIds": [
+            "CC07"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CC07"
+      ],
+      "media": [
+        {
+          "id": "1966-official-archive-stage",
+          "originalUrl": "https://chinchpoklichachintamani.com/Mar/gallery.php",
+          "kind": "photograph",
+          "label": "Archived stage photograph - source-labelled year",
+          "caption": "Chinchpoklicha Chintamani, archive-labelled 1966; physical Ganesh tableau reproduced within the institution's later frame.",
+          "credit": "Chinchpokli Sarvajanik Utsav Mandal archive; original photographer unconfirmed. Visible studio, printer and craft labels retain their separate roles.",
+          "dateEvidence": "Visible frame/print label reads year 1966 in Marathi; no year is assigned from the filename alone.",
+          "dateStatus": "source-attributed",
+          "yearConfidence": "visible_institutional_archive_year_label",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "CC07"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Ganesh seated on a high carved throne under a parasol, flanked by four royal and human figures; paneled palace walls, low offering vessels and stage floor visible.",
+            "alignsWithSource": true,
+            "note": "Actually viewed in the labelled contact sheet; selected originals including 1948 and 1972 viewed individually. Scene depth, physical figures and stage props distinguish these selections from isolated cutouts. Sepia toning and later conventional print processing remain possible."
+          }
+        }
+      ]
+    },
+    {
+      "year": 1967,
+      "title": "A gathering of communities",
+      "summary": "A retrospective official archive object preserves a visible annual label and a physical festival-stage composition.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "The modern archival frame explicitly prints the year in Marathi. This is an institutional year attribution, not authentication of the original negative or capture day; frame and print marks are preserved.",
+          "sourceIds": [
+            "CC07"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CC07"
+      ],
+      "media": [
+        {
+          "id": "1967-official-archive-stage",
+          "originalUrl": "https://chinchpoklichachintamani.com/Mar/gallery.php",
+          "kind": "photograph",
+          "label": "Archived stage photograph - source-labelled year",
+          "caption": "Chinchpoklicha Chintamani, archive-labelled 1967; physical Ganesh tableau reproduced within the institution's later frame.",
+          "credit": "Chinchpokli Sarvajanik Utsav Mandal archive; original photographer unconfirmed. Visible studio, printer and craft labels retain their separate roles.",
+          "dateEvidence": "Visible frame/print label reads year 1967 in Marathi; no year is assigned from the filename alone.",
+          "dateStatus": "source-attributed",
+          "yearConfidence": "visible_institutional_archive_year_label",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "CC07"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Standing Ganesh with a bright halo surrounded by differently dressed human figures, pots, tools and a painted village-and-cloud backdrop; a broad physical stage is visible.",
+            "alignsWithSource": true,
+            "note": "Actually viewed in the labelled contact sheet; selected originals including 1948 and 1972 viewed individually. Scene depth, physical figures and stage props distinguish these selections from isolated cutouts. Sepia toning and later conventional print processing remain possible."
+          }
+        }
+      ]
+    },
+    {
+      "year": 1968,
+      "title": "Ganesh in a village narrative",
+      "summary": "A retrospective official archive object preserves a visible annual label and a physical festival-stage composition.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "The modern archival frame explicitly prints the year in Marathi. This is an institutional year attribution, not authentication of the original negative or capture day; frame and print marks are preserved.",
+          "sourceIds": [
+            "CC07"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CC07"
+      ],
+      "media": [
+        {
+          "id": "1968-official-archive-stage",
+          "originalUrl": "https://chinchpoklichachintamani.com/Mar/gallery.php",
+          "kind": "photograph",
+          "label": "Archived stage photograph - source-labelled year",
+          "caption": "Chinchpoklicha Chintamani, archive-labelled 1968; physical Ganesh tableau reproduced within the institution's later frame.",
+          "credit": "Chinchpokli Sarvajanik Utsav Mandal archive; original photographer unconfirmed. Visible studio, printer and craft labels retain their separate roles.",
+          "dateEvidence": "Visible frame/print label reads year 1968 in Marathi; no year is assigned from the filename alone.",
+          "dateStatus": "source-attributed",
+          "yearConfidence": "visible_institutional_archive_year_label",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "CC07"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Standing Ganesh with halo, a bowed robed figure at left, seated and standing attendants, timber-like structures and a textured ground-level stage.",
+            "alignsWithSource": true,
+            "note": "Actually viewed in the labelled contact sheet; selected originals including 1948 and 1972 viewed individually. Scene depth, physical figures and stage props distinguish these selections from isolated cutouts. Sepia toning and later conventional print processing remain possible."
+          }
+        }
+      ]
+    },
+    {
+      "year": 1970,
+      "title": "A raised throne and lion",
+      "summary": "A retrospective official archive object preserves a visible annual label and a physical festival-stage composition.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "The modern archival frame explicitly prints the year in Marathi. This is an institutional year attribution, not authentication of the original negative or capture day; frame and print marks are preserved.",
+          "sourceIds": [
+            "CC07"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CC07"
+      ],
+      "media": [
+        {
+          "id": "1970-official-archive-stage",
+          "originalUrl": "https://chinchpoklichachintamani.com/Mar/gallery.php",
+          "kind": "photograph",
+          "label": "Archived stage photograph - source-labelled year",
+          "caption": "Chinchpoklicha Chintamani, archive-labelled 1970; physical Ganesh tableau reproduced within the institution's later frame.",
+          "credit": "Chinchpokli Sarvajanik Utsav Mandal archive; original photographer unconfirmed. Visible studio, printer and craft labels retain their separate roles.",
+          "dateEvidence": "Visible frame/print label reads year 1970 in Marathi; no year is assigned from the filename alone.",
+          "dateStatus": "source-attributed",
+          "yearConfidence": "visible_institutional_archive_year_label",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "CC07"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Ganesh seated within an arched palace set with a large lion at the pedestal and surrounding adult/child-like figures, one with a staff; physical steps and floor visible.",
+            "alignsWithSource": true,
+            "note": "Actually viewed in the labelled contact sheet; selected originals including 1948 and 1972 viewed individually. Scene depth, physical figures and stage props distinguish these selections from isolated cutouts. Sepia toning and later conventional print processing remain possible."
+          }
+        }
+      ]
+    },
+    {
+      "year": 1971,
+      "title": "A balancing-scale tableau",
+      "summary": "A retrospective official archive object preserves a visible annual label and a physical festival-stage composition.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "The modern archival frame explicitly prints the year in Marathi. This is an institutional year attribution, not authentication of the original negative or capture day; frame and print marks are preserved.",
+          "sourceIds": [
+            "CC07"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CC07"
+      ],
+      "media": [
+        {
+          "id": "1971-official-archive-stage",
+          "originalUrl": "https://chinchpoklichachintamani.com/Mar/gallery.php",
+          "kind": "photograph",
+          "label": "Archived stage photograph - source-labelled year",
+          "caption": "Chinchpoklicha Chintamani, archive-labelled 1971; physical Ganesh tableau reproduced within the institution's later frame.",
+          "credit": "Chinchpokli Sarvajanik Utsav Mandal archive; original photographer unconfirmed. Visible studio, printer and craft labels retain their separate roles.",
+          "dateEvidence": "Visible frame/print label reads year 1971 in Marathi; no year is assigned from the filename alone.",
+          "dateStatus": "source-attributed",
+          "yearConfidence": "visible_institutional_archive_year_label",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "CC07"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Seated Ganesh under a carved balance-like beam, a small standing figure on one side, piled objects on a pan at right and two tall surrounding figures on a dark physical stage.",
+            "alignsWithSource": true,
+            "note": "Actually viewed in the labelled contact sheet; selected originals including 1948 and 1972 viewed individually. Scene depth, physical figures and stage props distinguish these selections from isolated cutouts. Sepia toning and later conventional print processing remain possible."
+          }
+        }
+      ]
+    },
+    {
+      "year": 1972,
+      "title": "Ganesh devotion on stage",
+      "summary": "A retrospective official archive object preserves a visible annual label and a physical festival-stage composition.",
+      "artist": "Dinanath Weling (दिनानाथ वेलिंग; explicit printed sculptor credit)",
+      "theme": null,
+      "notes": [
+        {
+          "text": "The modern archival frame explicitly prints the year in Marathi. This is an institutional year attribution, not authentication of the original negative or capture day; frame and print marks are preserved.",
+          "sourceIds": [
+            "CC07"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CC07"
+      ],
+      "media": [
+        {
+          "id": "1972-official-archive-stage",
+          "originalUrl": "https://chinchpoklichachintamani.com/Mar/gallery.php",
+          "kind": "photograph",
+          "label": "Archived stage photograph - source-labelled year",
+          "caption": "Chinchpoklicha Chintamani, archive-labelled 1972; physical Ganesh tableau reproduced within the institution's later frame.",
+          "credit": "Chinchpokli Sarvajanik Utsav Mandal archive; original photographer unconfirmed. Visible studio, printer and craft labels retain their separate roles.",
+          "dateEvidence": "Visible frame/print label reads year 1972 in Marathi; no year is assigned from the filename alone.",
+          "dateStatus": "source-attributed",
+          "yearConfidence": "visible_institutional_archive_year_label",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "CC07"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Four-armed seated Ganesh beneath an arched scenic panel, with a crowned man at left, seated female figure, string-instrument player and a standing man with a scroll at right; physical stage retained.",
+            "alignsWithSource": true,
+            "note": "Actually viewed in the labelled contact sheet; selected originals including 1948 and 1972 viewed individually. Scene depth, physical figures and stage props distinguish these selections from isolated cutouts. Sepia toning and later conventional print processing remain possible."
+          }
+        }
+      ]
+    },
+    {
+      "year": 1974,
+      "title": "A narrative stage with explanatory banner",
+      "summary": "A retrospective official archive object preserves a visible annual label and a physical festival-stage composition.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "The modern archival frame explicitly prints the year in Marathi. This is an institutional year attribution, not authentication of the original negative or capture day; frame and print marks are preserved.",
+          "sourceIds": [
+            "CC07"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CC07"
+      ],
+      "media": [
+        {
+          "id": "1974-official-archive-stage",
+          "originalUrl": "https://chinchpoklichachintamani.com/Mar/gallery.php",
+          "kind": "photograph",
+          "label": "Archived stage photograph - source-labelled year",
+          "caption": "Chinchpoklicha Chintamani, archive-labelled 1974; physical Ganesh tableau reproduced within the institution's later frame.",
+          "credit": "Chinchpokli Sarvajanik Utsav Mandal archive; original photographer unconfirmed. Visible studio, printer and craft labels retain their separate roles.",
+          "dateEvidence": "Visible frame/print label reads year 1974 in Marathi; no year is assigned from the filename alone.",
+          "dateStatus": "source-attributed",
+          "yearConfidence": "visible_institutional_archive_year_label",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "CC07"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Small seated Ganesh deep within a layered archway and temple steps, surrounding figures and curtain borders; original institutional/year and explanatory banners remain on the print.",
+            "alignsWithSource": true,
+            "note": "Actually viewed in the labelled contact sheet; selected originals including 1948 and 1972 viewed individually. Scene depth, physical figures and stage props distinguish these selections from isolated cutouts. Sepia toning and later conventional print processing remain possible."
+          }
+        }
+      ]
+    },
+    {
+      "year": 1976,
+      "title": "A mythological court",
+      "summary": "A retrospective official archive object preserves a visible annual label and a physical festival-stage composition.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "The modern archival frame explicitly prints the year in Marathi. This is an institutional year attribution, not authentication of the original negative or capture day; frame and print marks are preserved.",
+          "sourceIds": [
+            "CC07"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CC07"
+      ],
+      "media": [
+        {
+          "id": "1976-official-archive-stage",
+          "originalUrl": "https://chinchpoklichachintamani.com/Mar/gallery.php",
+          "kind": "photograph",
+          "label": "Archived stage photograph - source-labelled year",
+          "caption": "Chinchpoklicha Chintamani, archive-labelled 1976; physical Ganesh tableau reproduced within the institution's later frame.",
+          "credit": "Chinchpokli Sarvajanik Utsav Mandal archive; original photographer unconfirmed. Visible studio, printer and craft labels retain their separate roles.",
+          "dateEvidence": "Visible frame/print label reads year 1976 in Marathi; no year is assigned from the filename alone.",
+          "dateStatus": "source-attributed",
+          "yearConfidence": "visible_institutional_archive_year_label",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "CC07"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Seated Ganesh on a high support within temple columns, flanked by multi-armed divine figures, a standing woman, a bow-bearing figure and animal props on a low stage.",
+            "alignsWithSource": true,
+            "note": "Actually viewed in the labelled contact sheet; selected originals including 1948 and 1972 viewed individually. Scene depth, physical figures and stage props distinguish these selections from isolated cutouts. Sepia toning and later conventional print processing remain possible."
+          }
+        }
+      ]
+    },
+    {
+      "year": 1978,
+      "title": "The churning tableau",
+      "summary": "A retrospective official archive object preserves a visible annual label and a physical festival-stage composition.",
+      "artist": null,
+      "theme": "Samudra Manthan (printed subject)",
+      "notes": [
+        {
+          "text": "The modern archival frame explicitly prints the year in Marathi. This is an institutional year attribution, not authentication of the original negative or capture day; frame and print marks are preserved.",
+          "sourceIds": [
+            "CC07"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CC07"
+      ],
+      "media": [
+        {
+          "id": "1978-official-archive-stage",
+          "originalUrl": "https://chinchpoklichachintamani.com/Mar/gallery.php",
+          "kind": "photograph",
+          "label": "Archived stage photograph - source-labelled year",
+          "caption": "Chinchpoklicha Chintamani, archive-labelled 1978; physical Ganesh tableau reproduced within the institution's later frame.",
+          "credit": "Chinchpokli Sarvajanik Utsav Mandal archive; original photographer unconfirmed. Visible studio, printer and craft labels retain their separate roles.",
+          "dateEvidence": "Visible frame/print label reads year 1978 in Marathi; no year is assigned from the filename alone.",
+          "dateStatus": "source-attributed",
+          "yearConfidence": "visible_institutional_archive_year_label",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "CC07"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Ganesh appears above a central rope-and-water scene, with opposed figures pulling across the stage, rock-like columns and mythological props; original caption names the churning narrative.",
+            "alignsWithSource": true,
+            "note": "Actually viewed in the labelled contact sheet; selected originals including 1948 and 1972 viewed individually. Scene depth, physical figures and stage props distinguish these selections from isolated cutouts. Sepia toning and later conventional print processing remain possible."
+          }
+        }
+      ]
+    },
+    {
+      "year": 1979,
+      "title": "A symmetrical shrine",
+      "summary": "A retrospective official archive object preserves a visible annual label and a physical festival-stage composition.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "The modern archival frame explicitly prints the year in Marathi. This is an institutional year attribution, not authentication of the original negative or capture day; frame and print marks are preserved.",
+          "sourceIds": [
+            "CC07"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CC07"
+      ],
+      "media": [
+        {
+          "id": "1979-official-archive-stage",
+          "originalUrl": "https://chinchpoklichachintamani.com/Mar/gallery.php",
+          "kind": "photograph",
+          "label": "Archived stage photograph - source-labelled year",
+          "caption": "Chinchpoklicha Chintamani, archive-labelled 1979; physical Ganesh tableau reproduced within the institution's later frame.",
+          "credit": "Chinchpokli Sarvajanik Utsav Mandal archive; original photographer unconfirmed. Visible studio, printer and craft labels retain their separate roles.",
+          "dateEvidence": "Visible frame/print label reads year 1979 in Marathi; no year is assigned from the filename alone.",
+          "dateStatus": "source-attributed",
+          "yearConfidence": "visible_institutional_archive_year_label",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "CC07"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Small cross-legged Ganesh beneath a broad scalloped canopy, two large lamps and kneeling male attendants, with a small mouse/altar element and floor offerings.",
+            "alignsWithSource": true,
+            "note": "Actually viewed in the labelled contact sheet; selected originals including 1948 and 1972 viewed individually. Scene depth, physical figures and stage props distinguish these selections from isolated cutouts. Sepia toning and later conventional print processing remain possible."
+          }
+        }
+      ]
+    },
+    {
+      "year": 1980,
+      "title": "The Ganesh-birth tableau",
+      "summary": "A retrospective official archive object preserves a visible annual label and a physical festival-stage composition.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "The modern archival frame explicitly prints the year in Marathi. This is an institutional year attribution, not authentication of the original negative or capture day; frame and print marks are preserved.",
+          "sourceIds": [
+            "CC07"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CC07"
+      ],
+      "media": [
+        {
+          "id": "1980-official-archive-stage",
+          "originalUrl": "https://chinchpoklichachintamani.com/Mar/gallery.php",
+          "kind": "photograph",
+          "label": "Archived stage photograph - source-labelled year",
+          "caption": "Chinchpoklicha Chintamani, archive-labelled 1980; physical Ganesh tableau reproduced within the institution's later frame.",
+          "credit": "Chinchpokli Sarvajanik Utsav Mandal archive; original photographer unconfirmed. Visible studio, printer and craft labels retain their separate roles.",
+          "dateEvidence": "Visible frame/print label reads year 1980 in Marathi; no year is assigned from the filename alone.",
+          "dateStatus": "source-attributed",
+          "yearConfidence": "visible_institutional_archive_year_label",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "CC07"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "A four-armed Ganesh figure is elevated above a stepped shrine, with a large trident-bearing Shiva figure at right, a small attendant and a Nandi head in a physical room-like stage.",
+            "alignsWithSource": true,
+            "note": "Actually viewed in the labelled contact sheet; selected originals including 1948 and 1972 viewed individually. Scene depth, physical figures and stage props distinguish these selections from isolated cutouts. Sepia toning and later conventional print processing remain possible."
+          }
+        }
+      ]
+    },
+    {
+      "year": 1981,
+      "title": "The Kirtimukha narrative",
+      "summary": "A retrospective official archive object preserves a visible annual label and a physical festival-stage composition.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "The modern archival frame explicitly prints the year in Marathi. This is an institutional year attribution, not authentication of the original negative or capture day; frame and print marks are preserved.",
+          "sourceIds": [
+            "CC07"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CC07"
+      ],
+      "media": [
+        {
+          "id": "1981-official-archive-stage",
+          "originalUrl": "https://chinchpoklichachintamani.com/Mar/gallery.php",
+          "kind": "photograph",
+          "label": "Archived stage photograph - source-labelled year",
+          "caption": "Chinchpoklicha Chintamani, archive-labelled 1981; physical Ganesh tableau reproduced within the institution's later frame.",
+          "credit": "Chinchpokli Sarvajanik Utsav Mandal archive; original photographer unconfirmed. Visible studio, printer and craft labels retain their separate roles.",
+          "dateEvidence": "Visible frame/print label reads year 1981 in Marathi; no year is assigned from the filename alone.",
+          "dateStatus": "source-attributed",
+          "yearConfidence": "visible_institutional_archive_year_label",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "CC07"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "A central Ganesh altar inside a rocky-temple scene, surrounded by large moving narrative figures and lion imagery; a printed Marathi subject caption remains below.",
+            "alignsWithSource": true,
+            "note": "Actually viewed in the labelled contact sheet; selected originals including 1948 and 1972 viewed individually. Scene depth, physical figures and stage props distinguish these selections from isolated cutouts. Sepia toning and later conventional print processing remain possible."
+          }
+        }
+      ]
+    },
+    {
+      "year": 1982,
+      "title": "An assembly below trees",
+      "summary": "A retrospective official archive object preserves a visible annual label and a physical festival-stage composition.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "The modern archival frame explicitly prints the year in Marathi. This is an institutional year attribution, not authentication of the original negative or capture day; frame and print marks are preserved.",
+          "sourceIds": [
+            "CC07"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CC07"
+      ],
+      "media": [
+        {
+          "id": "1982-official-archive-stage",
+          "originalUrl": "https://chinchpoklichachintamani.com/Mar/gallery.php",
+          "kind": "photograph",
+          "label": "Archived stage photograph - source-labelled year",
+          "caption": "Chinchpoklicha Chintamani, archive-labelled 1982; physical Ganesh tableau reproduced within the institution's later frame.",
+          "credit": "Chinchpokli Sarvajanik Utsav Mandal archive; original photographer unconfirmed. Visible studio, printer and craft labels retain their separate roles.",
+          "dateEvidence": "Visible frame/print label reads year 1982 in Marathi; no year is assigned from the filename alone.",
+          "dateStatus": "source-attributed",
+          "yearConfidence": "visible_institutional_archive_year_label",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "CC07"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Cross-legged Ganesh with halo beneath spreading trees, surrounded by standing and seated sage-like figures, rocks and a low physical stage; patterned printed frame retained.",
+            "alignsWithSource": true,
+            "note": "Actually viewed in the labelled contact sheet; selected originals including 1948 and 1972 viewed individually. Scene depth, physical figures and stage props distinguish these selections from isolated cutouts. Sepia toning and later conventional print processing remain possible."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "title": "Centenary procession",
+      "summary": "Uploader-identified original street photograph; uncropped version preserves the watermark.",
+      "artist": "Reshma Khatu, centenary attribution in institutional history",
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "CC02",
+        "CC04"
+      ],
+      "media": [
+        {
+          "id": "2019-commons-original",
+          "originalUrl": "https://commons.wikimedia.org/wiki/File:Chintamani_Mumbai_studio55.jpg",
+          "kind": "photograph",
+          "label": "Documentary procession photograph",
+          "caption": "Chinchpokli cha Chintamani, original uploaded photograph.",
+          "credit": "Sankeshwarmhatre; visible RS PHOTOGRAPHY watermark; via Wikimedia Commons",
+          "dateEvidence": "Commons uploader states 2 September 2019, originally uploaded 20 September 2019. Current cropped derivative is from June 2020; that is not the capture year.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "CC04"
+          ],
+          "yearConfidence": "uploader_stated_date",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Seated four-armed Ganesh in red garments and garlands before a blue-green many-faced, many-armed serpent-backed tableau; attendants, chawl facade, crowd and phones visible. Original RS PHOTOGRAPHY watermark retained.",
+            "alignsWithSource": true,
+            "note": "Uncropped original upload visually inspected in Chrome. The file page identifies Chinchpokli cha Chintamani and 2 September 2019; capture date is uploader-supplied."
+          },
+          "dateStatus": "source-attributed"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "title": "Yakshini court",
+      "summary": "Contemporary Marathi reporting documents a Yakshini-court setting and separates its craft roles.",
+      "artist": "Reshma Khatu (reported sculptor)",
+      "theme": "Yakshini Darbar",
+      "notes": [
+        {
+          "text": "Aman Vidhate is credited for art direction, Prakash Lahane for costume and Vishal Shelar for lighting. Reported twelve-foot idol/twenty-foot whole arrangement are distinct measures; no independent measurement was inspected.",
+          "sourceIds": [
+            "CC10"
+          ]
+        },
+        {
+          "text": "The low-resolution lead arrival picture lacks an independent image-year caption, so it is preserved as a lead only and omitted from the dated photo series.",
+          "sourceIds": [
+            "CC10"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CC10"
+      ],
+      "media": []
+    },
+    {
+      "year": 2024,
+      "title": "Jagannath Puri and Krishna",
+      "summary": "A contemporary account names the Jagannath/Balaram/Subhadra conception and Reshma Khatu commission.",
+      "artist": "Reshma Khatu, Studio Vijay Khatu (reported)",
+      "theme": "Krishna / Jagannath Puri",
+      "notes": [
+        {
+          "text": "The eighteen-foot height is the report's measure. Its lead asset combines two actual procession views into one editorial image, so it is classified treated rather than a single scene photograph.",
+          "sourceIds": [
+            "CC11"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CC11"
+      ],
+      "media": [
+        {
+          "id": "2024-fpj-editorial-composite",
+          "originalUrl": "https://marathi.freepressjournal.in/mumbai/chintapoklis-chintamani-this-year-in-the-form-of-shri-krishna-prabhaval-of-jagannath-puri-with-brother-balaram-sister-subhadre",
+          "kind": "treated",
+          "label": "Two-photo editorial composite - 2024",
+          "caption": "Two procession views show turquoise-clad Ganesh below Jagannath-style round faces, police and crowds; this is an editorial composite.",
+          "credit": "@chinchpoklichachintamani / Instagram via Navshakti-FPJ; individual photographers not supplied.",
+          "dateEvidence": "The 6 September 2024 report explicitly discusses the current commission and identifies the mandal-supplied lead image. No separate capture day given.",
+          "dateStatus": "contemporary",
+          "yearConfidence": "contemporary_report_and_mandal_supplied_image",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "CC11"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Two joined photographs: seated four-armed Ganesh in turquoise garments under three round deity faces and gold ornament, police officers in left foreground, and a broad arrival crowd with a line of police in the right panel.",
+            "alignsWithSource": true,
+            "note": "Direct original viewed. Both panels retain physical procession context, but the delivered asset is visibly a two-panel composite and stays outside the single-photograph class."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "title": "Sambhaji-inspired throne",
+      "summary": "Contemporary press photograph identifies Chinchpokli’s idol and royal staging.",
+      "artist": null,
+      "theme": "Sambhaji-inspired royal throne, as reported",
+      "notes": [],
+      "sourceIds": [
+        "CC06"
+      ],
+      "media": [
+        {
+          "id": "2025-midday-throne",
+          "originalUrl": "https://www.mid-day.com/mumbai/mumbai-news/photo/in-photos-ganesh-chaturthi-2025-day-1-highlights-of-ganpati-idols-from-raja-tejukayacha-to-chinchpokli-cha-chintamani-107099/4",
+          "kind": "photograph",
+          "label": "Contemporary press photograph",
+          "caption": "Chinchpokli Cha Chintamani in the reported 2025 throne interpretation.",
+          "credit": "Special arrangement / Mid-day; photographer unnamed",
+          "dateEvidence": "Published 27 August 2025 as first-day coverage; caption explicitly identifies the Chintamani form.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "CC06"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Four-armed Ganesh seated on an elaborate royal throne, white drapery and red sash, one hand on knee, an ornate sword/weapon and staff, sculpted attendants and actual stage props.",
+            "alignsWithSource": true,
+            "note": "Direct image visually inspected; royal throne form is consistent with the article’s Sambhaji-inspired description. Year comes from contemporary publication, not appearance alone."
+          },
+          "dateStatus": "contemporary"
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "title": "A Garuda-backed throne and named new commission",
+      "summary": "The institution and contemporary Marathi gallery name Siddhesh Dighole for this annual idol.",
+      "artist": "Siddhesh Dighole, Kalagandh Arts (सिद्धेश दिघोळे, कलागंध आर्ट्स)",
+      "theme": "Garuda-backed throne (visible form; official theme title not established here)",
+      "notes": [
+        {
+          "text": "Official annual report dates patpujan to 25 July and arrival to 29 August 2026. Loksatta's gallery update is 9 September and uses present-tense arrival wording; that publication timestamp is not substituted for the event date.",
+          "sourceIds": [
+            "CC08",
+            "CC09"
+          ]
+        },
+        {
+          "text": "Separate official credits name Sachin Panchal for decoration, Prakash Lahane for costume and Vishal Shelar for lighting. The annual page also names Avadhoot Hembarde for the photo session and Amar Jadhav for festival photography; those credits are not automatically reassigned to this @best.capture image.",
+          "sourceIds": [
+            "CC08"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CC08",
+        "CC09"
+      ],
+      "media": [
+        {
+          "id": "2026-loksatta-arrival-garuda",
+          "originalUrl": "https://chinchpoklichachintamani.com/Mar/GaneshUstav.php",
+          "kind": "photograph",
+          "label": "Contemporary arrival photograph - 2026",
+          "caption": "Ganesh with disc, conch and upright staff before a Garuda-backed blue throne, surrounded by people photographing the arrival.",
+          "credit": "@best.capture (visible watermark); mandal/Instagram via Loksatta. Personal photographer name not established.",
+          "dateEvidence": "Specific image in Loksatta's 2026 Chintamani arrival gallery, independently matched to the official 2026 form and annual report. Exact capture day not supplied.",
+          "dateStatus": "contemporary",
+          "yearConfidence": "contemporary_year_specific_caption_and_matching_official_annual_form",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "CC08",
+            "CC09"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Large four-armed Ganesh with gold crown and jewellery, white drape and maroon ornamented stole; disc, conch and gold staff; sculpted eagle head/wings above a blue throne, lion at left, trees, tarpaulin, people and phones in foreground; @best.capture watermark.",
+            "alignsWithSource": true,
+            "note": "Direct original individually viewed. Physical street/people and the distinctive Garuda throne match the official 2026 archive form; photograph appearance alone does not establish the year."
+          }
+        }
+      ]
+    }
+  ],
+  "undatedMedia": [],
+  "sources": [
+    {
+      "id": "CC01",
+      "title": "मंडळाचा इतिहास",
+      "publisher": "Chinchpokli Sarvajanik Utsav Mandal",
+      "date": null,
+      "language": "Marathi",
+      "type": "institutional retrospective",
+      "url": "https://chinchpoklichachintamani.com/Mar/about.php",
+      "note": "Foundation/installation dates, four-anna contributions, first president, railway-side relocation and 1956 constitution/Navratri. Its oldest-ranking and elapsed-year superlatives are not adopted."
+    },
+    {
+      "id": "CC02",
+      "title": "मूर्तिकार - Sarang, Weling and Khatu",
+      "publisher": "Chinchpokli Sarvajanik Utsav Mandal",
+      "date": null,
+      "language": "Marathi",
+      "type": "institutional artist retrospective",
+      "url": "https://chinchpoklichachintamani.com/Mar/MurtiKar.php",
+      "note": "Useful named assignments, but Weling death implication conflicts with Ganesh Galli’s retrospective. Do not silently harmonize."
+    },
+    {
+      "id": "CC03",
+      "title": "चिंचपोकळी चिंतामणीच्या आगमनाची तारीख ठरली",
+      "publisher": "Loksatta",
+      "date": "2024-08-22",
+      "language": "Marathi",
+      "type": "contemporary arrival announcement plus retrospective",
+      "url": "https://www.loksatta.com/trending/chinchpoklicha-chintamani-aagman-sohala-2024-chintamani-aagman-sohala-date-and-time-chinchpoklicha-chintamani-mandal-announced-date-srk-21-4550527/",
+      "note": "2024 event announcement; its 1944 silver-jubilee date differs from institutional 1945, and other anniversary labels require verification."
+    },
+    {
+      "id": "CC04",
+      "title": "File:Chintamani Mumbai studio 55.jpg",
+      "publisher": "Wikimedia Commons",
+      "date": "2019-09-20",
+      "language": "English",
+      "type": "uploader’s original photograph and licensing metadata",
+      "url": "https://commons.wikimedia.org/wiki/File:Chintamani_Mumbai_studio55.jpg",
+      "note": "Sankeshwarmhatre, own work, stated image date 2 September 2019; CC BY-SA 4.0. A 2020 derivative cropped away the watermark; original uncropped version retained here."
+    },
+    {
+      "id": "CC05",
+      "title": "Chinchpoklicha Chintamani makes arduous trek to Surat",
+      "publisher": "Mid-day",
+      "date": "2023-09-07",
+      "language": "English",
+      "type": "contemporary interviews about a separate replica commission",
+      "url": "https://www.mid-day.com/amp/mumbai/mumbai-news/article/chinchpoklicha-chintamani-makes-arduous-trek-to-surat-23307697",
+      "note": "Shirish Vaktania interviews Reshma Khatu and Surat organizers; the article’s idol is the Surat commission, not the Mumbai original."
+    },
+    {
+      "id": "CC06",
+      "title": "Day 1 of Ganeshotsav 2025: Mumbai’s renowned idols",
+      "publisher": "Mid-day",
+      "date": "2025-08-27",
+      "language": "English",
+      "type": "contemporary photo report",
+      "url": "https://www.mid-day.com/mumbai/mumbai-news/photo/in-photos-ganesh-chaturthi-2025-day-1-highlights-of-ganpati-idols-from-raja-tejukayacha-to-chinchpokli-cha-chintamani-107099/4",
+      "note": "Compiled by Divya Nair; photos Special Arrangement. Specific Chintamani caption supports the 2025 image. Unrelated Tejukaya origin claims in this gallery are not adopted."
+    },
+    {
+      "id": "CC07",
+      "title": "छायाचित्र संग्रह - 1935-2026",
+      "publisher": "Chinchpokli Sarvajanik Utsav Mandal",
+      "date": null,
+      "language": "Marathi",
+      "type": "institutional",
+      "url": "https://chinchpoklichachintamani.com/Mar/gallery.php",
+      "note": "Current retrospective archive of 88 framed objects. Selected annual attributions come from visible Marathi year labels on frames/prints, never filename alone. Images mix physical-stage photographs, portraits and treated devotional material."
+    },
+    {
+      "id": "CC08",
+      "title": "गणेशोत्सव - २०२६ annual report",
+      "publisher": "Chinchpokli Sarvajanik Utsav Mandal",
+      "date": "2026",
+      "language": "Marathi",
+      "type": "institutional",
+      "url": "https://chinchpoklichachintamani.com/Mar/GaneshUstav.php",
+      "note": "Annual account identifies 25 July patpujan, 29 August arrival and named sculptor, decoration, costume, lighting and photography roles. Current report, not a timeless artist list."
+    },
+    {
+      "id": "CC09",
+      "title": "चिंचपोकळीचा चिंतामणी - २०२६ आगमन सोहळा",
+      "publisher": "Loksatta",
+      "date": "2026-09-09",
+      "language": "Marathi",
+      "type": "reporting",
+      "url": "https://www.loksatta.com/photos/trending-gallery/6105764/chinchpoklicha-chintamani-2026-aagman-sohala-murtikar-siddhesh-dighole-aagamadish-lalbaug-parel-photos-sdn-96/lite/",
+      "note": "Year-specific arrival gallery credits the mandal/Instagram and names Siddhesh Dighole. Its update date and present-tense arrival wording do not override the official 29 August event date. Selected image retains @best.capture watermark."
+    },
+    {
+      "id": "CC10",
+      "title": "चिंतामणी यक्षिणी देवीच्या दरबारात",
+      "publisher": "Navshakti / Free Press Journal Marathi",
+      "date": "2022-09-02",
+      "language": "Marathi",
+      "type": "reporting",
+      "url": "https://marathi.freepressjournal.in/mumbai/chinchpokalis-chintamani-sits-in-the-court-of-yakshini-devi-this-year",
+      "note": "Contemporary named craft roles and Yakshini-court theme. Header arrival picture has no separate capture date or photographer; not adopted as an authenticated 2022 scene-photo record."
+    },
+    {
+      "id": "CC11",
+      "title": "चिंतामणी श्रीकृष्ण रूपात - जगन्नाथ पुरीची प्रभावळ",
+      "publisher": "Navshakti / Free Press Journal Marathi - Shirish Pawar",
+      "date": "2024-09-06",
+      "language": "Marathi",
+      "type": "reporting",
+      "url": "https://marathi.freepressjournal.in/mumbai/chintapoklis-chintamani-this-year-in-the-form-of-shri-krishna-prabhaval-of-jagannath-puri-with-brother-balaram-sister-subhadre",
+      "note": "Contemporary commission report citing official Sandip Parab; names Reshma Khatu, eighteen-foot reported form and Jagannath/Balaram/Subhadra conception. Lead is a two-photo editorial composite, not a single exposure."
+    }
+  ],
+  "openQuestions": [
+    {
+      "title": "Weling’s death and exact succession",
+      "text": "This official page implies an endpoint before 1987, while Ganesh Galli says a final 1990 idol. Seek memorial or contemporary records. Do not alter either account to fit the other.",
+      "sourceIds": [
+        "CC02"
+      ]
+    },
+    {
+      "title": "Anniversary dates",
+      "text": "Silver-jubilee labels differ between 1944 and 1945. Separate inclusive festival-year counting from completed anniversaries and inspect original programmes.",
+      "sourceIds": [
+        "CC01",
+        "CC03"
+      ]
+    },
+    {
+      "title": "Replica identification",
+      "text": "Related faces appear in other cities. Confirm institution, location and body composition before reusing images as Mumbai Chintamani.",
+      "sourceIds": [
+        "CC05"
+      ]
+    }
+  ],
+  "visit": {
+    "address": "Festival near Chinchpokli railway station East; mandal office: Progressive Building A/3, Dattaram Lad Marg, Chinchpokli East, Mumbai 400012",
+    "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Chinchpoklicha+Chintamani+Chinchpokli+East",
+    "text": "The official history distinguishes the railway-side festival home from its office address. Current access, arrival routes and timings require seasonal confirmation.",
+    "sourceIds": [
+      "CC01"
+    ]
+  },
+  "claims": [
+    {
+      "id": "C01",
+      "text": "Foundation and first installation are dated September 1920 in the institutional history.",
+      "status": "institutional retrospective",
+      "sourceIds": [
+        "CC01"
+      ]
+    },
+    {
+      "id": "C02",
+      "text": "1956 brought a broader institutional constitution/name and Navratri according to its history.",
+      "status": "institutional retrospective",
+      "sourceIds": [
+        "CC01"
+      ]
+    },
+    {
+      "id": "C03",
+      "text": "Sarang, Weling, Vijay Khatu and Reshma Khatu are named in the mandal’s sculptural history; exact succession is not fully reconciled.",
+      "status": "institutional retrospective with conflict",
+      "sourceIds": [
+        "CC02"
+      ]
+    },
+    {
+      "id": "C04",
+      "text": "The 2023 Surat idol is a separate related commission, not the Mumbai original.",
+      "status": "contemporary reporting",
+      "sourceIds": [
+        "CC05"
+      ]
+    },
+    {
+      "id": "C04-phase2",
+      "text": "The 2026 annual report credits Siddhesh Dighole; earlier Reshma Khatu commissions do not establish automatic 2026 authorship.",
+      "status": "contemporary institutional and regional reporting",
+      "sourceIds": [
+        "CC08",
+        "CC09",
+        "CC11"
+      ]
+    }
+  ],
+  "researchNotes": {
+    "edition": "2026-11-16",
+    "coverage": "Official Marathi history and artist page, regional announcement, contemporary replica interview, two visually inspected documentary photo years. Phase 2 inspected all 88 official archive objects, added eighteen source-labelled historical stage-photo years and current annual craft records through 2026, with 2024 composite classification explicit.",
+    "gaps": [
+      "1920 original records",
+      "Contemporary early artisan evidence",
+      "2008-2018 artist sequence",
+      "Reconciled Weling biography",
+      "Named photographer for 2025 image",
+      "Archive frame dates remain retrospective attributions; original print backs/negatives and many studio-role credits are unverified.",
+      "The 2022 header photo lacks independent capture-year evidence and is not in the dated media sequence."
+    ],
+    "nextActions": [
+      "Inspect annual souvenirs rather than filling chronology gaps from social captions",
+      "Compare original uncropped photos and contemporary press captions by institution",
+      "Locate dated registration and jubilee documents"
+    ]
+  }
+}

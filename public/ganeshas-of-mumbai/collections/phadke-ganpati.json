@@ -1,0 +1,484 @@
+{
+  "slug": "phadke-ganpati",
+  "kind": "temple",
+  "researchStage": "expanded",
+  "meta": {
+    "title": "Phadke Shree Ganpati",
+    "marathi": "फडके श्रीगणपती",
+    "institution": "The Yashodabai Govind Gangadhar Phadke Charitable Trust",
+    "location": "Phadke Wadi, Vithalbhai Patel Road, opposite Sikka Nagar, Girgaon, Mumbai 400004",
+    "neighborhood": "Girgaon",
+    "founded": 1890,
+    "foundedNote": "The temple’s history says construction was completed around 1890; its organizational account dates idol installation to 1890. Treat this as a retrospective approximate construction date, not a recovered consecration certificate.",
+    "intro": "Phadke Shree Ganpati is a permanent temple in Girgaon’s Phadkewadi. Its history centres on Yashodabai Phadke’s patronage, a lotus-seated Ganesh accompanied by Riddhi-Siddhi and a Ganesh Panchayatan, and the later work of a charitable trust. Alongside temple and festival history, this collection includes dated photographs of the trust’s community service. It is separate from similarly named Phadke temples in Pune.",
+    "hero": null,
+    "updated": "16 November 2026",
+    "edition": "Research edition - 16 November 2026",
+    "id": "phadke-ganpati",
+    "kind": "temple",
+    "researchStage": "expanded",
+    "catalogueMode": "located-records",
+    "downloads": {
+      "json": "collections/phadke-ganpati.json"
+    }
+  },
+  "sections": [
+    {
+      "id": "patronage",
+      "eyebrow": "A family endowment",
+      "title": "Yashodabai’s temple at Phadkewadi",
+      "paragraphs": [
+        {
+          "text": "The temple’s Marathi history says Govind Gangadhar Phadke moved from Awas near Alibag to Mumbai in 1865 and bought land in 1867. After his death, Yashodabai directed her resources toward a Ganesh temple; construction was completed around 1890. The account links the names Govindbagh and Phadkewadi to that family estate. It is the institution’s retrospective narrative, not a surviving nineteenth-century deed inspected here.",
+          "sourceIds": [
+            "PG01"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sanctum",
+      "eyebrow": "Permanent icon",
+      "title": "Ganesh Panchayatan in a silver setting",
+      "paragraphs": [
+        {
+          "text": "The north-facing temple contains a seated Ganesh on a lotus, with the trunk leaning left, Riddhi-Siddhi beside him and silver ornament around the shrine. Pilgrim Data’s multilingual survey describes a hall, sanctum and circumambulatory route, while the temple history identifies the accompanying Panchayatan deities as Mahalakshmi, Vishnu, Shiva and Surya. The original artisan’s personal name is not established in the inspected record.",
+          "sourceIds": [
+            "PG01",
+            "PG03"
+          ]
+        },
+        {
+          "text": "The gallery's original-resolution image reveals the continuing Ganesh with Riddhi-Siddhi, silver lion-sided seating, garlands and leaves. It supplies no capture date. A separate ritual sequence preserves Nikon camera dates in May 2019, although the files were processed in 2020 and placed in a 2024 upload folder. Those photographs show a small metal Ganesh handled during worship; they do not establish the making or installation of a new main temple idol.",
+          "sourceIds": [
+            "PG05",
+            "PG07"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "institution",
+      "eyebrow": "A temple and a trust",
+      "title": "Religious, educational and charitable work",
+      "paragraphs": [
+        {
+          "text": "The organization dates legal establishment of its charitable trust to 21 January 1922. Its account groups work into religious, social and educational programmes: daily worship, Maghi Ganesh Janmotsav, Bhadrapad Ganeshotsav and Gauri Puja sit alongside scholarships, educational supplies and food assistance. These are institutional descriptions; quoted beneficiary totals have not been independently audited and are not projected forward as current figures.",
+          "sourceIds": [
+            "PG02"
+          ]
+        },
+        {
+          "text": "A specific institutional report documents food distribution at Yashomangal hall on 20 October 2023, supporting two photographs of that event. The dated community record matters separately from images of the deity. In Girgaon’s public calendar, the temple also serves as the starting point of the Gudi Padwa Hindu Navvarsh Swagat Yatra, as described in a 2024 local report.",
+          "sourceIds": [
+            "PG04",
+            "PG06"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "changes",
+      "eyebrow": "Built history",
+      "title": "Changes around an enduring shrine",
+      "paragraphs": [
+        {
+          "text": "The temple history dates electrification to 1918 and construction of the Yashomangal building to 1959-60. It describes the latter as space for marriages, religious functions and meetings. These are episodes in the development of a continuing temple complex. Photographs in this collection do not imply that its central Ganesh is recreated and immersed annually.",
+          "sourceIds": [
+            "PG01"
+          ]
+        }
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "year": 1865,
+      "title": "Phadke family in Mumbai",
+      "text": "The temple history dates Govind Gangadhar Phadke’s move from Awas to 1865.",
+      "sourceIds": [
+        "PG01"
+      ]
+    },
+    {
+      "year": "circa 1890",
+      "title": "Temple completed",
+      "text": "Construction and installation are placed around 1890 in institutional accounts.",
+      "sourceIds": [
+        "PG01",
+        "PG02"
+      ]
+    },
+    {
+      "year": 1918,
+      "title": "Electric lighting",
+      "text": "Electrification is attributed to Dharamsi Morarji Khatav in the temple retrospective.",
+      "sourceIds": [
+        "PG01"
+      ]
+    },
+    {
+      "year": 1922,
+      "title": "Charitable trust",
+      "text": "The institutional account gives 21 January 1922 for legal establishment; the original instrument was not inspected.",
+      "sourceIds": [
+        "PG02"
+      ]
+    },
+    {
+      "year": "1959-1960",
+      "title": "Yashomangal building",
+      "text": "A building for community and religious functions is recorded in the temple history.",
+      "sourceIds": [
+        "PG01"
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": 2019,
+      "title": "A camera-dated ritual sequence",
+      "summary": "Two native gallery photographs retain 2019 camera dates and show temple worship with a small metal Ganesh. They do not depict annual replacement of the main icon.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "EXIF capture dates are source-file assertions, not an independently named event or authenticated camera clock. Exact ritual title and participants remain unidentified.",
+          "sourceIds": [
+            "PG05",
+            "PG07"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "PG05",
+        "PG07"
+      ],
+      "media": [
+        {
+          "id": "phadke-2019-ritual-scene",
+          "originalUrl": "https://phadkeshreeganpati.org/gallery/",
+          "kind": "photograph",
+          "label": "Ritual sequence - camera-attributed 2019",
+          "caption": "Two participants in bright pink ceremonial cloth perform a ritual with a coconut and metal vessels; attendees and a hand drummer sit behind them inside the temple hall.",
+          "credit": "Phadke Shree Ganpati official gallery; individual photographer not identified.",
+          "dateStatus": "source-attributed",
+          "dateEvidence": "Native NikonD 90 DateTimeOriginal=2019:05:04 04:03:53; DateTime processing record is 28 January 2020. Neither processing date nor 2024 upload directory is used as capture year.",
+          "yearConfidence": "native_camera_date_only; event_identity_and_clock_unverified",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "PG05",
+            "PG07"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Two participants in bright pink ceremonial cloth perform a ritual with a coconut and metal vessels; attendees and a hand drummer sit behind them inside the temple hall.",
+            "alignsWithSource": true,
+            "note": "Downloaded native file opened and inspected on 16 November 2026; documentary ritual context, not the main permanent-icon portrait."
+          }
+        },
+        {
+          "id": "phadke-2019-small-metal-ganesh",
+          "originalUrl": "https://phadkeshreeganpati.org/gallery/",
+          "kind": "photograph",
+          "label": "Ritual sequence - camera-attributed 2019",
+          "caption": "Close view of a small gold-coloured seated Ganesh held against pink cloth, with green grass, flowers, rice and a participant's hands.",
+          "credit": "Phadke Shree Ganpati official gallery; individual photographer not identified.",
+          "dateStatus": "source-attributed",
+          "dateEvidence": "Native NikonD 90 DateTimeOriginal=2019:05:04 04:42:32; DateTime processing record is 28 January 2020. Neither processing date nor 2024 upload directory is used as capture year.",
+          "yearConfidence": "native_camera_date_only; event_identity_and_clock_unverified",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "PG05",
+            "PG07"
+          ],
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Close view of a small gold-coloured seated Ganesh held against pink cloth, with green grass, flowers, rice and a participant's hands.",
+            "alignsWithSource": true,
+            "note": "Downloaded native file opened and inspected on 16 November 2026; documentary ritual context, not the main permanent-icon portrait."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "title": "Food distribution at Yashomangal",
+      "summary": "Two institutional photographs of the 20 October 2023 community event, not a new annual temple idol.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "The event is explicitly dated 20 October 2023 in the title and text. Image upload paths contain 2024/09; those upload folders are not used as capture years.",
+          "sourceIds": [
+            "PG04"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "PG04"
+      ],
+      "media": [
+        {
+          "id": "phadke-food-2023-1",
+          "originalUrl": "https://phadkeshreeganpati.org/news/food-donation-20-oct-2023/",
+          "kind": "photograph",
+          "label": "Dated institutional event photograph",
+          "caption": "Food assistance distribution at the Phadke trust’s Yashomangal hall, event dated 20 October 2023.",
+          "credit": "Phadke Shree Ganpati website; photographer not named",
+          "dateEvidence": "Institutional article title and body explicitly give 20 October 2023 and display this photograph; capture date is tied to that documented event, not the later upload folder.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "PG04"
+          ],
+          "yearConfidence": "institutional_event_report",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "A student and adult hold a bag on a hall stage; a trustee-name board and Marathi Phadke charitable-trust banner identify the institutional setting. No Ganesh image in this frame.",
+            "alignsWithSource": true,
+            "note": "Native file downloaded and inspected; accurately labelled community service rather than deity photograph."
+          }
+        },
+        {
+          "id": "phadke-food-2023-2",
+          "originalUrl": "https://phadkeshreeganpati.org/news/food-donation-20-oct-2023/",
+          "kind": "photograph",
+          "label": "Dated institutional event photograph",
+          "caption": "A second view of the food distribution at Yashomangal, event dated 20 October 2023.",
+          "credit": "Phadke Shree Ganpati website; photographer not named",
+          "dateEvidence": "Published with the same explicitly dated institutional event report. Upload year is not treated as capture year.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "PG04"
+          ],
+          "yearConfidence": "institutional_event_report",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "A school student receives a bag from an adult on the same hall stage, with the Marathi Phadke charitable-trust banner and trustee board visible; no Ganesh icon in this frame.",
+            "alignsWithSource": true,
+            "note": "Native file downloaded and inspected; caption retains event context without identifying unnamed people."
+          }
+        }
+      ]
+    }
+  ],
+  "undatedMedia": [
+    {
+      "id": "phadke-undated-icon",
+      "originalUrl": "https://phadkeshreeganpati.org/gallery/",
+      "kind": "photograph",
+      "label": "Permanent Ganesh, full gallery photograph - undated",
+      "caption": "Garlanded permanent Ganesh on a silver lion-sided throne, with standing Riddhi-Siddhi figures, flower arrangements and banana leaves in the physical shrine.",
+      "credit": "Phadke Shree Ganpati website; photographer not named",
+      "dateEvidence": "Observed original-resolution lightbox target behind the formerly used 150 px thumbnail. Neither the gallery caption nor the native file supplies a capture date; 2024/08 is only an upload directory.",
+      "rights": "Image referenced; reproduction under review.",
+      "sourceIds": [
+        "PG05"
+      ],
+      "visualReview": {
+        "inspected": true,
+        "observedForm": "Pale crowned Ganesh largely covered by yellow, orange and white garlands, trunk curving toward image right; standing female attendants in pink garments, silver lion-sided throne, smaller metal Ganesh at front, lilies and banana leaves, white print border.",
+        "alignsWithSource": true,
+        "note": "Native 2095 x 1512 file opened and inspected on 16 November 2026. It matches the subject of the earlier thumbnail; no enlargement or reconstructed detail was created."
+      },
+      "previousThumbnailUrl": "https://phadkeshreeganpati.org/wp-content/uploads/2024/08/phadke-shree-ganpati-1-150x150.jpg",
+      "dateStatus": "undated",
+      "yearConfidence": "capture_date_unknown"
+    },
+    {
+      "id": "phadke-undated-building",
+      "originalUrl": "https://phadkeshreeganpati.org/gallery/",
+      "kind": "photograph",
+      "label": "Temple frontage - undated",
+      "caption": "Pink two-level temple frontage in a narrow urban setting, Marathi Phadke Shri Ganpati Mandir and trust signage, covered balcony, lamps/garlands at the entrance, corrugated shop roofs and neighbouring buildings.",
+      "credit": "Phadke Shree Ganpati official gallery; photographer unspecified.",
+      "dateStatus": "undated",
+      "dateEvidence": "No capture date in the native file or gallery caption. Dates found in other neighbouring DSC files are not transferred to this image.",
+      "rights": "Image referenced; reproduction under review.",
+      "sourceIds": [
+        "PG05"
+      ],
+      "yearConfidence": "undated_capture",
+      "visualReview": {
+        "inspected": true,
+        "observedForm": "Pink two-level temple frontage in a narrow urban setting, Marathi Phadke Shri Ganpati Mandir and trust signage, covered balcony, lamps/garlands at the entrance, corrugated shop roofs and neighbouring buildings.",
+        "alignsWithSource": true,
+        "note": "Native image opened and inspected; visible temple/trust signage supports institution identity, not a capture year."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "PG01",
+      "title": "फडके मंदिराचा इतिहास",
+      "publisher": "Phadke Shree Ganpati",
+      "date": null,
+      "language": "Marathi",
+      "type": "institutional",
+      "url": "https://phadkeshreeganpati.org/mr/temple-history/",
+      "note": "Detailed institutional retrospective; approximate 1890 completion, later built milestones and icon description. The English translation has grammatical and name errors; Marathi preferred."
+    },
+    {
+      "id": "PG02",
+      "title": "Who We Are",
+      "publisher": "Phadke Shree Ganpati",
+      "date": null,
+      "language": "English",
+      "type": "institutional",
+      "url": "https://phadkeshreeganpati.org/who-we-are/",
+      "note": "Trust date, exact institutional name and public-service account. Its opening compresses land purchase into 1865 whereas detailed history says 1867; no deed inspected."
+    },
+    {
+      "id": "PG03",
+      "title": "Phadke Shri Ganapati Temple, Phadkewadi",
+      "publisher": "Pilgrim Data Services",
+      "date": null,
+      "language": "Marathi and English",
+      "type": "collection",
+      "url": "https://pilgrimdata.in/temple/phadke-shri-ganapati-temple-phadkewadi-vitthalbhai-patel-marg-mumbai/",
+      "note": "Multilingual architectural survey. Broader festival-origin claims are not adopted; used for this temple’s physical description."
+    },
+    {
+      "id": "PG04",
+      "title": "Food Donation 20 Oct 2023",
+      "publisher": "Phadke Shree Ganpati",
+      "date": "2023-10-20",
+      "language": "English",
+      "type": "institutional",
+      "url": "https://phadkeshreeganpati.org/news/food-donation-20-oct-2023/",
+      "note": "Date is the event date stated in title/body, not the WordPress publication/upload date; includes two scene photographs."
+    },
+    {
+      "id": "PG05",
+      "title": "Gallery",
+      "publisher": "Phadke Shree Ganpati",
+      "date": null,
+      "language": "English",
+      "type": "institutional",
+      "url": "https://phadkeshreeganpati.org/gallery/",
+      "note": "Undated images; only an inspected native thumbnail is retained, without inferring capture date."
+    },
+    {
+      "id": "PG06",
+      "title": "Gudi Padwa 2024: A Journey Through The Hindu Navarsh Swagat Yatra in Girgaon, Mumbai",
+      "publisher": "Free Press Journal; Manasi Y Mastakar",
+      "date": "2024-04-07",
+      "language": "English",
+      "type": "reporting",
+      "url": "https://www.freepressjournal.in/amp/mumbai/gudi-padwa-2024-a-journey-through-the-hindu-navarsh-swagat-yatra-in-girgaon-mumbai",
+      "note": "Local contemporary account identifies the temple as the procession’s starting point. Its file picture is not assumed to depict the temple or 2024."
+    },
+    {
+      "id": "PG07",
+      "title": "Official gallery native-file capture metadata",
+      "publisher": "Phadke Shree Ganpati gallery; photographer unidentified",
+      "date": null,
+      "language": "File metadata / Marathi institutional context",
+      "type": "primary",
+      "url": "https://phadkeshreeganpati.org/wp-content/uploads/2024/09/DSC0162.jpg",
+      "note": "Native NikonD 90 EXIF DateTimeOriginal is 2019:05:04 04:42:32; processing DateTime is 2020:01:28. These differ from the 2024 upload directory and are not independently authenticated ceremony dates."
+    }
+  ],
+  "openQuestions": [
+    {
+      "title": "Foundation documents",
+      "text": "Locate the approximate 1890 consecration record, 1867 property record and 1922 trust instrument; resolve the differing compressed land-purchase chronology.",
+      "sourceIds": [
+        "PG01",
+        "PG02"
+      ]
+    },
+    {
+      "title": "Historic icon photographs",
+      "text": "Find dated sanctuary and building images with named photographers. The current gallery does not establish capture dates, and community-event images must not substitute for annual deity records.",
+      "sourceIds": [
+        "PG04",
+        "PG05"
+      ]
+    },
+    {
+      "title": "Identify the 2019 ritual sequence",
+      "text": "Confirm the camera clock, named ceremony, participants and photographer against temple registers; do not mistake the small metal Ganesh for a newly installed annual central idol.",
+      "sourceIds": [
+        "PG05",
+        "PG07"
+      ]
+    }
+  ],
+  "visit": {
+    "address": "Phadke Wadi, Vithalbhai Patel Road, opposite Sikka Nagar, Girgaon, Mumbai 400004",
+    "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Phadke+Ganpati+Mandir+Girgaon+Mumbai",
+    "text": "A permanent Girgaon temple. Not the Phadke Ganpati or Phadke Wada temples in Pune; current hours are not verified here.",
+    "sourceIds": [
+      "PG02",
+      "PG06"
+    ]
+  },
+  "claims": [
+    {
+      "id": "C01",
+      "text": "Yashodabai’s temple construction was completed around 1890 according to institutional history.",
+      "status": "institutional retrospective",
+      "sourceIds": [
+        "PG01"
+      ]
+    },
+    {
+      "id": "C02",
+      "text": "The trust gives 21 January 1922 as its legal establishment date.",
+      "status": "institutional self-report; original instrument uninspected",
+      "sourceIds": [
+        "PG02"
+      ]
+    },
+    {
+      "id": "C03",
+      "text": "The central icon is a permanent lotus-seated Ganesh with associated Panchayatan deities.",
+      "status": "institutional and architectural descriptions",
+      "sourceIds": [
+        "PG01",
+        "PG03"
+      ]
+    },
+    {
+      "id": "C04",
+      "text": "The two dated photographs document a 2023 food-distribution event, not temple consecration or annual icon production.",
+      "status": "dated institutional report and visual inspection",
+      "sourceIds": [
+        "PG04"
+      ]
+    },
+    {
+      "id": "PGP2-date",
+      "text": "Two selected ritual photographs retain camera DateTimeOriginal on 4 May 2019, distinct from later processing/upload dates.",
+      "status": "source-file metadata attribution; not independently authenticated",
+      "sourceIds": [
+        "PG05",
+        "PG07"
+      ]
+    },
+    {
+      "id": "PGP2-full",
+      "text": "An observed full-resolution original replaces the tiny undated icon thumbnail; neither has a defensible capture year.",
+      "status": "visually checked lightbox source relationship",
+      "sourceIds": [
+        "PG05"
+      ]
+    }
+  ],
+  "researchNotes": {
+    "coverage": "Expanded research,16 November 2026: inspected original gallery lightbox files and native metadata; recovered 2095 x 1512 undated permanent-icon photograph, added an undated signed building view and two camera-attributed 2019 ritual photographs. The early architectural history still lacks period images.",
+    "gaps": [
+      "No dated historic sanctuary photograph located",
+      "Original property and trust documents uninspected",
+      "Hero only a small undated thumbnail",
+      "The 2019 ritual identity and camera-date accuracy remain unconfirmed.",
+      "No dated nineteenth-century or pre-renovation sanctuary photograph located."
+    ],
+    "nextActions": [
+      "Match the 2019 camera-dated ceremony to temple registers and identify its photographer.",
+      "Find dated originals of the earlier shrine and Yashomangal construction.",
+      "Obtain reproduction permission for the native gallery photographs."
+    ]
+  }
+}

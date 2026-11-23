@@ -1,0 +1,473 @@
+{
+  "slug": "udyan-ganesh",
+  "kind": "temple",
+  "researchStage": "expanded",
+  "meta": {
+    "title": "Shree Udyan Ganesh",
+    "marathi": "श्री उद्यान गणेश",
+    "institution": "Shree Udyan Ganesh Mandir Seva Samiti",
+    "location": "Shivaji Park, Dadar West, Mumbai",
+    "neighborhood": "Dadar West",
+    "founded": null,
+    "foundedNote": "A temple establishment in 1970 is consistently reported. The official homepage gives 1 March 1970, while its history page gives 9 February 1970. Discovery accounts differ between 1963 and 1966; none is silently selected.",
+    "intro": "A permanent Ganesh shrine beneath a banyan tree at Shivaji Park, Udyan Ganesh belongs to the everyday religious life of Dadar. Its historical record includes the move from an outdoor image to a built sanctuary, later rebuilding, and distinctive Bal Ganesh iconography. This collection preserves disagreements within the temple’s own chronology and distinguishes photographs of the enduring shrine from annually recreated festival idols.",
+    "hero": {
+      "src": "assets/collections/udyan-ganesh-98255bde4b2d.jpg",
+      "alt": "Illuminated white temple at night with tall central shikhara and two lower stepped roofs, flower garlands, visitors on the approach, trees and roofed queue shelters; the central Ganesh icon is not visible.",
+      "caption": "Illuminated white temple at night with tall central shikhara and two lower stepped roofs, flower garlands, visitors on the approach, trees and roofed queue shelters; the central Ganesh icon is not visible.",
+      "credit": "Savarkar IAS Study circle, Wikimedia Commons. · CC BY-SA 4.0",
+      "sourceIds": [
+        "UG08"
+      ]
+    },
+    "updated": "16 November 2026",
+    "edition": "Research edition - 16 November 2026",
+    "id": "udyan-ganesh",
+    "kind": "temple",
+    "researchStage": "expanded",
+    "catalogueMode": "located-records",
+    "downloads": {
+      "json": "collections/udyan-ganesh.json"
+    }
+  },
+  "sections": [
+    {
+      "id": "origins",
+      "eyebrow": "A shrine in a public park",
+      "title": "A 1970 foundation with two exact dates",
+      "paragraphs": [
+        {
+          "text": "The temple’s own history places the early image beneath a banyan tree and gives 9 February 1970, Magh Shuddha Chaturthi, as the date on which it became known as Shree Udyan Ganesh. Its homepage instead dates the temple’s establishment to 1 March 1970. Both support 1970; neither page explains whether the dates refer to different ceremonies.",
+          "sourceIds": [
+            "UG01",
+            "UG02"
+          ]
+        },
+        {
+          "text": "Accounts of the earlier image also differ. The official homepage describes a miraculous appearance in 1963, while Mumbai Live’s Marathi history says a person found a small idol in 1966. These are attributed origin accounts, not archaeological dating. The later report says a small temple followed in 1970 and that rebuilding took place in 2012.",
+          "sourceIds": [
+            "UG02",
+            "UG03"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "icon",
+      "eyebrow": "Image and worship",
+      "title": "Bal Ganesh under the banyan",
+      "paragraphs": [
+        {
+          "text": "The official description identifies a four-armed Bal Ganesh with a right-turning trunk and attributes a conch, laddu, tusk and mace to the image. Riddhi-Siddhi and Laksha-Labh stand beside it. Maharashtra Times’ Marathi account describes a silver image, marble construction and gilded throne and dome. These describe the temple and its icon, not a new murti produced for each festival.",
+          "sourceIds": [
+            "UG02",
+            "UG04"
+          ]
+        },
+        {
+          "text": "Mumbai Live records worship throughout the year, including Satyanarayan, Satya Vinayak, Rudra and Shodashopachar observances. Ganeshotsav is one part of that continuing calendar. Photographs dated 2006 and 2021 document different moments in the shrine’s built history; neither by itself establishes an exact rebuilding or consecration date.",
+          "sourceIds": [
+            "UG03",
+            "UG05",
+            "UG06"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "marble-sanctum",
+      "eyebrow": "A period record",
+      "title": "A new sanctum in 1982",
+      "paragraphs": [
+        {
+          "text": "A January 1983 Sai Leela report explicitly dates installation of the silver-covered Udyan Ganesh in a new white-marble sanctum to noon on 19 November 1982. Trustee Gopal Hingorani described a silver covering made from donated articles. A souvenir was released by Pandit Jasraj during the concluding programme. This dated building-and-worship event is distinct from the disputed foundation accounts and the later reported 2012 rebuilding.",
+          "sourceIds": [
+            "UG07"
+          ]
+        },
+        {
+          "text": "The expanded record also includes a creator-dated 2021 exterior showing the illuminated temple and its covered approach. In September 2026, Sakal reported a municipal notice concerning a temporary bamboo shed in the grounds. That news report documents a dispute about additional shelter; it does not establish demolition of the temple, replacement of its icon or a final administrative outcome.",
+          "sourceIds": [
+            "UG08",
+            "UG09"
+          ]
+        }
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "year": "1963 / 1966 disputed",
+      "title": "An image beneath a banyan",
+      "text": "Official and local accounts give different years for the image’s appearance or discovery.",
+      "sourceIds": [
+        "UG02",
+        "UG03"
+      ]
+    },
+    {
+      "year": 1970,
+      "title": "Temple established",
+      "text": "The exact date differs between the official homepage and history page: 1 March versus 9 February.",
+      "sourceIds": [
+        "UG01",
+        "UG02"
+      ]
+    },
+    {
+      "year": 2012,
+      "title": "Rebuilding reported",
+      "text": "Mumbai Live’s retrospective dates reconstruction to 2012; a building record was not inspected.",
+      "sourceIds": [
+        "UG03"
+      ]
+    },
+    {
+      "year": "1982-11-19",
+      "title": "New marble sanctum installation",
+      "text": "A contemporary periodical gives the ceremony's exact date and noon timing.",
+      "sourceIds": [
+        "UG07"
+      ]
+    },
+    {
+      "year": "2026-09-19",
+      "title": "Temporary shelter notice reported",
+      "text": "Marathi reporting concerns an additional bamboo shed, with the final outcome not established.",
+      "sourceIds": [
+        "UG09"
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": 1982,
+      "title": "Installation in a new marble sanctum",
+      "summary": "A contemporary periodical records the 19 November 1982 ceremony. No authenticated photograph of that event was located.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "The source appeared in January 1983. Its approximate recollection of a thirteen-year-old temple is not converted into a precise 1969 founding date.",
+          "sourceIds": [
+            "UG07"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "UG07"
+      ],
+      "media": []
+    },
+    {
+      "year": 2006,
+      "title": "Udyan Ganesh photographed",
+      "summary": "A dated photograph of the permanent shrine.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "Capture date follows the photographer’s Flickr metadata carried into Commons; it is not an independent historical authentication.",
+          "sourceIds": [
+            "UG06"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "UG06"
+      ],
+      "media": [
+        {
+          "id": "udyan-2006-desai",
+          "originalUrl": "https://commons.wikimedia.org/wiki/File:Udyan_Ganesh.jpg",
+          "kind": "photograph",
+          "label": "Photographer-dated temple photograph",
+          "caption": "Udyan Ganesh near Shivaji Park; source date 13 November 2006.",
+          "credit": "Saloni Desai",
+          "dateEvidence": "Commons records 13 November 2006, 09:50:49, from the original Flickr record. Commons upload was 2009 and later resolution replacement 2017.",
+          "rights": "CC BY-SA 2.0",
+          "sourceIds": [
+            "UG06"
+          ],
+          "yearConfidence": "photographer_metadata",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Small seated silver Ganesh with multiple arms in a carved white-stone shrine; two red-clad attendants, chandeliers, railings and worship vessels in the foreground.",
+            "alignsWithSource": true,
+            "note": "Native downloaded image visually inspected. Subject agrees with the source location; year comes from the cited photographer metadata and is not inferred from appearance."
+          },
+          "src": "assets/collections/udyan-ganesh-b0129979f2ea.jpg",
+          "width": 2000,
+          "height": 3008,
+          "licence": "CC BY-SA 2.0",
+          "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "title": "Temple view",
+      "summary": "A photograph attributed to Sumeet Rege.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "UG05",
+        "UG08"
+      ],
+      "media": [
+        {
+          "id": "udyan-2021-rege",
+          "originalUrl": "https://commons.wikimedia.org/wiki/File:Udyan_Ganesh_Mandir_Dadar.jpg",
+          "kind": "photograph",
+          "label": "Photographer-dated temple photograph",
+          "caption": "Udyan Ganesh sanctum: draped central image and attendant figures, photographer date 7 June 2021.",
+          "credit": "Sumeet Rege",
+          "dateEvidence": "Commons own-work description gives 7 June 2021; upload date is the same day, but no independently authenticated capture record was inspected.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "UG05"
+          ],
+          "yearConfidence": "photographer_metadata",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Draped central silver Ganesh in a physical sanctum, sunburst golden halo, two larger attendants with flywhisks, two smaller side figures, carved pillars, flowers and offering vessels; watermark gypsy_bhatkya.",
+            "alignsWithSource": true,
+            "note": "Native downloaded image visually inspected. Subject agrees with the source location; year comes from the cited photographer metadata and is not inferred from appearance."
+          }
+        },
+        {
+          "id": "udyan-2021-exterior-study-circle",
+          "originalUrl": "https://commons.wikimedia.org/wiki/File:Shree_Udyan_Ganesh_Temple_at_Dadar_West,_Mumbai.jpg",
+          "kind": "photograph",
+          "label": "Illuminated permanent temple - creator-attributed 2021",
+          "caption": "Illuminated white temple at night with tall central shikhara and two lower stepped roofs, flower garlands, visitors on the approach, trees and roofed queue shelters; the central Ganesh icon is not visible.",
+          "credit": "Savarkar IAS Study circle, Wikimedia Commons.",
+          "dateStatus": "source-attributed",
+          "dateEvidence": "Commons own-work description states 15 February 2021. File upload is 5 September 2021; no original camera capture timestamp is provided, so the stated date is a creator attribution.",
+          "rights": "CC BY-SA 4.0",
+          "sourceIds": [
+            "UG08"
+          ],
+          "yearConfidence": "creator_description_date; camera_timestamp_unavailable",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Illuminated white temple at night with tall central shikhara and two lower stepped roofs, flower garlands, visitors on the approach, trees and roofed queue shelters; the central Ganesh icon is not visible.",
+            "alignsWithSource": true,
+            "note": "Native 4160 x 2336 file opened and inspected on 16 November 2026. It documents the permanent building and approach, not an annual recreated murti."
+          },
+          "src": "assets/collections/udyan-ganesh-98255bde4b2d.jpg",
+          "width": 4160,
+          "height": 2336,
+          "licence": "CC BY-SA 4.0",
+          "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "title": "A temporary-shelter notice reported",
+      "summary": "Sakal reports a municipal notice concerning the temple's added bamboo shelter. The notice itself and the final outcome remain unverified.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "This record concerns the use of temple grounds, not a new annual Ganesh idol. No dated photograph is assigned from the article's publication date.",
+          "sourceIds": [
+            "UG09"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "UG09"
+      ],
+      "media": []
+    }
+  ],
+  "undatedMedia": [],
+  "sources": [
+    {
+      "id": "UG01",
+      "title": "Temple History",
+      "publisher": "Shree Udyan Ganesh Mandir Seva Samiti",
+      "date": null,
+      "language": "English",
+      "type": "institutional",
+      "url": "https://www.shreeudyanganesh.com/temple-history",
+      "note": "Institutional retrospective. Gives 9 February 1970; exact date conflicts with the homepage."
+    },
+    {
+      "id": "UG02",
+      "title": "Welcome To Shree Udyan Ganesh Mandir",
+      "publisher": "Shree Udyan Ganesh Mandir Seva Samiti",
+      "date": null,
+      "language": "English",
+      "type": "institutional",
+      "url": "https://www.shreeudyanganesh.com/main_home",
+      "note": "Official homepage with origin account and icon description; gives 1963 and 1 March 1970. Its displayed calendar is old and was not used for current hours."
+    },
+    {
+      "id": "UG03",
+      "title": "शिवाजी पार्कातला उद्यान गणेश",
+      "publisher": "Mumbai Live; Vaibhav Patil",
+      "date": null,
+      "language": "Marathi",
+      "type": "reporting",
+      "url": "https://www.mumbailive.com/mr/festivals/udyan-ganesh-mandir-at-shivaji-park-28136",
+      "note": "Local Marathi historical account; gives discovery in 1966, temple in 1970 and rebuilding in 2012. Exact publication date not recovered."
+    },
+    {
+      "id": "UG04",
+      "title": "संकष्ट चतुर्थीः मुंबईतील अष्टविनायक माहित्ये का?",
+      "publisher": "Maharashtra Times",
+      "date": "2020",
+      "language": "Marathi",
+      "type": "reporting",
+      "url": "https://maharashtratimes.com/astro/religion-festival-news/know-about-famous-eight-ganesh-mandir-in-mumbai/articleshow/74096877.cms?story=7%5C",
+      "note": "Regional-language temple roundup, supporting 1970 and icon/architecture description; precise day not extracted."
+    },
+    {
+      "id": "UG05",
+      "title": "File:Udyan Ganesh Mandir Dadar.jpg",
+      "publisher": "Wikimedia Commons; Sumeet Rege",
+      "date": "2021-06-07",
+      "language": "English",
+      "type": "collection",
+      "url": "https://commons.wikimedia.org/wiki/File:Udyan_Ganesh_Mandir_Dadar.jpg",
+      "note": "Own-work photograph; CC BY-SA 4.0; creator date retained as a claim."
+    },
+    {
+      "id": "UG06",
+      "title": "File:Udyan Ganesh.jpg",
+      "publisher": "Wikimedia Commons; Saloni Desai",
+      "date": "2006-11-13",
+      "language": "English",
+      "type": "collection",
+      "url": "https://commons.wikimedia.org/wiki/File:Udyan_Ganesh.jpg",
+      "note": "Flickr-origin photograph; licence checked on Commons import in 2009, CC BY-SA 2.0."
+    },
+    {
+      "id": "UG07",
+      "title": "Installation Ceremony of Shree Udyan Ganesh",
+      "publisher": "Shri Sai Leela, Shirdi Sansthan",
+      "date": "1983-01",
+      "language": "English",
+      "type": "primary",
+      "url": "https://sai.org.in/sites/default/files/1.%20Eng%20Saileela%201983%20-%20Jan.pdf#page=44",
+      "note": "Contemporary report, printedpp 42-43/PDF 44-45. January 1983 issue, vol 61 no 10; directly inspected scanned pages, not the 2024 PDF creation date."
+    },
+    {
+      "id": "UG08",
+      "title": "Shree Udyan Ganesh Temple at Dadar West, Mumbai.jpg",
+      "publisher": "Wikimedia Commons / Savarkar IAS Study circle",
+      "date": null,
+      "language": "English",
+      "type": "collection",
+      "url": "https://commons.wikimedia.org/wiki/File:Shree_Udyan_Ganesh_Temple_at_Dadar_West,_Mumbai.jpg",
+      "note": "Own-work description gives 15 February 2021; uploaded 5 September 2021. Capture date is the creator's attribution, with no full original timestamp in available metadata."
+    },
+    {
+      "id": "UG09",
+      "title": "दादरच्या ऐतिहासिक उद्यान गणेश मंदिराला पालिकेची नोटीस",
+      "publisher": "Sakal",
+      "date": "2026-09-19",
+      "language": "Marathi",
+      "type": "reporting",
+      "url": "https://www.esakal.com/mumbai/todays-latest-marathi-news-mbi26b37669-txt-mumbai-20260919014348",
+      "note": "Contemporary report of a notice concerning a temporary bamboo shed; notice text and subsequent outcome not independently obtained."
+    }
+  ],
+  "openQuestions": [
+    {
+      "title": "Which 1970 ceremony?",
+      "text": "Obtain a consecration invitation, trust minutes or a dated inscription to reconcile 9 February and 1 March 1970.",
+      "sourceIds": [
+        "UG01",
+        "UG02"
+      ]
+    },
+    {
+      "title": "Discovery and reconstruction records",
+      "text": "Seek a period account of the pre-temple image and documentation of the reported 2012 rebuilding. Do not merge the 1963 miracle account with the 1966 discovery account.",
+      "sourceIds": [
+        "UG02",
+        "UG03"
+      ]
+    },
+    {
+      "title": "The 1982 souvenir and building records",
+      "text": "Locate the ceremonial souvenir and original photographs or plans, distinguishing silver covering, new sanctum and later reconstruction.",
+      "sourceIds": [
+        "UG07"
+      ]
+    }
+  ],
+  "visit": {
+    "address": "Shree Udyan Ganesh Mandir, Shivaji Park, Dadar West, Mumbai",
+    "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Shree+Udyan+Ganesh+Mandir+Shivaji+Park+Dadar+Mumbai",
+    "text": "A permanent shrine in Shivaji Park. This dossier does not verify current opening hours or access arrangements.",
+    "sourceIds": [
+      "UG01",
+      "UG02"
+    ]
+  },
+  "claims": [
+    {
+      "id": "C01",
+      "text": "The built shrine dates to 1970, but the official pages disagree on its exact establishment day.",
+      "status": "disputed exact date; corroborated year",
+      "sourceIds": [
+        "UG01",
+        "UG02",
+        "UG03"
+      ]
+    },
+    {
+      "id": "C02",
+      "text": "The idol’s miraculous appearance in 1963 is the temple homepage’s devotional account, not independently dated evidence.",
+      "status": "attributed tradition",
+      "sourceIds": [
+        "UG02"
+      ]
+    },
+    {
+      "id": "C03",
+      "text": "Rebuilding in 2012 is reported in local Marathi coverage.",
+      "status": "retrospective reporting",
+      "sourceIds": [
+        "UG03"
+      ]
+    },
+    {
+      "id": "UGP2-1982",
+      "text": "A contemporary report dates the new-sanctum installation to 19 November 1982.",
+      "status": "contemporary periodical event report",
+      "sourceIds": [
+        "UG07"
+      ]
+    },
+    {
+      "id": "UGP2-shed",
+      "text": "The 2026 shed notice is a reported dispute; its eventual outcome is unknown.",
+      "status": "contemporary reporting; primary notice not obtained",
+      "sourceIds": [
+        "UG09"
+      ]
+    }
+  ],
+  "researchNotes": {
+    "coverage": "Expanded research,16 November 2026: directly inspected the contemporary 1983 periodical report of the 1982 sanctum event; added a licensed creator-attributed 2021 building photograph and a qualified 2026 architectural-use report. No invented annual icon sequence.",
+    "gaps": [
+      "Conflicting exact 1970 dates",
+      "Unresolved 1963/1966 origin chronology",
+      "No construction file for 2012 inspected",
+      "No authenticated 1982 installation photograph or original ceremonial souvenir located.",
+      "The 2026 primary notice and subsequent outcome were not obtained."
+    ],
+    "nextActions": [
+      "Locate the 1982 souvenir, ceremony photographs and temple building file.",
+      "Reconcile 1970 ceremonies with original trust records.",
+      "Trace dated evidence for 2012 reconstruction without assigning upload dates to old images."
+    ]
+  }
+}

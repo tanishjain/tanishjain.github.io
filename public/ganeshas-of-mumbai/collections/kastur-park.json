@@ -1,0 +1,604 @@
+{
+  "slug": "kastur-park",
+  "kind": "festival",
+  "researchStage": "expanded",
+  "meta": {
+    "title": "Kastur Park",
+    "marathi": "श्री सार्वजनिक गणेशोत्सव मंडळ, कस्तुर पार्क",
+    "institution": "Shree Sarvajanik Ganeshotsav Mandal, Kastur Park",
+    "location": "Kastur Park, Borivali West",
+    "neighborhood": "Borivali West",
+    "founded": 1979,
+    "foundedNote": "1979 is explicitly reported in Vinay Upasani's Marathi account of 7 September 2011 and printed in Vrittamanas on 5 September 2025. This is stronger than inferring 1979 from a 38 th-festival label in 2016; an original founding record has not yet been located.",
+    "intro": "Kastur Park's Shree Sarvajanik Ganeshotsav Mandal is a neighbourhood festival in Borivali West. Its history brings together housing-society volunteers, social-awareness presentations and elaborate temporary settings. A dated Marathi account explicitly places its beginning in 1979, later repeated in a local newspaper caption. Reports from different years show how the festival's scenery, public messages and organising conditions changed. This collection includes two genuine idol photographs with publication-year evidence and a separate community photograph whose capture date remains unverified.",
+    "hero": null,
+    "updated": "16 November 2026",
+    "edition": "Research edition - 16 November 2026",
+    "id": "kastur-park",
+    "kind": "festival",
+    "researchStage": "expanded",
+    "catalogueMode": "located-records",
+    "downloads": {
+      "json": "collections/kastur-park.json"
+    }
+  },
+  "sections": [
+    {
+      "id": "origins",
+      "eyebrow": "Housing-society festival",
+      "title": "A reported beginning in 1979",
+      "paragraphs": [
+        {
+          "text": "In his 7 September 2011 Marathi account, journalist Vinay Upasani credits Professor Ram Kamat and Chandrakant Kadam with starting the festival in 1979. He describes it as a shared neighbourhood Ganesh supported by housing societies and quotes mandal adviser Sanyog Raje. The 1979 date is also printed beside Kastur Park's photograph in the 5 September 2025 Vrittamanas edition. These published histories support a reported founding date; the first minutes, receipts and photographs remain to be found.",
+          "sourceIds": [
+            "kas-upasani",
+            "kas-vrittamanas"
+          ]
+        },
+        {
+          "text": "Upasani records organ donation as the 2011 theme, presented through audiovisual material. His account also describes medical camps, student competitions and educational assistance, showing a festival concerned with social issues as well as darshan. The 2018 Times of India plastic-ban report later names Kasturpark among mandals promoting avoidance of plastic. These are documented activities in particular years, not a verified current service programme.",
+          "sourceIds": [
+            "kas-upasani",
+            "kas-plastic2018"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "making-the-setting",
+      "eyebrow": "Art and atmosphere",
+      "title": "Scenery and artistic recognition",
+      "paragraphs": [
+        {
+          "text": "Loksatta's published 2014 competition results name Narendra Bhagat of Kastur Park for the Jogeshwari-to-Dahisar art-direction award. This is a regional category within that competition, not the overall “Mumbaicha Raja” title. The result supplies one named artistic connection without establishing authorship for other years.",
+          "sourceIds": [
+            "kas-loksatta2014"
+          ]
+        },
+        {
+          "text": "Ambarish Mishra's 2016 report describes a Kedarnath-inspired plaster-of-Paris setting lit with traditional brass lamps. Working president Sanyog Raje said volunteers visited Uttarakhand that June to study the shrine. The report calls it the mandal's 38 th year. This documents a temporary architectural environment for Ganesh worship, rather than a permanent Kedarnath temple in Borivali.",
+          "sourceIds": [
+            "kas-toi2016"
+          ]
+        },
+        {
+          "text": "The competition organiser's October 2018 announcement lists Kastur Park in the Jogeshwari-to-Dahisar art-direction nominations. It prints the nominee's name as चंद्रकांत शेडके?, including a question mark. This is retained as an unresolved published spelling; the announcement is not evidence that the nominee won, nor enough to identify him with a differently spelled artist elsewhere.",
+          "sourceIds": [
+            "kas-loksatta2018"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "neighbourhood-change",
+      "eyebrow": "The changing city",
+      "title": "Redevelopment and the volunteer network",
+      "paragraphs": [
+        {
+          "text": "Bella Jaisinghani's 2018 reporting connects redevelopment in Kastur Park with dispersed residents, reduced volunteers, shrinking compound space and lower festival contributions. Sanyog Raje described the difficulty of maintaining a society-based festival when families moved away. This account preserves an important part of mandal history that an idol-only sequence would miss: the social and physical space that makes an annual celebration possible.",
+          "sourceIds": [
+            "kas-redevelopment2018"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arrival-and-public-learning",
+      "eyebrow": "Work around the festival",
+      "title": "Transporting the idol and sharing the stage",
+      "paragraphs": [
+        {
+          "text": "A September 2012 report records Sanyog Raje's concern about bringing the mandal's eight-foot Ganesh from Jogeshwari by truck over damaged roads. This contemporary account preserves part of the annual making and arrival process, but does not name the sculptor. It cannot establish that the same workshop or figure size was used in every subsequent year.",
+          "sourceIds": [
+            "kas-toi2012"
+          ]
+        },
+        {
+          "text": "The college's 2019-20 Public Health Office report locates a first-aid awareness camp at Kasturpark Ganesh utsav Mandal. Its event section dates the activity to 11 September 2019 and describes demonstrations presented to an aarti tune, with 14 student participants. The summary table gives a different date, so the precise day remains qualified. This documents how the festival stage was used for public education; historical medical instructions in the report are not reproduced here.",
+          "sourceIds": [
+            "kas-bncp2019"
+          ]
+        }
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "year": 1979,
+      "title": "Festival start reported",
+      "text": "Dated Marathi accounts explicitly identify 1979; original founding documents remain unlocated.",
+      "sourceIds": [
+        "kas-upasani",
+        "kas-vrittamanas"
+      ]
+    },
+    {
+      "year": 2011,
+      "title": "Organ-donation presentation",
+      "text": "A contemporary account describes audiovisual material about organ donation.",
+      "sourceIds": [
+        "kas-upasani"
+      ]
+    },
+    {
+      "year": 2014,
+      "title": "Regional art-direction award",
+      "text": "Loksatta names Narendra Bhagat for the Jogeshwari-to-Dahisar category.",
+      "sourceIds": [
+        "kas-loksatta2014"
+      ]
+    },
+    {
+      "year": 2016,
+      "title": "Kedarnath-inspired setting",
+      "text": "Contemporary reporting documents lamps and a temporary shrine replica.",
+      "sourceIds": [
+        "kas-toi2016"
+      ]
+    },
+    {
+      "year": 2018,
+      "title": "Redevelopment pressures reported",
+      "text": "Dispersed residents and reduced volunteering affected festival organisation.",
+      "sourceIds": [
+        "kas-redevelopment2018"
+      ]
+    },
+    {
+      "year": 2012,
+      "title": "Idol transport documented",
+      "text": "A contemporary organiser account records an eight-foot Ganesh being brought from Jogeshwari by truck.",
+      "sourceIds": [
+        "kas-toi2012"
+      ]
+    },
+    {
+      "year": 2019,
+      "title": "A public-education performance",
+      "text": "A college report documents a first-aid awareness presentation at the mandal, using an aarti tune; exact day conflicts between tables.",
+      "sourceIds": [
+        "kas-bncp2019"
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": 2011,
+      "title": "Organ donation",
+      "summary": "A Marathi account records the year's audiovisual social-awareness theme.",
+      "artist": null,
+      "theme": "Organ donation",
+      "notes": [
+        {
+          "text": "The blog's illustrated Ganesh portrait has a replaced blue background, halo and text. It is excluded from the real-photo sequence because its underlying capture year is unspecified.",
+          "sourceIds": [
+            "kas-upasani"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "kas-upasani"
+      ],
+      "media": []
+    },
+    {
+      "year": 2012,
+      "title": "Bringing Ganesh from Jogeshwari",
+      "summary": "A contemporary report records the organiser's concerns about transporting the eight-foot idol by truck over damaged roads. No securely identified photograph located.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "The article does not name a sculptor. Its general image is not assigned to Kastur Park without image-specific caption evidence.",
+          "sourceIds": [
+            "kas-toi2012"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "kas-toi2012"
+      ],
+      "media": []
+    },
+    {
+      "year": 2014,
+      "title": "Art-direction recognition",
+      "summary": "A documented regional competition result names a mandal artist.",
+      "artist": "Narendra Bhagat (art direction; award result)",
+      "theme": null,
+      "notes": [
+        {
+          "text": "No inspected 2014 Kastur Park photograph was located in this bounded research.",
+          "sourceIds": [
+            "kas-loksatta2014"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "kas-loksatta2014"
+      ],
+      "media": []
+    },
+    {
+      "year": 2016,
+      "title": "A Kedarnath-inspired mandap",
+      "summary": "Traditional lamps and a physical architectural set surround Ganesh.",
+      "artist": null,
+      "theme": "Kedarnath-inspired setting",
+      "notes": [
+        {
+          "text": "Individual-year sculptor attribution awaits a fuller source ledger.",
+          "sourceIds": [
+            "kas-toi2016"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "kas-toi2016",
+        "kas-ht-photo"
+      ],
+      "media": [
+        {
+          "id": "kastur-2016-thakur",
+          "originalUrl": "https://www.hindustantimes.com/mumbai-news/10-ganpatis-we-recommend-you-must-visit-in-mumbai/story-lKodeoFTcqNmNihWho9V1N.html",
+          "kind": "photograph",
+          "label": "2016 Ganesh",
+          "caption": "A cross-legged Ganesh within dark carved pillars and arches, surrounded by standing and hanging brass lamps.",
+          "credit": "Pramod Thakur / HT.",
+          "dateEvidence": "2016 festival report.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "kas-ht-photo",
+            "kas-toi2016"
+          ],
+          "yearConfidence": "contemporary report",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Crowned four-armed Ganesh seated cross-legged in bright yellow-green trousers, raised blessing hand and two upper implements; carved stone-like pillars, arch, brass standing lamps and hanging lamps in a dark physical mandap.",
+            "alignsWithSource": true,
+            "note": "Photo opened and inspected. The setting aligns with the contemporaneously reported Kedarnath-inspired pandal. Exact capture day is not supplied by the accessible photo caption."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "title": "An art-direction nomination and a changing neighbourhood",
+      "summary": "The competition organiser lists an art-direction nomination, while local reporting records redevelopment pressures on the housing-society festival.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "Loksatta prints the nominee as चंद्रकांत शेडके?. Spelling and identity remain unresolved; this is a nomination, not a confirmed prize. No annual idol photograph added.",
+          "sourceIds": [
+            "kas-loksatta2018"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "kas-loksatta2018",
+        "kas-redevelopment2018",
+        "kas-plastic2018"
+      ],
+      "media": []
+    },
+    {
+      "year": 2019,
+      "title": "First aid presented to an aarti tune",
+      "summary": "A college activity report documents a public-awareness presentation at the mandal during 2019. No native photographs from the report were obtained or visually inspected, so this is a text-only record.",
+      "artist": null,
+      "theme": "First-aid public education activity; annual Ganesh theme unknown",
+      "notes": [
+        {
+          "text": "The event section says 11 September 2019,3:30-6:30 pm, whereas the summary table prints 3/1/2019. The year is consistent; the day is retained as a source discrepancy. This activity is not necessarily the mandal's central annual theme.",
+          "sourceIds": [
+            "kas-bncp2019"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "kas-bncp2019"
+      ],
+      "media": []
+    },
+    {
+      "year": 2025,
+      "title": "A contemporary local newspaper view",
+      "summary": "Vrittamanas publishes a specifically captioned photograph of Kastur Park's Ganesh.",
+      "artist": null,
+      "theme": "Aaji-Aajoba Haravle Aahet (reported social tableau)",
+      "notes": [
+        {
+          "text": "The 5 September 2025 caption identifies the 47 th festival and a social-awareness tableau about missing grandparents. It supplies no photographer or separate capture timestamp.",
+          "sourceIds": [
+            "kas-vrittamanas"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "kas-vrittamanas"
+      ],
+      "media": [
+        {
+          "id": "kastur-2025-vrittamanas",
+          "originalUrl": "https://8da476a5-1c7a-4a72-8fb1-f347a2dd8ae2.filesusr.com/ugd/683256_7143b95025f142b19cdbda9ed9e0176d.pdf",
+          "sourceAssetType": "photograph embedded in newspaper PDF; no separate HTTP image asset located",
+          "kind": "photograph",
+          "label": "Ganesh in Vrittamanas - published 2025",
+          "caption": "Cross-legged Ganesh in yellow-green and purple, against waterfall scenery; extracted from the newspaper's specifically captioned photograph.",
+          "credit": "Vrittamanas,5 September 2025,p 8; individual photographer not credited.",
+          "dateEvidence": "Dated newspaper issue and adjacent caption identify Kastur Park's 47 th festival. Capture day unknown; newspaper-publication-year evidence.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "kas-vrittamanas"
+          ],
+          "yearConfidence": "contemporary publication and institution-specific caption; capture day unknown",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Tight photograph of crowned four-armed Ganesh seated cross-legged in yellow-green garments with purple stole, garlands and jewellery; raised blessing hand, two upper gold implements; painted waterfalls and foliage behind.",
+            "alignsWithSource": true,
+            "note": "Full newspaper page and separately extracted photograph inspected. Adjacent caption explicitly names Kastur Park and the 47 th festival. Poppler RGB extraction preserves the embedded photo at 381 x 359; no reconstruction, enlargement or scenery invention."
+          }
+        }
+      ]
+    }
+  ],
+  "undatedMedia": [
+    {
+      "id": "kastur-flickr-undated-procession",
+      "originalUrl": "https://www.flickr.com/photos/10742434@N02/5014800532/",
+      "kind": "photograph",
+      "label": "Procession - capture year unverified",
+      "caption": "Garlanded Ganesh under a flower-covered parasol, surrounded by people. The uploader identifies Kastur Park; the image has a visible blurred vignette.",
+      "credit": "janoella / Flickr.",
+      "dateEvidence": "Flickr says Taken 7 October 2008 and Uploaded 22 September 2010. Later upload is not itself a contradiction, but the capture date and festival year have not been independently verified.",
+      "rights": "Image referenced; reproduction under review.",
+      "sourceIds": [
+        "kas-flickr"
+      ],
+      "yearConfidence": "unverified uploader capture metadata; kept outside annual sequence",
+      "visualReview": {
+        "inspected": true,
+        "observedForm": "Crowned orange-pink Ganesh with flower garlands and raised hands beneath a circular floral parasol; greenery and people around a procession platform; strongly blurred vignette at edges.",
+        "alignsWithSource": true,
+        "note": "Published image opened and inspected. It supports the uploader's procession description but contains no legible year or mandal banner to independently establish the exact event."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "kas-upasani",
+      "title": "बोरिवलीचा कस्तुर",
+      "publisher": "Vinay Upasani, personal journalist blog",
+      "date": "2011-09-07",
+      "language": "Marathi",
+      "type": "reporting",
+      "url": "https://vinayupasani.blogspot.com/2011/09/blog-post.html",
+      "note": "Dated Marathi account, named organiser quotations and explicit 1979 start. Published on the writer's blog; original newspaper appearance not located."
+    },
+    {
+      "id": "kas-loksatta2014",
+      "title": "अंधेरीचे श्री गणेश क्रीडा मंडळ मुंबईचा राजा -2014 competition results",
+      "publisher": "Loksatta",
+      "date": "2014-09-10",
+      "language": "Marathi",
+      "type": "reporting",
+      "url": "https://www.loksatta.com/mumbai/shree-ganesh-krida-mandal-win-loksatta-mumbai-cha-raja-honored-885036/",
+      "note": "Only Kastur Park's regional art-direction result used; headline winner is another institution."
+    },
+    {
+      "id": "kas-toi2016",
+      "title": "In Borivli, brass diyas light up Kedarnath-inspired pandal",
+      "publisher": "The Times of India - Ambarish Mishra",
+      "date": "2016-09-13",
+      "language": "English",
+      "type": "reporting",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/In-Borivli-brass-diyas-light-up-Kedarnath-inspired-pandal/articleshow/54300722.cms",
+      "note": "Contemporary reporting and named working-president testimony. Its representative lead image is not used as a Kastur Park photo."
+    },
+    {
+      "id": "kas-ht-photo",
+      "title": "2016 Ganesh guide",
+      "publisher": "Hindustan Times",
+      "date": "2016-09-09",
+      "language": "English",
+      "type": "reporting",
+      "url": "https://www.hindustantimes.com/mumbai-news/10-ganpatis-we-recommend-you-must-visit-in-mumbai/story-lKodeoFTcqNmNihWho9V1N.html",
+      "note": "Photo metadata only."
+    },
+    {
+      "id": "kas-redevelopment2018",
+      "title": "Changing neighbourhoods sap Ganpati, dahi handi fervour",
+      "publisher": "The Times of India - Bella Jaisinghani",
+      "date": "2018-08-05",
+      "language": "English",
+      "type": "reporting",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/changing-neighbourhoods-sap-ganpati-dahi-handi-fervour/articleshow/65275817.cms",
+      "note": "Society redevelopment and volunteer/funding changes, with Sanyog Raje quoted."
+    },
+    {
+      "id": "kas-plastic2018",
+      "title": "Mumbai: Ganesh Utsav mandals go eco-friendly; to avoid plastic in festival",
+      "publisher": "The Times of India / Maharashtra Times",
+      "date": "2018-08-08",
+      "language": "English",
+      "type": "reporting",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-ganesh-utsav-mandals-go-eco-friendly-to-avoid-plastic-in-festival/articleshow/65320651.cms",
+      "note": "Names Kasturpark in a contemporary plastic-avoidance initiative; no scientific environmental assessment."
+    },
+    {
+      "id": "kas-vrittamanas",
+      "title": "Vrittamanas, Mumbai,5 September 2025 - Ganesh photo page 8",
+      "publisher": "Dainik Vrittamanas",
+      "date": "2025-09-05",
+      "language": "Marathi",
+      "type": "reporting",
+      "url": "https://8da476a5-1c7a-4a72-8fb1-f347a2dd8ae2.filesusr.com/ugd/683256_7143b95025f142b19cdbda9ed9e0176d.pdf",
+      "note": "Full page visually inspected; specific Kastur Park photograph and caption distinguished from adjacent mandals. Native embedded image extracted as RGB PNG without enlargement."
+    },
+    {
+      "id": "kas-flickr",
+      "title": "Ganesh Visarjan",
+      "publisher": "janoella / Flickr",
+      "date": null,
+      "language": "English",
+      "type": "community",
+      "url": "https://www.flickr.com/photos/10742434@N02/5014800532/",
+      "note": "Uploader identifies Kastur Park. Taken and upload dates recorded separately; exact capture year not independently checked."
+    },
+    {
+      "id": "kas-toi2012",
+      "title": "Ganesh Chaturthi celebrations: Rough roads cause trepidation among Ganeshotsav organizers",
+      "publisher": "Times of India / Bhavika Jain and Bella Jaisinghani",
+      "date": "2012-09-11",
+      "language": "English",
+      "type": "Contemporary local reporting",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/ganesh-chaturthi-celebrations-rough-roads-cause-trepidation-among-ganeshotsav-organizers/articleshow/16344021.cms",
+      "note": "Mandal spokesperson Sanyog Raje describes transporting the eight-foot idol from Jogeshwari by truck and concerns over the Western Express Highway. The general article image is not securely captioned as Kastur Park and is not assigned to this collection."
+    },
+    {
+      "id": "kas-loksatta2018",
+      "title": "‘मुंबईचा राजा’ची गुरुवारी घोषणा",
+      "publisher": "Loksatta Team",
+      "date": "2018-10-02",
+      "language": "Marathi",
+      "type": "Competition organiser nomination announcement",
+      "url": "https://www.loksatta.com/mumbai/loksatta-mumbaicha-raja-2018-1763218/",
+      "note": "This announces nominations before the 4 October results, not award winners. The art-direction name for Kastur Park is printed as चंद्रकांत शेडके?; the trailing question mark and spelling are not silently corrected or merged with other artists."
+    },
+    {
+      "id": "kas-bncp2019",
+      "title": "Public Health Office 2019-20 - First Aid Day: Innovative Campaign",
+      "publisher": "Dr. Bhanuben Nanavati College of Pharmacy / IPA Maharashtra State Branch Students Forum",
+      "date": null,
+      "language": "English",
+      "type": "Contemporary institutional activity report",
+      "url": "https://bncp.ac.in/Common/Uploads/TabbedContentTemplate/100_Download_PHO%20reports%202019-2020.pdf",
+      "note": "The First Aid Day section names Kasturpark Ganesh utsav Mandal, Borivali West, and 11 September 2019; the annual summary table separately prints 3/1/2019. The section narrative describes an aarti-based awareness presentation. Publication day is not given. Indexed report text was checked; direct PDF retrieval returned 404/406 in this environment, so no photographs are added from it.",
+      "availability": "indexed text checked; native PDF retrieval unsuccessful"
+    }
+  ],
+  "openQuestions": [
+    {
+      "title": "Founding documents",
+      "text": "Locate 1979 minutes, accounts and first-year photographs to verify the reported founding history and founders' preferred names.",
+      "sourceIds": [
+        "kas-upasani",
+        "kas-vrittamanas"
+      ]
+    },
+    {
+      "title": "Original annual photo files",
+      "text": "Seek directly dated originals, photographer credits and permission, especially for the newspaper-embedded 2025 image.",
+      "sourceIds": [
+        "kas-ht-photo",
+        "kas-vrittamanas"
+      ]
+    },
+    {
+      "title": "Procession year",
+      "text": "Ask the uploader to confirm the original capture date and which annual installation appears in the Flickr photograph.",
+      "sourceIds": [
+        "kas-flickr"
+      ]
+    },
+    {
+      "title": "Annual art ledger",
+      "text": "Match sculptor, art director, script and theme to individual years; do not extrapolate an award credit across the whole archive.",
+      "sourceIds": [
+        "kas-loksatta2014"
+      ]
+    },
+    {
+      "title": "Art-direction name in 2018",
+      "text": "Resolve the printed चंद्रकांत शेडके? spelling against the original programme or artist records before linking it with Chandu Shedge or any other name.",
+      "sourceIds": [
+        "kas-loksatta2018"
+      ]
+    },
+    {
+      "title": "2019 activity source and day",
+      "text": "Obtain the original college report PDF and settle the 11 September versus 3/1 summary-table discrepancy. Verify photographs directly before any image intake.",
+      "sourceIds": [
+        "kas-bncp2019"
+      ]
+    }
+  ],
+  "visit": {
+    "address": "Shree Sarvajanik Ganeshotsav Mandal, Kastur Park, Borivali West, Mumbai.",
+    "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Shree+Sarvajanik+Ganeshotsav+Mandal+Kastur+Park+Borivali+West",
+    "text": "Seasonal festival. Confirm the current mandap entrance locally; neighbourhood redevelopment has affected the available space.",
+    "sourceIds": [
+      "kas-toi2016",
+      "kas-redevelopment2018"
+    ]
+  },
+  "claims": [
+    {
+      "id": "kas-start",
+      "text": "1979 is explicitly reported, rather than derived only from anniversary arithmetic.",
+      "status": "reported; founding record unlocated",
+      "sourceIds": [
+        "kas-upasani",
+        "kas-vrittamanas"
+      ]
+    },
+    {
+      "id": "kas-art-award",
+      "text": "Narendra Bhagat won a regional 2014 art-direction category.",
+      "status": "published competition result",
+      "sourceIds": [
+        "kas-loksatta2014"
+      ]
+    },
+    {
+      "id": "kas-procession-date",
+      "text": "Flickr capture metadata remains independently unverified.",
+      "status": "uncertain",
+      "sourceIds": [
+        "kas-flickr"
+      ]
+    },
+    {
+      "id": "kas-2012-transport",
+      "text": "A 2012 contemporary organiser account describes transporting an eight-foot idol from Jogeshwari.",
+      "status": "supported contemporary report; sculptor unspecified",
+      "sourceIds": [
+        "kas-toi2012"
+      ]
+    },
+    {
+      "id": "kas-2018-nomination",
+      "text": "Kastur Park appears in the 2018 regional art-direction nominations; this is not a result.",
+      "status": "supported organiser announcement; printed artist spelling unresolved",
+      "sourceIds": [
+        "kas-loksatta2018"
+      ]
+    },
+    {
+      "id": "kas-2019-education",
+      "text": "The college report documents an aarti-based first-aid presentation at Kasturpark in 2019.",
+      "status": "primary institutional report; exact day discrepancy retained",
+      "sourceIds": [
+        "kas-bncp2019"
+      ]
+    }
+  ],
+  "researchNotes": {
+    "coverage": "Expanded research,16 November 2026: seven located years, eleven sources, three inspected media retained from Phase 1. Added 2012 transport history,2018 Marathi art-direction nomination and 2019 primary institutional community-education record. No additional photographs passed location/date/provenance and visual-inspection requirements in this pass.",
+    "gaps": [
+      "No original 1979 minutes or founding photographs located.",
+      "No newly verified annual photograph found;2012,2018 and 2019 additions are text-only.",
+      "College report text is indexed, but native retrieval failed in this environment; no unseen pictures included.",
+      "A third-party 2025 advertising presentation labels decoration years 2015-24, but its restricted/inaccessible photo pages are leads only.",
+      "Flickr capture metadata remains unverified; it is not converted into 2008 or 2010 annual coverage."
+    ],
+    "nextActions": [
+      "Obtain the mandal's original 2025 advertising presentation and annual decoration albums, then verify each photograph and printed year.",
+      "Recover original 1979,1980 s and 1990 s community albums and foundation records.",
+      "Find the 2018 award programme and confirm the nominee's preferred name.",
+      "Recover the college's 2019 camp photographs and resolve its date discrepancy.",
+      "Secure original newspaper photographer files, including 2016 and 2025, and reproduction permission."
+    ]
+  }
+}

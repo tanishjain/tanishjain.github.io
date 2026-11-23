@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact — Ganeshas of Mumbai</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' fill='%23f5f1e8'/><text x='50%25' y='50%25' dominant-baseline='central' text-anchor='middle' font-family='Georgia,serif' font-size='18' fill='%23a33d2e'>G</text></svg>">
+  <style>
+    .contact-form { max-width: 38rem; padding-bottom: var(--space-xl); }
+    .contact-field { display: grid; gap: .375rem; margin-bottom: var(--space-m); }
+    .contact-field label { font-weight: 500; }
+    .contact-field input, .contact-field select, .contact-field textarea {
+      width: 100%; padding: .65rem .8rem; border: 1px solid var(--ink-faint);
+      background: transparent; color: var(--ink); font: inherit;
+    }
+    .contact-field textarea { resize: vertical; min-height: 8rem; }
+    .contact-field :focus-visible, .contact-submit:focus-visible {
+      outline: 2px solid var(--vermilion); outline-offset: 3px;
+    }
+    .contact-submit { font: inherit; padding: .65rem 1.25rem; background: var(--vermilion); color: white; border: 0; }
+    .contact-submit:disabled { opacity: .55; }
+  </style>
+</head>
+<body>
+  <header class="site-header"><div class="wrap"><div class="site-header__inner">
+    <a class="site-header__brand" href="index.html"><span class="t-masthead">Ganeshas of Mumbai</span><span class="site-header__tagline">An independent archive</span></a>
+    <nav aria-label="Site navigation"><ul class="site-nav">
+      <li><a href="index.html">City archive</a></li>
+      <li><a href="research.html">Research</a></li>
+      <li><a href="contact.html" aria-current="page">Contact</a></li>
+    </ul></nav>
+  </div></div></header>
+
+  <main>
+    <section class="sources-intro wrap--narrow" aria-labelledby="contact-heading">
+      <h1 class="t-h1" id="contact-heading">Contact the archive</h1>
+      <p class="t-body-serif mt-m">Have a photograph, a story, or a correction to share? Write to us about the collections, credits, or anything else.</p>
+    </section>
+
+    <div class="wrap--narrow">
+      <p class="t-body contact-form" id="form-fallback">While the archive's form is being set up, use the contact link on <a href="https://tanishjain.github.io/">Tanish Jain's personal site</a>.</p>
+      <form class="contact-form" name="archive-contact" method="post" action="contact-sent.html" data-netlify="true" netlify-honeypot="bot-field" hidden>
+        <p hidden><label>Leave this field empty <input name="bot-field" tabindex="-1" autocomplete="off"></label></p>
+        <div class="contact-field"><label for="name">Name</label><input id="name" name="name" autocomplete="name" maxlength="120" required></div>
+        <div class="contact-field"><label for="email">Email</label><input id="email" type="email" name="email" autocomplete="email" maxlength="254" required></div>
+        <div class="contact-field">
+          <label for="topic">Topic <span class="t-caption">(optional)</span></label>
+          <select id="topic" name="topic">
+            <option value="">Choose a topic</option>
+            <option value="contribution">Contribute to the archive</option>
+            <option value="correction">Suggest a correction</option>
+            <option value="image">Ask about an image or credit</option>
+            <option value="general">General enquiry</option>
+          </select>
+        </div>
+        <div class="contact-field"><label for="related-page">Related page or source link <span class="t-caption">(optional)</span></label><input id="related-page" type="url" name="related-page" maxlength="2048"></div>
+        <div class="contact-field"><label for="message">Message</label><textarea id="message" name="message" rows="5" maxlength="6000" required></textarea></div>
+        <button class="contact-submit" type="submit" disabled>Send message</button>
+        <p class="t-caption mt-m">Your email is used to reply. Messages are kept private.</p>
+      </form>
+    </div>
+  </main>
+  <script>
+    const form = document.forms['archive-contact'];
+    // Netlify removes data-netlify and adds form-name when form detection is enabled.
+    const formConnected = !form.hasAttribute('data-netlify') && !!form.elements['form-name'];
+    form.querySelector('button[type="submit"]').disabled = !formConnected;
+    form.hidden = !formConnected;
+    document.getElementById('form-fallback').hidden = formConnected;
+    form.addEventListener('submit', function (event) {
+      if (!formConnected) event.preventDefault();
+    });
+  </script>
+</body>
+</html>

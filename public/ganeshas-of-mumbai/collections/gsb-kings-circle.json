@@ -1,0 +1,925 @@
+{
+  "slug": "gsb-kings-circle",
+  "kind": "festival",
+  "researchStage": "expanded",
+  "meta": {
+    "title": "GSB Seva Mandal Mahaganapati",
+    "marathi": "जीएसबी सेवा मंडळ महागणपती",
+    "institution": "Gowd Saraswat Brahman (G.S.B.) Seva Mandal",
+    "location": "Shree Sukriteendra Nagar, A. Rama Nayak Hall and GSB Sports Club Ground, near SNDT Women's College, R. A. Kidwai Road, King's Circle, Matunga, Mumbai 400019",
+    "neighborhood": "King's Circle / Matunga",
+    "founded": 1955,
+    "foundedNote": "The institution dates its Ganeshotsav to 1955. The parent charitable trust began in 1951; those are different events.",
+    "intro": "The King's Circle Mahaganapati is the annual festival of GSB Seva Mandal, a charitable organisation with roots in community service. Its five-day Ganeshotsav began in 1955 and retains a close association with Shri Kashi Math. Clay preparation, worship, collective meals and volunteer work provide a fuller archive than the widely circulated ornamented front view alone. This collection treats the festival venue in Matunga separately from the mandal's Sion office and from Wadala's independently organised GSB Ganeshotsav.",
+    "aliases": [
+      "GSB King's Circle",
+      "GSB Seva Mandal Ganpati",
+      "Navsala Pavnara Vishwacha Raja"
+    ],
+    "hero": null,
+    "id": "gsb-kings-circle",
+    "kind": "festival",
+    "researchStage": "expanded",
+    "catalogueMode": "located-records",
+    "updated": "16 November 2026",
+    "edition": "Expanded collection · Research edition · 16 November 2026",
+    "downloads": {
+      "json": "collections/gsb-kings-circle.json"
+    }
+  },
+  "sections": [
+    {
+      "id": "community",
+      "eyebrow": "Origins",
+      "title": "Service before the festival",
+      "paragraphs": [
+        {
+          "text": "The trust traces its beginning to Vijaya Dashami in 1951, when GSB members working in Kamala Mills organised help with funerals and related rites. Weekly bhajans followed in a small Prabhadevi room. Its retrospective connects Madhav Puranik and the early volunteers with service at Walkeshwar Shri Kashi Math. These origins place the later public celebration within an existing network of mutual assistance.",
+          "sourceIds": [
+            "KC01"
+          ]
+        },
+        {
+          "text": "Ganeshotsav began in 1955 under the blessings of Sudhindra Teertha, initially with a fourteen-inch idol. A community history records the move to Sukriteendra Nagar in 1971. The institution associates its 1979 silver jubilee with a silver crown and 1997 with a golden crown during a Chaturmas gathering. These are attributed landmarks, rather than independently authenticated inventories of historic ornaments.",
+          "sourceIds": [
+            "KC02",
+            "KC03"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ritual",
+      "eyebrow": "Ritual and form",
+      "title": "A temporary sacred setting",
+      "paragraphs": [
+        {
+          "text": "Before making Mahaganapati, the mandal describes taking clay and a coconut for prayer at Madhavendra Teertha's Vrindavan at Walkeshwar Kashi Math. The coconut is then placed within the idol. The practice gives the making process a religious geography extending beyond the festival ground. The large garlanded, ornamented seated form in recent press photographs belongs to this annual temporary installation.",
+          "sourceIds": [
+            "KC02",
+            "KC05",
+            "KC06"
+          ]
+        },
+        {
+          "text": "The 2026 appeal specifies five days, 14-18 September, and describes a volunteer-run setting of worship and shared service. Its wider work includes educational and medical assistance and an Annadaan initiative begun during the pandemic. The archive should preserve kitchens, seva organisation and material preparation alongside the deity, while keeping permanent premises, future projects and annual festival structures distinct.",
+          "sourceIds": [
+            "KC04"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "phase2-ritual-and-photo-sequence",
+      "eyebrow": "Ritual and photographic evidence",
+      "title": "A physical festival across independently dated visits",
+      "paragraphs": [
+        {
+          "text": "Arun Shanbhag's 2009 visit explicitly separates King's Circle from the Wadala celebration and household worship. His account describes priests, repeated pujas and large-scale preparation of coconut-and-jaggery offerings. The attached King's Circle stage photograph retains both his copyright and the later Photobucket host overlay; neither is removed to make it look like an unaltered camera master.",
+          "sourceIds": [
+            "KC08"
+          ]
+        },
+        {
+          "text": "His 2011 photograph has a useful provenance check: the current page's alt text mentions both 2011 and 2012, but the selected attachment title, attachment date and camera timestamp consistently support 2011. The separately published 2012 Tolay Bhaar account says the family ritual occurred during the preceding year, and its camera metadata also points to 2011. Publication and upload years therefore cannot create a new 2012 idol record.",
+          "sourceIds": [
+            "KC09",
+            "KC19",
+            "KC20"
+          ]
+        },
+        {
+          "text": "Contemporary scenes from 2014,2015,2016,2017 and 2018 extend the visible silver-arch and ornamented-idol sequence with separate photographer or supplier credits. The sources identify King's Circle specifically; generic GSB wording is insufficient because several roundups also cover the independent Wadala institution. Exact daily capture times and unidentified artists remain open.",
+          "sourceIds": [
+            "KC10",
+            "KC11",
+            "KC12",
+            "KC13",
+            "KC14"
+          ]
+        },
+        {
+          "text": "The 2022 unveiling report places the renewed public festival after a two-year interruption to ordinary participation, while the 2023 and 2026 frames are supported by current-event descriptions. These records do not establish the precise form or outcome of every pandemic-year ritual. Firoze Shakir's public collection lists an earlier annual sequence, but its album permission gate is respected and no unseen photographs are counted.",
+          "sourceIds": [
+            "KC15",
+            "KC16",
+            "KC17",
+            "KC18"
+          ]
+        }
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "year": 1951,
+      "title": "Service organisation begins",
+      "text": "Trust origin precedes the festival.",
+      "sourceIds": [
+        "KC01"
+      ]
+    },
+    {
+      "year": 1955,
+      "title": "Ganeshotsav begins",
+      "text": "Institution records a fourteen-inch first idol.",
+      "sourceIds": [
+        "KC02"
+      ]
+    },
+    {
+      "year": 1971,
+      "title": "Move to Sukriteendra Nagar",
+      "text": "Venue change recorded in the community periodical.",
+      "sourceIds": [
+        "KC03"
+      ]
+    },
+    {
+      "year": 1979,
+      "title": "Silver jubilee",
+      "text": "Institution associates the anniversary with a silver crown.",
+      "sourceIds": [
+        "KC02"
+      ]
+    },
+    {
+      "year": 1997,
+      "title": "Golden crown landmark",
+      "text": "Institution records Chaturmas at the festival venue.",
+      "sourceIds": [
+        "KC02"
+      ]
+    },
+    {
+      "year": 2004,
+      "title": "Golden jubilee",
+      "text": "Institution records a further Chaturmas at Sukriteendra Nagar.",
+      "sourceIds": [
+        "KC02"
+      ]
+    },
+    {
+      "year": 2026,
+      "title": "72nd festival notice",
+      "text": "Five-day calendar announced for 14-18 September.",
+      "sourceIds": [
+        "KC04"
+      ]
+    },
+    {
+      "year": 2009,
+      "title": "First-person festival visit",
+      "text": "A specifically located author photograph and account document King's Circle worship and offering preparation.",
+      "sourceIds": [
+        "KC08"
+      ]
+    },
+    {
+      "year": 2011,
+      "title": "Attachment-level photo evidence",
+      "text": "A primary photo post and consistent 2011 attachment metadata preserve a dated stage view.",
+      "sourceIds": [
+        "KC09",
+        "KC19"
+      ]
+    },
+    {
+      "year": 2022,
+      "title": "Public festival return reported",
+      "text": "A29 August unveiling report describes renewed attendance after two years of interrupted public participation.",
+      "sourceIds": [
+        "KC17"
+      ]
+    },
+    {
+      "year": 2026,
+      "title": "Institution-supplied first look",
+      "text": "A12 September report publishes the current first-look photographs credited to the mandal.",
+      "sourceIds": [
+        "KC16"
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": 2009,
+      "title": "Dated festival idol view",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "KC08"
+      ],
+      "media": [
+        {
+          "id": "2009-phase2-idol",
+          "originalUrl": "https://arunshanbhag.wordpress.com/2009/09/11/ganesh-chaturthi-2009/",
+          "kind": "photograph",
+          "label": "Contemporary photographer scene",
+          "caption": "The King's Circle idol in the source's 2009 festival coverage.",
+          "credit": "Arun Shanbhag; copyright 2009 and Photobucket host overlay retained.",
+          "dateEvidence": "The first-person post is explicitly about Ganesh Chaturthi 2009 and identifies the King's Circle section; this selected scene follows that section. The original visible copyright also says 2009; no exact capture day is authenticated.",
+          "dateStatus": "contemporary",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "KC08"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "A seated Ganesh in bright yellow drapery and heavy gold ornaments appears within a silver arch and flower canopy; priests work beside the physical stage. The large Photobucket overlay remains visible.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "title": "Dated festival idol view",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "KC09",
+        "KC19"
+      ],
+      "media": [
+        {
+          "id": "2011-phase2-idol",
+          "originalUrl": "https://arunshanbhag.wordpress.com/2011/09/06/gsb-seva-mandal/",
+          "kind": "photograph",
+          "label": "Contemporary photographer scene",
+          "caption": "The King's Circle idol in the source's 2011 festival coverage.",
+          "credit": "Arun Shanbhag (also credited by the attachment metadata).",
+          "dateEvidence": "The6 September 2011 post identifies King's Circle. Although its edited alt text also mentions 2012, attachment 4604explicitly titles the image 2011, was attached in 2011 and has a 2011 camera creation timestamp. These mutually consistent source records support 2011; folder alone and later links are not evidence.",
+          "dateStatus": "contemporary",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "KC09",
+            "KC19"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Seated Ganesh in red lower drapery and green stole, with gold crown, ears and blessing hand, beside an ornate silver arch and lion-sided throne; a priest and flower backing establish a physical scene.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "title": "Dated festival idol view",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "KC10"
+      ],
+      "media": [
+        {
+          "id": "2014-phase2-idol",
+          "originalUrl": "https://www.rediff.com/news/report/seven-wonders-mumbai-most-popular-ganesha/20140902.htm",
+          "kind": "photograph",
+          "label": "Contemporary captioned photograph",
+          "caption": "The King's Circle idol in the source's 2014 festival coverage.",
+          "credit": "Sahil Salvi / Rediff.com.",
+          "dateEvidence": "The2 September 2014 festival report identifies its first pictured institution as the GSB idol at Matunga. The scene is presented in current-festival coverage, without a file-photo label; no independent camera timestamp is supplied.",
+          "dateStatus": "contemporary",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "KC10"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Gold-crowned seated Ganesh in blue lower drapery, within a broad silver arch and dense flower halo; priests, devotees and the striped physical pandal backdrop are visible.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "title": "Dated festival idol view",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "KC11"
+      ],
+      "media": [
+        {
+          "id": "2015-phase2-idol",
+          "originalUrl": "https://www.mid-day.com/news/india-news/photo/-9261",
+          "kind": "photograph",
+          "label": "Contemporary captioned photograph",
+          "caption": "The King's Circle idol in the source's 2015 festival coverage.",
+          "credit": "Pradeep Dhivar / Mid-day.",
+          "dateEvidence": "The18 September 2015 gallery specifically captions this frame as the first glimpses of GSB Seva Mandal's Ganapati at King's Circle and credits Pradeep Dhivar; exact camera day is not separately given.",
+          "dateStatus": "contemporary",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "KC11"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "A tall view shows seated Ganesh in orange lower drapery under a circular silver arch and flower halo; priests, devotees, stage base and striped cloth ceiling/backdrop remain visible.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "title": "Dated festival idol view",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "KC12"
+      ],
+      "media": [
+        {
+          "id": "2016-phase2-idol",
+          "originalUrl": "https://localpress.co.in/mumbai/pictures-15-mumbais-iconic-ganesh-idols-2016/",
+          "kind": "photograph",
+          "label": "Contemporary captioned photograph",
+          "caption": "The King's Circle idol in the source's 2016 festival coverage.",
+          "credit": "Amrita Arora, as credited by Local Press Co.",
+          "dateEvidence": "The5 September 2016 gallery explicitly names the GSB Seva Mandal frame in its current annual-idol series; the distinct Wadala frame is not used here.",
+          "dateStatus": "contemporary",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "KC12"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Four-armed seated Ganesh in orange lower drapery with gold crown, trunk ornaments and garlands; silver emblems surround the round arch against a physical purple-gold curtain.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "title": "Dated festival idol view",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "KC13"
+      ],
+      "media": [
+        {
+          "id": "2017-phase2-idol",
+          "originalUrl": "https://www.hindustantimes.com/photos/mumbai-news/these-ganpati-mandals-in-mumbai-are-ready-take-a-look/photo-wqgceRiwuhvdFTUxzS9GbN.html",
+          "kind": "photograph",
+          "label": "Contemporary captioned photograph",
+          "caption": "The King's Circle idol in the source's 2017 festival coverage.",
+          "credit": "Kunal Patil / Hindustan Times.",
+          "dateEvidence": "Contemporary24 August 2017 gallery, explicitly named King's Circle frame; camera day unverified.",
+          "dateStatus": "contemporary",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "KC13"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Four-armed seated Ganesh in orange lower drapery, under a silver arch with colourful circular floral emblems; devotees, priests, portrait panels and the institution-labelled platform are visible.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "title": "Dated festival idol view",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "KC14"
+      ],
+      "media": [
+        {
+          "id": "2018-phase2-idol",
+          "originalUrl": "https://localpress.co.in/mumbai/in-pictures-most-iconic-ganesh-idols-of-2018-in-mumbai/",
+          "kind": "photograph",
+          "label": "Contemporary captioned photograph",
+          "caption": "The King's Circle idol in the source's 2018 festival coverage.",
+          "credit": "GSB King's Circle / Facebook, via Local Press Co.",
+          "dateEvidence": "The15 September 2018 gallery's specific caption says GSB Seva Mandal King's Circle-Matunga 2018, within current festival coverage; original camera metadata is not supplied.",
+          "dateStatus": "contemporary",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "KC14"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Four-armed seated Ganesh in yellow cloth and gold ornaments, with white-red garlands; silver arch, green floral backing, physical red carpet and side portrait panels are visible.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "title": "A four-foot idol and online darshan",
+      "summary": "During the pandemic, GSB Seva Mandal installed a four-foot Ganesh at King's Circle after permission for its usual large idol was denied. Trustee RG Bhat told The Times of India that the idol carried no jewellery and that devotees could join by livestream.",
+      "sourceIds": [
+        "GSB-report-2020"
+      ],
+      "media": []
+    },
+    {
+      "year": 2022,
+      "title": "Return of public participation",
+      "summary": "A contemporary unveiling report records29 August and organisers' expectation of renewed public participation after two years. No unviewed image is added.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "Text-only event record. The linked photographs were not obtainable for direct inspection in this session.",
+          "sourceIds": [
+            "KC17"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "KC17"
+      ],
+      "media": []
+    },
+    {
+      "year": 2023,
+      "title": "Dated festival idol view",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "KC15"
+      ],
+      "media": [
+        {
+          "id": "2023-phase2-idol",
+          "originalUrl": "https://indianexpress.com/article/cities/mumbai/mumbai-celebrates-ganeshotsav-citys-oldest-ganpati-pandal-red-light-district-8955154/",
+          "kind": "photograph",
+          "label": "Contemporary captioned photograph",
+          "caption": "The King's Circle idol in the source's 2023 festival coverage.",
+          "credit": "Ganesh Shirsekar / The Indian Express.",
+          "dateEvidence": "The report was first published26 September 2023 and describes that year's festival and69th GSB celebration; specific caption identifies GSB Seva Mandal. Later7 September 2024 update is not used as capture evidence. No original camera timestamp is supplied.",
+          "dateStatus": "contemporary",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "KC15"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "A frontal upper-body scene shows Ganesh's gold crown, ears and ornaments beneath a large silver arch; dark flower backing and silhouettes of worshippers appear in the physical pandal.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "title": "70th Ganeshotsav unveiling",
+      "summary": "Contemporary press photograph of the ornamented annual idol.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "KC05"
+      ],
+      "media": [
+        {
+          "id": "2024-fpj-first-look",
+          "originalUrl": "https://www.freepressjournal.in/amp/mumbai/mumbai-citys-gsb-seva-mandal-unveils-first-look-of-its-ganpati-bappa-see-majestic-pics-of-lord-ganesha",
+          "kind": "photograph",
+          "label": "Contemporary first-look photograph",
+          "caption": "The ornamented King's Circle Mahaganapati inside the 2024 festival setting.",
+          "credit": "Vijay Gohil / Free Press Journal",
+          "dateEvidence": "Report published 6 September 2024 identifies Virat Darshan on 5 September; image belongs to that contemporary unveiling report, without independent capture metadata.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "KC05"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Seated pale-orange four-armed Ganesh with a gold crown, heavy garlands and circular silver-toned arch; physical devotees and raised phones in the foreground.",
+            "alignsWithSource": true,
+            "note": "Image visually inspected; source attribution retained without independent provenance authentication."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "title": "71st Ganeshotsav unveiling",
+      "summary": "Contemporary gallery identifies the annual first look.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "KC06"
+      ],
+      "media": [
+        {
+          "id": "2025-midday-first-look",
+          "originalUrl": "https://www.mid-day.com/mumbai/mumbai-news/photo/in-photos-ganesh-chaturthi-2025-mumbai-s-iconic-gsb-ganpati-idol-unveiled-107076/1",
+          "kind": "photograph",
+          "label": "Contemporary unveiling photograph",
+          "caption": "King's Circle Mahaganapati at the 2025 unveiling, surrounded by a circular metal arch and devotees.",
+          "credit": "Raj Patil / Mid-day",
+          "dateEvidence": "Gallery dated 26 August 2025 says the Matunga idol was unveiled on Monday, 25 August, ahead of that year's festival.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "KC06"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Seated four-armed Ganesh with yellow lower cloth, gold crown and ornaments, green-and-white garlands, large circular silver-toned arch; people and phones visible below.",
+            "alignsWithSource": true,
+            "note": "Visual form and physical setting align with the named GSB Seva Mandal unveiling. Photograph capture date not independently authenticated."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "title": "Dated festival idol view",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "KC16"
+      ],
+      "media": [
+        {
+          "id": "2026-phase2-idol",
+          "originalUrl": "https://www.mid-day.com/mumbai/mumbai-news/photo/in-photos-mumbai-ganeshotsav-2026-iconic-gsb-ganpatis-first-look-unveiled-66-kg-gold-335-kg-silver-adorn-bappa-113040",
+          "kind": "photograph",
+          "label": "Contemporary captioned photograph",
+          "caption": "The King's Circle idol in the source's 2026 festival coverage.",
+          "credit": "GSB Seva Mandal, via Mid-day.",
+          "dateEvidence": "The12 September 2026 first-look report explicitly describes the unveiling that Saturday and credits these photographs to GSB Seva Mandal; this is current-event evidence, not a publication-folder inference.",
+          "dateStatus": "contemporary",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "KC16"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Four-armed seated Ganesh in yellow drapery, gold crown and long garlands is framed by a silver arch and orange-yellow flower halo; striped tent cloth, stage and guru portrait panels are visible.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    }
+  ],
+  "undatedMedia": [],
+  "sources": [
+    {
+      "id": "KC01",
+      "title": "About GSB Seva Mandal",
+      "publisher": "GSB Seva Mandal",
+      "date": null,
+      "language": "English",
+      "type": "institutional retrospective",
+      "url": "https://gsbsevamandal.org/about-gsb-seva-mandal",
+      "note": "Trust origins and Kashi Math connection; the Sion footer is an office address, not the festival venue."
+    },
+    {
+      "id": "KC02",
+      "title": "Sri Ganeshotsav Celebrations",
+      "publisher": "GSB Seva Mandal",
+      "date": null,
+      "language": "English",
+      "type": "institutional retrospective",
+      "url": "https://gsbsevamandal.org/sri-ganeshotsav-celebrations",
+      "note": "Festival foundation, clay/coconut practice and anniversary landmarks; devotional interpretation remains attributed."
+    },
+    {
+      "id": "KC03",
+      "title": "Samyukta Saraswat, September 2017",
+      "publisher": "All India Saraswat Cultural Organisation",
+      "date": null,
+      "language": "English",
+      "type": "community periodical",
+      "url": "https://www.aisco.org.in/uploads/2/6/3/4/26346809/ss_sep_2017.pdf",
+      "note": "September 2017 issue gives a community history, including the 1971 move to Sukriteendra Nagar; exact issue day not given."
+    },
+    {
+      "id": "KC04",
+      "title": "72nd Shree Ganeshotsav Celebration 2026 - Appeal",
+      "publisher": "GSB Seva Mandal",
+      "date": null,
+      "language": "English",
+      "type": "institutional annual notice",
+      "url": "https://gsbsevamandal.org/gsb-seva-mandal-ganeshotsav-celebration-2026",
+      "note": "Explicit 14-18 September 2026 festival dates and community-service description."
+    },
+    {
+      "id": "KC05",
+      "title": "City's GSB Seva Mandal Unveils First Look Of Its Ganpati Bappa",
+      "publisher": "Free Press Journal",
+      "date": "2024-09-06",
+      "language": "English",
+      "type": "editorial",
+      "url": "https://www.freepressjournal.in/amp/mumbai/mumbai-citys-gsb-seva-mandal-unveils-first-look-of-its-ganpati-bappa-see-majestic-pics-of-lord-ganesha",
+      "note": "Contemporary first-look report by Swarna Srikanth; photographs credited to Vijay Gohil. Superlative wealth claims are not adopted."
+    },
+    {
+      "id": "KC06",
+      "title": "Ganeshotsav 2025: First look of Mumbai's richest idol revealed",
+      "publisher": "Mid-day",
+      "date": "2025-08-26",
+      "language": "English",
+      "type": "editorial",
+      "url": "https://www.mid-day.com/mumbai/mumbai-news/photo/in-photos-ganesh-chaturthi-2025-mumbai-s-iconic-gsb-ganpati-idol-unveiled-107076/1",
+      "note": "Contemporary unveiling gallery; chosen image credited to Raj Patil. Article author Anushree Gaikwad is not substituted for photographer."
+    },
+    {
+      "id": "KC07",
+      "title": "67th Shree Ganeshotsav Celebration - Appeal 2021",
+      "publisher": "GSB Seva Mandal",
+      "date": null,
+      "language": "English",
+      "type": "institutional annual notice",
+      "url": "https://gsbsevamandal.org/img/GSBGaneshotsav2021Appeal.pdf",
+      "note": "Explicit festival-ground address used to distinguish the Matunga venue from the office."
+    },
+    {
+      "id": "KC08",
+      "title": "Ganesh Chaturthi 2009",
+      "publisher": "Arun Shanbhag",
+      "url": "https://arunshanbhag.wordpress.com/2009/09/11/ganesh-chaturthi-2009/",
+      "language": "English",
+      "type": "first-person contemporary photo essay",
+      "date": "2009-09-11",
+      "note": "The post separates home worship, King's Circle and Wadala into distinct sections. The selected King's Circle idol is beneath its named section. Publicly embedded Photobucket copy retains a large host overlay and the author's 2009 copyright."
+    },
+    {
+      "id": "KC09",
+      "title": "Ganapati at GSB Seva Mandal",
+      "publisher": "Arun Shanbhag",
+      "url": "https://arunshanbhag.wordpress.com/2011/09/06/gsb-seva-mandal/",
+      "language": "English",
+      "type": "first-person contemporary photo essay",
+      "date": "2011-09-06",
+      "note": "Current alt text mixes 2011/2012 and the page links a later 2012 post. Selected attachment 4604 nevertheless has title Ganapati 2011, a 2011 upload and camera creation timestamp in 2011; year is not inferred from the folder."
+    },
+    {
+      "id": "KC10",
+      "title": "Seven Wonders! Mumbai's most popular Ganesha",
+      "publisher": "Rediff.com",
+      "url": "https://www.rediff.com/news/report/seven-wonders-mumbai-most-popular-ganesha/20140902.htm",
+      "language": "English",
+      "type": "contemporary captioned photo report",
+      "date": "2014-09-02",
+      "note": "First section identifies the Matunga GSB idol; article credits Sahil Salvi. A separately credited Lalbaug photograph is not transferred here."
+    },
+    {
+      "id": "KC11",
+      "title": "In pictures: Mumbaikars prepare to welcome Lord Ganesh",
+      "publisher": "Mid-day",
+      "url": "https://www.mid-day.com/news/india-news/photo/-9261",
+      "language": "English",
+      "type": "contemporary photo gallery",
+      "date": "2015-09-18",
+      "note": "Specific caption identifies first glimpses of GSB Seva Mandal at King's Circle and credits Pradeep Dhivar. Source date is explicit in visible page and structured metadata."
+    },
+    {
+      "id": "KC12",
+      "title": "In Pictures: 15 of Mumbai's most iconic ganesh idols of 2016",
+      "publisher": "Local Press Co",
+      "url": "https://localpress.co.in/mumbai/pictures-15-mumbais-iconic-ganesh-idols-2016/",
+      "language": "English",
+      "type": "contemporary captioned multi-mandal gallery",
+      "date": "2016-09-05",
+      "note": "Chosen GSB Seva Mandal frame is specifically credited Amrita Arora. The same report has a separate Wadala frame and a Keshavji file image; identities and file-photo caveats are not merged."
+    },
+    {
+      "id": "KC13",
+      "title": "These Ganpati mandals in Mumbai are ready, take a look",
+      "publisher": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/photos/mumbai-news/these-ganpati-mandals-in-mumbai-are-ready-take-a-look/photo-wqgceRiwuhvdFTUxzS9GbN.html",
+      "language": "English",
+      "type": "contemporary photo gallery",
+      "date": "2017-08-24",
+      "note": "King's Circle is named in its own frame; Kunal Patil credited."
+    },
+    {
+      "id": "KC14",
+      "title": "In Pictures: Most iconic Ganesh idols of 2018 in Mumbai",
+      "publisher": "Local Press Co",
+      "url": "https://localpress.co.in/mumbai/in-pictures-most-iconic-ganesh-idols-of-2018-in-mumbai/",
+      "language": "English",
+      "type": "contemporary captioned multi-mandal gallery",
+      "date": "2018-09-15",
+      "note": "Explicit caption identifies GSB Seva Mandal King's Circle-Matunga 2018 and credits GSB King's Circle/Facebook; Wadala appears separately."
+    },
+    {
+      "id": "KC15",
+      "title": "Mumbai Ganeshotsav in pics: City's oldest Ganpati, pandal in red-light district, and more",
+      "publisher": "The Indian Express",
+      "url": "https://indianexpress.com/article/cities/mumbai/mumbai-celebrates-ganeshotsav-citys-oldest-ganpati-pandal-red-light-district-8955154/",
+      "language": "English",
+      "type": "contemporary captioned photo report; later updated",
+      "date": "2023-09-26",
+      "note": "First published26 September 2023; current page updated7 September 2024. Body describes19 September arrival and69th GSB year. The specifically captioned GSB image is credited Ganesh Shirsekar;2024 update is not a new capture year."
+    },
+    {
+      "id": "KC16",
+      "title": "Mumbai Ganeshotsav 2026: Iconic GSB Ganpati's first look unveiled",
+      "publisher": "Mid-day / GSB Seva Mandal",
+      "url": "https://www.mid-day.com/mumbai/mumbai-news/photo/in-photos-mumbai-ganeshotsav-2026-iconic-gsb-ganpatis-first-look-unveiled-66-kg-gold-335-kg-silver-adorn-bappa-113040",
+      "language": "English",
+      "type": "contemporary institution-supplied first-look gallery",
+      "date": "2026-09-12",
+      "note": "Report explicitly describes first look unveiled that Saturday; image credit GSB Seva Mandal. Divya Nair is compiler, not identified as camera operator."
+    },
+    {
+      "id": "KC17",
+      "title": "Unveiling of the first look of King Circle's GSB Seva Mandal Vishwacha Raja",
+      "publisher": "Global Prime News / Sachin Murdeshwar",
+      "url": "https://globalprimenews.com/2022/08/29/unveiling-of-the-first-look-of-navsala-pavnara-king-circles-g-s-b-seva-mandal-vishwacha-raja-ahead-of-the-ganesh-chaturthi-festival/",
+      "language": "English",
+      "type": "contemporary unveiling report with organiser comments",
+      "date": "2022-08-29",
+      "note": "Publicly indexed text describes the current unveiling and return of public participation after two years. Direct server responds406, so no image is downloaded or counted."
+    },
+    {
+      "id": "KC18",
+      "title": "GSB Seva Mandal Ganesh Utsav collection",
+      "publisher": "Firoze Shakir / Flickr",
+      "url": "https://www.flickr.com/photos/firozeshakir/collections/72157625028740645/",
+      "language": "English",
+      "type": "public photographer collection index; image access restricted",
+      "date": null,
+      "note": "Public index lists 2008-2015,2017 and 2019 albums. Normal-browser 2008 album returns a sign-in/permission restriction; no gated album images are harvested, dated or counted."
+    },
+    {
+      "id": "KC19",
+      "title": "WordPress media record4604: GSB Seva Mandal Ganapati 2011",
+      "publisher": "Arun Shanbhag / WordPress.com public API",
+      "url": "https://public-api.wordpress.com/rest/v1.1/sites/1433352/media/4604",
+      "language": "English",
+      "type": "primary image attachment metadata",
+      "date": "2011-09-06",
+      "note": "Attachment title names 2011; credit/copyright Arun Shanbhag, Nikon D80 and creation timestamp1315133050 fall in 2011. Public API search response containing this unchanged object is preserved in the shared Wadala task directory."
+    },
+    {
+      "id": "KC20",
+      "title": "Meera at Seva Mandal Ganapati: Worth her weight in bananas",
+      "publisher": "Arun Shanbhag",
+      "url": "https://arunshanbhag.wordpress.com/2012/09/01/meera-seva-mandal/",
+      "language": "English",
+      "type": "first-person retrospective ritual account",
+      "date": "2012-09-01",
+      "note": "Text says during the past year; attached photos have 2011 camera timestamps despite 2012 upload paths. Useful Tolay Bhaar ritual evidence, not proof of a 2012 festival image. No new image from this post added."
+    },
+    {
+      "id": "GSB-report-2020",
+      "title": "Mumbai festival reporting, GSB King's Circle section",
+      "publisher": "The Times of India / Bella Jaisinghani",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-hand-painted-ramayan-tableaux-600-kg-clay-idol-at-andheri-pandal/articleshow/77746367.cms",
+      "date": "2020-08-25",
+      "type": "reporting",
+      "language": "English",
+      "note": "Contemporaneous coverage names GSB King's Circle explicitly and cites trustee RG Bhat. The reported immersion arrangements were still plans."
+    }
+  ],
+  "openQuestions": [
+    {
+      "title": "Early idol sequence",
+      "text": "Locate independently dated photographs of the 1955 idol and the crown landmarks; contemporary photographs cannot illustrate those earlier years.",
+      "sourceIds": [
+        "KC02"
+      ]
+    },
+    {
+      "title": "Making and ornament histories",
+      "text": "Seek dated sculptor credits, armature records and provenance for individual ornaments without using changing press weight estimates as a continuous inventory.",
+      "sourceIds": [
+        "KC05",
+        "KC06"
+      ]
+    }
+  ],
+  "visit": {
+    "address": "Shree Sukriteendra Nagar, A. Rama Nayak Hall and GSB Sports Club Ground, near SNDT Women's College, R. A. Kidwai Road, King's Circle, Matunga, Mumbai 400019",
+    "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Gowd%20Saraswat%20Brahman%20%28G.S.B.%29%20Seva%20Mandal%20Shree%20Sukriteendra%20Nagar%2C%20A.%20Rama%20Nayak%20Hall%20and%20GSB%20Sports%20Club%20Ground%2C%20near%20SNDT%20Women%27s%20College%2C%20R.%20A.%20Kidwai%20Road%2C%20King%27s%20Circle%2C%20Matunga%2C%20Mumbai%20400019",
+    "text": "Festival-ground address near King's Circle in Matunga. The Sion office printed in the website footer is a separate location; use the relevant year's festival notice for access.",
+    "sourceIds": [
+      "KC04",
+      "KC07"
+    ]
+  },
+  "claims": [
+    {
+      "id": "C01",
+      "text": "Trust foundation in 1951 and festival foundation in 1955 are distinct.",
+      "status": "institutional retrospective",
+      "sourceIds": [
+        "KC01",
+        "KC02"
+      ]
+    },
+    {
+      "id": "C02",
+      "text": "The venue move is dated 1971 in a community history.",
+      "status": "community retrospective",
+      "sourceIds": [
+        "KC03"
+      ]
+    },
+    {
+      "id": "C03",
+      "text": "Clay and coconut preparation are described by the mandal.",
+      "status": "attributed ritual practice",
+      "sourceIds": [
+        "KC02"
+      ]
+    },
+    {
+      "id": "C04",
+      "text": "The 2026 notice specifies a five-day festival.",
+      "status": "annual institutional notice",
+      "sourceIds": [
+        "KC04"
+      ]
+    },
+    {
+      "id": "C05",
+      "text": "Both selected annual idol images have a physical festival setting and named press credits.",
+      "status": "contemporary visual evidence",
+      "sourceIds": [
+        "KC05",
+        "KC06"
+      ]
+    },
+    {
+      "id": "C06",
+      "text": "The selected Arun Shanbhag image is supported as 2011 by its original attachment title/date and camera metadata, despite mixed 2011/2012 current alt text.",
+      "status": "primary author and attachment metadata; not independent authentication",
+      "sourceIds": [
+        "KC09",
+        "KC19"
+      ]
+    },
+    {
+      "id": "C07",
+      "text": "Arun's Tolay Bhaar post published in 2012 describes the preceding year and cannot date its pictures to 2012.",
+      "status": "primary retrospective and attachment metadata",
+      "sourceIds": [
+        "KC20"
+      ]
+    }
+  ],
+  "researchNotes": {
+    "coverage": "Trust and festival histories, annual appeals, a community periodical and two inspected contemporary press photographs. This is the King's Circle annual event, not Wadala. Phase 2: 10 annual entries supplemented after direct image inspection; source labels and photographic appearance assessed separately.",
+    "gaps": [
+      "No early 1955-2008 idol photographs obtained; some later years remain absent.",
+      "Pandemic 2020-2021 decisions, installed forms and eventual outcomes need institution-specific records; Wadala's postponement must not be transferred here.",
+      "Firoze Shakir's public index lists 2008-2015/2017/2019 albums but the tested album requires permission/sign-in. These are leads, not acquired photo years.",
+      "An official 2016 gallery route currently serves an unrelated 2026 appeal; its cached 2016 image is withheld until a stable dated archive capture is available.",
+      "The 2012 Tolay Bhaar post contains 2011 camera images; publication/upload folder is not a 2012 festival date.",
+      "A 2012 Rediff GSB photograph explicitly belongs to Ram Mandir Wadala and is assigned to that collection.",
+      "Individual historical makers and original reuse licences remain unverified."
+    ],
+    "nextActions": [
+      "Extend with dated workshop, ritual and meal-service records.",
+      "Verify the 1971 move with contemporary committee records."
+    ],
+    "edition": "2026-11-16"
+  }
+}

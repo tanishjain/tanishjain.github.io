@@ -1,0 +1,681 @@
+{
+  "slug": "siddhivinayak",
+  "kind": "temple",
+  "researchStage": "expanded",
+  "meta": {
+    "title": "Shree Siddhivinayak",
+    "marathi": "श्री सिद्धिविनायक",
+    "institution": "Shree Siddhivinayak Ganapati Temple Trust, Prabhadevi",
+    "location": "S. K. Bole Marg, Prabhadevi, Mumbai",
+    "neighborhood": "Prabhadevi",
+    "founded": 1801,
+    "foundedNote": "The trust identifies first consecration as 19 November 1801; a Maharashtra district statistical publication gives the same date. The original 1801 document was not inspected.",
+    "intro": "Siddhivinayak at Prabhadevi is a permanent Ganesh temple whose surviving institutional history connects an early nineteenth-century shrine to a major rebuilding in the 1990s. Its right-trunk black-stone icon remained central as the surrounding structure changed. This collection follows the temple, its architecture and public-service institutions, with dated exterior photographs rather than an invented sequence of annual festival idols.",
+    "hero": {
+      "src": "assets/collections/siddhivinayak-3b535b80d24a.jpg",
+      "alt": "A view of Siddhivinayak Temple in Prabhadevi.",
+      "caption": "A view of Siddhivinayak Temple in Prabhadevi.",
+      "credit": "Av9 · CC BY-SA 4.0",
+      "sourceIds": [
+        "SV07"
+      ]
+    },
+    "updated": "16 November 2026",
+    "edition": "Research edition - 16 November 2026",
+    "id": "siddhivinayak",
+    "kind": "temple",
+    "researchStage": "expanded",
+    "catalogueMode": "located-records",
+    "downloads": {
+      "json": "collections/siddhivinayak.json"
+    }
+  },
+  "sections": [
+    {
+      "id": "foundation",
+      "eyebrow": "Prabhadevi",
+      "title": "From a small shrine to a public institution",
+      "paragraphs": [
+        {
+          "text": "The trust dates the first consecration to 19 November 1801 and says the date appears in government records. A Marathi Mumbai City district statistical publication also identifies that day and names Laxman Patil and Deubai Patil. These are retrospective accounts; the underlying early document has not been examined here. The collection therefore records the established institutional date without claiming to possess the foundation deed.",
+          "sourceIds": [
+            "SV01",
+            "SV05"
+          ]
+        },
+        {
+          "text": "The trust’s published Act provides a different kind of evidence: it records a 16 June 1936 High Court consent decree placing administration with the Official Trustee. The statute, titled the Shree Siddhi Vinayak Ganpati Temple Trust (Prabhadevi) Act, 1980, received presidential assent in January 1981 and reconstituted management for wider welfare activity. This legal chronology concerns governance, not the first installation of the deity.",
+          "sourceIds": [
+            "SV04"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "icon-architecture",
+      "eyebrow": "Continuity through rebuilding",
+      "title": "The icon stayed as the building changed",
+      "paragraphs": [
+        {
+          "text": "The trust describes a single black-stone image, about two and a half feet high, with the trunk turning right. Its four hands hold a lotus, axe, rosary and modak; Riddhi and Siddhi flank it. These are the iconographic identifiers of an enduring temple image. Neither the temple’s annual festivals nor the dated photographs below imply that a new central idol is made and immersed each year.",
+          "sourceIds": [
+            "SV02"
+          ]
+        },
+        {
+          "text": "The architecture account credits Sharad Athale and records renovation beginning in 1990, with construction described as taking three years. It separately dates the crown installation and Kumbhabhishek to 13 June 1994. The new multistorey, multiangular structure used marble and pink granite while keeping the idol intact. The trust cites Ambernath’s Shiva temple as a climatic design reference and credits Suresh and Mitesh Mistry for the sanctum frame.",
+          "sourceIds": [
+            "SV03"
+          ]
+        },
+        {
+          "text": "The district administration's published history identifies 27 April 1990 as the foundation-stone ceremony for the expanded building and 13 June 1994 for the crown ceremony. These dates describe the rebuilding around an existing shrine. The new exterior sequence records several later viewpoints and a decorated interior, rather than a succession of newly made annual idols.",
+          "sourceIds": [
+            "SV14",
+            "SV10",
+            "SV11",
+            "SV12",
+            "SV13"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "community",
+      "eyebrow": "Beyond the sanctum",
+      "title": "Worship, libraries and medical support",
+      "paragraphs": [
+        {
+          "text": "The trust’s activity statement combines Maghi and Bhadrapad Ganeshotsav with cultural programmes, medical assistance, dialysis, health camps, a book bank and libraries. Its architecture account locates reading and study facilities within the expanded complex. These are institutional descriptions of its public-service role; the present collection has not audited current beneficiary numbers, expenditure or operational hours.",
+          "sourceIds": [
+            "SV08",
+            "SV03"
+          ]
+        }
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "year": 1801,
+      "title": "First consecration",
+      "text": "19 November 1801 is the date maintained by the temple trust and government retrospective.",
+      "sourceIds": [
+        "SV01",
+        "SV05"
+      ]
+    },
+    {
+      "year": 1936,
+      "title": "Official Trustee administration",
+      "text": "A 16 June 1936 consent decree is recited in the later trust statute.",
+      "sourceIds": [
+        "SV04"
+      ]
+    },
+    {
+      "year": "1980-1981",
+      "title": "Trust management reconstituted",
+      "text": "The Act is titled 1980; presidential assent and Gazette publication occurred in January 1981.",
+      "sourceIds": [
+        "SV04"
+      ]
+    },
+    {
+      "year": 1990,
+      "title": "Renovation begins",
+      "text": "The trust credits Sharad Athale and describes a three-year building programme.",
+      "sourceIds": [
+        "SV03"
+      ]
+    },
+    {
+      "year": 1994,
+      "title": "Crown and Kumbhabhishek",
+      "text": "The trust dates these ceremonies to 13 June 1994; this is distinct from the building programme’s duration.",
+      "sourceIds": [
+        "SV03"
+      ]
+    },
+    {
+      "year": "1990-04-27",
+      "title": "Foundation stone for expansion",
+      "text": "District tourism history records the foundation-stone ceremony; original building file not inspected.",
+      "sourceIds": [
+        "SV14"
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": 1991,
+      "title": "Teledarshan, 1991 issue",
+      "summary": "A small historical press image of worshippers.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "SV09"
+      ],
+      "media": [
+        {
+          "id": "siddhi-1991-cctv",
+          "originalUrl": "https://www.indiatoday.in/magazine/living/story/19911130-gods-are-now-being-served-up-on-cctv-at-bombay-shree-siddhivinayak-temple-815149-1991-11-29",
+          "kind": "photograph",
+          "label": "Teledarshan, 1991 issue",
+          "caption": "Small, dark colour press photograph of worshippers standing together with hands joined, facing equipment at left; the Ganesh icon is not distinctly visible.",
+          "credit": "Photographer uncredited.",
+          "dateStatus": "contemporary",
+          "dateEvidence": "Issue dated 30 November 1991; 2013 is the web update.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "SV09"
+          ],
+          "yearConfidence": "contemporary_issue_year; exact_capture_day_unknown",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Small, dark colour press photograph of worshippers standing together with hands joined, facing equipment at left; the Ganesh icon is not distinctly visible.",
+            "alignsWithSource": true,
+            "note": "Downloaded native source opened and inspected on 16 November 2026; architectural or worship context, not an annual replacement-idol portrait."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2006,
+      "title": "Close view of the rebuilt exterior",
+      "summary": "A creator-dated architectural photograph of the rebuilt permanent temple.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "The year records the photograph's stated capture date; it does not date the temple's construction or the permanent icon.",
+          "sourceIds": [
+            "SV10"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "SV10"
+      ],
+      "media": [
+        {
+          "id": "siddhi-2006-rakesh",
+          "originalUrl": "https://commons.wikimedia.org/wiki/File:Siddhivinayak_Temple_(236987777).jpg",
+          "kind": "photograph",
+          "label": "Close view of the rebuilt exterior",
+          "caption": "Daylight upward view of the multiangular pale pink-and-cream temple walls, repeating projections and relief panels, small windows, roof edge, gold finials, tree branches and street lamp. No Ganesh icon visible.",
+          "credit": "Rakesh (Flickr zadeus), via Wikimedia Commons.",
+          "dateStatus": "source-attributed",
+          "dateEvidence": "Creator description and camera DateTimeOriginal give 14 April 2006, 18:15. Flickr publication is later in 2006 and Commons import is 2016; neither upload date is substituted for capture.",
+          "rights": "CC BY-SA 2.0",
+          "sourceIds": [
+            "SV10"
+          ],
+          "yearConfidence": "creator_and_camera_date; independently_unverified",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Daylight upward view of the multiangular pale pink-and-cream temple walls, repeating projections and relief panels, small windows, roof edge, gold finials, tree branches and street lamp. No Ganesh icon visible.",
+            "alignsWithSource": true,
+            "note": "Downloaded native source opened and inspected on 16 November 2026; architectural or worship context, not an annual replacement-idol portrait."
+          },
+          "src": "assets/collections/siddhivinayak-e65260dccd9c.jpg",
+          "width": 1632,
+          "height": 1224,
+          "licence": "CC BY-SA 2.0",
+          "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
+        }
+      ]
+    },
+    {
+      "year": 2008,
+      "title": "The temple in its street setting",
+      "summary": "A creator-dated view from the surrounding Prabhadevi street.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "The year records the photograph's stated capture date; it does not date the temple's construction or the permanent icon.",
+          "sourceIds": [
+            "SV11"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "SV11"
+      ],
+      "media": [
+        {
+          "id": "siddhi-2008-furtado",
+          "originalUrl": "https://commons.wikimedia.org/wiki/File:Siddhivinayak_Temple_(Wednesday_10-12-2008).jpg",
+          "kind": "photograph",
+          "label": "The temple in its street setting",
+          "caption": "Distant daytime view of the stepped-roof temple with gold finials and flag, seen beyond a busy road with taxis, truck, cars, pedestrians and trees. Icon not visible.",
+          "credit": "Rudolph A. Furtado, Wikimedia Commons.",
+          "dateStatus": "source-attributed",
+          "dateEvidence": "Own-work description and EXIF identify 10 December 2008; exact camera clock is not independently authenticated.",
+          "rights": "Creator's public-domain dedication",
+          "sourceIds": [
+            "SV11"
+          ],
+          "yearConfidence": "creator_and_camera_date; independently_unverified",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Distant daytime view of the stepped-roof temple with gold finials and flag, seen beyond a busy road with taxis, truck, cars, pedestrians and trees. Icon not visible.",
+            "alignsWithSource": true,
+            "note": "Downloaded native source opened and inspected on 16 November 2026; architectural or worship context, not an annual replacement-idol portrait."
+          },
+          "src": "assets/collections/siddhivinayak-f5b097d74e94.jpg",
+          "width": 3264,
+          "height": 2448,
+          "licence": "Creator's public-domain dedication",
+          "licenceUrl": "https://commons.wikimedia.org/wiki/File:Siddhivinayak_Temple_(Wednesday_10-12-2008).jpg"
+        }
+      ]
+    },
+    {
+      "year": 2009,
+      "title": "An exterior view",
+      "summary": "The permanent temple photographed in July 2009.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "SV06"
+      ],
+      "media": [
+        {
+          "id": "siddhi-2009-rane",
+          "originalUrl": "https://commons.wikimedia.org/wiki/File:Siddhivinayak_Temple.jpg",
+          "kind": "photograph",
+          "label": "Photographer-dated exterior photograph",
+          "caption": "Siddhivinayak Temple, Mumbai, source date 30 July 2009.",
+          "credit": "Abhijeet Rane",
+          "dateEvidence": "Commons gives capture date 30 July 2009, 19:29:40, from the original Flickr record; imported to Commons in March 2010.",
+          "rights": "CC BY 2.0",
+          "sourceIds": [
+            "SV06"
+          ],
+          "yearConfidence": "photographer_metadata",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Night exterior of illuminated multiangular pink-stone temple and gold crown above surrounding roofs; no central Ganesh icon is visible.",
+            "alignsWithSource": true,
+            "note": "Native downloaded image visually inspected. Subject agrees with the source location; year comes from the cited photographer metadata and is not inferred from appearance."
+          },
+          "src": "assets/collections/siddhivinayak-c25488961b8f.jpg",
+          "width": 2027,
+          "height": 2278,
+          "licence": "CC BY 2.0",
+          "licenceUrl": "https://creativecommons.org/licenses/by/2.0/"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "title": "Roof and wall articulation",
+      "summary": "A dated architectural view of the permanent building, not a new annual idol.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "The year records the photograph's stated capture date; it does not date the temple's construction or the permanent icon.",
+          "sourceIds": [
+            "SV12"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "SV12"
+      ],
+      "media": [
+        {
+          "id": "siddhi-2012-hernandes",
+          "originalUrl": "https://commons.wikimedia.org/wiki/File:Mumbai_(Bombay),_RTW_2012_(8403774545).jpg",
+          "kind": "photograph",
+          "label": "Roof and wall articulation",
+          "caption": "Vertical exterior photograph of the pink multiangular temple, repeating small gold finials, large stepped central crown, saffron flag and overhead wires; roofed passage and vegetation below. Icon not visible.",
+          "credit": "Ana Raquel S. Hernandes, via Flickr / Wikimedia Commons.",
+          "dateStatus": "source-attributed",
+          "dateEvidence": "Flickr-derived description and EXIF give 26 November 2012, 03:36; published to Flickr in 2013 and transferred to Commons in 2018. Time-zone/camera-clock accuracy unverified.",
+          "rights": "CC BY-SA 2.0",
+          "sourceIds": [
+            "SV12"
+          ],
+          "yearConfidence": "creator_and_camera_date; independently_unverified",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Vertical exterior photograph of the pink multiangular temple, repeating small gold finials, large stepped central crown, saffron flag and overhead wires; roofed passage and vegetation below. Icon not visible.",
+            "alignsWithSource": true,
+            "note": "Downloaded native source opened and inspected on 16 November 2026; architectural or worship context, not an annual replacement-idol portrait."
+          },
+          "src": "assets/collections/siddhivinayak-e354c5f57698.jpg",
+          "width": 3264,
+          "height": 4545,
+          "licence": "CC BY-SA 2.0",
+          "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "title": "Prabhadevi temple exterior",
+      "summary": "A dated own-work image of the temple.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "SV07"
+      ],
+      "media": [
+        {
+          "id": "siddhi-2015-av9",
+          "originalUrl": "https://commons.wikimedia.org/wiki/File:Siddhivinayak_Mumbai.jpg",
+          "kind": "photograph",
+          "label": "Photographer-dated exterior photograph",
+          "caption": "A view of Siddhivinayak Temple in Prabhadevi.",
+          "credit": "Av9",
+          "dateEvidence": "Commons description and EXIF give 11 January 2015, 03:26:28. Upload occurred in September 2015; capture date is a photographer/camera claim.",
+          "rights": "CC BY-SA 4.0",
+          "sourceIds": [
+            "SV07"
+          ],
+          "yearConfidence": "photographer_metadata",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Daytime exterior of multilevel pink-stone temple, gold finials and flag, scaffolding and Marathi Siddhivinayak Ganapati Mandir signage; central Ganesh icon is not visible.",
+            "alignsWithSource": true,
+            "note": "Native downloaded image visually inspected. Subject agrees with the source location; year comes from the cited photographer metadata and is not inferred from appearance."
+          },
+          "src": "assets/collections/siddhivinayak-3b535b80d24a.jpg",
+          "width": 3056,
+          "height": 3056,
+          "licence": "CC BY-SA 4.0",
+          "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "title": "Fruit and flower decoration",
+      "summary": "A creator-dated view of temporary decoration within the permanent temple.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "The year records the photograph's stated capture date; it does not date the temple's construction or the permanent icon.",
+          "sourceIds": [
+            "SV13"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "SV13"
+      ],
+      "media": [
+        {
+          "id": "siddhi-2018-decoration",
+          "originalUrl": "https://commons.wikimedia.org/wiki/File:Siddivinayak_temple_decorations,_Mumbai.jpg",
+          "kind": "photograph",
+          "label": "Fruit and flower decoration",
+          "caption": "Physical covered temple interior with a floral Marathi Siddhivinayak name panel, dense fruit-covered swags and columns, hanging pineapples, white carved railings, queue barriers and visitors. The central icon is mostly outside the frame.",
+          "credit": "Madhusudana reddy Singana, Wikimedia Commons.",
+          "dateStatus": "source-attributed",
+          "dateEvidence": "EXIF DateTimeOriginal and GPS date identify 15 September 2018. Commons upload on 29 September is recorded separately. Exact original camera record not independently authenticated.",
+          "rights": "CC BY-SA 3.0",
+          "sourceIds": [
+            "SV13"
+          ],
+          "yearConfidence": "creator_and_camera_date; independently_unverified",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Physical covered temple interior with a floral Marathi Siddhivinayak name panel, dense fruit-covered swags and columns, hanging pineapples, white carved railings, queue barriers and visitors. The central icon is mostly outside the frame.",
+            "alignsWithSource": true,
+            "note": "Downloaded native source opened and inspected on 16 November 2026; architectural or worship context, not an annual replacement-idol portrait."
+          },
+          "src": "assets/collections/siddhivinayak-054e42aca278.jpg",
+          "width": 4032,
+          "height": 3024,
+          "licence": "CC BY-SA 3.0",
+          "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+        }
+      ]
+    }
+  ],
+  "undatedMedia": [],
+  "sources": [
+    {
+      "id": "SV01",
+      "title": "About the Temple",
+      "publisher": "Shree Siddhivinayak Ganapati Temple Trust",
+      "date": null,
+      "language": "English",
+      "type": "institutional",
+      "url": "https://www.siddhivinayak.org/about-the-temple/",
+      "note": "Institutional history; first consecration date attributed to government records, which were not inspected directly."
+    },
+    {
+      "id": "SV02",
+      "title": "Shree’s Idol",
+      "publisher": "Shree Siddhivinayak Ganapati Temple Trust",
+      "date": null,
+      "language": "English",
+      "type": "institutional",
+      "url": "https://www.siddhivinayak.org/shrees-idol/",
+      "note": "Icon description; preferred for dimensions, because the About page uses inconsistent wording about width."
+    },
+    {
+      "id": "SV03",
+      "title": "About the Temple Architecture",
+      "publisher": "Shree Siddhivinayak Ganapati Temple Trust",
+      "date": null,
+      "language": "English",
+      "type": "institutional",
+      "url": "https://www.siddhivinayak.org/about-the-temple-architecture/",
+      "note": "Retrospective architecture account. Separately states 1990 plus three-year construction and a 13 June 1994 ceremonial milestone; not flattened into one completion date."
+    },
+    {
+      "id": "SV04",
+      "title": "Shree Siddhi Vinayak Ganpati Temple Trust (Prabhadevi) Act, 1980",
+      "publisher": "Maharashtra statute, reproduced by temple trust",
+      "date": "1981-01-17",
+      "language": "English",
+      "type": "primary",
+      "url": "https://www.siddhivinayak.org/wp-content/uploads/2021/12/svt_act_english.pdf",
+      "note": "Historical governance source; assent 15 January 1981, first Gazette publication 17 January 1981; recites the 1936 decree. No current legal advice inferred."
+    },
+    {
+      "id": "SV05",
+      "title": "जिल्हा सामाजिक व आर्थिक समालोचन: मुंबई शहर, 2020",
+      "publisher": "Directorate of Economics and Statistics, Maharashtra",
+      "date": "2020",
+      "language": "Marathi",
+      "type": "institutional",
+      "url": "https://des2.mahaonline.gov.in/files/publication/DSA_Mumbai_City_2020.pdf",
+      "note": "District publication’s introductory tourism section gives the 1801 date and founders; not the original deed."
+    },
+    {
+      "id": "SV06",
+      "title": "File:Siddhivinayak Temple.jpg",
+      "publisher": "Wikimedia Commons; Abhijeet Rane",
+      "date": "2009-07-30",
+      "language": "English",
+      "type": "collection",
+      "url": "https://commons.wikimedia.org/wiki/File:Siddhivinayak_Temple.jpg",
+      "note": "Flickr-origin photograph with CC BY 2.0 licence confirmed during Commons import."
+    },
+    {
+      "id": "SV07",
+      "title": "File:Siddhivinayak Mumbai.jpg",
+      "publisher": "Wikimedia Commons; Av9",
+      "date": "2015-01-11",
+      "language": "English",
+      "type": "collection",
+      "url": "https://commons.wikimedia.org/wiki/File:Siddhivinayak_Mumbai.jpg",
+      "note": "Own-work photograph with CC BY-SA 4.0; capture metadata is not independent authentication."
+    },
+    {
+      "id": "SV08",
+      "title": "Temple Activities",
+      "publisher": "Shree Siddhivinayak Ganapati Temple Trust",
+      "date": null,
+      "language": "English",
+      "type": "institutional",
+      "url": "https://www.siddhivinayak.org/temple-activities/",
+      "note": "Institutional description of religious, cultural, educational and medical activity; no operational audit performed."
+    },
+    {
+      "id": "SV09",
+      "title": "1991 teledarshan photo",
+      "publisher": "India Today",
+      "date": "1991-11-30",
+      "language": "English",
+      "type": "reporting",
+      "url": "https://www.indiatoday.in/magazine/living/story/19911130-gods-are-now-being-served-up-on-cctv-at-bombay-shree-siddhivinayak-temple-815149-1991-11-29",
+      "note": "Original issue; later web update."
+    },
+    {
+      "id": "SV10",
+      "title": "Siddhivinayak Temple (236987777).jpg",
+      "publisher": "Wikimedia Commons / Rakesh",
+      "date": "2006-04-14",
+      "language": "English",
+      "type": "collection",
+      "url": "https://commons.wikimedia.org/wiki/File:Siddhivinayak_Temple_(236987777).jpg",
+      "note": "Flickr-origin camera date and licence; the 2016 Commons import is not the capture date. The coordinate field is not used for mapping."
+    },
+    {
+      "id": "SV11",
+      "title": "Siddhivinayak Temple (Wednesday 10-12-2008).jpg",
+      "publisher": "Wikimedia Commons / Rudolph A. Furtado",
+      "date": "2008-12-10",
+      "language": "English",
+      "type": "collection",
+      "url": "https://commons.wikimedia.org/wiki/File:Siddhivinayak_Temple_(Wednesday_10-12-2008).jpg",
+      "note": "Own-work declaration, camera date and public-domain dedication; street viewpoint explicitly described."
+    },
+    {
+      "id": "SV12",
+      "title": "Mumbai (Bombay), RTW 2012 (8403774545).jpg",
+      "publisher": "Wikimedia Commons / Ana Raquel S. Hernandes",
+      "date": "2012-11-26",
+      "language": "English",
+      "type": "collection",
+      "url": "https://commons.wikimedia.org/wiki/File:Mumbai_(Bombay),_RTW_2012_(8403774545).jpg",
+      "note": "Original Flickr caption/EXIF date; later Commons transfer is 2018, not a photographed building stage."
+    },
+    {
+      "id": "SV13",
+      "title": "Siddivinayak temple decorations, Mumbai.jpg",
+      "publisher": "Wikimedia Commons / Madhusudana reddy Singana",
+      "date": "2018-09-15",
+      "language": "English",
+      "type": "collection",
+      "url": "https://commons.wikimedia.org/wiki/File:Siddivinayak_temple_decorations,_Mumbai.jpg",
+      "note": "EXIF and GPS timestamps support the creator-attributed date; festival decoration is not a replacement of the central permanent icon."
+    },
+    {
+      "id": "SV14",
+      "title": "Siddhivinayak Temple - district tourism history",
+      "publisher": "Mumbai City district administration",
+      "date": null,
+      "language": "English",
+      "type": "institutional",
+      "url": "https://mumbaicity.gov.in/en/tourist-place/siddhivinayak-temple/",
+      "note": "Public institutional retrospective gives 27 April 1990 foundation-stone date and 13 June 1994 crown ceremony. Much text repeats temple history; not independent archival authentication."
+    }
+  ],
+  "openQuestions": [
+    {
+      "title": "Early records and the original shrine",
+      "text": "Locate the 1801 foundation record and trace early photographs or plans before the 1990s rebuilding.",
+      "sourceIds": [
+        "SV01",
+        "SV05"
+      ]
+    },
+    {
+      "title": "Construction and ceremony chronology",
+      "text": "Obtain dated plans, completion records and the 1994 ceremonial souvenir to document the successive building phases precisely.",
+      "sourceIds": [
+        "SV03"
+      ]
+    },
+    {
+      "title": "Photographer archive dates",
+      "text": "Institutional photographs credited to Jagdish Mali and Gopal Bodhe on Commons have later upload/catalogue dates. Do not treat those as historic capture dates without print/negative provenance.",
+      "sourceIds": [
+        "SV03"
+      ]
+    }
+  ],
+  "visit": {
+    "address": "Shree Siddhivinayak Ganapati Temple, S. K. Bole Marg, Prabhadevi, Mumbai",
+    "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Siddhivinayak+Temple+Prabhadevi+Mumbai",
+    "text": "Permanent temple at Prabhadevi. Consult the trust for current schedules and entry arrangements; no current hours are asserted here.",
+    "sourceIds": [
+      "SV01"
+    ]
+  },
+  "claims": [
+    {
+      "id": "C01",
+      "text": "19 November 1801 is the consecration date maintained by institutional and government retrospectives.",
+      "status": "corroborated institutional retrospective",
+      "sourceIds": [
+        "SV01",
+        "SV05"
+      ]
+    },
+    {
+      "id": "C02",
+      "text": "The trust’s statutory history recites a 1936 administration decree and an Act titled 1980 with assent in 1981.",
+      "status": "primary documentary record",
+      "sourceIds": [
+        "SV04"
+      ]
+    },
+    {
+      "id": "C03",
+      "text": "The 1990s building programme retained the existing icon.",
+      "status": "institutional architecture account",
+      "sourceIds": [
+        "SV03"
+      ]
+    },
+    {
+      "id": "C04",
+      "text": "Medical and educational programmes are described by the trust itself.",
+      "status": "institutional self-report",
+      "sourceIds": [
+        "SV08"
+      ]
+    },
+    {
+      "id": "SVP2-architecture",
+      "text": "The 2006, 2008 and 2012 photographs show the post-rebuilding permanent structure; the 2018 image shows its temporary decoration.",
+      "status": "visually checked, creator-attributed dates",
+      "sourceIds": [
+        "SV10",
+        "SV11",
+        "SV12",
+        "SV13"
+      ]
+    }
+  ],
+  "researchNotes": {
+    "coverage": "Expanded research, 16 November 2026: five additional dated visual records, including a small 1991 contemporary press scene and creator/camera-dated 2006, 2008, 2012 and 2018 architectural or decoration photographs; more precise institutional rebuilding chronology.",
+    "gaps": [
+      "Original 1801 record not inspected",
+      "Earlier architectural photograph capture dates unresolved",
+      "Current service statistics not independently assessed",
+      "No authenticated pre-1990 print or dated original of the earlier small shrine has yet been obtained.",
+      "The 1991 press reproduction is only 200 x 119 pixels; preserve natural size and do not use as a hero."
+    ],
+    "nextActions": [
+      "Locate the 1990 building file and 1994 ceremonial souvenir with dated construction photographs.",
+      "Trace original photographs of the pre-rebuilding small shrine.",
+      "Verify photographer permissions/licences and preserve creator-date limitations."
+    ]
+  }
+}

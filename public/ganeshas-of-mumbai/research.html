@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Research — Ganeshas of Mumbai</title>
+  <meta name="description" content="Research ledger for the Ganeshas of Mumbai archive. Depth, source counts, and next questions for each collection.">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' fill='%23f5f1e8'/><text x='50%25' y='50%25' dominant-baseline='central' text-anchor='middle' font-family='Georgia,serif' font-size='18' fill='%23a33d2e'>G</text></svg>">
+  <style>
+    .research-intro {
+      padding-block: var(--space-xl);
+      border-bottom: 1px solid var(--rule);
+    }
+    .research-ledger {
+      padding-block: var(--space-xl);
+    }
+    .ledger-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: var(--space-l);
+      font-size: 0.875rem;
+    }
+    .ledger-table th {
+      font-family: var(--font-sans);
+      font-size: 0.6875rem;
+      font-weight: 500;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--ink-faint);
+      text-align: left;
+      padding: var(--space-s) var(--space-s) var(--space-s) 0;
+      border-bottom: 1px solid var(--rule-strong);
+      white-space: nowrap;
+    }
+    .ledger-table td {
+      padding: var(--space-m) var(--space-s) var(--space-m) 0;
+      border-top: 1px solid var(--rule);
+      vertical-align: top;
+      color: var(--ink-muted);
+      line-height: 1.55;
+    }
+    .ledger-table tr:first-child td { border-top: none; }
+    .ledger-title-cell { min-width: 10rem; }
+    .ledger-title-link {
+      font-family: var(--font-serif);
+      font-size: 1rem;
+      font-weight: 500;
+      color: var(--ink);
+      text-decoration: none;
+      display: block;
+      line-height: 1.25;
+    }
+    .ledger-title-link:hover { color: var(--vermilion); }
+    .ledger-kind {
+      font-size: 0.6rem;
+      font-weight: 500;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      padding: 0.2em 0.5em;
+      border: 1px solid;
+      display: inline-block;
+      margin-top: 0.25em;
+    }
+    .ledger-kind--festival { color: var(--vermilion); border-color: var(--vermilion); }
+    .ledger-kind--temple { color: #3a6a7a; border-color: #3a6a7a; }
+    .ledger-depth {
+      font-size: 0.6875rem;
+      font-weight: 500;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      white-space: nowrap;
+    }
+    .ledger-depth--extended { color: var(--vermilion); }
+    .ledger-depth--expanded { color: var(--vermilion); opacity: 0.8; }
+    .ledger-depth--foundation { color: var(--ink-faint); }
+    .ledger-num {
+      font-family: var(--font-serif);
+      font-size: 1.3rem;
+      font-weight: 300;
+      color: var(--ink);
+      text-align: right;
+      white-space: nowrap;
+      padding-right: var(--space-m);
+    }
+    .ledger-next { font-size: 0.8125rem; color: var(--ink-muted); }
+    .research-phases {
+      padding-block: var(--space-xl);
+      border-top: 1px solid var(--rule);
+      margin-top: var(--space-xl);
+    }
+    .research-phases h2 { margin-bottom: var(--space-l); }
+    .phase-block {
+      padding: var(--space-l);
+      border: 1px solid var(--rule);
+      margin-bottom: var(--space-m);
+    }
+    .phase-block__title {
+      font-family: var(--font-serif);
+      font-size: 1.1rem;
+      font-weight: 500;
+      margin-bottom: var(--space-s);
+    }
+    .phase-block p {
+      font-size: 0.9375rem;
+      color: var(--ink-muted);
+      line-height: 1.65;
+    }
+    @media (max-width: 768px) {
+      .ledger-table { display: block; overflow-x: auto; }
+    }
+  </style>
+</head>
+<body>
+
+<header class="site-header" role="banner">
+  <div class="wrap">
+    <div class="site-header__inner">
+      <a href="index.html" class="site-header__brand" aria-label="Ganeshas of Mumbai — city archive">
+        <span class="t-masthead">Ganeshas of Mumbai</span>
+        <span class="site-header__tagline">An independent archive</span>
+      </a>
+      <nav aria-label="Site navigation">
+        <ul class="site-nav">
+          <li><a href="index.html">City archive</a></li>
+          <li><a href="research.html" aria-current="page">Research</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+</header>
+
+<main id="main">
+
+  <section class="research-intro" aria-labelledby="research-heading">
+    <div class="wrap--narrow">
+      <p class="t-eyebrow">Archive research</p>
+      <h1 class="t-h1 mt-s" id="research-heading">Research ledger</h1>
+      <p class="t-body-serif mt-m" style="max-width:var(--measure);">
+        A transparent account of what has been researched, what has been found, and what remains unresolved for each of the twenty collections. Phase 2 adds deeper visual chronologies to the founding collection. Counts reflect this edition of the archive; coverage remains partial.
+      </p>
+      <div id="research-summary" class="mt-l" style="display:flex; gap:var(--space-l); flex-wrap:wrap;">
+        <p class="t-caption text-faint">Loading…</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="research-ledger" aria-labelledby="ledger-heading">
+    <div class="wrap">
+      <p class="t-eyebrow">Collection depth</p>
+      <h2 class="t-h2 mt-s" id="ledger-heading">By collection</h2>
+      <div id="ledger-container">
+        <p class="loading-state">Loading…</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="research-phases wrap--narrow" aria-labelledby="phases-heading">
+    <p class="t-eyebrow">Research roadmap</p>
+    <h2 class="t-h2 mt-s" id="phases-heading">Phases of research</h2>
+
+    <div class="phase-block" style="margin-top:var(--space-l);">
+      <p class="phase-block__title">Phase 1 — Foundations (complete)</p>
+      <p>All twenty collections have an initial research entry: institutional identity, available history sources, documented milestones, and located visual material where it exists. Dates and claims are scoped to their evidence. Photographs are only included after visual inspection; undated images are presented separately from dated records.</p>
+    </div>
+
+    <div class="phase-block">
+      <p class="phase-block__title">Phase 2 — Expanded visual chronologies</p>
+      <p>Annotated year-by-year records draw on surviving photographs, newspaper archives and documentary material. Unresolved year labels retain their conflicting evidence. Collections with a deeper research pass are marked <em>Expanded research</em>; the ledger records their actual coverage and remaining questions.</p>
+    </div>
+
+    <div class="phase-block">
+      <p class="phase-block__title">Phase 3 — Original scans, oral histories, permissions</p>
+      <p>Engaging with families and institutions who hold original material. Seeking permission to digitize and publish historic photographs. Recording oral histories from participants and their descendants with their consent.</p>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer" role="contentinfo">
+  <div class="wrap">
+    <div class="site-footer__inner">
+      <div>
+        <p class="t-masthead">Ganeshas of Mumbai</p>
+        <p class="t-caption mt-s" style="color:var(--ink-muted);">An independent cultural archive. Not affiliated with any mandal or temple trust.</p>
+      </div>
+      <nav aria-label="Footer navigation">
+        <ul class="site-nav" style="justify-content:flex-end;">
+          <li><a href="index.html">City archive</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+</footer>
+
+<script src="collection-utils.js"></script>
+<script>
+(function () {
+  'use strict';
+
+  var U = CollectionUtils;
+
+  function esc(s) { return U.esc(s); }
+
+  function renderSummary(collections) {
+    var el = document.getElementById('research-summary');
+    if (!el) return;
+    var total = collections.length;
+    var deepOrExpanded = collections.filter(function (c) { return c.researchStage === 'extended' || c.researchStage === 'expanded'; }).length;
+    var withPhotos = collections.filter(function (c) { return c.mediaCount > 0; }).length;
+    var totalSources = collections.reduce(function (acc, c) { return acc + (c.sourceCount || 0); }, 0);
+    el.innerHTML = [
+      [total, 'collections'],
+      [deepOrExpanded, 'with extended or expanded research'],
+      [withPhotos, 'with images on display'],
+      [totalSources, 'total sources across all collections'],
+    ].map(function (row) {
+      return '<div style="display:flex; gap:0.5em; align-items:baseline;">' +
+        '<span style="font-family:var(--font-serif); font-size:2rem; font-weight:300; line-height:1;">' + row[0] + '</span>' +
+        '<span class="t-caption" style="color:var(--ink-muted);">' + esc(row[1]) + '</span>' +
+        '</div>';
+    }).join('');
+  }
+
+  function renderLedger(collections) {
+    var el = document.getElementById('ledger-container');
+    if (!el) return;
+    if (!collections || !collections.length) {
+      el.innerHTML = '<p class="t-caption text-faint" style="padding:var(--space-m);">No collections loaded. Run build-collections.py first.</p>';
+      return;
+    }
+
+    var html = '<table class="ledger-table">';
+    html += '<thead><tr>';
+    html += '<th class="ledger-title-cell">Collection</th>';
+    html += '<th>Depth</th>';
+    html += '<th class="ledger-num" style="text-align:right;">Sources</th>';
+    html += '<th class="ledger-num" style="text-align:right;">Media</th>';
+    html += '<th class="ledger-num" style="text-align:right;">Years</th>';
+    html += '<th>Next question</th>';
+    html += '</tr></thead>';
+    html += '<tbody>';
+
+    collections.forEach(function (c) {
+      var kindCls = c.kind === 'temple' ? 'ledger-kind--temple' : 'ledger-kind--festival';
+      var kindText = c.kind === 'temple' ? 'Temple' : 'Festival';
+      var depthCls = c.researchStage === 'extended' ? 'ledger-depth--extended' : (c.researchStage === 'expanded' ? 'ledger-depth--expanded' : 'ledger-depth--foundation');
+      var depthText = U.researchDepthLabel(c.researchStage);
+      var href = 'collection.html?collection=' + encodeURIComponent(c.id);
+
+      html += '<tr>';
+      html += '<td class="ledger-title-cell">';
+      html += '<a href="' + esc(href) + '" class="ledger-title-link">' + esc(c.title) + '</a>';
+      html += '<span class="ledger-kind ' + kindCls + '">' + kindText + '</span>';
+      if (c.neighborhood) html += '<p style="font-size:0.75rem;color:var(--ink-faint);margin-top:0.2em;">' + esc(c.neighborhood) + '</p>';
+      html += '</td>';
+      html += '<td><span class="ledger-depth ' + depthCls + '">' + esc(depthText) + '</span></td>';
+      html += '<td class="ledger-num">' + (c.sourceCount || 0) + '</td>';
+      html += '<td class="ledger-num">' + (c.mediaCount || 0) + '</td>';
+      html += '<td class="ledger-num">' + (c.datedYearCount || 0) + '</td>';
+      html += '<td class="ledger-next">' + esc(c.nextAction || '—') + '</td>';
+      html += '</tr>';
+    });
+
+    html += '</tbody></table>';
+    el.innerHTML = html;
+  }
+
+  fetch('collections.json')
+    .then(function (r) {
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      return r.json();
+    })
+    .then(function (data) {
+      var collections = data.collections || [];
+      renderSummary(collections);
+      renderLedger(collections);
+    })
+    .catch(function (err) {
+      console.error('Research ledger load error:', err);
+      var el = document.getElementById('ledger-container');
+      if (el) el.innerHTML = '<p class="t-caption" style="color:var(--vermilion); padding:var(--space-m);">Collections data could not be loaded. Run build-collections.py first.</p>';
+    });
+})();
+</script>
+</body>
+</html>

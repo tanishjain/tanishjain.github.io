@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Collection — Ganeshas of Mumbai</title>
+  <meta name="description" content="A collection profile from the Ganeshas of Mumbai archive.">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' fill='%23f5f1e8'/><text x='50%25' y='50%25' dominant-baseline='central' text-anchor='middle' font-family='Georgia,serif' font-size='18' fill='%23a33d2e'>G</text></svg>">
+  <style>
+    .contact-sheet__item { display: block; text-decoration: none; }
+    .contact-sheet__item-inner { position: relative; overflow: hidden; background: var(--rule); }
+    .contact-sheet__item-inner img { width: 100%; display: block; aspect-ratio: 3/4; object-fit: contain; transition: transform 300ms ease; }
+    .contact-sheet__item:hover .contact-sheet__item-inner img { transform: none; }
+    .contact-sheet__caption-block { padding: var(--space-s); border-top: 1px solid var(--rule); }
+    .contact-sheet__caption-year { font-family: var(--font-serif); font-size: 1.3rem; font-weight: 300; line-height: 1; display: flex; align-items: baseline; gap: 0.5em; flex-wrap: wrap; }
+    .contact-sheet__caption-title { font-size: 0.75rem; color: var(--ink-muted); margin-top: 0.25em; line-height: 1.4; }
+    .contact-sheet__caption-kind { font-size: 0.75rem; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-faint); margin-top: 0.2em; }
+    .badge--disputed { font-family: var(--font-sans); font-size: 0.75rem; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase; padding: 0.2em 0.5em; border: 1px solid #c08030; color: #8a5a10; vertical-align: middle; }
+    .undated-media-section { padding-block: var(--space-xl); border-bottom: 1px solid var(--rule); }
+    .undated-media-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: var(--space-m); margin-top: var(--space-l); }
+    .undated-media-item { border: 1px solid var(--rule); }
+    .undated-media-item img { width: 100%; display: block; aspect-ratio: 3/4; object-fit: contain; background: var(--rule); }
+    .undated-media-item__body { padding: var(--space-s); border-top: 1px solid var(--rule); }
+    .undated-label { display: inline-block; font-size: 0.6rem; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; padding: 0.2em 0.5em; border: 1px solid var(--ink-faint); color: var(--ink-faint); margin-bottom: var(--space-xs); }
+    .research-status { display: inline-flex; align-items: center; gap: 0.4em; font-size: 0.6875rem; font-weight: 500; letter-spacing: 0.06em; text-transform: uppercase; padding: 0.3em 0.6em; border: 1px solid var(--rule-strong); color: var(--ink-muted); margin-top: var(--space-m); }
+    .research-status--extended { border-color: var(--vermilion); color: var(--vermilion); }
+  </style>
+</head>
+<body>
+
+<header class="site-header" role="banner">
+  <div class="wrap">
+    <div class="site-header__inner">
+      <a href="index.html" class="site-header__brand" aria-label="Ganeshas of Mumbai — city archive">
+        <span class="t-masthead">Ganeshas of Mumbai</span>
+        <span class="site-header__tagline">An independent archive</span>
+      </a>
+      <nav aria-label="Site navigation">
+        <ul class="site-nav" id="site-nav">
+          <li><a href="index.html">City archive</a></li>
+          <li id="nav-archive-li"><a href="archive.html" id="nav-archive">Archive</a></li>
+          <li id="nav-sources-li"><a href="sources.html" id="nav-sources">Sources</a></li>
+          <li class="local-nav"><a href="#history" id="nav-history">History</a></li>
+          <li class="local-nav"><a href="#visit" id="nav-visit">Visit</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+</header>
+
+<main id="main">
+
+  <section class="hero" aria-label="Collection introduction">
+    <div class="wrap">
+      <div class="hero__inner">
+
+        <div class="hero__text">
+          <p class="t-eyebrow" id="collection-label">Collection</p>
+          <h1 class="t-display" id="hero-title">Loading…</h1>
+          <p class="t-h3 t-deva" id="hero-marathi" style="margin-top:0.3em; color:var(--ink-muted); font-weight:400;"></p>
+          <p class="t-caption mt-s" id="hero-location" style="font-size:0.8125rem; letter-spacing:0.03em;"></p>
+
+          <p class="hero__editorial" id="hero-editorial" style="display:none"></p>
+
+          <div id="hero-intro" class="mt-l" style="max-width:var(--measure)"></div>
+
+          <p class="hero__question" id="hero-question" style="display:none"></p>
+          <p class="mt-m" id="hero-archive-link" style="display:none"></p>
+        </div>
+
+        <div class="hero__image" id="hero-image-block">
+          <div class="hero__image-wrap">
+            <div class="hero__image-absent" id="hero-img-absent" aria-hidden="true" style="aspect-ratio:3/4; background:var(--rule); display:flex; align-items:center; justify-content:center; flex-direction:column; gap:1rem; padding:var(--space-l);">
+              <span style="font-family:var(--font-serif); font-size:2rem; font-weight:300; color:var(--ink-muted);" id="hero-typographic-title"></span>
+              <span style="font-family:var(--font-sans); font-size:0.75rem; color:var(--ink-faint); text-align:center;" id="hero-typographic-sub"></span>
+            </div>
+            <img class="hero__photo" id="hero-img" src="" alt="" style="display:none;" loading="lazy">
+          </div>
+          <div class="hero__caption" id="hero-caption-block" style="display:none">
+            <p class="t-caption" id="hero-caption-text"></p>
+            <p class="t-caption text-faint" id="hero-caption-credit" style="margin-top:0.2em;"></p>
+            <p class="t-caption" id="hero-caption-sources" style="margin-top:0.3em;"></p>
+          </div>
+          <div id="hero-research-status"></div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <article id="history" aria-labelledby="history-heading">
+    <div class="wrap--narrow">
+      <div style="padding-top:var(--space-xl)">
+        <p class="t-eyebrow">Research chapters</p>
+        <h2 class="t-h2 mt-s" id="history-heading">History</h2>
+      </div>
+    </div>
+    <div id="sections-container"></div>
+  </article>
+
+  <section class="milestones wrap--narrow" aria-labelledby="milestones-heading">
+    <p class="t-eyebrow">Timeline</p>
+    <h2 class="t-h2 mt-s" id="milestones-heading">Documented milestones</h2>
+    <ul class="milestones__list mt-l" id="milestones-list" aria-label="Documented milestones"></ul>
+  </section>
+
+  <section class="investigation" aria-labelledby="investigation-heading" id="investigation-section" style="display:none">
+    <div class="wrap">
+      <p class="t-eyebrow">Special investigation</p>
+      <div class="investigation__inner">
+        <div>
+          <h2 class="t-h2 mt-s" id="investigation-heading" style="max-width:28ch;"></h2>
+          <div class="mt-l" id="investigation-text" style="font-size:1rem; line-height:1.72; max-width:var(--measure); color:var(--ink);"></div>
+          <ul class="investigation__questions mt-l" id="investigation-questions" aria-label="Open questions from the investigation"></ul>
+        </div>
+        <div>
+          <p><a href="lamp-investigation.html">Read the lamp photograph investigation</a></p>
+          <div id="investigation-img-wrap" hidden>
+            <div id="investigation-img-absent" style="aspect-ratio:3/4; background:var(--rule); display:flex; align-items:center; justify-content:center;">
+              <span class="t-caption text-faint" style="text-align:center; padding:var(--space-m);">Image loading</span>
+            </div>
+            <img id="investigation-img" src="" alt="" style="display:none; width:100%;" loading="lazy">
+          </div>
+          <p class="t-caption mt-s" id="investigation-caption"></p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="contact-sheet" aria-labelledby="contact-sheet-heading" id="contact-sheet-section">
+    <div class="wrap">
+      <p class="t-eyebrow" id="contact-sheet-eyebrow">Selected records</p>
+      <h2 class="t-h2 mt-s" id="contact-sheet-heading">From the visual record</h2>
+      <p class="t-caption mt-s" id="contact-sheet-desc" style="max-width:50ch; color:var(--ink-muted);"></p>
+      <div class="contact-sheet__grid" id="contact-sheet-grid" aria-label="Representative year thumbnails" style="margin-top:var(--space-l); display:grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 2px 2px; align-items: start;"></div>
+    </div>
+  </section>
+
+  <section class="undated-media-section wrap" aria-labelledby="undated-heading" id="undated-section" style="display:none">
+    <p class="t-eyebrow">Undated material</p>
+    <h2 class="t-h2 mt-s" id="undated-heading">Photographs without a confirmed year</h2>
+    <p class="t-caption mt-s" style="max-width:50ch; color:var(--ink-muted);">These images are associated with this collection but cannot be assigned to a specific year from the sources available.</p>
+    <div class="undated-media-grid" id="undated-media-grid"></div>
+  </section>
+
+  <section class="visit" id="visit" aria-labelledby="visit-heading">
+    <div class="wrap--narrow">
+      <p class="t-eyebrow">Location</p>
+      <div class="visit__inner">
+        <div>
+          <h2 class="t-h2 mt-s" id="visit-heading">Visiting</h2>
+          <p class="visit__address" id="visit-address"></p>
+          <a href="" class="visit__link" id="visit-link" target="_blank" rel="noopener noreferrer" style="display:none">Open in Maps ↗</a>
+        </div>
+        <div>
+          <p class="t-caption mt-m" id="visit-text" style="font-size:0.9375rem; color:var(--ink-muted); line-height:1.72;"></p>
+          <p class="t-caption mt-m" id="visit-sources" style="font-size:0.75rem; color:var(--ink-faint);"></p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="open-questions wrap--narrow" aria-labelledby="oq-heading">
+    <p class="t-eyebrow">Ongoing research</p>
+    <h2 class="t-h2 mt-s" id="oq-heading">Open questions</h2>
+    <p class="t-caption mt-s" style="color:var(--ink-muted); max-width:50ch;">This archive is a living document. The following questions have not been resolved.</p>
+    <ul class="open-questions__list mt-l" id="open-questions-list" aria-label="Open research questions"></ul>
+  </section>
+
+</main>
+
+<footer class="site-footer" role="contentinfo">
+  <div class="wrap">
+    <div class="site-footer__inner">
+      <div>
+        <p class="t-masthead">Ganeshas of Mumbai</p>
+        <p class="t-caption mt-s" style="color:var(--ink-muted);">An independent cultural archive. Not affiliated with any mandal or temple trust.</p>
+        <p class="site-footer__edition" id="footer-edition"></p>
+      </div>
+      <nav aria-label="Footer navigation">
+        <ul class="site-nav" style="justify-content:flex-end;">
+          <li><a href="index.html">City archive</a></li>
+          <li id="footer-archive-li"><a href="archive.html" id="footer-archive">Archive</a></li>
+          <li id="footer-sources-li"><a href="sources.html" id="footer-sources">Sources</a></li>
+          <li><a href="research.html">Research</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+</footer>
+
+<script src="collection-utils.js"></script>
+<script>
+(function () {
+  'use strict';
+
+  var U = CollectionUtils;
+  var slug = U.getCollectionSlug();
+  var isMumbaicha = slug === 'mumbaicha-raja';
+  var ANNUAL_CALENDAR = isMumbaicha;
+  var MAX_CONTACT_YEARS = 6;
+
+  function setText(el, val) { if (el) el.textContent = val || ''; }
+
+  function kindLabel(kind) {
+    var map = { photograph: 'Photograph', treated: 'Artwork / treated', illustration: 'Illustration', document: 'Archival document', unassessed: 'Print / original unverified' };
+    return map[kind] || kind;
+  }
+
+  function isDisputed(media) {
+    return media && media.some(function (m) { return m.yearConfidence === 'conflicted'; });
+  }
+
+  document.getElementById('nav-archive').href = U.archiveHref(slug);
+  document.getElementById('nav-sources').href = U.sourcesHref(slug);
+  document.getElementById('footer-archive').href = U.archiveHref(slug);
+  document.getElementById('footer-sources').href = U.sourcesHref(slug);
+
+  var dataPath = U.collectionDataPath(slug);
+
+  fetch(dataPath)
+    .then(function (r) {
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      return r.json();
+    })
+    .then(function (data) {
+      var meta = data.meta || {};
+      var sources = data.sources || [];
+      var kind = data.kind || 'festival';
+      var researchStage = data.researchStage || 'foundation';
+
+      document.title = (meta.title || 'Collection') + ' — Ganeshas of Mumbai';
+      document.querySelector('meta[name="description"]').content =
+        (meta.intro || (meta.title + ' — Ganeshas of Mumbai archive.')).slice(0, 160);
+
+      var historyHeading = document.getElementById('history-heading');
+      if (historyHeading) {
+        historyHeading.textContent = kind === 'temple' ? 'Temple history' : 'History';
+      }
+
+      setText(document.getElementById('hero-title'), meta.title || '');
+      setText(document.getElementById('hero-marathi'), meta.marathi || '');
+
+      var locEl = document.getElementById('hero-location');
+      if (locEl) {
+        var locParts = [];
+        if (meta.institution) locParts.push(meta.institution);
+        if (meta.location) locParts.push(meta.location);
+        if (meta.founded) {
+          var foundedLabel = 'Since ' + meta.founded;
+          if (meta.foundedNote) foundedLabel += ' \u2020';
+          locParts.push(foundedLabel);
+        }
+        var locHtml = U.esc(locParts.join(' \u00b7 '));
+        if (meta.foundedNote) {
+          locHtml += '<span class="t-caption" style="display:block; color:var(--ink-faint); margin-top:0.25em; font-size:0.75rem;">\u2020\u202f' + U.esc(meta.foundedNote) + '</span>';
+        }
+        locEl.innerHTML = locHtml;
+      }
+
+      var introEl = document.getElementById('hero-intro');
+      if (introEl && meta.intro) {
+        introEl.innerHTML = '<p class="t-body-serif">' + U.esc(meta.intro) + '</p>';
+        if (meta.edition) {
+          introEl.innerHTML += '<p class="t-caption mt-m" style="color:var(--ink-faint);">' + U.esc(meta.edition) + '</p>';
+        }
+      }
+
+      if (isMumbaicha) {
+        var editorialEl = document.getElementById('hero-editorial');
+        if (editorialEl) { editorialEl.style.display = ''; editorialEl.textContent = 'Every year, a new form.'; }
+      }
+
+      var statusEl = document.getElementById('hero-research-status');
+      if (statusEl) {
+        var depthLabel = U.researchDepthLabel(researchStage);
+        var cls = (researchStage === 'extended' || researchStage === 'expanded') ? 'research-status--extended' : '';
+        statusEl.innerHTML = '<span class="research-status ' + cls + '">' + U.esc(depthLabel) + '</span>';
+        if (researchStage === 'foundation') {
+          statusEl.innerHTML += '<p class="t-caption mt-s" style="color:var(--ink-faint); max-width:28ch; font-size:0.75rem;">Foundation entry. Dated photograph inventory is growing as research continues.</p>';
+        }
+      }
+
+      var hero = meta.hero || {};
+      var heroSrc = hero.src || '';
+      if (heroSrc) {
+        var img = document.getElementById('hero-img');
+        var absent = document.getElementById('hero-img-absent');
+        var captionBlock = document.getElementById('hero-caption-block');
+        img.src = heroSrc;
+        img.alt = hero.alt || '';
+        img.style.display = 'block';
+        absent.style.display = 'none';
+        captionBlock.style.display = '';
+        setText(document.getElementById('hero-caption-text'), hero.caption || '');
+        setText(document.getElementById('hero-caption-credit'), hero.credit || '');
+        if (hero.sourceIds && hero.sourceIds.length) {
+          document.getElementById('hero-caption-sources').innerHTML = U.citationLinks(hero.sourceIds, sources, slug);
+        }
+        img.onerror = function () { img.style.display = 'none'; absent.style.display = ''; captionBlock.style.display = 'none'; };
+      } else {
+        setText(document.getElementById('hero-typographic-title'), meta.title || '');
+        setText(document.getElementById('hero-typographic-sub'), meta.neighborhood || meta.location || '');
+      }
+
+      var archiveLinkEl = document.getElementById('hero-archive-link');
+      if (archiveLinkEl) {
+        archiveLinkEl.style.display = '';
+        var archiveLabel = kind === 'temple' ? 'Explore the photographic record' : 'Explore the year-by-year archive';
+        archiveLinkEl.innerHTML = '<a href="' + U.esc(U.archiveHref(slug)) + '" style="color:var(--vermilion); text-underline-offset:0.25em;">' + archiveLabel + ' &#8594;</a>';
+      }
+
+      setText(document.getElementById('footer-edition'), meta.edition || (meta.updated ? 'Updated ' + meta.updated : ''));
+
+      var sectionsEl = document.getElementById('sections-container');
+      if (sectionsEl && data.sections) {
+        var html = '';
+        data.sections.forEach(function (sec) {
+          html += '<div class="chapter" id="' + U.esc(sec.id) + '">';
+          html += '<div class="wrap--narrow"><div class="chapter__inner">';
+          html += '<div class="chapter__label"><p class="t-eyebrow">' + U.esc(sec.eyebrow || '') + '</p><h3 class="t-h3 mt-s">' + U.esc(sec.title || '') + '</h3></div>';
+          html += '<div class="chapter__body">';
+          (sec.paragraphs || []).forEach(function (para) {
+            html += '<p>' + U.esc(para.text || '') + U.citationLinks(para.sourceIds, sources, slug) + '</p>';
+          });
+          html += '</div>';
+          html += '</div></div>';
+          html += '</div>';
+        });
+        sectionsEl.innerHTML = html;
+      }
+
+      var mlEl = document.getElementById('milestones-list');
+      if (mlEl && data.milestones && data.milestones.length) {
+        var mhtml = '';
+        data.milestones.forEach(function (m) {
+          mhtml += '<li class="milestone">';
+          mhtml += '<span class="milestone__year">' + U.esc(String(m.year)) + '</span>';
+          mhtml += '<div><p class="milestone__title">' + U.esc(m.title || '') + '</p>';
+          mhtml += '<p class="milestone__text">' + U.esc(m.text || '') + U.citationLinks(m.sourceIds, sources, slug) + '</p></div>';
+          mhtml += '</li>';
+        });
+        mlEl.innerHTML = mhtml;
+      }
+
+      var inv = data.investigation;
+      var invSection = document.getElementById('investigation-section');
+      if (inv && isMumbaicha && invSection) {
+        invSection.style.display = '';
+        setText(document.getElementById('investigation-heading'), inv.title || '');
+        var invTextEl = document.getElementById('investigation-text');
+        if (invTextEl) invTextEl.innerHTML = '<p>' + U.esc(inv.text || '') + U.citationLinks(inv.sourceIds, sources, slug) + '</p>';
+        var qEl = document.getElementById('investigation-questions');
+        if (qEl && inv.questions) {
+          qEl.innerHTML = inv.questions.map(function (q) { return '<li>' + U.esc(q) + '</li>'; }).join('');
+        }
+        var invImg = document.getElementById('investigation-img');
+        var invAbsent = document.getElementById('investigation-img-absent');
+        if (inv.image) {
+          invImg.src = inv.image;
+          invImg.alt = inv.caption || '';
+          invImg.style.display = 'block';
+          invAbsent.style.display = 'none';
+          invImg.onerror = function () { invImg.style.display = 'none'; invAbsent.style.display = ''; };
+        }
+        setText(document.getElementById('investigation-caption'), inv.caption || '');
+      }
+
+      var years = data.years || [];
+      var gridEl = document.getElementById('contact-sheet-grid');
+      var descEl = document.getElementById('contact-sheet-desc');
+      if (gridEl && years.length > 0) {
+        var contactYears;
+        if (ANNUAL_CALENDAR) {
+          var FIXED_CONTACT = [1977, 1978, 1982, 1997, 2014, 2026];
+          var byYear = {};
+          years.forEach(function (y) { byYear[y.year] = y; });
+          contactYears = FIXED_CONTACT.map(function (yr) { return byYear[yr]; }).filter(Boolean);
+        } else {
+          var sorted = years.slice().sort(function (a, b) { return b.year - a.year; });
+          var withMedia = sorted.filter(function (y) { return y.media && y.media.length > 0; });
+          contactYears = withMedia.slice(0, MAX_CONTACT_YEARS);
+          if (contactYears.length === 0) contactYears = sorted.slice(0, MAX_CONTACT_YEARS);
+        }
+
+        if (descEl) {
+          if (ANNUAL_CALENDAR) {
+            descEl.innerHTML = 'Six representative years from the archive. See the full <a href="' + U.esc(U.archiveHref(slug)) + '" style="color:var(--vermilion);">catalogue</a> for all annual records.';
+          } else {
+            var totalYears = years.length;
+            descEl.innerHTML = totalYears + ' located record year' + (totalYears !== 1 ? 's' : '') + ' in this collection. <a href="' + U.esc(U.archiveHref(slug)) + '" style="color:var(--vermilion);">View the catalogue &#8594;</a>';
+          }
+        }
+
+        var ghtml = '';
+        contactYears.forEach(function (y) {
+          if (!y) return;
+          var disputed = isDisputed(y.media);
+          var m = y.media && y.media.length ? y.media[0] : null;
+          var src = m ? (m.src || '') : '';
+          var kLabel = m ? kindLabel(m.kind) : '';
+          var dateLbl = m ? U.mediaDateLabel(m) : '';
+          var recHref = U.recordHref(slug, y.year);
+
+          ghtml += '<div>';
+          ghtml += '<a href="' + U.esc(recHref) + '" class="contact-sheet__item" aria-label="' + U.esc(String(y.year)) + (y.title ? ': ' + y.title : '') + '">';
+          ghtml += '<div class="contact-sheet__item-inner">';
+          if (src) {
+            ghtml += '<img src="' + U.esc(src) + '" alt="' + U.esc(String(y.year) + (y.title ? ' — ' + y.title : '')) + '" loading="lazy">';
+          } else {
+            ghtml += '<div style="aspect-ratio:3/4; background:var(--rule); display:flex; align-items:center; justify-content:center;"><span style="font-family:var(--font-serif); font-size:1.5rem; font-weight:300; color:var(--ink-muted);">' + U.esc(String(y.year)) + '</span></div>';
+          }
+          ghtml += '</div>';
+          ghtml += '<div class="contact-sheet__caption-block">';
+          ghtml += '<p class="contact-sheet__caption-year">' + U.esc(String(y.year));
+          if (disputed) ghtml += ' <span class="badge--disputed">Year disputed</span>';
+          ghtml += '</p>';
+          if (y.title) ghtml += '<p class="contact-sheet__caption-title">' + U.esc(y.title) + '</p>';
+          if (kLabel) ghtml += '<p class="contact-sheet__caption-kind">' + U.esc(kLabel) + '</p>';
+          if (dateLbl) ghtml += '<p class="contact-sheet__caption-date-label">' + U.esc(dateLbl) + '</p>';
+          ghtml += '</div>';
+          ghtml += '</a>';
+          ghtml += '</div>';
+        });
+        gridEl.innerHTML = ghtml || '<p class="t-caption text-faint">No records located yet.</p>';
+      } else if (gridEl) {
+        var csSect = document.getElementById('contact-sheet-section');
+        if (csSect) csSect.style.display = 'none';
+      }
+
+      var undated = data.undatedMedia || [];
+      var undatedSection = document.getElementById('undated-section');
+      var undatedGrid = document.getElementById('undated-media-grid');
+      if (undated.length > 0 && undatedSection && undatedGrid) {
+        undatedSection.style.display = '';
+        var uhtml = '';
+        undated.forEach(function (m, idx) {
+          var src = m.src || '';
+          uhtml += '<div class="undated-media-item" id="undated-' + U.esc(m.id || String(idx)) + '">';
+          if (src) {
+            var imgStyle = m.maxWidth ? 'max-width:' + m.maxWidth + 'px; width:100%; display:block;' : '';
+            uhtml += '<img src="' + U.esc(src) + '" alt="' + U.esc(m.caption || 'Undated photograph') + '" loading="lazy"' + (imgStyle ? ' style="' + imgStyle + '"' : '') + '>';
+          } else {
+            uhtml += '<div style="aspect-ratio:3/4; background:var(--rule); display:flex; align-items:center; justify-content:center;"><span class="t-caption text-faint" style="text-align:center; padding:var(--space-m);">Image referenced</span></div>';
+          }
+          uhtml += '<div class="undated-media-item__body">';
+          var undatedDateLbl = U.mediaDateLabel(m, true);
+          uhtml += '<span class="undated-label">' + U.esc(undatedDateLbl) + '</span>';
+          if (m.label) uhtml += '<p class="t-label" style="margin-top:0.3em;">' + U.esc(m.label) + '</p>';
+          if (m.caption) uhtml += '<p class="t-caption mt-s">' + U.esc(m.caption) + '</p>';
+          if (m.credit) uhtml += '<p class="t-caption" style="margin-top:0.2em; color:var(--ink-faint);">' + U.esc(m.credit) + '</p>';
+          if (m.dateEvidence) uhtml += '<p class="t-caption mt-s"><strong style="color:var(--ink-faint);">Date evidence:</strong> ' + U.esc(m.dateEvidence) + '</p>';
+          if (m.rights) uhtml += '<p class="t-caption" style="color:var(--ink-faint);">Rights: ' + U.esc(m.rights) + '</p>';
+          if (m.sourceIds && m.sourceIds.length) {
+            uhtml += '<p class="t-caption mt-s">Sources: ' + U.citationLinks(m.sourceIds, sources, slug) + '</p>';
+          }
+          uhtml += '</div></div>';
+        });
+        undatedGrid.innerHTML = uhtml;
+      }
+
+      var visit = data.visit;
+      if (visit) {
+        setText(document.getElementById('visit-address'), visit.address || '');
+        var vLink = document.getElementById('visit-link');
+        if (vLink && visit.directionsUrl) { vLink.href = visit.directionsUrl; vLink.style.display = ''; }
+        setText(document.getElementById('visit-text'), visit.text || '');
+        var vsEl = document.getElementById('visit-sources');
+        if (vsEl && visit.sourceIds && visit.sourceIds.length) {
+          vsEl.innerHTML = 'Source: ' + U.citationLinks(visit.sourceIds, sources, slug);
+        }
+        setText(document.getElementById('nav-visit'), 'Visit');
+      }
+
+      var oqEl = document.getElementById('open-questions-list');
+      if (oqEl && data.openQuestions) {
+        var oqHtml = '';
+        data.openQuestions.forEach(function (q, i) {
+          oqHtml += '<li class="open-question">';
+          oqHtml += '<span class="open-question__num" aria-hidden="true">' + (i + 1) + '</span>';
+          oqHtml += '<div><p class="open-question__title">' + U.esc(q.title || '') + '</p>';
+          oqHtml += '<p class="open-question__text">' + U.esc(q.text || '') + U.citationLinks(q.sourceIds, sources, slug) + '</p></div>';
+          oqHtml += '</li>';
+        });
+        oqEl.innerHTML = oqHtml;
+      }
+    })
+    .catch(function (err) {
+      console.error('Collection data load error:', err);
+      var main = document.getElementById('main');
+      if (main) main.innerHTML = '<div class="wrap--narrow" style="padding-block:var(--space-xl);"><p class="t-body">Collection data could not be loaded. <a href="index.html" style="color:var(--vermilion);">Return to the city archive</a>.</p></div>';
+    });
+})();
+</script>
+</body>
+</html>

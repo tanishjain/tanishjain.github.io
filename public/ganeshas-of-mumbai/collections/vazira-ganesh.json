@@ -1,0 +1,434 @@
+{
+  "slug": "vazira-ganesh",
+  "kind": "temple",
+  "researchStage": "expanded",
+  "meta": {
+    "title": "Vazira Ganesh",
+    "marathi": "वजिऱ्याचा स्वयंभू गणेश",
+    "institution": "Shri Ganesh Gramstha Seva Mandal",
+    "location": "Vazira Naka, Borivali West",
+    "neighborhood": "Borivali West",
+    "founded": null,
+    "foundedNote": "The icon has an undated devotional origin tradition. Indian Express (2016) dates the governing trust to 1970; Sakal (2023) says 1974. Neither is treated here as the age of the rock-carved icon.",
+    "intro": "Vazira Ganesh is a permanent rock-carved shrine in Borivali West, also described as Swayambhu Shri Ganesh Mandir. The surrounding village, pond and temple complex are part of its history. Local accounts connect its development with Koli and Somvanshi Kshatriya Pathare residents. Its emergence is told through a quarry worker's dream; the tradition is recorded here as belief, while the precise age of the carving and the governing trust's establishment remain open questions.",
+    "hero": null,
+    "updated": "16 November 2026",
+    "edition": "Research edition - 16 November 2026",
+    "id": "vazira-ganesh",
+    "kind": "temple",
+    "researchStage": "expanded",
+    "catalogueMode": "located-records",
+    "downloads": {
+      "json": "collections/vazira-ganesh.json"
+    }
+  },
+  "sections": [
+    {
+      "id": "place-and-tradition",
+      "eyebrow": "Rock and village",
+      "title": "A shrine within the rock",
+      "paragraphs": [
+        {
+          "text": "The Ganesh image is carved into a large natural rock. Pudhari locates the complex inside Vazira village off Lokmanya Tilak Road, with a pond and the village deity Alji Dev nearby. Its account credits Koli and Somvanshi Kshatriya Pathare villagers with preparing and improving the site. The quarry worker's dream explains its sacred origin in local tradition; assertions of Pandava or Dravidian antiquity are not independently dated evidence.",
+          "sourceIds": [
+            "vaz-pudhari"
+          ]
+        },
+        {
+          "text": "In Srinath Rao's 2016 report, founding trustee Vishwas Rawte recalled cleaning the lake and beginning a permanent structure with friends in 1962. The report dates the governing trust to 1970. Sakal later gives 1974 for Shri Ganesh Gramstha Seva Mandal. These may concern different administrative stages, but no registration record was located to resolve them.",
+          "sourceIds": [
+            "vaz-express",
+            "vaz-sakal"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "icon-and-community",
+      "eyebrow": "Permanent worship",
+      "title": "A continuing icon and community",
+      "paragraphs": [
+        {
+          "text": "Sakal describes the seated, left-trunked icon and records chairman Vijaykumar Rawte's account that J. J. School of Art students removed accumulated vermilion in 1988, revealing its form. That retrospective testimony does not date the original carving. The article explicitly says the temple does not install a separate festival Ganesh; its January Ganesh Yag and local immersion pond belong to a continuing temple community.",
+          "sourceIds": [
+            "vaz-sakal"
+          ]
+        },
+        {
+          "text": "Pudhari describes a hall, office, sheltered waiting area and garden around the shrine, alongside a gymnasium, free library, educational assistance and relief work. Such reporting documents the temple's wider role in village life. These are activities reported in 2025, rather than verified present-day service schedules or annual beneficiary totals.",
+          "sourceIds": [
+            "vaz-pudhari"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "visitor-and-screen",
+      "eyebrow": "Visitor evidence",
+      "title": "The village approach and an outdoor view of worship",
+      "paragraphs": [
+        {
+          "text": "In a 2014 first-person account, Arti identifies the shrine as Swayumbhu Siddhivinayak Ganesh Devasthan and describes approaching it through Vazira village. Her photographs show the festive village approach and the orange permanent Ganesh relief. The account also describes neighbouring shrines to Sheetla Mata and Hanuman. Its individual photographs are retained as undated views rather than assigned the publication year.",
+          "sourceIds": [
+            "vaz-yatra2014"
+          ]
+        },
+        {
+          "text": "Arti's September 2015 festival essay dates its visit to immersion day, 27 September, and names this Borivli temple beside a photograph of an outdoor darshan screen. The screen displays the permanent rock icon for people outside. This is evidence of mediated access to worship during the festival, distinct from the temporary Ganesh figures brought for immersion; it does not show the rock icon being removed.",
+          "sourceIds": [
+            "vaz-yatra2015"
+          ]
+        }
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "year": 1962,
+      "title": "Permanent structure recalled",
+      "text": "Vishwas Rawte recalled cleaning the lake and starting a permanent structure with friends.",
+      "sourceIds": [
+        "vaz-express"
+      ]
+    },
+    {
+      "year": "1970 / 1974",
+      "title": "Trust dates remain unresolved",
+      "text": "Published accounts disagree about the governing trust's establishment.",
+      "sourceIds": [
+        "vaz-express",
+        "vaz-sakal"
+      ]
+    },
+    {
+      "year": 1988,
+      "title": "Icon cleaning recalled",
+      "text": "A later trustee account describes students removing accumulated vermilion.",
+      "sourceIds": [
+        "vaz-sakal"
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": 2015,
+      "title": "Outdoor darshan during immersion day",
+      "summary": "A contemporary visitor photo documents an outdoor screen relaying the permanent rock shrine during the festival. It is not a newly made or immersed temple icon.",
+      "artist": null,
+      "theme": null,
+      "sourceIds": [
+        "vaz-yatra2015"
+      ],
+      "notes": [
+        {
+          "text": "Event day is attributed to the author's report; unrelated street idols and the less specifically located pond photograph are not assigned to this collection.",
+          "sourceIds": [
+            "vaz-yatra2015"
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": "vazira-2015-darshan-screen",
+          "originalUrl": "https://www.myyatradiary.com/2015/09/ganesh-visarjan-ganpati-bappa-morya.html",
+          "kind": "photograph",
+          "label": "Outdoor darshan screen - 2015 festival visit",
+          "caption": "A screen outside Vazira's named Ganesh temple displays the orange permanent rock icon during the 2015 immersion-day visit. This is a photograph of a screen, not a direct shrine portrait.",
+          "credit": "Arti / My Yatra Diary; visible watermark retained.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "vaz-yatra2015"
+          ],
+          "dateStatus": "contemporary",
+          "yearConfidence": "Contemporary first-person event report; no independent camera date.",
+          "dateEvidence": "Essay published 29 September 2015 opens with 27 September, Ganesh Visarjan; caption next to this screen names the Swayumbhu Siddhivinayak temple in Borivli. The screen itself cannot establish capture date.",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Outdoor LED screen beneath a dark canopy displays orange Ganesh relief in a rough rock surrounded by concentric flower bands. A tall orange Marathi banner alongside welcomes devotees to Swayambhu Shri Ganesh Devasthan; twilight sky and watermark visible.",
+            "alignsWithSource": true,
+            "note": "Native 800px photograph viewed. The photographed screen and temple-name banner support the local identification; the depicted year follows the contemporary event narrative."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "title": "The rock shrine in village life",
+      "summary": "A contemporary report documents worship at the permanent rock shrine. This is a publication-year record, not a new idol installation.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "Article published 14 July 2016; no separate capture date or individual photographer credit is supplied.",
+          "sourceIds": [
+            "vaz-express"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "vaz-express"
+      ],
+      "media": [
+        {
+          "id": "vazira-2016-rock-shrine",
+          "originalUrl": "https://indianexpress.com/article/cities/mumbai/ganesh-temple-and-vazira-village-mumbai-postcard-2912311/lite/",
+          "kind": "photograph",
+          "label": "Worship at the rock shrine - published 2016",
+          "caption": "Priest and worshippers beside the orange Ganesh relief set in an exposed rock; publication-year attribution only.",
+          "credit": "The Indian Express; individual photographer not identified in accessible caption.",
+          "dateEvidence": "Srinath Rao article published 14 July 2016; image accompanies the on-site report. Capture date unconfirmed.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "vaz-express"
+          ],
+          "yearConfidence": "publication year only; capture date unknown",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Orange-crowned Ganesh relief within rough brown rock; red-clad priest offers flowers, two worshippers lean at the altar; white marble platform and silver railing.",
+            "alignsWithSource": true,
+            "note": "Photograph opened and inspected; visible rock shrine and worship setting align with the article. The appearance cannot independently establish the year."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "title": "New Year worship",
+      "summary": "A dated press photograph records devotees visiting the permanent temple on New Year morning.",
+      "artist": null,
+      "theme": null,
+      "notes": [
+        {
+          "text": "Getty catalogue supplies an explicit capture date and photographer. The available image is a watermarked licensing preview.",
+          "sourceIds": [
+            "vaz-getty"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "vaz-getty"
+      ],
+      "media": [
+        {
+          "id": "vazira-2023-newyear",
+          "originalUrl": "https://www.gettyimages.ae/detail/news-photo/devotees-pray-in-a-swayambhu-ganesh-temple-vazira-borivali-news-photo/1245925544",
+          "kind": "photograph",
+          "label": "New Year visitors - 1 January 2023",
+          "caption": "Devotees under the temple's roofed queue area; the Ganesh icon is not visible in this frame.",
+          "credit": "Vijay Bate / Hindustan Times via Getty Images, editorial image 1245925544.",
+          "dateEvidence": "Getty explicitly dates creation to 1 January 2023 and identifies Vazira, Borivali West.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "vaz-getty"
+          ],
+          "yearConfidence": "explicit press capture date",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Crowded covered queue area with metal roof, railings, ceiling fans and devotees carrying offerings; small Ganesh poster overhead; icon itself outside frame.",
+            "alignsWithSource": true,
+            "note": "Watermarked Getty preview opened and inspected. This is documentary community context, not a Ganesh-form portrait."
+          }
+        }
+      ]
+    }
+  ],
+  "undatedMedia": [
+    {
+      "id": "vazira-sakal-undated-icon",
+      "originalUrl": "https://www.esakal.com/saptarang/story-of-vajira-ganesh-ganesh-utsav-2023-rjs00",
+      "kind": "photograph",
+      "label": "Rock-carved icon - capture date unknown",
+      "caption": "The permanent Ganesh relief, pictured in Sakal's September 2023 article; no capture date is given.",
+      "credit": "Sakal; photographer unspecified.",
+      "dateEvidence": "Published 23 September 2023; no separate capture date.",
+      "rights": "Image referenced; reproduction under review.",
+      "sourceIds": [
+        "vaz-sakal"
+      ],
+      "yearConfidence": "undated capture; published 2023",
+      "visualReview": {
+        "inspected": true,
+        "observedForm": "Orange-coated Ganesh relief within a large exposed rock; crown and flower garlands, trunk curling toward image right; silver rail, gold mouse, coconuts and flower-lined shelter.",
+        "alignsWithSource": true,
+        "note": "Image opened and inspected. It matches the rock-cut shrine described by Sakal. Publication is 2023; capture date is not supplied."
+      }
+    },
+    {
+      "id": "vazira-undated-village-approach",
+      "originalUrl": "https://www.myyatradiary.com/2014/09/swayumbhu-siddhivinayak-ganesh-temple.html",
+      "kind": "photograph",
+      "label": "Festive village approach - published 2014, capture undated",
+      "caption": "An ornamental arch, blue fence and village lane on the approach identified in the visitor account. This is not a view of the rock icon or the sanctum doorway.",
+      "credit": "Arti / My Yatra Diary.",
+      "rights": "Image referenced; reproduction under review.",
+      "sourceIds": [
+        "vaz-yatra2014"
+      ],
+      "dateStatus": "undated",
+      "yearConfidence": "Publication by 1 September 2014; capture year unknown.",
+      "dateEvidence": "First-person article published 1 September 2014 identifies the approach. No EXIF capture date or event-year statement located for this photograph.",
+      "visualReview": {
+        "inspected": true,
+        "observedForm": "Narrow outdoor village lane beneath trees, cream-and-red ornamental arch, blue metal fence, roofed roadside structures and a Marathi S. K. Pathare Navayug Kala Mandal welcome sign. No Ganesh icon visible.",
+        "alignsWithSource": true,
+        "note": "Native photograph inspected. Caption narrowed from the source's generic entrance wording to the visible village approach; no exact capture year inferred."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "vaz-express",
+      "title": "Postcard From a Mumbai Village: Ganesh idol carved out of rock gives this place its identity",
+      "publisher": "The Indian Express - Srinath Rao",
+      "date": "2016-07-14",
+      "language": "English",
+      "type": "reporting",
+      "url": "https://indianexpress.com/article/cities/mumbai/ganesh-temple-and-vazira-village-mumbai-postcard-2912311/lite/",
+      "note": "On-site reporting with founding trustee; 1962 work and 1970 trust date are retrospective testimony."
+    },
+    {
+      "id": "vaz-sakal",
+      "title": "गोष्ट वजिऱ्याच्या गणपतीची",
+      "publisher": "Sakal - Dulari Deshpande",
+      "date": "2023-09-23",
+      "language": "Marathi",
+      "type": "reporting",
+      "url": "https://www.esakal.com/saptarang/story-of-vajira-ganesh-ganesh-utsav-2023-rjs00",
+      "note": "Local history with named trustee testimony; differs on trust date. Ancient-age assertion is unverified."
+    },
+    {
+      "id": "vaz-pudhari",
+      "title": "Swayambhu Shri Ganesh Temple: उपनगरातील वजिरा नाका स्वयंभू श्री गणेश मंदिर",
+      "publisher": "Pudhari",
+      "date": "2025-09-02",
+      "language": "Marathi",
+      "type": "reporting",
+      "url": "https://pudhari.news/amp/story/maharashtra/thane/swayambhu-shri-ganesh-temple-swayambhu-shri-ganesh-temple-in-vajira-naka-suburbs-ar84",
+      "note": "Complex, local development and community activities; origin narrative is devotional tradition."
+    },
+    {
+      "id": "vaz-getty",
+      "title": "Devotees Visit Temple/Gurudwara On The First Day Of New Year 2023 - image 1245925544",
+      "publisher": "Getty Images / Hindustan Times",
+      "date": "2023-01-01",
+      "language": "English",
+      "type": "collection",
+      "url": "https://www.gettyimages.ae/detail/news-photo/devotees-pray-in-a-swayambhu-ganesh-temple-vazira-borivali-news-photo/1245925544",
+      "note": "Explicit capture date, location, photographer and rights-managed licensing metadata."
+    },
+    {
+      "id": "vaz-yatra2014",
+      "title": "Swayumbhu Siddhivinayak Ganesh Temple - Vazira Naka, Borivli",
+      "publisher": "Arti / My Yatra Diary",
+      "date": "2014-09-01",
+      "language": "English",
+      "type": "First-person temple visit and photographs",
+      "url": "https://www.myyatradiary.com/2014/09/swayumbhu-siddhivinayak-ganesh-temple.html",
+      "note": "The author identifies the temple and describes a personal relationship extending about fifteen years. The individual photographs have no explicit capture date; publication is not treated as capture."
+    },
+    {
+      "id": "vaz-yatra2015",
+      "title": "Ganesh Visarjan: Ganpati Bappa Morya, Pudchya Varshi Lavkarya!",
+      "publisher": "Arti / My Yatra Diary",
+      "date": "2015-09-29",
+      "language": "English",
+      "type": "First-person contemporary festival photo essay",
+      "url": "https://www.myyatradiary.com/2015/09/ganesh-visarjan-ganpati-bappa-morya.html",
+      "note": "The opening dates the described immersion day to 27 September; the nearby caption names Swayumbhu Siddhivinayak temple in Borivli. Only the photograph of its named e-darshan screen is assigned here; other street and pond views lack equally specific location captions."
+    }
+  ],
+  "openQuestions": [
+    {
+      "title": "Trust establishment",
+      "text": "Obtain the registration certificate or trust minutes to distinguish the reported 1970 and 1974 dates.",
+      "sourceIds": [
+        "vaz-express",
+        "vaz-sakal"
+      ]
+    },
+    {
+      "title": "Icon age and interventions",
+      "text": "Seek dated photographs, conservation records and the 1988 cleaning record; antiquity claims lack an archaeological citation.",
+      "sourceIds": [
+        "vaz-sakal",
+        "vaz-pudhari"
+      ]
+    },
+    {
+      "title": "Photo permissions",
+      "text": "Request original files and permission; publication dates alone do not establish capture dates.",
+      "sourceIds": [
+        "vaz-express",
+        "vaz-sakal",
+        "vaz-getty"
+      ]
+    },
+    {
+      "title": "Location of earlier visitor photographs",
+      "text": "The photographs in older My Yatra Diary immersion posts (2010-13) show an artificial lake but do not individually establish Vazira as their location; do not assign these years without further location evidence.",
+      "sourceIds": [
+        "vaz-yatra2014",
+        "vaz-yatra2015"
+      ]
+    }
+  ],
+  "visit": {
+    "address": "Swayambhu Shri Ganesh Mandir, Vazira Naka, off Lokmanya Tilak Road, Borivali West, Mumbai.",
+    "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Vazira+Ganesh+Mandir+Borivali+West",
+    "text": "Permanent temple. Check the temple locally for current access and ritual timings.",
+    "sourceIds": [
+      "vaz-pudhari"
+    ]
+  },
+  "claims": [
+    {
+      "id": "vaz-permanent",
+      "text": "Permanent rock-carved shrine, not an annual replacement-idol collection.",
+      "status": "supported",
+      "sourceIds": [
+        "vaz-express",
+        "vaz-sakal"
+      ]
+    },
+    {
+      "id": "vaz-trust-date",
+      "text": "Trust establishment is reported as 1970 and 1974.",
+      "status": "conflicting accounts",
+      "sourceIds": [
+        "vaz-express",
+        "vaz-sakal"
+      ]
+    },
+    {
+      "id": "vaz-antiquity",
+      "text": "Ancient-age claims remain undated tradition.",
+      "status": "unverified",
+      "sourceIds": [
+        "vaz-pudhari"
+      ]
+    },
+    {
+      "id": "vaz-2015-screen",
+      "text": "A contemporary September 2015 visitor account identifies an outdoor screen at the Borivli temple, displaying its permanent rock icon.",
+      "status": "supported",
+      "sourceIds": [
+        "vaz-yatra2015"
+      ]
+    }
+  ],
+  "researchNotes": {
+    "coverage": "Expanded research, 16 November 2026: added a contemporary 2015 named-temple e-darshan photograph and an undated village-approach view from a first-person local account. Six sources, three dated records and two undated media; trust-date conflict remains open.",
+    "gaps": [
+      "No contemporary dated photograph of the 1962 structure or 1988 vermilion removal located.",
+      "Trust dates 1970 and 1974 remain unresolved by registration documents.",
+      "Older immersion photographs lack image-specific temple location evidence.",
+      "No new open-licensed photographs found."
+    ],
+    "nextActions": [
+      "Locate Gramstha Seva Mandal registration records and 1962 construction photographs.",
+      "Find J. J. School of Art records or photographs of the reported 1988 work.",
+      "Establish location and original camera dates for early visitor photographs before adding annual records.",
+      "Seek original photographer files and reproduction permission."
+    ]
+  }
+}

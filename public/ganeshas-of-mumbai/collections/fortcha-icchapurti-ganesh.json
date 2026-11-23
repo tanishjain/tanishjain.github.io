@@ -1,0 +1,695 @@
+{
+  "slug": "fortcha-icchapurti-ganesh",
+  "kind": "festival",
+  "researchStage": "expanded",
+  "meta": {
+    "title": "Fortcha Icchapurti Ganesh",
+    "marathi": "फोर्टचा इच्छापूर्ती गणेश",
+    "institution": "Fort Vibhag Sarvajanik Ganeshotsav Mandal",
+    "location": "21/23 Mint Road, Dr Sundarlal Bahal Path (Goa Street), opposite GPO, Fort, Mumbai 400001",
+    "neighborhood": "Fort",
+    "founded": 1956,
+    "foundedNote": "The mandal's Marathi retrospective gives 1956; this is not the separately named Ballard Estate Fortcha Raja.",
+    "intro": "Fortcha Icchapurti Ganesh is organised by the Fort Vibhag Sarvajanik Ganeshotsav Mandal near the General Post Office. The institution traces its foundation to 1956 and participants in the Samyukta Maharashtra movement. Its archive combines a deliberately consistent seated idol with changing architectural settings. An elevated street-spanning pandal and visiting Rajasthan craftspeople give this collection a distinctive relationship to Fort's working streets, alongside the deity's annual worship.",
+    "aliases": [
+      "Fortcha Ichhapurti Ganesh",
+      "Fort Cha Icchapurti Ganesh",
+      "Fort Vibhag Ganpati"
+    ],
+    "hero": null,
+    "id": "fortcha-icchapurti-ganesh",
+    "kind": "festival",
+    "researchStage": "expanded",
+    "catalogueMode": "located-records",
+    "updated": "16 November 2026",
+    "edition": "Expanded collection · Research edition · 16 November 2026",
+    "downloads": {
+      "json": "collections/fortcha-icchapurti-ganesh.json"
+    }
+  },
+  "sections": [
+    {
+      "id": "origin",
+      "eyebrow": "Origins",
+      "title": "A Fort institution since 1956",
+      "paragraphs": [
+        {
+          "text": "The mandal dates its establishment to 1956 and links its founders with the Samyukta Maharashtra movement. That political-cultural origin is preserved as the organisation's own account. Its contact address places the institution near the GPO on Mint Road and Goa Street, avoiding confusion with other Fort-area Ganpatis.",
+          "sourceIds": [
+            "FI01",
+            "FI03"
+          ]
+        },
+        {
+          "text": "A distinctive feature described in its 2018-era account is a pandal raised above the street, allowing vehicles, including emergency traffic, to pass beneath. This is valuable architectural evidence of how a temporary festival occupies a congested commercial district. It is not a guarantee that an identical arrangement operates in every later year.",
+          "sourceIds": [
+            "FI02"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "eyebrow": "Craft and setting",
+      "title": "A stable idol inside changing architecture",
+      "paragraphs": [
+        {
+          "text": "The same account attributes a recurring nine-foot seated idol to sculptor Ashok Mhatre and says its pose and height are intentionally consistent. The inspected 2017 and 2018 photographs both show a seated, yellow-dhoti Ganesh with elaborate throne ornament. That documented continuity should remain distinct from the changing surrounding sets.",
+          "sourceIds": [
+            "FI02",
+            "FI04",
+            "FI05"
+          ]
+        },
+        {
+          "text": "Mumbai Mirror documented a Rajasthan-inspired palace setting in 2016. The institution's 2018 account describes specialist visiting carvers and designer Anand Sawant. A 2026 feature instead identifies a Tirupati Balaji temple recreation. Together these sources support a history of architectural scenography, rather than a single permanent temple or an unchanging annual theme.",
+          "sourceIds": [
+            "FI06",
+            "FI02",
+            "FI07"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "phase2-form-and-gallery",
+      "eyebrow": "Historical images",
+      "title": "Earlier forms and later annual displays",
+      "paragraphs": [
+        {
+          "text": "The Memories album extends the visual history beyond the recent seated icon. A reproduced halftone scene carries a 1976 institutional label, while a separate street photograph preserves a standing procession form without a defensible year. Those images do not support projecting the 2018 account of a consistent seated idol backward across the entire institution's history.",
+          "sourceIds": [
+            "FI08",
+            "FI02"
+          ]
+        },
+        {
+          "text": "The 2015 visitor essay records a palace display incorporating 42 Ganesha forms. Subsequent named annual albums preserve changes in drapery, aureoles, peacock and lion-throne decoration and ceiling treatment. These records separate the central idol, the temporary scenic architecture and the photography; they do not establish an unbroken sculptor succession or certify reported gold weights.",
+          "sourceIds": [
+            "FI13",
+            "FI14",
+            "FI09",
+            "FI10",
+            "FI11",
+            "FI12"
+          ]
+        }
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "year": 1956,
+      "title": "Mandal established",
+      "text": "Institutional account links the beginning to Samyukta Maharashtra participants.",
+      "sourceIds": [
+        "FI01"
+      ]
+    },
+    {
+      "year": 2016,
+      "title": "Rajasthan palace setting",
+      "text": "Contemporary reporting documents visiting craftspeople and palace design.",
+      "sourceIds": [
+        "FI06"
+      ]
+    },
+    {
+      "year": 2017,
+      "title": "Gallery record",
+      "text": "An explicitly labelled institutional gallery preserves the festival's physical setting.",
+      "sourceIds": [
+        "FI04"
+      ]
+    },
+    {
+      "year": 2018,
+      "title": "Making process described",
+      "text": "Institutional account names the idol sculptor and scenic design team.",
+      "sourceIds": [
+        "FI02"
+      ]
+    },
+    {
+      "year": 2026,
+      "title": "71 st festival setting",
+      "text": "A contemporary feature describes a Tirupati Balaji recreation.",
+      "sourceIds": [
+        "FI07"
+      ]
+    }
+  ],
+  "years": [
+    {
+      "year": 1976,
+      "title": "Historical stage reproduction",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "FI08"
+      ],
+      "media": [
+        {
+          "id": "1976-phase2-idol",
+          "originalUrl": "https://fortchaicchapurtiganesh.com/memories/",
+          "kind": "photograph",
+          "label": "Year-labelled historical photographic reproduction",
+          "caption": "Fortcha Icchapurti Ganesh in the source-labelled 1976 record.",
+          "credit": "Fort Vibhag mandal archive; individual photographer uncredited.",
+          "dateEvidence": "The reproduced object explicitly prints Fort Vibhag Sarvajanik Ganeshotsav Mandal and 1976 in its lower border. This is an institutional retrospective year label; original capture and print dates are not authenticated.",
+          "dateStatus": "source-attributed",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "FI08"
+          ],
+          "yearConfidence": "source_labelled",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "A monochrome halftone stage image shows Ganesh above a large animal-shaped sculptural support, with attendants and tall physical columns; the reproduced border prints the institution and 1976.",
+            "alignsWithSource": true,
+            "note": "Physical sculptural scene inspected; original camera file, print processing and photographic ownership remain unverified."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "title": "2015 idol and setting",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": "Palace setting with 42 Ganesha forms (visitor account)",
+      "notes": [],
+      "sourceIds": [
+        "FI13"
+      ],
+      "media": [
+        {
+          "id": "2015-phase2-idol",
+          "originalUrl": "https://www.myyatradiary.com/2015/09/mumbai-ganpati-pandal-sarvajanik.html",
+          "kind": "photograph",
+          "label": "Contemporary visitor photograph",
+          "caption": "Fortcha Icchapurti Ganesh in the source-labelled 2015 record.",
+          "credit": "Arti / My Yatra Diary (visible watermark retained).",
+          "dateEvidence": "First-person photo essay dated 27 September 2015 describes that year's visit and the displayed idol. No independent camera timestamp is supplied.",
+          "dateStatus": "contemporary",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "FI13"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Four-armed seated Ganesh with gold crown and pale metallic lower drapery on a dark sculpted throne; blue-backed aureole, detailed painted ceiling, patterned wall panels and lamps visible.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "title": "2016 idol and setting",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "FI14"
+      ],
+      "media": [
+        {
+          "id": "2016-phase2-idol",
+          "originalUrl": "https://localpress.co.in/mumbai/pictures-15-mumbais-iconic-ganesh-idols-2016/",
+          "kind": "photograph",
+          "label": "Contemporary institution-supplied photograph",
+          "caption": "Fortcha Icchapurti Ganesh in the source-labelled 2016 record.",
+          "credit": "Fortcha Icchapurti Official, via Local Press Co.",
+          "dateEvidence": "The 5 September 2016 gallery specifically captions this frame Fortcha Icchapurti and credits the official institution; the article presents the current festival's idols.",
+          "dateStatus": "contemporary",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "FI14"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Four-armed seated Ganesh in yellow dhoti and red-gold shoulder cloth on an ornate dark lion-sided throne; blue-backed crest, garlands, painted ceiling and physical stage offerings visible.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "title": "Palace-interior gallery",
+      "summary": "An observed physical festival scene from the official year-labelled gallery.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "FI04"
+      ],
+      "media": [
+        {
+          "id": "2017-official-scene",
+          "originalUrl": "https://fortchaicchapurtiganesh.com/gallery-2017/",
+          "kind": "photograph",
+          "label": "Institutional gallery photograph",
+          "caption": "Seated yellow-dhoti Ganesh and visitors inside the decorated 2017 pandal.",
+          "credit": "Fort Vibhag mandal gallery; individual photographer uncredited.",
+          "dateEvidence": "Explicit Gallery 2017 heading assigns this image to 2017; upload timestamp is not used as capture date.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "FI04"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Four-armed seated idol on ornate peacock/lion throne, yellow dhoti; visitors, railings, floor, lamps and illuminated architectural set visible.",
+            "alignsWithSource": true,
+            "note": "Image visually inspected; source attribution retained without independent provenance authentication."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "title": "Idol and ceiling detail",
+      "summary": "Official gallery view carries an additional visible camera timestamp.",
+      "artist": "Ashok Mhatre (institutional 2018 account)",
+      "theme": "Rajasthan palace setting (institutional account)",
+      "notes": [],
+      "sourceIds": [
+        "FI05"
+      ],
+      "media": [
+        {
+          "id": "2018-official-scene",
+          "originalUrl": "https://fortchaicchapurtiganesh.com/gallery-2018/",
+          "kind": "photograph",
+          "label": "Institutional gallery photograph",
+          "caption": "Seated Ganesh, throne details and painted ceiling in 2018.",
+          "credit": "Fort Vibhag mandal gallery; individual photographer uncredited.",
+          "dateEvidence": "Gallery 2018 heading plus visible camera stamp 2018.09.13 10: 39; camera time is source metadata, not independently authenticated.",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "FI05"
+          ],
+          "yearConfidence": "contemporary_publication",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Seated four-armed idol with yellow dhoti and red-gold drape, peacock throne and physical painted ceiling; floor offerings visible.",
+            "alignsWithSource": true,
+            "note": "Image visually inspected; source attribution retained without independent provenance authentication."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "title": "2019 idol and setting",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "FI09"
+      ],
+      "media": [
+        {
+          "id": "2019-phase2-idol",
+          "originalUrl": "https://fortchaicchapurtiganesh.com/gallery-2019/",
+          "kind": "photograph",
+          "label": "Institutional annual-gallery photograph",
+          "caption": "Fortcha Icchapurti Ganesh in the source-labelled 2019 record.",
+          "credit": "Fort Vibhag mandal archive; individual photographer uncredited.",
+          "dateEvidence": "The official page is explicitly headed 2019 or Gallery 2019; the chosen physical scene appears inside that album. No exact capture day is established by its upload/file name.",
+          "dateStatus": "source-attributed",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "FI09"
+          ],
+          "yearConfidence": "source_labelled",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Four-armed seated Ganesh in pink dhoti, gold crown and ornaments, with a radiating orange-gold aureole and lion-sided throne; decorated ceiling, stage floor and offerings visible.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "title": "2022 idol and setting",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "FI10"
+      ],
+      "media": [
+        {
+          "id": "2022-phase2-idol",
+          "originalUrl": "https://fortchaicchapurtiganesh.com/2022-2/",
+          "kind": "photograph",
+          "label": "Institutional annual-gallery photograph",
+          "caption": "Fortcha Icchapurti Ganesh in the source-labelled 2022 record.",
+          "credit": "Fort Vibhag mandal archive; individual photographer uncredited.",
+          "dateEvidence": "The official page is explicitly headed 2022 or Gallery 2022; the chosen physical scene appears inside that album. No exact capture day is established by its upload/file name.",
+          "dateStatus": "source-attributed",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "FI10"
+          ],
+          "yearConfidence": "source_labelled",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Four-armed seated Ganesh in silver drapery on a lion-sided throne with large peacock ornaments; purple-lit ceiling, red stage floor, fruit and offerings visible.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "title": "2023 idol and setting",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "FI11"
+      ],
+      "media": [
+        {
+          "id": "2023-phase2-idol",
+          "originalUrl": "https://fortchaicchapurtiganesh.com/2023-2/",
+          "kind": "photograph",
+          "label": "Institutional annual-gallery photograph",
+          "caption": "Fortcha Icchapurti Ganesh in the source-labelled 2023 record.",
+          "credit": "Fort Vibhag mandal archive; individual photographer uncredited.",
+          "dateEvidence": "The official page is explicitly headed 2023 or Gallery 2023; the chosen physical scene appears inside that album. No exact capture day is established by its upload/file name.",
+          "dateStatus": "source-attributed",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "FI11"
+          ],
+          "yearConfidence": "source_labelled",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Four-armed seated Ganesh in red dhoti with gold crown, yellow garlands, sunburst aureole and blue throne back; painted ceiling, wall panels and stage offerings visible.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "title": "2024 idol and setting",
+      "summary": "A documented annual idol view from a specifically labelled source.",
+      "artist": null,
+      "theme": null,
+      "notes": [],
+      "sourceIds": [
+        "FI12"
+      ],
+      "media": [
+        {
+          "id": "2024-phase2-idol",
+          "originalUrl": "https://fortchaicchapurtiganesh.com/2024-2/",
+          "kind": "photograph",
+          "label": "Institutional annual-gallery photograph",
+          "caption": "Fortcha Icchapurti Ganesh in the source-labelled 2024 record.",
+          "credit": "Fort Vibhag mandal archive; individual photographer uncredited.",
+          "dateEvidence": "The official page is explicitly headed 2024 or Gallery 2024; the chosen physical scene appears inside that album. No exact capture day is established by its upload/file name.",
+          "dateStatus": "source-attributed",
+          "rights": "Image referenced; reproduction under review.",
+          "sourceIds": [
+            "FI12"
+          ],
+          "yearConfidence": "source_labelled",
+          "visualReview": {
+            "inspected": true,
+            "observedForm": "Four-armed seated Ganesh in bright lime-green dhoti and gold drape, beneath an elaborate feather-like aureole; blue patterned ceiling and physical stage panels, fruit and offerings visible.",
+            "alignsWithSource": true,
+            "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+          }
+        }
+      ]
+    }
+  ],
+  "undatedMedia": [
+    {
+      "id": "undated-official-standing-procession",
+      "originalUrl": "https://fortchaicchapurtiganesh.com/memories/",
+      "kind": "photograph",
+      "label": "Undated historical street photograph",
+      "caption": "An older standing procession form retained in the official Memories album; year unknown.",
+      "credit": "Fort Vibhag mandal archive; original photographer uncredited.",
+      "dateEvidence": "The Memories page supplies no individual year. Monochrome appearance, upload date and gallery order do not establish a capture year.",
+      "dateStatus": "undated",
+      "rights": "Image referenced; reproduction under review.",
+      "sourceIds": [
+        "FI08"
+      ],
+      "yearConfidence": "undated",
+      "visualReview": {
+        "inspected": true,
+        "observedForm": "A standing four-armed Ganesh on a raised procession platform in a physical street, with people, signage and building facades; monochrome print rephotographed in the archive.",
+        "alignsWithSource": true,
+        "note": "Physical setting and visible form inspected. Annual attribution rests on the stated source evidence; independent camera provenance is unavailable."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "FI01",
+      "title": "Home: Marathi institutional history",
+      "publisher": "Fort Vibhag Sarvajanik Ganeshotsav Mandal",
+      "date": null,
+      "language": "Marathi",
+      "type": "institutional",
+      "url": "https://fortchaicchapurtiganesh.com/",
+      "note": "Foundation and Samyukta Maharashtra association are institutional retrospective claims."
+    },
+    {
+      "id": "FI02",
+      "title": "About Mandal",
+      "publisher": "Fort Vibhag Sarvajanik Ganeshotsav Mandal",
+      "date": null,
+      "language": "Marathi",
+      "type": "institutional",
+      "url": "https://fortchaicchapurtiganesh.com/about-mandal/",
+      "note": "Text explicitly references 28 August 2018; its present-tense operational claims should not become current promises."
+    },
+    {
+      "id": "FI03",
+      "title": "Contact",
+      "publisher": "Fort Vibhag Sarvajanik Ganeshotsav Mandal",
+      "date": null,
+      "language": "English",
+      "type": "institutional",
+      "url": "https://fortchaicchapurtiganesh.com/contact/",
+      "note": ""
+    },
+    {
+      "id": "FI04",
+      "title": "Gallery 2017",
+      "publisher": "Fort Vibhag Sarvajanik Ganeshotsav Mandal",
+      "date": null,
+      "language": "English",
+      "type": "institutional gallery",
+      "url": "https://fortchaicchapurtiganesh.com/gallery-2017/",
+      "note": "Year established by gallery heading, not upload path."
+    },
+    {
+      "id": "FI05",
+      "title": "Gallery 2018",
+      "publisher": "Fort Vibhag Sarvajanik Ganeshotsav Mandal",
+      "date": null,
+      "language": "English",
+      "type": "institutional gallery",
+      "url": "https://fortchaicchapurtiganesh.com/gallery-2018/",
+      "note": "Year-labelled gallery; selected image also visibly carries a 2018 camera date."
+    },
+    {
+      "id": "FI06",
+      "title": "Pandal-hopping time as Ganesha arrives in city",
+      "publisher": "Mumbai Mirror",
+      "date": null,
+      "language": "English",
+      "type": "editorial",
+      "url": "https://mumbaimirror.indiatimes.com/mumbai/other/maha-ganesha-festival-pandal-hopping-time-as-ganesha-arrives-in-city/articleshow/54009933.html",
+      "note": "Contemporary 2016 report describes Fort's Rajasthan artisans and palace setting."
+    },
+    {
+      "id": "FI07",
+      "title": "BT Blockbuster Bappa: Suniel Shetty visits Fortcha Ichhapurti",
+      "publisher": "The Times of India",
+      "date": null,
+      "language": "English",
+      "type": "editorial",
+      "url": "https://timesofindia.indiatimes.com/articleshow/134364679.cms",
+      "note": "Contemporary 2026 feature identifies the 71 st festival and Tirupati Balaji setting; exact publication day not extracted."
+    },
+    {
+      "id": "FI08",
+      "title": "Memories",
+      "publisher": "Fort Vibhag Sarvajanik Ganeshotsav Mandal",
+      "url": "https://fortchaicchapurtiganesh.com/memories/",
+      "language": "Marathi / English",
+      "type": "institutional historical image archive",
+      "date": null,
+      "note": "Most images lack a year caption. One halftone reproduction explicitly prints the institution and 1976; another street photograph remains undated. A modern four-image montage is not an annual photograph."
+    },
+    {
+      "id": "FI09",
+      "title": "Gallery 2019",
+      "publisher": "Fort Vibhag Sarvajanik Ganeshotsav Mandal",
+      "url": "https://fortchaicchapurtiganesh.com/gallery-2019/",
+      "language": "English",
+      "type": "institutional year-labelled gallery",
+      "date": null,
+      "note": "Explicit year heading; upload and WhatsApp-style filenames are not treated as capture dates."
+    },
+    {
+      "id": "FI10",
+      "title": "2022 photo gallery",
+      "publisher": "Fort Vibhag Sarvajanik Ganeshotsav Mandal",
+      "url": "https://fortchaicchapurtiganesh.com/2022-2/",
+      "language": "English",
+      "type": "institutional year-labelled gallery",
+      "date": null,
+      "note": "Explicit year heading even though gallery file timestamps reflect later website work."
+    },
+    {
+      "id": "FI11",
+      "title": "2023 photo gallery",
+      "publisher": "Fort Vibhag Sarvajanik Ganeshotsav Mandal",
+      "url": "https://fortchaicchapurtiganesh.com/2023-2/",
+      "language": "English",
+      "type": "institutional year-labelled gallery",
+      "date": null,
+      "note": "Year-labelled institutional album; individual photographer not supplied."
+    },
+    {
+      "id": "FI12",
+      "title": "2024 photo gallery",
+      "publisher": "Fort Vibhag Sarvajanik Ganeshotsav Mandal",
+      "url": "https://fortchaicchapurtiganesh.com/2024-2/",
+      "language": "English",
+      "type": "institutional year-labelled gallery",
+      "date": null,
+      "note": "Year-labelled institutional album; individual photographer not supplied."
+    },
+    {
+      "id": "FI13",
+      "title": "Mumbai Ganpati Pandal - Sarvajanik Fortcha Icchapurti Ganesha",
+      "publisher": "My Yatra Diary / Arti",
+      "url": "https://www.myyatradiary.com/2015/09/mumbai-ganpati-pandal-sarvajanik.html",
+      "language": "English",
+      "type": "first-person contemporary photo essay",
+      "date": "2015-09-27",
+      "note": "Visitor describes the 2015 palace and 42-form display; image watermark identifies My Yatra Diary. Its pre-independence origin wording and gold-weight claims are not adopted; the institution dates itself to 1956."
+    },
+    {
+      "id": "FI14",
+      "title": "In Pictures: 15 of Mumbai's most iconic ganesh idols of 2016",
+      "publisher": "Local Press Co",
+      "url": "https://localpress.co.in/mumbai/pictures-15-mumbais-iconic-ganesh-idols-2016/",
+      "language": "English",
+      "type": "contemporary individually captioned multi-mandal gallery",
+      "date": "2016-09-05",
+      "note": "The specific Fortcha Icchapurti image is credited to the institution. The same gallery explicitly calls its Keshavji image a file picture; that unrelated image is not dated to 2016."
+    }
+  ],
+  "openQuestions": [
+    {
+      "title": "Founding documentation",
+      "text": "Locate registration records and early committee papers to substantiate the 1956 political-cultural narrative.",
+      "sourceIds": [
+        "FI01"
+      ]
+    },
+    {
+      "title": "Repeated idol form",
+      "text": "Confirm the sculptor chronology and any changes in measurements with dated workshop records.",
+      "sourceIds": [
+        "FI02"
+      ]
+    }
+  ],
+  "visit": {
+    "address": "21/23 Mint Road, Dr Sundarlal Bahal Path (Goa Street), opposite GPO, Fort, Mumbai 400001",
+    "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Fort%20Vibhag%20Sarvajanik%20Ganeshotsav%20Mandal%2021/23%20Mint%20Road%2C%20Dr%20Sundarlal%20Bahal%20Path%20%28Goa%20Street%29%2C%20opposite%20GPO%2C%20Fort%2C%20Mumbai400001",
+    "text": "Institutional address; annual festival arrangements require the relevant year's notice.",
+    "sourceIds": [
+      "FI03"
+    ]
+  },
+  "claims": [
+    {
+      "id": "C01",
+      "text": "The institution traces its origin to 1956.",
+      "status": "institutional retrospective",
+      "sourceIds": [
+        "FI01"
+      ]
+    },
+    {
+      "id": "C02",
+      "text": "The elevated street-spanning arrangement is described in an account referencing 2018.",
+      "status": "dated-context institutional account",
+      "sourceIds": [
+        "FI02"
+      ]
+    },
+    {
+      "id": "C03",
+      "text": "The institution names Ashok Mhatre as recurring idol sculptor in that account.",
+      "status": "institutional retrospective",
+      "sourceIds": [
+        "FI02"
+      ]
+    },
+    {
+      "id": "C04",
+      "text": "Changing architectural themes are documented in 2016 and 2026.",
+      "status": "contemporary reporting",
+      "sourceIds": [
+        "FI06",
+        "FI07"
+      ]
+    },
+    {
+      "id": "C05",
+      "text": "A surviving official reproduction is explicitly labelled 1976; other old Memories images remain undated unless separately supported.",
+      "status": "institutional retrospective label visually checked",
+      "sourceIds": [
+        "FI08"
+      ]
+    }
+  ],
+  "researchNotes": {
+    "coverage": "Marathi institutional history, exact address, two year-labelled galleries, 2016 local reporting and 2026 feature. Both selected photographs inspected. Phase 2: 7 annual entries supplemented after direct image inspection; source labels and photographic appearance assessed separately.",
+    "gaps": [
+      "The 1976 reproduction lacks an authenticated original print, negative and photographer credit.",
+      "No continuous dated sequence for 1956-2014 obtained; unlabelled historical views are not assigned years.",
+      "Exact sculptor assignments for the added years remain unverified; the 2018 named maker is not automatically transferred.",
+      "2015 visitor origin and gold-weight rhetoric are not treated as institutional facts.",
+      "Unknown reuse rights for added photographs."
+    ],
+    "nextActions": [
+      "Document the raised-pandal structure with plans and dated street photographs.",
+      "Identify Rajasthan craft teams and original photographers for each year."
+    ],
+    "edition": "2026-11-16"
+  }
+}
