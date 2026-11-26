@@ -218,20 +218,6 @@ h2 {
   }
 }
 
-.home-personal {
-  margin-top: 1.7rem;
-}
-
-.home-personal a {
-  font-weight: 650;
-}
-
-.home-personal p {
-  margin-top: 0.2rem;
-  color: var(--fg-muted);
-  font-size: 0.9375rem;
-}
-
 .personal-header {
   display: flex;
   justify-content: space-between;
